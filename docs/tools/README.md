@@ -50,7 +50,25 @@ Description and example...
 
 When adding a new tool:
 
-1. Create a markdown file: `docs/tools/[tool-name].md`
-2. Follow the structure above
-3. Link to the documentation from the tool's page component
-4. Update this README if adding new documentation patterns
+1. **Create Data Files**: Create `data/tools/[tool-name]/` folder with JSON files:
+   - `overview.json` - Tool overview, features, use cases
+   - `instructions.json` - Step-by-step instructions
+   - `examples.json` - Usage examples
+2. **Create Overview Component**: Build `components/[ToolName]/Overview.tsx` that displays content from JSON files
+3. **Create Tool Page**: In `app/tools/[tool-name]/page.tsx`, place the tool component first, then the overview component below it
+4. **Create Documentation**: Create markdown file: `docs/tools/[tool-name].md`
+5. **Follow Structure**: Use the structure above for the MD file
+6. **Link Documentation**: Link to the documentation from the tool's page component
+7. **Update README**: Update this README if adding new documentation patterns
+
+**Note**: The overview/content section should appear BELOW the tool interface, not above it. Users should see the tool immediately when they land on the page.
+
+## Data-Driven Content
+
+All tool content should be stored in JSON files in `data/tools/[tool-name]/`:
+
+- **overview.json**: Used by Overview component and for SEO metadata
+- **instructions.json**: Can be used to generate help sections
+- **examples.json**: Can be used to generate example sections
+
+This allows non-developers to update content without touching code.

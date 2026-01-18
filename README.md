@@ -50,11 +50,20 @@ pnpm lint
 - `app/` - Next.js app directory with pages and layouts
 - `components/` - Reusable React components (Header, Hero, Tabs, FAQ, Footer, Search)
 - `data/` - JSON data files for component content
+  - `data/tools/` - Tool-specific content data (each tool has its own folder)
 - `types/` - TypeScript type definitions
 - `tools/` - Individual tool implementations (separate folder)
 - `docs/` - Project documentation
   - `docs/tools/` - Individual tool documentation (MD files)
 - `public/` - Static assets
+
+## Content Management
+
+All tool content is stored in JSON files for easy editing:
+
+- **Main Data**: `data/header.json`, `data/hero.json`, `data/tabs.json`, etc.
+- **Tool Data**: `data/tools/[tool-name]/overview.json`, `instructions.json`, `examples.json`
+- **Benefits**: Non-developers can update content without touching code
 
 ## Tool Documentation
 

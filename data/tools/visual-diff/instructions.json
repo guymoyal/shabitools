@@ -1,0 +1,48 @@
+{
+  "steps": [
+    {
+      "number": 1,
+      "title": "Enter URLs",
+      "description": "Enter the first URL and second URL in the input fields above. URLs must start with http:// or https://"
+    },
+    {
+      "number": 2,
+      "title": "Select Viewport Width",
+      "description": "Choose from preset sizes (375px Mobile, 768px Tablet, 1200px Desktop) or set a custom width"
+    },
+    {
+      "number": 3,
+      "title": "Choose Comparison Mode",
+      "description": "Select 'Side by Side' to view pages next to each other, or 'Overlay' to stack them"
+    },
+    {
+      "number": 4,
+      "title": "Select Overlay Mode (if using Overlay)",
+      "description": "Choose between Overlay (standard), Blend (highlights differences), or Onion (adjustable opacity)"
+    },
+    {
+      "number": 5,
+      "title": "Adjust Settings (Optional)",
+      "description": "Click the settings icon to enable device height line or iframe embedding checks"
+    },
+    {
+      "number": 6,
+      "title": "Compare",
+      "description": "Scroll through the pages to compare. In side-by-side mode, both pages scroll together automatically"
+    }
+  ],
+  "overlayModes": {
+    "overlay": {
+      "title": "Overlay Mode",
+      "description": "Standard overlay with 50% opacity. Both pages are visible, making it easy to spot differences."
+    },
+    "blend": {
+      "title": "Blend Mode",
+      "description": "Difference blend mode. Identical pixels appear black, differences are highlighted. Perfect for spotting even small changes."
+    },
+    "onion": {
+      "title": "Onion Mode",
+      "description": "Onion skin mode with adjustable opacity. Use the slider to control transparency of the second page."
+    }
+  }
+}

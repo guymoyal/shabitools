@@ -1,8 +1,15 @@
 # Visual Page Compare
 
+> **Note**: This documentation is generated from JSON data files. To update the content, edit the files in `data/tools/visual-diff/`:
+> - `overview.json` - Overview, features, use cases
+> - `instructions.json` - Usage instructions
+> - `examples.json` - Examples
+
 ## Overview
 
 Visual Page Compare is a powerful tool that allows you to visually compare two versions of a website side-by-side or using overlay modes. Perfect for testing design changes, spotting differences between production and staging environments, or comparing different versions of a page.
+
+All content for this tool is managed through JSON files in `data/tools/visual-diff/` for easy editing and maintenance.
 
 ## Features
 

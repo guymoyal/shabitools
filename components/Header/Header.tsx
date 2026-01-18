@@ -9,7 +9,7 @@ interface HeaderProps {
 
 export default function Header({ data, tools = [] }: HeaderProps) {
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
+    <header className="sticky top-0 z-50 w-full border-b bg-white">
       <nav className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-2 sm:px-4 lg:px-8" aria-label="Global">
         <div className="flex items-center gap-x-4 lg:gap-x-12">
           <Link href={data.logo.href} className="text-2xl font-bold text-primary-600 hover:text-primary-700">

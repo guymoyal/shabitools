@@ -56,7 +56,13 @@ izitools/
 │   ├── hero.json           # Hero section content
 │   ├── tabs.json           # Tabs content
 │   ├── faq.json            # FAQ data
-│   └── footer.json         # Footer data
+│   ├── footer.json         # Footer data
+│   ├── tools.json          # Main tools listing
+│   └── tools/              # Tool-specific content data
+│       └── [tool-name]/    # Each tool has its own folder
+│           ├── overview.json      # Tool overview, features, use cases
+│           ├── instructions.json  # Step-by-step instructions
+│           └── examples.json      # Usage examples
 ├── types/                   # TypeScript type definitions
 ├── public/                  # Static assets
 ├── styles/                  # Global styles
@@ -103,8 +109,13 @@ izitools/
 
 - **Reusable Components**: Build shared components in `components/` directory
 - **Data-Driven Components**: Component data stored in JSON files in `data/` directory
+- **Tool Content Data**: Each tool has its own data folder in `data/tools/[tool-name]/` with:
+  - `overview.json` - Tool overview, features, use cases
+  - `instructions.json` - Step-by-step instructions
+  - `examples.json` - Usage examples
 - **TypeScript Props**: Proper TypeScript interfaces for all component props
 - **Tool Isolation**: Each tool should be self-contained in `tools/[tool-name]/` folder
+- **Overview Components**: Each tool should have an Overview component that uses JSON data
 - **State Management**: Choose appropriate state management (React Context, Zustand, etc.)
 - **Responsive Design**: All components built mobile-first with Tailwind CSS
 
@@ -126,12 +137,18 @@ izitools/
 ### Adding a New Tool
 
 1. **Planning**: Define the tool's purpose, features, and user flow
-2. **Implementation**: Create tool in `tools/[tool-name]/` folder
-3. **Documentation**: Create markdown file in `docs/tools/[tool-name].md` with tool documentation
-4. **Data Entry**: Add tool to `data/tools.json` with proper Tool interface (title, description, image, link, category)
-5. **Testing**: Write tests for the tool
-6. **SEO**: Add meta tags, structured data, and SEO content
-7. **Integration**: Add tool to main navigation (tabs/menu) and sitemap
+2. **Create Data Files**: Create `data/tools/[tool-name]/` folder with:
+   - `overview.json` - Tool overview, features, use cases, tips
+   - `instructions.json` - Step-by-step instructions
+   - `examples.json` - Usage examples
+3. **Create Overview Component**: Build `components/[ToolName]/Overview.tsx` that uses the JSON data
+4. **Implementation**: Create tool component in `components/[ToolName]/[ToolName].tsx`
+5. **Create Tool Page**: Create `app/tools/[tool-name]/page.tsx` that includes Overview and Tool components
+6. **Documentation**: Create markdown file in `docs/tools/[tool-name].md` with tool documentation
+7. **Data Entry**: Add tool to `data/tools.json` with proper Tool interface (title, description, image, link, category)
+8. **Testing**: Write tests for the tool
+9. **SEO**: Add meta tags using data from `overview.json`, structured data, and SEO content
+10. **Integration**: Add tool to main navigation (tabs/menu) and sitemap
 
 ### Tool Structure
 
