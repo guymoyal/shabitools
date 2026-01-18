@@ -1,0 +1,84 @@
+{
+  "title": "Popular Tools",
+  "description": "Discover our most-used developer tools",
+  "tabs": [
+    {
+      "id": "developers",
+      "label": "For Developers",
+      "tools": [
+        {
+          "name": "JSON Formatter",
+          "description": "Format and validate JSON data",
+          "href": "/tools/json-formatter",
+          "icon": "📄"
+        },
+        {
+          "name": "Base64 Encoder",
+          "description": "Encode and decode Base64 strings",
+          "href": "/tools/base64-encoder",
+          "icon": "🔐"
+        },
+        {
+          "name": "URL Encoder",
+          "description": "Encode and decode URL parameters",
+          "href": "/tools/url-encoder",
+          "icon": "🔗"
+        },
+        {
+          "name": "Hash Generator",
+          "description": "Generate MD5, SHA1, SHA256 hashes",
+          "href": "/tools/hash-generator",
+          "icon": "🔑"
+        }
+      ]
+    },
+    {
+      "id": "designers",
+      "label": "For Designers",
+      "tools": [
+        {
+          "name": "Color Picker",
+          "description": "Pick colors and get hex codes",
+          "href": "/tools/color-picker",
+          "icon": "🎨"
+        },
+        {
+          "name": "Image Compressor",
+          "description": "Compress images without losing quality",
+          "href": "/tools/image-compressor",
+          "icon": "🖼️"
+        },
+        {
+          "name": "SVG Optimizer",
+          "description": "Optimize SVG files",
+          "href": "/tools/svg-optimizer",
+          "icon": "✨"
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "label": "General Tools",
+      "tools": [
+        {
+          "name": "QR Code Generator",
+          "description": "Generate QR codes for any text or URL",
+          "href": "/tools/qr-generator",
+          "icon": "📱"
+        },
+        {
+          "name": "Text Counter",
+          "description": "Count words, characters, and paragraphs",
+          "href": "/tools/text-counter",
+          "icon": "📊"
+        },
+        {
+          "name": "Password Generator",
+          "description": "Generate secure random passwords",
+          "href": "/tools/password-generator",
+          "icon": "🔒"
+        }
+      ]
+    }
+  ]
+}

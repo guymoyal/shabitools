@@ -1,0 +1,102 @@
+[
+  {
+    "title": "JSON Formatter",
+    "description": "Format and validate JSON data with syntax highlighting",
+    "image": "/tools/json-formatter.png",
+    "link": "/tools/json-formatter",
+    "category": "Developer Tools",
+    "icon": "📄",
+    "tags": ["json", "formatter", "validator", "developer"],
+    "featured": true
+  },
+  {
+    "title": "Base64 Encoder",
+    "description": "Encode and decode Base64 strings quickly and securely",
+    "image": "/tools/base64-encoder.png",
+    "link": "/tools/base64-encoder",
+    "category": "Developer Tools",
+    "icon": "🔐",
+    "tags": ["base64", "encode", "decode", "developer"],
+    "featured": true
+  },
+  {
+    "title": "URL Encoder",
+    "description": "Encode and decode URL parameters and special characters",
+    "image": "/tools/url-encoder.png",
+    "link": "/tools/url-encoder",
+    "category": "Developer Tools",
+    "icon": "🔗",
+    "tags": ["url", "encode", "decode", "developer"],
+    "featured": false
+  },
+  {
+    "title": "Hash Generator",
+    "description": "Generate MD5, SHA1, SHA256, and other cryptographic hashes",
+    "image": "/tools/hash-generator.png",
+    "link": "/tools/hash-generator",
+    "category": "Developer Tools",
+    "icon": "🔑",
+    "tags": ["hash", "md5", "sha", "crypto", "developer"],
+    "featured": false
+  },
+  {
+    "title": "Color Picker",
+    "description": "Pick colors and get hex, RGB, HSL codes instantly",
+    "image": "/tools/color-picker.png",
+    "link": "/tools/color-picker",
+    "category": "Design Tools",
+    "icon": "🎨",
+    "tags": ["color", "picker", "hex", "rgb", "designer"],
+    "featured": true
+  },
+  {
+    "title": "Image Compressor",
+    "description": "Compress images without losing quality",
+    "image": "/tools/image-compressor.png",
+    "link": "/tools/image-compressor",
+    "category": "Design Tools",
+    "icon": "🖼️",
+    "tags": ["image", "compress", "optimize", "designer"],
+    "featured": false
+  },
+  {
+    "title": "SVG Optimizer",
+    "description": "Optimize SVG files for web performance",
+    "image": "/tools/svg-optimizer.png",
+    "link": "/tools/svg-optimizer",
+    "category": "Design Tools",
+    "icon": "✨",
+    "tags": ["svg", "optimize", "designer"],
+    "featured": false
+  },
+  {
+    "title": "QR Code Generator",
+    "description": "Generate QR codes for any text or URL",
+    "image": "/tools/qr-generator.png",
+    "link": "/tools/qr-generator",
+    "category": "General Tools",
+    "icon": "📱",
+    "tags": ["qr", "code", "generator", "general"],
+    "featured": true
+  },
+  {
+    "title": "Text Counter",
+    "description": "Count words, characters, and paragraphs in your text",
+    "image": "/tools/text-counter.png",
+    "link": "/tools/text-counter",
+    "category": "General Tools",
+    "icon": "📊",
+    "tags": ["text", "counter", "words", "characters", "general"],
+    "featured": false
+  },
+  {
+    "title": "Password Generator",
+    "description": "Generate secure random passwords with customizable options",
+    "image": "/tools/password-generator.png",
+    "link": "/tools/password-generator",
+    "category": "General Tools",
+    "icon": "🔒",
+    "tags": ["password", "generator", "security", "general"],
+    "featured": true
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Everything you need to know about iziTools",
+  "items": [
+    {
+      "id": "1",
+      "question": "Are the tools free to use?",
+      "answer": "Yes, all tools on iziTools are completely free to use. There are no signups required, no hidden costs, and no limitations on usage."
+    },
+    {
+      "id": "2",
+      "question": "Is my data secure?",
+      "answer": "Absolutely. All tools process data locally in your browser. We don't store, transmit, or have access to any of your data. Your privacy is our priority."
+    },
+    {
+      "id": "3",
+      "question": "Can I use these tools offline?",
+      "answer": "Most tools work offline once the page is loaded. However, some tools that require external APIs may need an internet connection."
+    },
+    {
+      "id": "4",
+      "question": "How often are new tools added?",
+      "answer": "We regularly add new tools based on user feedback and common needs. Check back frequently or follow us for updates on new additions."
+    },
+    {
+      "id": "5",
+      "question": "Can I suggest a new tool?",
+      "answer": "Yes! We welcome tool suggestions. Please contact us through our contact page or submit an issue on our GitHub repository."
+    },
+    {
+      "id": "6",
+      "question": "Do you support mobile devices?",
+      "answer": "Yes, all tools are fully responsive and optimized for mobile, tablet, and desktop devices. Use iziTools anywhere, anytime."
+    }
+  ]
+}

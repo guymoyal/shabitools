@@ -1,0 +1,24 @@
+{
+  "logo": {
+    "text": "iziTools",
+    "href": "/"
+  },
+  "navigation": [
+    {
+      "label": "Tools",
+      "href": "/tools"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "Get Started",
+    "href": "/tools"
+  }
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iziTools Simple Logo Preview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            text-align: center;
+            color: #0284c7;
+            margin-bottom: 40px;
+        }
+        .logo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+        .logo-card {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .logo-card h2 {
+            color: #0284c7;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .logo-card p {
+            color: #666;
+            font-size: 14px;
+        }
+        .logo-preview {
+            background: white;
+            padding: 20px;
+            border-radius: 4px;
+            margin: 20px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 60px;
+        }
+        .code {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 12px;
+            margin-top: 10px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>iziTools Simple Logo Options</h1>
+    
+    <div class="logo-grid">
+        <div class="logo-card">
+            <div class="logo-preview">
+                <img src="logo-simple.svg" alt="Simple Logo 1" style="max-width: 100%; height: auto;">
+            </div>
+            <h2>Simple Logo 1</h2>
+            <p>Wrench, Screwdriver & Hammer</p>
+            <div class="code">logoVariant="simple"</div>
+        </div>
+        
+        <div class="logo-card">
+            <div class="logo-preview">
+                <img src="logo-simple-2.svg" alt="Simple Logo 2" style="max-width: 100%; height: auto;">
+            </div>
+            <h2>Simple Logo 2</h2>
+            <p>Toolbox</p>
+            <div class="code">logoVariant="simple-2"</div>
+        </div>
+        
+        <div class="logo-card">
+            <div class="logo-preview">
+                <img src="logo-simple-3.svg" alt="Simple Logo 3" style="max-width: 100%; height: auto;">
+            </div>
+            <h2>Simple Logo 3</h2>
+            <p>Gear Icon</p>
+            <div class="code">logoVariant="simple-3"</div>
+        </div>
+        
+        <div class="logo-card">
+            <div class="logo-preview">
+                <img src="logo-simple-4.svg" alt="Simple Logo 4" style="max-width: 100%; height: auto;">
+            </div>
+            <h2>Simple Logo 4</h2>
+            <p>Wrench & Screwdriver</p>
+            <div class="code">logoVariant="simple-4"</div>
+        </div>
+    </div>
+    
+    <div style="text-align: center; color: #666; margin-top: 40px;">
+        <p>To change the logo, update the <code>logoVariant</code> prop in <code>app/layout.tsx</code></p>
+        <p style="margin-top: 10px;">Default is now set to <code>"simple"</code></p>
+    </div>
+</body>
+</html>

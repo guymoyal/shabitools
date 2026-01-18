@@ -1,0 +1,60 @@
+{
+  "brand": {
+    "name": "iziTools",
+    "description": "Free web tools for developers and creators",
+    "logo": "/logo.svg"
+  },
+  "links": {
+    "product": [
+      {
+        "label": "All Tools",
+        "href": "/tools"
+      },
+      {
+        "label": "Popular Tools",
+        "href": "/tools?filter=popular"
+      },
+      {
+        "label": "New Tools",
+        "href": "/tools?filter=new"
+      }
+    ],
+    "company": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      }
+    ],
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms"
+      }
+    ]
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "href": "https://github.com",
+      "icon": "github"
+    },
+    {
+      "name": "Twitter",
+      "href": "https://twitter.com",
+      "icon": "twitter"
+    }
+  ],
+  "copyright": "© 2024 iziTools. All rights reserved."
+}

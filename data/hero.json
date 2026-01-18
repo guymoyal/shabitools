@@ -1,0 +1,29 @@
+{
+  "title": "Powerful Web Tools for Developers",
+  "subtitle": "A comprehensive collection of free, easy-to-use web utilities to streamline your workflow and boost productivity",
+  "primaryCTA": {
+    "label": "Explore Tools",
+    "href": "/tools"
+  },
+  "secondaryCTA": {
+    "label": "Learn More",
+    "href": "/about"
+  },
+  "features": [
+    {
+      "icon": "⚡",
+      "title": "Fast & Reliable",
+      "description": "Lightning-fast tools built for performance"
+    },
+    {
+      "icon": "🔒",
+      "title": "Privacy First",
+      "description": "All processing happens in your browser"
+    },
+    {
+      "icon": "🆓",
+      "title": "100% Free",
+      "description": "No signup required, no hidden costs"
+    }
+  ]
+}
