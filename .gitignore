@@ -70,3 +70,8 @@ temp/
 
 # Optional stylelint cache
 .stylelintcache
+
+# Cloudflare
+.wrangler/
+wrangler.toml.local
+.dev.vars

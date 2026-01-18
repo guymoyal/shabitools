@@ -1,0 +1,15 @@
+name = "izitools"
+compatibility_date = "2024-01-01"
+
+# Cloudflare Pages configuration
+pages_build_output_dir = ".next"
+
+[env.production]
+name = "izitools-production"
+
+[env.preview]
+name = "izitools-preview"
+
+# Environment variables (set via Cloudflare dashboard or CLI)
+# [vars]
+# NODE_ENV = "production"

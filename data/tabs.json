@@ -29,6 +29,12 @@
           "description": "Generate MD5, SHA1, SHA256 hashes",
           "href": "/tools/hash-generator",
           "icon": "🔑"
+        },
+        {
+          "name": "Visual Page Compare",
+          "description": "Compare two websites visually",
+          "href": "/tools/visual-diff",
+          "icon": "🔍"
         }
       ]
     },

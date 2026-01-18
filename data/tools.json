@@ -98,5 +98,15 @@
     "icon": "🔒",
     "tags": ["password", "generator", "security", "general"],
     "featured": true
+  },
+  {
+    "title": "Visual Page Compare",
+    "description": "Visually compare two versions of a website with side-by-side, overlay, blend, and onion modes",
+    "image": "/tools/visual-diff.png",
+    "link": "/tools/visual-diff",
+    "category": "Developer Tools",
+    "icon": "🔍",
+    "tags": ["visual", "compare", "diff", "website", "developer", "testing"],
+    "featured": true
   }
 ]

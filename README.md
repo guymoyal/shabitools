@@ -71,6 +71,21 @@ Each tool added to the tabs or menu should have a corresponding markdown file in
 - **Tailwind CSS** - Utility-first CSS framework
 - **React 18** - UI library
 
+## Deployment
+
+### Cloudflare Pages
+
+This project is configured for Cloudflare Pages deployment. See [suggestions.md](./suggestions.md) for detailed deployment guide and best practices.
+
+**Quick Deploy:**
+```bash
+# Login to Cloudflare
+pnpm cf:login
+
+# Deploy
+pnpm deploy:production
+```
+
 ## Roadmap & TODO
 
 See [TODO.md](./TODO.md) for planned tools, monetization strategy, and implementation checklist.
@@ -78,3 +93,5 @@ See [TODO.md](./TODO.md) for planned tools, monetization strategy, and implement
 ## Learn More
 
 See the [documentation](./docs/README.md) for more details about the project architecture, development guidelines, and SEO strategy.
+
+See [suggestions.md](./suggestions.md) for Cloudflare deployment best practices and optimization tips.
