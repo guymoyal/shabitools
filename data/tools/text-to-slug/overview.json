@@ -1,0 +1,45 @@
+{
+  "title": "Text to Slug Converter",
+  "subtitle": "Convert text strings to URL-friendly slugs",
+  "description": "Convert text strings to URL-friendly slugs with customizable options for separators, case conversion, and special character handling. Perfect for SEO, clean URLs, and content management systems.",
+  "features": [
+    {
+      "title": "URL-Friendly Output",
+      "description": "Generate clean, readable slugs for URLs"
+    },
+    {
+      "title": "Custom Separators",
+      "description": "Choose hyphens, underscores, or custom separators"
+    },
+    {
+      "title": "Case Conversion",
+      "description": "Convert to lowercase, uppercase, or preserve case"
+    },
+    {
+      "title": "Special Character Handling",
+      "description": "Handle accents, special characters, and Unicode"
+    },
+    {
+      "title": "Stop Word Removal",
+      "description": "Option to remove common stop words"
+    },
+    {
+      "title": "Length Control",
+      "description": "Set maximum slug length"
+    }
+  ],
+  "useCases": [
+    "Creating SEO-friendly URLs",
+    "Generating slugs for CMS",
+    "API endpoint naming",
+    "File naming conventions",
+    "Content management"
+  ],
+  "tips": [
+    "Use hyphens for better SEO",
+    "Keep slugs under 60 characters",
+    "Remove stop words for shorter URLs",
+    "Use lowercase for consistency",
+    "Make slugs descriptive and readable"
+  ]
+}

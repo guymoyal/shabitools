@@ -95,9 +95,63 @@ pnpm cf:login
 pnpm deploy:production
 ```
 
+## Monetization
+
+See [MONETIZATION.md](./MONETIZATION.md) for detailed step-by-step guides on:
+- Buy Me a Coffee integration (5-minute setup)
+- Google AdSense setup (easy ads integration)
+- Carbon Ads (developer-focused alternative)
+
 ## Roadmap & TODO
 
 See [TODO.md](./TODO.md) for planned tools, monetization strategy, and implementation checklist.
+
+## AI Rules & Skills
+
+This project includes AI skill definitions for specialized expertise. See [.ai-rules/README.md](./.ai-rules/README.md) for details.
+
+**Available Skills**:
+- `SKILL:developer` - Expert fullstack developer & frontend UI specialist
+- `SKILL:product` - Expert product manager & research specialist
+- `SKILL:image-creator` - Expert AI image and logo creator
+
+Use these skills in prompts to activate specialized context and expertise.
+
+## Features
+
+- ✅ **Dark Theme**: Complete dark mode support with theme toggle
+- ✅ **SEO Optimized**: Structured data schemas, meta tags, optimized content
+- ✅ **Data-Driven**: All content from JSON files (easy updates)
+- ✅ **Organized Tools**: Categorized by type and usage
+- ✅ **Search Functionality**: Quick tool discovery
+- ✅ **Responsive Design**: Mobile-first, fully responsive
+- ✅ **Accessibility**: ARIA labels, keyboard navigation
+- ✅ **30 Task Files**: Ready for future tool development
+
+## Documentation
+
+- **[Project Overview](./docs/PROJECT_OVERVIEW.md)** - Complete project architecture and structure
+- **[SEO Guide](./docs/SEO_GUIDE.md)** - Comprehensive SEO strategy and implementation
+- **[UX Checklist](./docs/UX_CHECKLIST.md)** - UX improvements and best practices
+- **[Logo Guide](./docs/LOGO_GUIDE.md)** - How to generate logos using SKILL:image-creator
+- **[Tool Documentation](./docs/tools/)** - Individual tool documentation (18 tools)
+- **[Task Files](./tasks/)** - 30 detailed task specifications for new tools
+
+## Implementation Status
+
+✅ **All core improvements complete!**
+
+- ✅ Header improved (shorter search, contact removed)
+- ✅ Tools organized by categories and usage
+- ✅ All tools have 20-40 word descriptions
+- ✅ 18 tool documentation files created
+- ✅ 20 additional task files created (30 total)
+- ✅ SEO schemas implemented
+- ✅ Dark theme system complete
+- ✅ All content from JSON files
+- ✅ Comprehensive documentation
+
+**See [IMPLEMENTATION_COMPLETE.md](./IMPLEMENTATION_COMPLETE.md) for full details.**
 
 ## Learn More
 

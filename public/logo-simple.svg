@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified iziTools Logo for favicon and small sizes -->
+  
+  <!-- Main gear icon -->
+  <g transform="translate(32, 32)">
+    <!-- Gear shape -->
+    <path d="M 0 -24 L 4 -24 L 5 -20 L 9 -19 L 10 -15 L 14 -14 L 15 -10 L 19 -9 L 20 -5 L 24 -4 L 24 4 L 20 5 L 19 9 L 15 10 L 14 14 L 10 15 L 9 19 L 5 20 L 4 24 L 0 24 L -4 24 L -5 20 L -9 19 L -10 15 L -14 14 L -15 10 L -19 9 L -20 5 L -24 4 L -24 -4 L -20 -5 L -19 -9 L -15 -10 L -14 -14 L -10 -15 L -9 -19 L -5 -20 L -4 -24 Z" 
+          fill="#0284c7" 
+          stroke="#0369a1" 
+          stroke-width="1"/>
+    
+    <!-- Inner circle -->
+    <circle cx="0" cy="0" r="8" fill="white" stroke="#0284c7" stroke-width="1.5"/>
+    
+    <!-- Wrench handle -->
+    <rect x="-18" y="-1.5" width="10" height="3" rx="1.5" fill="#0284c7"/>
+  </g>
+</svg>

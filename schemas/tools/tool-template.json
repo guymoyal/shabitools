@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "[TOOL_NAME]",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Web Browser",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "description": "[TOOL_DESCRIPTION]",
+  "url": "https://izitools.com[TOOL_LINK]",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "100"
+  },
+  "featureList": [
+    "[FEATURE_1]",
+    "[FEATURE_2]",
+    "[FEATURE_3]"
+  ]
+}

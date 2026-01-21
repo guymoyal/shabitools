@@ -1,0 +1,98 @@
+{
+  "title": "About iziTools",
+  "subtitle": "Empowering developers and creators with free, easy-to-use web tools",
+  "mission": {
+    "title": "Our Mission",
+    "content": "At iziTools, we believe that powerful web tools should be accessible to everyone. Our mission is to provide a comprehensive collection of free, easy-to-use utilities that help developers, designers, and creators streamline their workflow and boost productivity.",
+    "commitment": "We're committed to building tools that are fast, reliable, and privacy-focused. Most of our tools process data entirely in your browser, ensuring your information never leaves your device."
+  },
+  "offerings": [
+    {
+      "icon": "🛠️",
+      "title": "Developer Tools",
+      "description": "Code formatters, validators, encoders, and more to help you code faster and better.",
+      "color": "blue"
+    },
+    {
+      "icon": "🎨",
+      "title": "Design Tools",
+      "description": "Color palettes, contrast checkers, and visual utilities for designers.",
+      "color": "purple"
+    },
+    {
+      "icon": "⚡",
+      "title": "Productivity Tools",
+      "description": "General utilities to make your daily tasks easier and more efficient.",
+      "color": "green"
+    }
+  ],
+  "values": [
+    {
+      "icon": "🔒",
+      "title": "Privacy First",
+      "content": "Your data is yours. Most of our tools run entirely in your browser, meaning we never see, store, or transmit your information."
+    },
+    {
+      "icon": "🆓",
+      "title": "Free Forever",
+      "content": "All our tools are completely free to use. No signups, no hidden costs, no limitations."
+    },
+    {
+      "icon": "⚡",
+      "title": "Fast & Reliable",
+      "content": "We optimize for speed and reliability. Our tools are built with modern web technologies to ensure the best performance."
+    },
+    {
+      "icon": "📱",
+      "title": "Accessible Everywhere",
+      "content": "Our tools work seamlessly across all devices - desktop, tablet, and mobile. Use iziTools anywhere, anytime."
+    }
+  ],
+  "technology": {
+    "title": "Built with Modern Technology",
+    "content": "iziTools is built using cutting-edge web technologies to ensure the best user experience:",
+    "stack": [
+      {
+        "name": "Next.js 14+",
+        "description": "React framework with server-side rendering"
+      },
+      {
+        "name": "TypeScript",
+        "description": "Type-safe development for reliability"
+      },
+      {
+        "name": "Tailwind CSS",
+        "description": "Modern, responsive styling"
+      },
+      {
+        "name": "Cloudflare Pages",
+        "description": "Fast, global content delivery"
+      }
+    ]
+  },
+  "getInvolved": {
+    "title": "Get Involved",
+    "content": "We're always looking to improve and expand iziTools. Here's how you can help:",
+    "ways": [
+      {
+        "title": "Suggest a tool",
+        "description": "Have an idea for a new tool? Let us know",
+        "link": "/contact"
+      },
+      {
+        "title": "Report issues",
+        "description": "Found a bug or have feedback? We'd love to hear from you"
+      },
+      {
+        "title": "Share iziTools",
+        "description": "Help others discover our tools by sharing with your network"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "content": "Explore our collection of free web tools and find the perfect utility for your needs.",
+    "buttonText": "Browse All Tools",
+    "link": "/tools"
+  }
+}

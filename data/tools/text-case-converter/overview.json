@@ -1,0 +1,41 @@
+{
+  "title": "Text Case Converter",
+  "subtitle": "Convert text between different case formats",
+  "description": "Convert text between different case formats: uppercase, lowercase, title case, sentence case, camelCase, PascalCase, snake_case, kebab-case, and more. Perfect for programming, content creation, and data formatting.",
+  "features": [
+    {
+      "title": "Multiple Case Types",
+      "description": "Support for 10+ case conversion formats"
+    },
+    {
+      "title": "Real-time Conversion",
+      "description": "Instant conversion as you type"
+    },
+    {
+      "title": "Copy to Clipboard",
+      "description": "One-click copy for quick use"
+    },
+    {
+      "title": "Bulk Conversion",
+      "description": "Convert multiple lines at once"
+    },
+    {
+      "title": "Preserve Formatting",
+      "description": "Maintain line breaks and structure"
+    }
+  ],
+  "useCases": [
+    "Converting variable names in code",
+    "Formatting content for different styles",
+    "Creating consistent naming conventions",
+    "Preparing text for APIs and databases",
+    "Content creation and editing"
+  ],
+  "tips": [
+    "Use camelCase for JavaScript variables",
+    "Use snake_case for Python variables",
+    "Use kebab-case for CSS classes and URLs",
+    "Title case is great for headings",
+    "Sentence case works best for content"
+  ]
+}

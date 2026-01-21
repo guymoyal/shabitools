@@ -83,21 +83,38 @@
 5. **Customize**: Match colors to your brand
 
 #### Code Integration:
+
+**Component Created**: `components/Donation/Donation.tsx` ✅
+
+**Usage in Footer**:
 ```tsx
-// Add to Footer component or create a Donation component
-<Script
-  data-name="BMC-Widget"
-  data-cfasync="false"
-  src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-  data-id="your-username"
-  data-description="Support iziTools development"
-  data-message="Enjoying iziTools? Buy me a coffee!"
-  data-color="#0284c7"
-  data-position="Right"
-  data-x_margin="18"
-  data-y_margin="18"
+// components/Footer/Footer.tsx
+import Donation from '@/components/Donation';
+
+// Add before closing </footer> tag
+<Donation 
+  username="your-username" 
+  description="Support iziTools development"
+  message="Enjoying iziTools? Buy me a coffee!"
+  color="#0284c7"
+  position="Right"
 />
 ```
+
+**Usage on Tool Pages**:
+```tsx
+// app/tools/[tool-name]/page.tsx
+import Donation from '@/components/Donation';
+
+// Add at the bottom of the page
+<Donation username="your-username" />
+```
+
+**Setup Steps**:
+1. Sign up at [buymeacoffee.com](https://www.buymeacoffee.com)
+2. Get your username from your profile URL
+3. Replace `"your-username"` in the component
+4. Customize message and colors to match your brand
 
 ### 2. Advertising Strategy
 
@@ -119,8 +136,26 @@
 1. Sign up at [Google AdSense](https://www.google.com/adsense)
 2. Add your website for review
 3. Get approved (can take 1-2 weeks)
-4. Add ad code to your site
-5. Place ads strategically
+4. Get your Publisher ID (format: `ca-pub-XXXXXXXXXX`)
+5. Get ad slot IDs for different ad units
+6. Replace `YOUR_PUBLISHER_ID` in ad components
+7. Add ads to your pages
+
+**Components Created**: 
+- `components/Ads/AdBanner.tsx` ✅ - For banner ads
+- `components/Ads/AdSidebar.tsx` ✅ - For sidebar ads
+
+**Usage Example**:
+```tsx
+// In your layout or page
+import { AdBanner, AdSidebar } from '@/components/Ads';
+
+// Header banner
+<AdBanner adSlot="1234567890" className="w-full" />
+
+// Sidebar ad
+<AdSidebar adSlot="0987654321" />
+```
 
 **Ad Placement Strategy**:
 - **Header Banner**: Top of page (728x90 or 320x50 mobile)

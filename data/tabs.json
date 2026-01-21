@@ -1,6 +1,6 @@
 {
   "title": "Popular Tools",
-  "description": "Discover our most-used developer tools",
+  "description": "Discover our most-used developer tools organized by category",
   "tabs": [
     {
       "id": "developers",
@@ -10,31 +10,85 @@
           "name": "JSON Formatter",
           "description": "Format and validate JSON data",
           "href": "/tools/json-formatter",
-          "icon": "📄"
+          "icon": "📄",
+          "usage": "high"
+        },
+        {
+          "name": "Regex Tester",
+          "description": "Test and debug regular expressions",
+          "href": "/tools/regex-tester",
+          "icon": "🔤",
+          "usage": "high"
         },
         {
           "name": "Base64 Encoder",
           "description": "Encode and decode Base64 strings",
           "href": "/tools/base64-encoder",
-          "icon": "🔐"
+          "icon": "🔐",
+          "usage": "high"
         },
         {
-          "name": "URL Encoder",
-          "description": "Encode and decode URL parameters",
-          "href": "/tools/url-encoder",
-          "icon": "🔗"
-        },
-        {
-          "name": "Hash Generator",
-          "description": "Generate MD5, SHA1, SHA256 hashes",
-          "href": "/tools/hash-generator",
-          "icon": "🔑"
+          "name": "API Tester",
+          "description": "Test REST APIs online",
+          "href": "/tools/api-tester",
+          "icon": "🔌",
+          "usage": "high"
         },
         {
           "name": "Visual Page Compare",
           "description": "Compare two websites visually",
           "href": "/tools/visual-diff",
-          "icon": "🔍"
+          "icon": "🔍",
+          "usage": "medium"
+        },
+        {
+          "name": "Page Speed Compare",
+          "description": "Compare website performance",
+          "href": "/tools/page-speed-compare",
+          "icon": "⚡",
+          "usage": "medium"
+        },
+        {
+          "name": "Markdown Editor",
+          "description": "Write and preview Markdown",
+          "href": "/tools/markdown-editor",
+          "icon": "📝",
+          "usage": "medium"
+        },
+        {
+          "name": "Code Formatter",
+          "description": "Format code in multiple languages",
+          "href": "/tools/code-formatter",
+          "icon": "💻",
+          "usage": "medium"
+        },
+        {
+          "name": "URL Encoder",
+          "description": "Encode and decode URL parameters",
+          "href": "/tools/url-encoder",
+          "icon": "🔗",
+          "usage": "medium"
+        },
+        {
+          "name": "Hash Generator",
+          "description": "Generate MD5, SHA1, SHA256 hashes",
+          "href": "/tools/hash-generator",
+          "icon": "🔑",
+          "usage": "medium"
+        },
+        {
+          "name": "UUID Generator",
+          "description": "Generate RFC 4122 compliant UUIDs",
+          "href": "/tools/uuid-generator",
+          "icon": "🆔",
+          "usage": "medium"
+        },
+        {
+          "name": "CSS Minifier",
+          "description": "Minify and optimize CSS",
+          "href": "/tools/css-minifier",
+          "icon": "⚡",
+          "usage": "low"
         }
       ]
     },
@@ -46,19 +100,29 @@
           "name": "Color Picker",
           "description": "Pick colors and get hex codes",
           "href": "/tools/color-picker",
-          "icon": "🎨"
+          "icon": "🎨",
+          "usage": "high"
+        },
+        {
+          "name": "Color Contrast Checker",
+          "description": "Check WCAG accessibility compliance",
+          "href": "/tools/color-contrast-checker",
+          "icon": "🎨",
+          "usage": "medium"
         },
         {
           "name": "Image Compressor",
           "description": "Compress images without losing quality",
           "href": "/tools/image-compressor",
-          "icon": "🖼️"
+          "icon": "🖼️",
+          "usage": "medium"
         },
         {
           "name": "SVG Optimizer",
           "description": "Optimize SVG files",
           "href": "/tools/svg-optimizer",
-          "icon": "✨"
+          "icon": "✨",
+          "usage": "low"
         }
       ]
     },
@@ -70,19 +134,22 @@
           "name": "QR Code Generator",
           "description": "Generate QR codes for any text or URL",
           "href": "/tools/qr-generator",
-          "icon": "📱"
-        },
-        {
-          "name": "Text Counter",
-          "description": "Count words, characters, and paragraphs",
-          "href": "/tools/text-counter",
-          "icon": "📊"
+          "icon": "📱",
+          "usage": "high"
         },
         {
           "name": "Password Generator",
           "description": "Generate secure random passwords",
           "href": "/tools/password-generator",
-          "icon": "🔒"
+          "icon": "🔒",
+          "usage": "high"
+        },
+        {
+          "name": "Text Counter",
+          "description": "Count words, characters, and paragraphs",
+          "href": "/tools/text-counter",
+          "icon": "📊",
+          "usage": "medium"
         }
       ]
     }

@@ -1,0 +1,45 @@
+{
+  "title": "CSS Gradient Generator",
+  "subtitle": "Create beautiful CSS gradients",
+  "description": "Create beautiful CSS gradients with visual editor, color picker, angle control, and multiple gradient types. Export ready-to-use CSS code for linear, radial, and conic gradients.",
+  "features": [
+    {
+      "title": "Visual Editor",
+      "description": "Interactive gradient editor with live preview"
+    },
+    {
+      "title": "Color Picker",
+      "description": "Choose colors with hex, RGB, or HSL pickers"
+    },
+    {
+      "title": "Gradient Types",
+      "description": "Create linear, radial, and conic gradients"
+    },
+    {
+      "title": "Angle Control",
+      "description": "Adjust gradient angle and direction"
+    },
+    {
+      "title": "Color Stops",
+      "description": "Add multiple color stops for complex gradients"
+    },
+    {
+      "title": "CSS Export",
+      "description": "Copy ready-to-use CSS code"
+    }
+  ],
+  "useCases": [
+    "Creating background gradients",
+    "Designing modern UI elements",
+    "Generating gradient overlays",
+    "Creating button styles",
+    "Design system development"
+  ],
+  "tips": [
+    "Use 2-3 colors for best results",
+    "Test gradients on different backgrounds",
+    "Consider accessibility and contrast",
+    "Use subtle gradients for professional look",
+    "Export CSS for easy integration"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "JSON Formatter & Validator",
+  "subtitle": "Format, validate, and minify JSON data",
+  "description": "Comprehensive JSON tool for formatting, validating, and minifying JSON data. Features syntax highlighting, error detection, tree view, and multiple export options.",
+  "features": [
+    {
+      "title": "JSON Formatting",
+      "description": "Beautifully format JSON with proper indentation and spacing"
+    },
+    {
+      "title": "Real-time Validation",
+      "description": "Validate JSON syntax and get clear error messages with line numbers"
+    },
+    {
+      "title": "Minification",
+      "description": "Minify JSON to reduce file size by removing whitespace"
+    },
+    {
+      "title": "Syntax Highlighting",
+      "description": "Color-coded JSON syntax for easy reading"
+    },
+    {
+      "title": "Error Detection",
+      "description": "Find and highlight syntax errors with helpful suggestions"
+    },
+    {
+      "title": "Tree View",
+      "description": "Visual tree view of JSON structure with expand/collapse"
+    },
+    {
+      "title": "Export Options",
+      "description": "Copy formatted JSON, download as file, or share via URL"
+    }
+  ],
+  "useCases": [
+    "Formatting API responses",
+    "Validating JSON data",
+    "Minifying JSON files",
+    "Debugging JSON errors",
+    "Learning JSON structure"
+  ],
+  "tips": [
+    "Use the validator to catch syntax errors before using JSON in code",
+    "Minify JSON for production to reduce file size",
+    "Use tree view to navigate large JSON structures",
+    "Copy formatted JSON for documentation or sharing"
+  ]
+}

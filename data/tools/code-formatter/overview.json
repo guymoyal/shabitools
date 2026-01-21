@@ -1,0 +1,44 @@
+{
+  "title": "Code Formatter",
+  "subtitle": "Format code in multiple languages",
+  "description": "Multi-language code formatter supporting JavaScript, TypeScript, Python, HTML, CSS, JSON, YAML, and more. Customizable formatting options for clean, readable code.",
+  "features": [
+    {
+      "title": "Multi-language Support",
+      "description": "Format code in JavaScript, TypeScript, Python, HTML, CSS, JSON, YAML, and more"
+    },
+    {
+      "title": "Customizable Options",
+      "description": "Configure indent size, quote style, semicolons, and more"
+    },
+    {
+      "title": "Syntax Highlighting",
+      "description": "Color-coded syntax for easy reading"
+    },
+    {
+      "title": "Before/After Comparison",
+      "description": "See original and formatted code side-by-side"
+    },
+    {
+      "title": "Copy/Download",
+      "description": "Copy formatted code or download as file"
+    },
+    {
+      "title": "Share Functionality",
+      "description": "Share formatted code via URL"
+    }
+  ],
+  "useCases": [
+    "Formatting code",
+    "Code cleanup",
+    "Learning code style",
+    "Preparing code for review",
+    "Standardizing code format"
+  ],
+  "tips": [
+    "Use consistent formatting for better code readability",
+    "Configure options to match your project style guide",
+    "Format code before committing to version control",
+    "Use before/after comparison to see changes"
+  ]
+}

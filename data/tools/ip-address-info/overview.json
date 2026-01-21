@@ -1,0 +1,40 @@
+{
+  "title": "IP Address Info",
+  "subtitle": "Get detailed IP address information",
+  "description": "Look up IP address information including geolocation, ISP, timezone, and network details. Perfect for network debugging and security analysis.",
+  "features": [
+    {
+      "title": "Geolocation",
+      "description": "Get approximate location based on IP address"
+    },
+    {
+      "title": "ISP Information",
+      "description": "View Internet Service Provider and organization details"
+    },
+    {
+      "title": "Network Details",
+      "description": "See network type, timezone, and connection info"
+    },
+    {
+      "title": "Security Check",
+      "description": "Identify potential security threats or VPN usage"
+    },
+    {
+      "title": "Multiple IPs",
+      "description": "Check multiple IP addresses at once"
+    }
+  ],
+  "useCases": [
+    "Network debugging",
+    "Security analysis",
+    "Geolocation lookup",
+    "ISP identification",
+    "VPN detection"
+  ],
+  "tips": [
+    "IP geolocation is approximate, not exact",
+    "VPN and proxy services may show incorrect locations",
+    "Use for network troubleshooting, not precise tracking",
+    "Check your own IP to see what information is exposed"
+  ]
+}

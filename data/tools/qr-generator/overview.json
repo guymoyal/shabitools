@@ -1,0 +1,45 @@
+{
+  "title": "QR Code Generator",
+  "subtitle": "Create QR codes for any content",
+  "description": "Generate QR codes for URLs, text, WiFi credentials, email, phone numbers, and more. Customize colors, size, error correction, and download in PNG, SVG, or PDF formats.",
+  "features": [
+    {
+      "title": "Multiple QR Code Types",
+      "description": "Generate QR codes for URLs, text, WiFi, email, phone, SMS, and more"
+    },
+    {
+      "title": "Color Customization",
+      "description": "Customize foreground and background colors"
+    },
+    {
+      "title": "Size Options",
+      "description": "Choose from small to large QR code sizes"
+    },
+    {
+      "title": "Error Correction Levels",
+      "description": "Select error correction level (L, M, Q, H) for better scanning"
+    },
+    {
+      "title": "Download Formats",
+      "description": "Download QR codes as PNG, SVG, or PDF"
+    },
+    {
+      "title": "Live Preview",
+      "description": "See QR code update in real-time as you customize"
+    }
+  ],
+  "useCases": [
+    "Website QR codes",
+    "WiFi sharing",
+    "Contact information",
+    "Marketing materials",
+    "Event tickets",
+    "Payment QR codes"
+  ],
+  "tips": [
+    "Use higher error correction levels for QR codes that may be damaged",
+    "Larger sizes are easier to scan from a distance",
+    "High contrast colors improve scanning reliability",
+    "Test your QR code before printing or sharing"
+  ]
+}

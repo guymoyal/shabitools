@@ -21,13 +21,13 @@ export default function FAQ({ data }: FAQProps) {
   };
 
   return (
-    <section className="bg-white py-16 sm:py-24 lg:py-32">
+    <section className="bg-white dark:bg-gray-900 py-16 sm:py-24 lg:py-32">
       <div className="mx-auto max-w-7xl px-4 sm:px-4 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
             {data.title}
           </h2>
-          <p className="mt-2 text-lg leading-8 text-gray-600">
+          <p className="mt-2 text-lg leading-8 text-gray-600 dark:text-gray-300">
             {data.description}
           </p>
         </div>
@@ -38,12 +38,12 @@ export default function FAQ({ data }: FAQProps) {
               return (
                 <div
                   key={item.id}
-                  className="rounded-lg bg-gray-50 p-4 ring-1 ring-gray-200"
+                  className="rounded-lg bg-gray-50 dark:bg-gray-800 p-4 ring-1 ring-gray-200 dark:ring-gray-700"
                 >
                   <dt>
                     <button
                       type="button"
-                      className="flex w-full items-start justify-between text-left text-gray-900"
+                      className="flex w-full items-start justify-between text-left text-gray-900 dark:text-gray-100"
                       onClick={() => toggleItem(item.id)}
                       aria-expanded={isOpen}
                       aria-controls={`faq-answer-${item.id}`}
@@ -53,7 +53,7 @@ export default function FAQ({ data }: FAQProps) {
                       </span>
                       <span className="ml-4 flex h-7 items-center flex-shrink-0">
                         <svg
-                          className={`h-6 w-6 transform transition-transform ${
+                          className={`h-6 w-6 transform transition-transform text-gray-600 dark:text-gray-400 ${
                             isOpen ? 'rotate-180' : ''
                           }`}
                           fill="none"
@@ -76,7 +76,7 @@ export default function FAQ({ data }: FAQProps) {
                       isOpen ? 'block' : 'hidden'
                     }`}
                   >
-                    <p className="text-base leading-7 text-gray-600">
+                    <p className="text-base leading-7 text-gray-600 dark:text-gray-300">
                       {item.answer}
                     </p>
                   </dd>

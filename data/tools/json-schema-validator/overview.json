@@ -1,0 +1,45 @@
+{
+  "title": "JSON Schema Validator",
+  "subtitle": "Validate JSON data against JSON Schema",
+  "description": "Validate JSON data against JSON Schema specifications with detailed error reporting, schema validation, and format checking. Perfect for API development, data validation, and ensuring data integrity.",
+  "features": [
+    {
+      "title": "Schema Validation",
+      "description": "Validate JSON against JSON Schema Draft 7 and later"
+    },
+    {
+      "title": "Detailed Errors",
+      "description": "Clear error messages with line numbers and paths"
+    },
+    {
+      "title": "Format Checking",
+      "description": "Validate formats like email, date, URI, etc."
+    },
+    {
+      "title": "Type Validation",
+      "description": "Check data types match schema requirements"
+    },
+    {
+      "title": "Required Fields",
+      "description": "Validate required fields are present"
+    },
+    {
+      "title": "Nested Validation",
+      "description": "Validate nested objects and arrays"
+    }
+  ],
+  "useCases": [
+    "API request/response validation",
+    "Data integrity checking",
+    "Configuration file validation",
+    "Form data validation",
+    "Testing JSON structures"
+  ],
+  "tips": [
+    "Use JSON Schema Draft 7 or later",
+    "Define clear schemas for better validation",
+    "Check error messages for specific issues",
+    "Validate before processing data",
+    "Use format validators for strict checking"
+  ]
+}

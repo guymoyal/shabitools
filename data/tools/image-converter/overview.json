@@ -1,0 +1,43 @@
+{
+  "title": "Image Format Converter",
+  "subtitle": "Convert images between formats",
+  "description": "Convert images between PNG, JPEG, WebP, SVG, and other formats. Optimize images for web with quality and size controls. Basic conversions work client-side, advanced formats require backend.",
+  "features": [
+    {
+      "title": "Format Conversion",
+      "description": "Convert between PNG, JPEG, WebP, SVG formats"
+    },
+    {
+      "title": "Quality Control",
+      "description": "Adjust image quality and compression"
+    },
+    {
+      "title": "Resize Images",
+      "description": "Resize images while maintaining aspect ratio"
+    },
+    {
+      "title": "Batch Processing",
+      "description": "Convert multiple images at once"
+    },
+    {
+      "title": "Client-Side Processing",
+      "description": "Basic conversions work entirely in your browser"
+    }
+  ],
+  "useCases": [
+    "Web optimization",
+    "Format conversion",
+    "Image compression",
+    "Batch processing",
+    "Asset preparation"
+  ],
+  "tips": [
+    "PNG to JPEG conversion reduces file size significantly",
+    "WebP format offers best compression",
+    "SVG is best for logos and icons",
+    "Large images may take time to process",
+    "Advanced formats (TIFF, HEIC) require backend service"
+  ],
+  "backendRequired": true,
+  "backendNote": "Basic conversions (PNG, JPEG, WebP) work client-side. Advanced formats (TIFF, HEIC, AVIF) require backend service. See backend/services/image-converter/README.md for details."
+}

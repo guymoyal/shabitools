@@ -11,10 +11,6 @@
     {
       "label": "About",
       "href": "/about"
-    },
-    {
-      "label": "Contact",
-      "href": "/contact"
     }
   ],
   "cta": {

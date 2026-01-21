@@ -1,0 +1,40 @@
+{
+  "title": "JSON to YAML Converter",
+  "subtitle": "Convert JSON data to YAML format",
+  "description": "Easily convert JSON data to YAML format with proper indentation and formatting. Perfect for configuration files, CI/CD pipelines, Kubernetes manifests, and Docker Compose files.",
+  "features": [
+    {
+      "title": "Accurate Conversion",
+      "description": "Precise JSON to YAML conversion maintaining data structure"
+    },
+    {
+      "title": "Proper Formatting",
+      "description": "Clean YAML output with correct indentation and spacing"
+    },
+    {
+      "title": "Syntax Validation",
+      "description": "Validate JSON input before conversion"
+    },
+    {
+      "title": "Copy & Download",
+      "description": "Copy converted YAML or download as file"
+    },
+    {
+      "title": "Error Detection",
+      "description": "Clear error messages for invalid JSON"
+    }
+  ],
+  "useCases": [
+    "Converting API responses to YAML configs",
+    "Creating Kubernetes manifests from JSON",
+    "Converting Docker Compose JSON to YAML",
+    "Migrating configuration files",
+    "CI/CD pipeline configuration"
+  ],
+  "tips": [
+    "Ensure your JSON is valid before conversion",
+    "YAML uses indentation for structure (spaces, not tabs)",
+    "Large JSON files may take longer to convert",
+    "Use the copy button for quick integration"
+  ]
+}

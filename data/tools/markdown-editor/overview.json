@@ -1,0 +1,44 @@
+{
+  "title": "Markdown Editor",
+  "subtitle": "Live preview Markdown editor",
+  "description": "Write and preview Markdown in real-time with split-pane editor. Features syntax highlighting, formatting toolbar, export options, and live HTML preview.",
+  "features": [
+    {
+      "title": "Live Preview",
+      "description": "See rendered HTML preview update in real-time as you type"
+    },
+    {
+      "title": "Syntax Highlighting",
+      "description": "Color-coded Markdown syntax for easy editing"
+    },
+    {
+      "title": "Formatting Toolbar",
+      "description": "Quick formatting buttons for headers, bold, italic, links, and more"
+    },
+    {
+      "title": "Export Options",
+      "description": "Copy Markdown or HTML, download as file, or share via URL"
+    },
+    {
+      "title": "Scroll Synchronization",
+      "description": "Synchronized scrolling between editor and preview panes"
+    },
+    {
+      "title": "Template Library",
+      "description": "Access common Markdown templates and examples"
+    }
+  ],
+  "useCases": [
+    "Writing documentation",
+    "Creating README files",
+    "Blog post writing",
+    "Markdown learning",
+    "Quick formatting"
+  ],
+  "tips": [
+    "Use the formatting toolbar for quick formatting",
+    "Preview updates automatically as you type",
+    "Export HTML for embedding in websites",
+    "Use templates to get started quickly"
+  ]
+}

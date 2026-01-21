@@ -1,0 +1,40 @@
+{
+  "title": "Timestamp Converter",
+  "subtitle": "Convert Unix timestamps to dates",
+  "description": "Convert Unix timestamps to readable dates and vice versa. Support for multiple formats, timezones, and real-time conversion.",
+  "features": [
+    {
+      "title": "Unix Timestamp",
+      "description": "Convert Unix/Epoch timestamps to dates"
+    },
+    {
+      "title": "ISO 8601 Support",
+      "description": "Convert ISO 8601 date strings"
+    },
+    {
+      "title": "Timezone Support",
+      "description": "Convert between different timezones"
+    },
+    {
+      "title": "Multiple Formats",
+      "description": "Display dates in various formats"
+    },
+    {
+      "title": "Current Timestamp",
+      "description": "Get current Unix timestamp"
+    }
+  ],
+  "useCases": [
+    "Debugging date/time issues",
+    "Converting timestamps",
+    "Timezone conversions",
+    "API timestamp handling",
+    "Database timestamp conversion"
+  ],
+  "tips": [
+    "Unix timestamps are in seconds (JavaScript uses milliseconds)",
+    "Use ISO 8601 for API responses",
+    "Check timezone when converting",
+    "Current timestamp updates in real-time"
+  ]
+}

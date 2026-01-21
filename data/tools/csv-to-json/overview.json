@@ -1,0 +1,40 @@
+{
+  "title": "CSV to JSON Converter",
+  "subtitle": "Convert CSV files to JSON format",
+  "description": "Convert CSV files to JSON format for APIs, databases, and web applications. Supports custom delimiters and header mapping.",
+  "features": [
+    {
+      "title": "Automatic Detection",
+      "description": "Auto-detect CSV delimiter and format"
+    },
+    {
+      "title": "Custom Delimiters",
+      "description": "Support comma, semicolon, tab, and custom delimiters"
+    },
+    {
+      "title": "Header Mapping",
+      "description": "Map CSV headers to JSON property names"
+    },
+    {
+      "title": "Preview & Download",
+      "description": "Preview JSON before downloading"
+    },
+    {
+      "title": "Large Files",
+      "description": "Handle large CSV files efficiently"
+    }
+  ],
+  "useCases": [
+    "Data import",
+    "API data preparation",
+    "Database migration",
+    "Data transformation",
+    "Report processing"
+  ],
+  "tips": [
+    "First row is used as headers by default",
+    "Empty cells become null values",
+    "Numbers are preserved as numbers, not strings",
+    "Large files may take time to process"
+  ]
+}

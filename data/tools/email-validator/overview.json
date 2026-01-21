@@ -1,0 +1,41 @@
+{
+  "title": "Email Validator",
+  "subtitle": "Validate email addresses online",
+  "description": "Validate email addresses for correct format, domain existence, and deliverability. Get detailed validation reports with suggestions for improvement.",
+  "features": [
+    {
+      "title": "Format Validation",
+      "description": "Check email format against RFC 5322 standards"
+    },
+    {
+      "title": "Domain Check",
+      "description": "Verify domain exists and has MX records"
+    },
+    {
+      "title": "Disposable Email Detection",
+      "description": "Identify temporary or disposable email addresses"
+    },
+    {
+      "title": "Role Account Detection",
+      "description": "Detect generic role-based emails (admin@, info@, etc.)"
+    },
+    {
+      "title": "Bulk Validation",
+      "description": "Validate multiple emails at once"
+    }
+  ],
+  "useCases": [
+    "Form validation",
+    "Email list cleaning",
+    "Lead verification",
+    "Preventing fake signups",
+    "Email marketing preparation"
+  ],
+  "tips": [
+    "Format validation is instant and free",
+    "Domain checking requires API access",
+    "Disposable emails may be valid but not ideal for business",
+    "Always validate on both client and server side",
+    "Consider rate limits for bulk validation"
+  ]
+}

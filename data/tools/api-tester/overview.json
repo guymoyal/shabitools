@@ -1,0 +1,48 @@
+{
+  "title": "API Tester",
+  "subtitle": "Test REST APIs online",
+  "description": "Comprehensive REST API testing tool for sending HTTP requests, viewing responses, and debugging APIs. Supports all HTTP methods, headers, query parameters, and request bodies.",
+  "features": [
+    {
+      "title": "All HTTP Methods",
+      "description": "Support for GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS"
+    },
+    {
+      "title": "Headers Editor",
+      "description": "Add and manage custom headers for your requests"
+    },
+    {
+      "title": "Query Parameters",
+      "description": "Build query parameters easily with key-value pairs"
+    },
+    {
+      "title": "Request Body Editor",
+      "description": "Support for JSON, form-data, raw text, and URL-encoded bodies"
+    },
+    {
+      "title": "Response Viewer",
+      "description": "View formatted responses with syntax highlighting"
+    },
+    {
+      "title": "Request History",
+      "description": "Save and reuse previous requests"
+    },
+    {
+      "title": "Code Generation",
+      "description": "Generate cURL and fetch code for your requests"
+    }
+  ],
+  "useCases": [
+    "Testing APIs",
+    "Debugging endpoints",
+    "Learning APIs",
+    "API documentation",
+    "Quick API checks"
+  ],
+  "tips": [
+    "Note: CORS restrictions may prevent testing some APIs directly from the browser",
+    "Use the code generation feature to get cURL commands",
+    "Save frequently used requests for quick access",
+    "Check response headers for useful information"
+  ]
+}

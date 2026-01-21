@@ -71,7 +71,7 @@ export default function Search({
       <div className="relative">
         <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
           <svg
-            className="h-5 w-5 text-gray-400"
+            className="h-5 w-5 text-gray-400 dark:text-gray-500"
             fill="none"
             viewBox="0 0 24 24"
             strokeWidth="1.5"
@@ -84,45 +84,38 @@ export default function Search({
             />
           </svg>
         </div>
-        <input
-          type="text"
-          value={searchQuery}
-          onChange={handleChange}
-          onFocus={handleFocus}
-          onBlur={handleBlur}
-          placeholder={placeholder}
-          className="block w-full rounded-lg border-0 py-2 pl-10 pr-3 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-primary-600 sm:text-sm sm:leading-6"
-        />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={handleChange}
+              onFocus={handleFocus}
+              onBlur={handleBlur}
+              placeholder={placeholder}
+              className="block w-full rounded-lg border-0 py-2 pl-10 pr-3 text-gray-900 dark:text-gray-100 bg-white dark:bg-gray-800 shadow-sm ring-1 ring-inset ring-gray-300 dark:ring-gray-600 placeholder:text-gray-400 dark:placeholder:text-gray-500 focus:ring-2 focus:ring-inset focus:ring-primary-600 dark:focus:ring-primary-500 sm:text-sm sm:leading-6"
+            />
       </div>
 
       {isOpen && filteredTools.length > 0 && (
-        <div className="absolute z-50 mt-2 w-full rounded-lg bg-white shadow-lg ring-1 ring-black ring-opacity-5">
+        <div className="absolute z-50 mt-2 w-full rounded-lg bg-white dark:bg-gray-800 shadow-lg ring-1 ring-black dark:ring-gray-700 ring-opacity-5">
           <div className="py-2" role="menu">
             {filteredTools.map((tool, index) => (
               <Link
                 key={index}
                 href={tool.link}
-                className="flex items-start gap-3 px-4 py-2 hover:bg-gray-50 transition-colors"
+                className="flex items-start gap-3 px-4 py-2 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
                 role="menuitem"
               >
-                {tool.image && (
-                  <img
-                    src={tool.image}
-                    alt={tool.title}
-                    className="h-10 w-10 rounded object-cover flex-shrink-0"
-                  />
-                )}
-                {tool.icon && !tool.image && (
+                {tool.icon && (
                   <span className="text-2xl flex-shrink-0">{tool.icon}</span>
                 )}
                 <div className="flex-1 min-w-0">
-                  <p className="text-sm font-semibold text-gray-900 truncate">
+                  <p className="text-sm font-semibold text-gray-900 dark:text-gray-100 truncate">
                     {tool.title}
                   </p>
-                  <p className="text-xs text-gray-500 truncate mt-1">
+                  <p className="text-xs text-gray-500 dark:text-gray-400 truncate mt-1">
                     {tool.description}
                   </p>
-                  <span className="inline-block mt-1 text-xs px-2 py-1 rounded bg-primary-50 text-primary-700">
+                  <span className="inline-block mt-1 text-xs px-2 py-1 rounded bg-primary-50 dark:bg-primary-900 text-primary-700 dark:text-primary-300">
                     {tool.category}
                   </span>
                 </div>
@@ -133,9 +126,9 @@ export default function Search({
       )}
 
       {isOpen && searchQuery.length > 0 && filteredTools.length === 0 && (
-        <div className="absolute z-50 mt-2 w-full rounded-lg bg-white shadow-lg ring-1 ring-black ring-opacity-5">
+        <div className="absolute z-50 mt-2 w-full rounded-lg bg-white dark:bg-gray-800 shadow-lg ring-1 ring-black dark:ring-gray-700 ring-opacity-5">
           <div className="px-4 py-4 text-center">
-            <p className="text-sm text-gray-500">No tools found matching &quot;{searchQuery}&quot;</p>
+            <p className="text-sm text-gray-500 dark:text-gray-400">No tools found matching &quot;{searchQuery}&quot;</p>
           </div>
         </div>
       )}

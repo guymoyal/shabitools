@@ -1,0 +1,41 @@
+{
+  "title": "URL Parser & Analyzer",
+  "subtitle": "Parse and analyze URLs",
+  "description": "Parse URLs into components (protocol, domain, path, query parameters, fragments) and analyze URL structure. Perfect for web development and SEO analysis.",
+  "features": [
+    {
+      "title": "URL Components",
+      "description": "Extract protocol, domain, path, query, and fragment"
+    },
+    {
+      "title": "Query Parameters",
+      "description": "Parse and display query parameters"
+    },
+    {
+      "title": "URL Validation",
+      "description": "Validate URL format and structure"
+    },
+    {
+      "title": "URL Encoding",
+      "description": "Show encoded and decoded versions"
+    },
+    {
+      "title": "SEO Analysis",
+      "description": "Analyze URL for SEO best practices"
+    }
+  ],
+  "useCases": [
+    "Web development",
+    "SEO analysis",
+    "URL debugging",
+    "API development",
+    "Link building"
+  ],
+  "tips": [
+    "URLs should be lowercase for SEO",
+    "Use hyphens instead of underscores",
+    "Keep URLs short and descriptive",
+    "Avoid special characters when possible",
+    "Query parameters don't affect SEO negatively"
+  ]
+}

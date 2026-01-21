@@ -1,0 +1,44 @@
+{
+  "title": "Base64 Encoder & Decoder",
+  "subtitle": "Encode and decode Base64 data",
+  "description": "Comprehensive Base64 encoder and decoder for text, images, and files. Generate data URLs, validate Base64 format, and convert between formats easily.",
+  "features": [
+    {
+      "title": "Text Encoding/Decoding",
+      "description": "Encode and decode text to/from Base64 format"
+    },
+    {
+      "title": "Image Encoding",
+      "description": "Upload images and convert them to Base64 data URLs"
+    },
+    {
+      "title": "File Support",
+      "description": "Encode any file type to Base64 format"
+    },
+    {
+      "title": "Data URL Generation",
+      "description": "Generate data URLs for embedding images in HTML/CSS"
+    },
+    {
+      "title": "Image Preview",
+      "description": "Preview encoded images before using them"
+    },
+    {
+      "title": "Format Validation",
+      "description": "Validate Base64 format and detect errors"
+    }
+  ],
+  "useCases": [
+    "Encoding text data",
+    "Embedding images",
+    "Generating data URLs",
+    "API data encoding",
+    "File encoding"
+  ],
+  "tips": [
+    "Use data URLs for small images to reduce HTTP requests",
+    "Base64 encoding increases file size by ~33%",
+    "Validate Base64 before decoding to avoid errors",
+    "Use image encoding for embedding images in CSS"
+  ]
+}

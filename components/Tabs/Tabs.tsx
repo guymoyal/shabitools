@@ -14,56 +14,80 @@ export default function Tabs({ data }: TabsProps) {
   const currentTab: Tab | undefined = data.tabs.find((tab) => tab.id === activeTab);
 
   return (
-    <section className="bg-gray-50 py-16 sm:py-24 lg:py-32">
+    <section className="bg-gradient-to-b from-gray-50 to-white dark:from-gray-800 dark:to-gray-900 py-16 sm:py-24 lg:py-32">
       <div className="mx-auto max-w-7xl px-4 sm:px-4 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
             {data.title}
           </h2>
-          <p className="mt-2 text-lg leading-8 text-gray-600">
+          <p className="mt-2 text-lg leading-8 text-gray-600 dark:text-gray-300">
             {data.description}
           </p>
         </div>
         <div className="mx-auto mt-12 max-w-2xl sm:mt-16 lg:mt-20 lg:max-w-none">
-          <div className="flex flex-wrap justify-center gap-2 mb-8">
-            {data.tabs.map((tab) => (
-              <button
-                key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
-                className={`rounded-md px-4 py-2 text-sm font-semibold transition-colors ${
-                  activeTab === tab.id
-                    ? 'bg-primary-600 text-white'
-                    : 'bg-white text-gray-900 hover:bg-gray-100'
-                }`}
-                aria-pressed={activeTab === tab.id}
-              >
-                {tab.label}
-              </button>
-            ))}
-          </div>
-          {currentTab && (
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {currentTab.tools.map((tool, index) => (
-                <Link
-                  key={index}
-                  href={tool.href}
-                  className="group relative rounded-lg bg-white p-4 shadow-sm ring-1 ring-gray-200 hover:ring-primary-600 transition-all hover:shadow-md"
-                >
-                  <div className="flex items-start gap-4">
-                    <span className="text-3xl">{tool.icon}</span>
-                    <div className="flex-1">
-                      <h3 className="text-lg font-semibold text-gray-900 group-hover:text-primary-600 transition-colors">
-                        {tool.name}
-                      </h3>
-                      <p className="mt-2 text-sm text-gray-600">
-                        {tool.description}
-                      </p>
-                    </div>
+                  <div className="flex flex-wrap justify-center gap-3 mb-8">
+                    {data.tabs.map((tab) => {
+                      const getTabColor = (id: string) => {
+                        if (id === 'developers') return 'bg-blue-500';
+                        if (id === 'designers') return 'bg-purple-500';
+                        if (id === 'general') return 'bg-green-500';
+                        return 'bg-gray-500';
+                      };
+                      
+                      return (
+                        <button
+                          key={tab.id}
+                          onClick={() => setActiveTab(tab.id)}
+                          className={`rounded-full px-6 py-2.5 text-sm font-semibold transition-all ${
+                            activeTab === tab.id
+                              ? `${getTabColor(tab.id)} text-white shadow-lg scale-105`
+                              : 'bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 border border-gray-200 dark:border-gray-700'
+                          }`}
+                          aria-pressed={activeTab === tab.id}
+                        >
+                          {tab.label}
+                        </button>
+                      );
+                    })}
                   </div>
-                </Link>
-              ))}
-            </div>
-          )}
+                  {currentTab && (
+                    <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                      {currentTab.tools.map((tool, index) => {
+                        const getUsageBadgeColor = (usage: string) => {
+                          if (usage === 'high') return 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-400';
+                          if (usage === 'medium') return 'bg-yellow-100 dark:bg-yellow-900/30 text-yellow-700 dark:text-yellow-400';
+                          return 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-400';
+                        };
+                        
+                        return (
+                          <Link
+                            key={index}
+                            href={tool.href}
+                            className="group relative rounded-xl bg-white dark:bg-gray-800 p-5 shadow-sm ring-1 ring-gray-200 dark:ring-gray-700 hover:ring-primary-600 dark:hover:ring-primary-500 transition-all hover:shadow-lg hover:-translate-y-0.5"
+                          >
+                            <div className="flex items-start gap-4">
+                              <div className="text-4xl group-hover:scale-110 transition-transform">{tool.icon}</div>
+                              <div className="flex-1">
+                                <div className="flex items-start justify-between gap-2">
+                                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+                                    {tool.name}
+                                  </h3>
+                                  {tool.usage && (
+                                    <span className={`text-xs px-2 py-0.5 rounded-full ${getUsageBadgeColor(tool.usage)} whitespace-nowrap`}>
+                                      {tool.usage}
+                                    </span>
+                                  )}
+                                </div>
+                                <p className="mt-2 text-sm text-gray-600 dark:text-gray-300">
+                                  {tool.description}
+                                </p>
+                              </div>
+                            </div>
+                          </Link>
+                        );
+                      })}
+                    </div>
+                  )}
         </div>
       </div>
     </section>

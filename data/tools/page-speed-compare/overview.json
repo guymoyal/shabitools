@@ -1,0 +1,39 @@
+{
+  "title": "Page Speed Compare",
+  "subtitle": "Compare performance metrics between multiple websites",
+  "description": "Test and compare page speed metrics between URLs using Google PageSpeed Insights. Analyze Core Web Vitals, performance scores, and get optimization recommendations.",
+  "features": [
+    {
+      "title": "Performance Comparison",
+      "description": "Compare performance scores side-by-side for multiple URLs"
+    },
+    {
+      "title": "Core Web Vitals Analysis",
+      "description": "Analyze LCP, FID, CLS, and other Core Web Vitals metrics"
+    },
+    {
+      "title": "Mobile/Desktop Testing",
+      "description": "Test both mobile and desktop performance"
+    },
+    {
+      "title": "Export Results",
+      "description": "Export comparison results as JSON or CSV"
+    },
+    {
+      "title": "Optimization Recommendations",
+      "description": "Get suggestions for improving page performance"
+    }
+  ],
+  "useCases": [
+    "Staging vs Production comparison",
+    "A/B testing performance",
+    "Competitor analysis",
+    "Performance monitoring"
+  ],
+  "tips": [
+    "Requires Google PageSpeed Insights API key (set in .env.local)",
+    "API key can be obtained from Google Cloud Console",
+    "Free tier allows 25,000 requests per day",
+    "Results may take 10-15 seconds to generate"
+  ]
+}

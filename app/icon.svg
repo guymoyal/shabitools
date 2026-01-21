@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- iziTools Favicon -->
+  <rect width="32" height="32" rx="6" fill="#0284c7"/>
+  <g transform="translate(16, 16)">
+    <!-- Simplified gear -->
+    <path d="M 0 -10 L 2 -10 L 2.5 -8 L 4.5 -7.5 L 5 -5.5 L 7 -5 L 7.5 -3 L 9.5 -2.5 L 10 -0.5 L 10 0.5 L 9.5 2.5 L 7.5 3 L 7 5 L 5 5.5 L 4.5 7.5 L 2.5 8 L 2 10 L 0 10 L -2 10 L -2.5 8 L -4.5 7.5 L -5 5.5 L -7 5 L -7.5 3 L -9.5 2.5 L -10 0.5 L -10 -0.5 L -9.5 -2.5 L -7.5 -3 L -7 -5 L -5 -5.5 L -4.5 -7.5 L -2.5 -8 L -2 -10 Z" 
+          fill="white"/>
+    <circle cx="0" cy="0" r="3" fill="#0284c7"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "title": "JSON Diff Tool",
+  "subtitle": "Compare and find differences in JSON",
+  "description": "Compare two JSON objects or arrays and highlight differences. Perfect for API testing, configuration comparison, and data validation.",
+  "features": [
+    {
+      "title": "Visual Diff",
+      "description": "Highlight added, removed, and modified properties"
+    },
+    {
+      "title": "Deep Comparison",
+      "description": "Compare nested objects and arrays"
+    },
+    {
+      "title": "Side-by-Side View",
+      "description": "View both JSONs side by side"
+    },
+    {
+      "title": "Export Results",
+      "description": "Export diff results as JSON or text"
+    },
+    {
+      "title": "Ignore Options",
+      "description": "Ignore specific keys or properties"
+    }
+  ],
+  "useCases": [
+    "API testing",
+    "Configuration comparison",
+    "Data validation",
+    "Version control",
+    "Debugging"
+  ],
+  "tips": [
+    "Order of properties doesn't matter for comparison",
+    "Arrays are compared element by element",
+    "Use ignore options to focus on important differences",
+    "Large JSONs may take time to compare"
+  ]
+}

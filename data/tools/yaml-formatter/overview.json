@@ -1,0 +1,40 @@
+{
+  "title": "YAML Formatter & Validator",
+  "subtitle": "Format and validate YAML files",
+  "description": "Format YAML files with proper indentation, validate syntax, convert to JSON, and detect errors with line numbers.",
+  "features": [
+    {
+      "title": "YAML Formatting",
+      "description": "Format YAML with proper indentation and spacing"
+    },
+    {
+      "title": "Syntax Validation",
+      "description": "Validate YAML syntax and show errors"
+    },
+    {
+      "title": "JSON Conversion",
+      "description": "Convert YAML to JSON format"
+    },
+    {
+      "title": "Error Detection",
+      "description": "Find syntax errors with line numbers"
+    },
+    {
+      "title": "Before/After Comparison",
+      "description": "See formatted YAML side-by-side"
+    }
+  ],
+  "useCases": [
+    "Formatting config files",
+    "Validating YAML syntax",
+    "Converting YAML to JSON",
+    "Debugging YAML errors",
+    "Config file management"
+  ],
+  "tips": [
+    "YAML is sensitive to indentation",
+    "Use spaces, not tabs",
+    "Check for trailing commas",
+    "Validate before using in production"
+  ]
+}

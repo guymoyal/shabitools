@@ -1,0 +1,44 @@
+{
+  "title": "Regex Tester & Visualizer",
+  "subtitle": "Test, debug, and learn regular expressions",
+  "description": "Interactive regular expression tester with real-time matching, visualization, and explanations. Test patterns, see matches highlighted, and learn how regex works.",
+  "features": [
+    {
+      "title": "Real-time Matching",
+      "description": "See matches update instantly as you type your pattern and test string"
+    },
+    {
+      "title": "Match Highlighting",
+      "description": "Visual highlighting of matches and captured groups in your test string"
+    },
+    {
+      "title": "Pattern Explanation",
+      "description": "Get plain English explanations of what your regex pattern does"
+    },
+    {
+      "title": "Pattern Library",
+      "description": "Access a library of common regex patterns for email, URL, phone, and more"
+    },
+    {
+      "title": "Group Capture Display",
+      "description": "See all captured groups with their positions and values"
+    },
+    {
+      "title": "Flags Support",
+      "description": "Test with global, case-insensitive, multiline, and other regex flags"
+    }
+  ],
+  "useCases": [
+    "Testing regex patterns before using in code",
+    "Learning how regular expressions work",
+    "Debugging complex regex patterns",
+    "Validating input patterns",
+    "Extracting data from text"
+  ],
+  "tips": [
+    "Use the pattern library to learn common patterns",
+    "Enable global flag (g) to see all matches, not just the first",
+    "Use the explanation panel to understand each part of your pattern",
+    "Test with various inputs to ensure your pattern works correctly"
+  ]
+}

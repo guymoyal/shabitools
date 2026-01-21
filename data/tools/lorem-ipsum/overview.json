@@ -1,0 +1,40 @@
+{
+  "title": "Lorem Ipsum Generator",
+  "subtitle": "Generate placeholder text",
+  "description": "Generate Lorem Ipsum placeholder text in paragraphs, words, or sentences for design mockups and development testing.",
+  "features": [
+    {
+      "title": "Multiple Formats",
+      "description": "Generate paragraphs, words, or sentences"
+    },
+    {
+      "title": "Customizable Length",
+      "description": "Set exact count for paragraphs, words, or sentences"
+    },
+    {
+      "title": "Copy Functionality",
+      "description": "Copy generated text with one click"
+    },
+    {
+      "title": "HTML Format",
+      "description": "Generate text wrapped in HTML tags"
+    },
+    {
+      "title": "Quick Presets",
+      "description": "Common presets for quick generation"
+    }
+  ],
+  "useCases": [
+    "Design mockups",
+    "Layout testing",
+    "Content placeholders",
+    "Prototype development",
+    "Text length testing"
+  ],
+  "tips": [
+    "Use paragraphs for body text mockups",
+    "Use words for heading placeholders",
+    "HTML format is useful for CMS testing",
+    "Copy text directly to your designs"
+  ]
+}
