@@ -4,11 +4,11 @@ import Overview from '@/components/APITester/Overview/Overview';
 import overviewData from '@/data/tools/api-tester/overview.json';
 
 export const metadata: Metadata = {
-  title: 'API Tester - REST API Testing Tool Online | iziTools',
+  title: 'API Tester - REST API Testing Tool Online | shabitools',
   description: overviewData.description,
   keywords: 'api tester, rest client, http client, api testing, postman alternative, rest api tester',
   alternates: {
-    canonical: 'https://izitools.com/tools/api-tester',
+    canonical: 'https://shabitools.com/tools/api-tester',
   },
 };
 

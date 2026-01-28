@@ -4,11 +4,11 @@ import Overview from '@/components/QRGenerator/Overview/Overview';
 import overviewData from '@/data/tools/qr-generator/overview.json';
 
 export const metadata: Metadata = {
-  title: 'QR Code Generator - Create QR Codes Online Free | iziTools',
+  title: 'QR Code Generator - Create QR Codes Online Free | shabitools',
   description: overviewData.description,
   keywords: 'qr code generator, qr code maker, generate qr code, qr code online, create qr code',
   alternates: {
-    canonical: 'https://izitools.com/tools/qr-generator',
+    canonical: 'https://shabitools.com/tools/qr-generator',
   },
 };
 

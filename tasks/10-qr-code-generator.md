@@ -211,7 +211,7 @@ interface EmailContent {
 
 ### URL
 ```
-https://izitools.com
+https://shabitools.com
 ```
 
 ### WiFi

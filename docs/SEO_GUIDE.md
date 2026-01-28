@@ -1,8 +1,8 @@
-# SEO Guide for iziTools
+# SEO Guide for shabitools
 
 ## Overview
 
-This guide outlines the SEO strategy and implementation for iziTools to ensure maximum search engine visibility and ranking.
+This guide outlines the SEO strategy and implementation for shabitools to ensure maximum search engine visibility and ranking.
 
 ## SEO Implementation
 
@@ -77,8 +77,8 @@ Each page includes:
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "iziTools",
-  "url": "https://izitools.com"
+  "name": "shabitools",
+  "url": "https://shabitools.com"
 }
 ```
 
@@ -99,7 +99,7 @@ Each page includes:
 ## Content Guidelines
 
 ### Title Tags
-- Format: `[Tool Name] - [Brief Description] | iziTools`
+- Format: `[Tool Name] - [Brief Description] | shabitools`
 - Max 60 characters
 - Include primary keyword
 - Brand name at end

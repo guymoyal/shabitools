@@ -48,7 +48,7 @@ The logo combines:
 ```tsx
 <img 
   src="/logo-simple.svg" 
-  alt="iziTools Logo" 
+  alt="shabitools Logo" 
   className="h-8 w-8 dark:brightness-0 dark:invert"
 />
 ```
@@ -57,7 +57,7 @@ The logo combines:
 ```tsx
 <img 
   src="/logo.svg" 
-  alt="iziTools Logo" 
+  alt="shabitools Logo" 
   className="h-32 w-32"
 />
 ```
@@ -76,7 +76,7 @@ The logo uses CSS filters for dark mode:
 ### Tool Icons
 Each tool should have its own icon/logo:
 - **Size**: 64x64px or 128x128px
-- **Style**: Match iziTools brand aesthetic
+- **Style**: Match shabitools brand aesthetic
 - **Format**: SVG preferred
 - **Location**: `/public/tools/[tool-name].svg`
 
@@ -93,7 +93,7 @@ To generate additional logos or tool icons:
 ```
 SKILL:image-creator
 
-Create a logo for iziTools website. Requirements:
+Create a logo for shabitools website. Requirements:
 - Modern, professional design
 - Represents developer tools/utilities
 - Works well as favicon (16x16px, 32x32px)

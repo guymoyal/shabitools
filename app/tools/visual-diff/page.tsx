@@ -4,14 +4,14 @@ import Overview from '@/components/VisualDiff/Overview/Overview';
 import overviewData from '@/data/tools/visual-diff/overview.json';
 
 export const metadata: Metadata = {
-  title: `${overviewData.title} - iziTools`,
+  title: `${overviewData.title} - shabitools`,
   description: overviewData.description,
   keywords: 'website comparison, visual diff, page compare, design comparison, visual testing, QA testing',
   alternates: {
-    canonical: 'https://izitools.com/tools/visual-diff',
+    canonical: 'https://shabitools.com/tools/visual-diff',
   },
   openGraph: {
-    title: `${overviewData.title} - iziTools`,
+    title: `${overviewData.title} - shabitools`,
     description: overviewData.subtitle,
     type: 'website',
   },

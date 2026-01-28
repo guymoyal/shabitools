@@ -1,7 +1,7 @@
 # Logo Generation Status
 
 ## Overview
-Logos for iziTools website and individual tools need to be generated using `SKILL:image-creator`.
+Logos for shabitools website and individual tools need to be generated using `SKILL:image-creator`.
 
 ## Required Logos
 
@@ -23,7 +23,7 @@ Each tool needs an icon/logo:
 - **Sizes**: 64x64px, 128x128px
 - **Format**: SVG preferred, PNG fallback
 - **Requirements**:
-  - Match iziTools brand style
+  - Match shabitools brand style
   - Represent tool's function clearly
   - Simple, flat design
   - Work in both themes
@@ -64,7 +64,7 @@ Each tool needs an icon/logo:
 ```
 SKILL:image-creator
 
-Create a logo for iziTools website. Requirements:
+Create a logo for shabitools website. Requirements:
 - Modern, professional design
 - Represents developer tools/utilities
 - Works well as favicon (16x16px, 32x32px)
@@ -81,7 +81,7 @@ SKILL:image-creator
 
 Create an icon for [TOOL_NAME] tool. Requirements:
 - 128x128px (or SVG scalable)
-- Match iziTools brand style
+- Match shabitools brand style
 - Represent the tool's function: [TOOL_DESCRIPTION]
 - Simple, flat design
 - Work in both light and dark themes

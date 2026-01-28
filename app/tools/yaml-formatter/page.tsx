@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/yaml-formatter',
+  url: 'https://shabitools.com/tools/yaml-formatter',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'YAML Formatter & Validator - Format YAML Online | iziTools',
+  title: 'YAML Formatter & Validator - Format YAML Online | shabitools',
   description: overviewData.description,
   keywords: 'yaml formatter, yaml validator, yaml to json, yaml editor',
   alternates: {
-    canonical: 'https://izitools.com/tools/yaml-formatter',
+    canonical: 'https://shabitools.com/tools/yaml-formatter',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

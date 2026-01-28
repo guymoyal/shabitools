@@ -1,0 +1,41 @@
+{
+  "title": "SVG Optimizer",
+  "subtitle": "Optimize SVG files for web performance",
+  "description": "Optimize SVG files by removing unnecessary elements, reducing file size, and improving web performance. Perfect for icons, illustrations, and scalable graphics.",
+  "features": [
+    {
+      "title": "File Size Reduction",
+      "description": "Remove unnecessary elements and metadata"
+    },
+    {
+      "title": "Path Optimization",
+      "description": "Simplify and optimize SVG paths"
+    },
+    {
+      "title": "Format Conversion",
+      "description": "Convert to optimized SVG format"
+    },
+    {
+      "title": "Preview & Compare",
+      "description": "Visual comparison before/after optimization"
+    },
+    {
+      "title": "Batch Processing",
+      "description": "Optimize multiple SVG files"
+    }
+  ],
+  "useCases": [
+    "Web icon optimization",
+    "Logo and brand asset optimization",
+    "Illustration and graphic optimization",
+    "UI component optimization",
+    "Performance improvement for web applications"
+  ],
+  "tips": [
+    "Remove unnecessary groups and layers in design software",
+    "Use simple shapes when possible",
+    "Avoid embedded raster images in SVGs",
+    "Test optimized SVGs across different browsers",
+    "Use SVG sprites for multiple icons"
+  ]
+}

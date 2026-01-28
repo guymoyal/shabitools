@@ -21,7 +21,7 @@ export default function Header({ data, tools = [] }: HeaderProps) {
           <Link href={data.logo.href} className="flex items-center gap-2 group">
             <img 
               src="/logo-simple.svg" 
-              alt="iziTools Logo" 
+              alt="shabitools Logo" 
               className="h-8 w-8 dark:brightness-0 dark:invert transition-transform group-hover:scale-110"
             />
             <span className="text-2xl font-bold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300">

@@ -40,7 +40,7 @@ pnpm deploy:production
 
 ### 1. **Use Static Site Generation (SSG) When Possible**
 
-For a tools website like iziTools, prioritize static generation:
+For a tools website like shabitools, prioritize static generation:
 
 **Benefits:**
 - ✅ Faster page loads
@@ -108,7 +108,7 @@ const nextConfig = {
 **Setting Variables via CLI:**
 ```bash
 # Set production variable
-wrangler pages project create izitools --production
+wrangler pages project create shabitools --production
 
 # Or set via Cloudflare Dashboard:
 # Dashboard > Pages > Your Project > Settings > Environment Variables
@@ -209,7 +209,7 @@ import tools from '@/data/tools.json';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const toolEntries = tools.map((tool) => ({
-    url: `https://izitools.com${tool.link}`,
+    url: `https://shabitools.com${tool.link}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: tool.featured ? 0.8 : 0.6,
@@ -217,7 +217,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     {
-      url: 'https://izitools.com',
+      url: 'https://shabitools.com',
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
@@ -338,7 +338,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: izitools
+          projectName: shabitools
           directory: .next
 ```
 
@@ -351,7 +351,7 @@ jobs:
 4. Update DNS records as instructed
 
 **DNS Records:**
-- CNAME: `izitools.com` → `your-project.pages.dev`
+- CNAME: `shabitools.com` → `your-project.pages.dev`
 - Or use Cloudflare's automatic DNS management
 
 ### 12. **Monitoring & Analytics**
@@ -450,7 +450,7 @@ wrangler pages deployment tail
 
 ## 🎯 Summary
 
-**For iziTools specifically:**
+**For shabitools specifically:**
 
 1. ✅ **Use SSG** - All tools can be pre-rendered
 2. ✅ **Optimize Images** - Use Next.js Image component

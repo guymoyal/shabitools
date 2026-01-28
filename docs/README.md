@@ -1,10 +1,10 @@
-# izitools
+# shabitools
 
 A comprehensive collection of web tools for developers and general users, built with modern web technologies and optimized for performance and SEO.
 
 ## Overview
 
-**izitools** is a centralized platform hosting a diverse suite of web-based utilities and tools. The project aims to provide developers, designers, and general users with easy-to-access, well-designed tools that solve common problems and streamline workflows.
+**shabitools** is a centralized platform hosting a diverse suite of web-based utilities and tools. The project aims to provide developers, designers, and general users with easy-to-access, well-designed tools that solve common problems and streamline workflows.
 
 ### Key Features
 
@@ -36,7 +36,7 @@ A comprehensive collection of web tools for developers and general users, built 
 ## Project Structure
 
 ```
-izitools/
+shabitools/
 ├── docs/                    # Project documentation
 │   └── README.md           # This file
 ├── tools/                   # Individual tool implementations (separate folder)

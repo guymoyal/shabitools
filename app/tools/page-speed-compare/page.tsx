@@ -4,11 +4,11 @@ import Overview from '@/components/PageSpeedCompare/Overview/Overview';
 import overviewData from '@/data/tools/page-speed-compare/overview.json';
 
 export const metadata: Metadata = {
-  title: 'Page Speed Compare - Test & Compare Website Performance | iziTools',
+  title: 'Page Speed Compare - Test & Compare Website Performance | shabitools',
   description: overviewData.description,
   keywords: 'page speed test, lighthouse compare, website performance, core web vitals, performance comparison',
   alternates: {
-    canonical: 'https://izitools.com/tools/page-speed-compare',
+    canonical: 'https://shabitools.com/tools/page-speed-compare',
   },
 };
 

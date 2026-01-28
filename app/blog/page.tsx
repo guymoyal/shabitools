@@ -3,10 +3,10 @@ import Link from 'next/link';
 import blogData from '@/data/blog.json';
 
 export const metadata: Metadata = {
-  title: 'Blog - iziTools',
-  description: 'Latest news, updates, and tips from iziTools',
+  title: 'Blog - shabitools',
+  description: 'Latest news, updates, and tips from shabitools',
   alternates: {
-    canonical: 'https://izitools.com/blog',
+    canonical: 'https://shabitools.com/blog',
   },
 };
 

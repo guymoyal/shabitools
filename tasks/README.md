@@ -1,6 +1,6 @@
-# iziTools - Development Tasks
+# shabitools - Development Tasks
 
-This folder contains detailed task specifications for 10 developer tools to be added to iziTools. Each task file includes comprehensive requirements covering UI/UX, technical specifications, implementation steps, and reference links.
+This folder contains detailed task specifications for 10 developer tools to be added to shabitools. Each task file includes comprehensive requirements covering UI/UX, technical specifications, implementation steps, and reference links.
 
 ## Task List
 
@@ -109,7 +109,7 @@ Based on SEO value and developer demand:
 
 ## Implementation Notes
 
-- All tools should follow the existing iziTools architecture
+- All tools should follow the existing shabitools architecture
 - Use data-driven content (JSON files in `data/tools/[tool-name]/`)
 - Create Overview components that use JSON data
 - Follow the 4px spacing system

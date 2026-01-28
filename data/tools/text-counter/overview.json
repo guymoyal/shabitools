@@ -1,0 +1,41 @@
+{
+  "title": "Text Counter",
+  "subtitle": "Count words, characters, and more",
+  "description": "Count words, characters, sentences, paragraphs, and lines in your text with detailed statistics. Perfect for content creators, writers, and anyone working with text.",
+  "features": [
+    {
+      "title": "Word Count",
+      "description": "Count total words in the text"
+    },
+    {
+      "title": "Character Count",
+      "description": "Count characters with/without spaces"
+    },
+    {
+      "title": "Sentence & Paragraph Count",
+      "description": "Count sentences and paragraphs"
+    },
+    {
+      "title": "Reading Time",
+      "description": "Estimate reading time based on word count"
+    },
+    {
+      "title": "Keyword Density",
+      "description": "Analyze keyword frequency and density"
+    }
+  ],
+  "useCases": [
+    "Content writing and editing",
+    "SEO content optimization",
+    "Academic writing requirements",
+    "Social media character limits",
+    "Technical documentation"
+  ],
+  "tips": [
+    "Use word count for writing goals",
+    "Check character limits for social media",
+    "Monitor keyword density for SEO",
+    "Use reading time for content planning",
+    "Compare statistics across different texts"
+  ]
+}

@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/csv-to-json',
+  url: 'https://shabitools.com/tools/csv-to-json',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'CSV to JSON Converter - Convert CSV to JSON Online | iziTools',
+  title: 'CSV to JSON Converter - Convert CSV to JSON Online | shabitools',
   description: overviewData.description,
   keywords: 'csv to json, csv converter, json converter, data conversion',
   alternates: {
-    canonical: 'https://izitools.com/tools/csv-to-json',
+    canonical: 'https://shabitools.com/tools/csv-to-json',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

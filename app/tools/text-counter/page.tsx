@@ -3,11 +3,11 @@ import TextCounter from '@/components/TextCounter/TextCounter';
 import Overview from '@/components/TextCounter/Overview/Overview';
 
 export const metadata: Metadata = {
-  title: 'Text Counter - Count Words, Characters, Paragraphs | iziTools',
+  title: 'Text Counter - Count Words, Characters, Paragraphs | shabitools',
   description: 'Count words, characters, and paragraphs in your text',
   keywords: 'text counter, word counter, character counter, text statistics',
   alternates: {
-    canonical: 'https://izitools.com/tools/text-counter',
+    canonical: 'https://shabitools.com/tools/text-counter',
   },
 };
 

@@ -11,7 +11,7 @@
    - ✅ All tool pages include schema in metadata
 
 2. **Page Metadata**
-   - ✅ Unique titles for all pages (format: `[Tool Name] - [Description] | iziTools`)
+   - ✅ Unique titles for all pages (format: `[Tool Name] - [Description] | shabitools`)
    - ✅ Meta descriptions (150-160 characters)
    - ✅ Keywords meta tags
    - ✅ Open Graph tags
@@ -49,7 +49,7 @@
 export default function sitemap() {
   return [
     {
-      url: 'https://izitools.com',
+      url: 'https://shabitools.com',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1,
@@ -69,7 +69,7 @@ export default function robots() {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://izitools.com/sitemap.xml',
+    sitemap: 'https://shabitools.com/sitemap.xml',
   };
 }
 ```
@@ -80,7 +80,7 @@ export default function robots() {
 export const metadata: Metadata = {
   // ...
   alternates: {
-    canonical: `https://izitools.com${tool.link}`,
+    canonical: `https://shabitools.com${tool.link}`,
   },
 };
 ```

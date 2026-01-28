@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Cloudflare Pages Deployment Script for iziTools
+# Cloudflare Pages Deployment Script for shabitools
 # This script builds the site as SSG and deploys to Cloudflare Pages
 
 set -e  # Exit on error
@@ -33,14 +33,14 @@ if ! wrangler whoami &> /dev/null; then
     exit 1
 fi
 
-# Get deployment branch (default to current git branch or 'main')
-BRANCH=${1:-main}
+# Get deployment branch (default to production/main)
+BRANCH=${1:-production}
 if [ "$BRANCH" = "preview" ]; then
     DEPLOY_BRANCH="preview"
     echo -e "${BLUE}📦 Deploying to PREVIEW branch...${NC}"
 elif [ "$BRANCH" = "production" ] || [ "$BRANCH" = "main" ]; then
     DEPLOY_BRANCH="main"
-    echo -e "${BLUE}📦 Deploying to PRODUCTION branch...${NC}"
+    echo -e "${GREEN}📦 Deploying to PRODUCTION (main branch)...${NC}"
 else
     DEPLOY_BRANCH="$BRANCH"
     echo -e "${BLUE}📦 Deploying to branch: $DEPLOY_BRANCH${NC}"

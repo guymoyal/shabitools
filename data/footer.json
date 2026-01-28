@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "iziTools",
+    "name": "shabitools",
     "description": "Free web tools for developers and creators",
     "logo": "/logo.svg"
   },
@@ -56,5 +56,5 @@
       "icon": "twitter"
     }
   ],
-  "copyright": "© 2024 iziTools. All rights reserved."
+  "copyright": "© 2024 shabitools. All rights reserved."
 }

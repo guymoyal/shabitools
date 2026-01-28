@@ -1,8 +1,8 @@
-# iziTools - Complete Project Overview
+# shabitools - Complete Project Overview
 
 ## Project Summary
 
-iziTools is a comprehensive web platform offering free, easy-to-use developer tools, design utilities, and general productivity tools. The project is built with Next.js 14+, TypeScript, React, and Tailwind CSS, following modern web development best practices.
+shabitools is a comprehensive web platform offering free, easy-to-use developer tools, design utilities, and general productivity tools. The project is built with Next.js 14+, TypeScript, React, and Tailwind CSS, following modern web development best practices.
 
 ## Architecture
 
@@ -16,7 +16,7 @@ iziTools is a comprehensive web platform offering free, easy-to-use developer to
 
 ### Project Structure
 ```
-izitools/
+shabitools/
 ├── app/                    # Next.js app directory
 │   ├── layout.tsx        # Root layout with Header/Footer
 │   ├── page.tsx          # Homepage

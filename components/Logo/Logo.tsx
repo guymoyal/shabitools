@@ -13,7 +13,7 @@ export default function Logo({ variant = 'simple', width = 120, height = 40, cla
   return (
     <img
       src={logoPath}
-      alt="iziTools Logo"
+      alt="shabitools Logo"
       width={width}
       height={height}
       className={className}

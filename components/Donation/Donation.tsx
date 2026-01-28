@@ -15,8 +15,8 @@ interface DonationProps {
 
 export default function Donation({
   username,
-  description = 'Support iziTools development',
-  message = 'Enjoying iziTools? Buy me a coffee!',
+  description = 'Support shabitools development',
+  message = 'Enjoying shabitools? Buy me a coffee!',
   color = '#0284c7',
   position = 'Right',
   xMargin = 18,

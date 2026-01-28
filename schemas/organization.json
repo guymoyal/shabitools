@@ -1,11 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "iziTools",
-  "url": "https://izitools.com",
-  "logo": "https://izitools.com/logo.svg",
+  "name": "shabitools",
+  "url": "https://shabitools.com",
+  "logo": "https://shabitools.com/logo.svg",
   "description": "Free web tools for developers and creators",
   "sameAs": [
-    "https://github.com/izitools"
+    "https://github.com/shabitools"
   ]
 }

@@ -90,7 +90,7 @@ You are an expert fullstack developer with deep expertise in frontend UI/UX desi
 
 ## Project-Specific Guidelines
 
-### For iziTools Project
+### For shabitools Project
 
 1. **Data-Driven Components**: Use JSON files in `data/` folder for content
 2. **Tool Structure**: Each tool has its own folder with data files

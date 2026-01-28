@@ -269,7 +269,7 @@ export default function RegexTester() {
                   {matches.map((match, idx) => (
                     <div key={idx} className="p-3 bg-gray-50 dark:bg-gray-700 rounded border border-gray-200 dark:border-gray-600">
                       <div className="text-sm font-mono text-gray-900 dark:text-gray-100 mb-1">
-                        Match {idx + 1}: "{match.match}"
+                        Match {idx + 1}: &quot;{match.match}&quot;
                       </div>
                       <div className="text-xs text-gray-600 dark:text-gray-400">
                         Position: {match.index} - {match.index + match.match.length}
@@ -279,7 +279,7 @@ export default function RegexTester() {
                           <div className="font-semibold text-gray-700 dark:text-gray-300">Groups:</div>
                           {match.groups.map((group, gIdx) => (
                             <div key={gIdx} className="ml-2 text-gray-600 dark:text-gray-400">
-                              Group {gIdx + 1}: "{group}"
+                              Group {gIdx + 1}: &quot;{group}&quot;
                             </div>
                           ))}
                         </div>

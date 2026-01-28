@@ -23,13 +23,13 @@ toolsData.forEach(tool => {
         
         // Add canonical if not present
         if (!metadataContent.includes('alternates')) {
-          const newMetadata = metadataContent.trim() + ',\n  alternates: {\n    canonical: \'https://izitools.com' + tool.link + '\',\n  },';
+          const newMetadata = metadataContent.trim() + ',\n  alternates: {\n    canonical: \'https://shabitools.com' + tool.link + '\',\n  },';
           content = content.replace(metadataMatch[0], `export const metadata: Metadata = {${newMetadata}\n};`);
         } else if (!metadataContent.includes('canonical')) {
           // Add canonical to existing alternates
           content = content.replace(
             /alternates: \{([\s\S]*?)\}/,
-            `alternates: {$1    canonical: 'https://izitools.com${tool.link}',\n  }`
+            `alternates: {$1    canonical: 'https://shabitools.com${tool.link}',\n  }`
           );
         }
         

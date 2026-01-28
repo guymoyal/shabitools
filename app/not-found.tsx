@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '404 - Page Not Found | iziTools',
+  title: '404 - Page Not Found | shabitools',
   description: 'The page you are looking for could not be found.',
 };
 
@@ -16,7 +16,7 @@ export default function NotFound() {
             Page Not Found
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-            Oops! The page you're looking for doesn't exist or has been moved.
+            Oops! The page you&apos;re looking for doesn&apos;t exist or has been moved.
           </p>
         </div>
 
@@ -41,7 +41,7 @@ export default function NotFound() {
             className="p-4 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary-300 dark:hover:border-primary-600 transition-colors"
           >
             <div className="font-semibold text-gray-900 dark:text-gray-100 mb-1">About Us</div>
-            <div className="text-gray-600 dark:text-gray-400">Learn about iziTools</div>
+            <div className="text-gray-600 dark:text-gray-400">Learn about shabitools</div>
           </Link>
           <Link
             href="/contact"

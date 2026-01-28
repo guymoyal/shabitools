@@ -1,6 +1,6 @@
 # SEO Schema Markup
 
-This folder contains JSON-LD structured data schemas for SEO optimization. These schemas help search engines understand the content and structure of iziTools.
+This folder contains JSON-LD structured data schemas for SEO optimization. These schemas help search engines understand the content and structure of shabitools.
 
 ## Schema Files
 

@@ -59,7 +59,7 @@ You are an expert creative product manager with deep knowledge of developer tool
 
 ## Product Recommendations
 
-### Tool Ideas for iziTools
+### Tool Ideas for shabitools
 
 **High Priority Tools** (Based on Market Research):
 1. **Visual Diff Compare** ✅ (Already implemented)

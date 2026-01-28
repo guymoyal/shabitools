@@ -4,11 +4,11 @@ import Overview from '@/components/JSONFormatter/Overview/Overview';
 import overviewData from '@/data/tools/json-formatter/overview.json';
 
 export const metadata: Metadata = {
-  title: 'JSON Formatter & Validator - Format, Validate, Minify JSON | iziTools',
+  title: 'JSON Formatter & Validator - Format, Validate, Minify JSON | shabitools',
   description: overviewData.description,
   keywords: 'json formatter, json validator, json beautifier, format json, json minifier',
   alternates: {
-    canonical: 'https://izitools.com/tools/json-formatter',
+    canonical: 'https://shabitools.com/tools/json-formatter',
   },
 };
 

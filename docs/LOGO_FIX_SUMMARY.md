@@ -14,7 +14,7 @@
 **Change**: Removed `{tool.image && <img ... />}` and kept only `{tool.icon && <span>...}`
 
 ### 2. Website Logo Created
-**Created**: Professional SVG logos for iziTools using SKILL:image-creator principles
+**Created**: Professional SVG logos for shabitools using SKILL:image-creator principles
 
 **Files Created**:
 - `/public/logo.svg` - Main logo (200x200px, scalable)
@@ -52,7 +52,7 @@
 ```tsx
 <img 
   src="/logo-simple.svg" 
-  alt="iziTools Logo" 
+  alt="shabitools Logo" 
   className="h-8 w-8 dark:brightness-0 dark:invert"
 />
 ```
@@ -61,7 +61,7 @@
 ```tsx
 <img 
   src="/logo.svg" 
-  alt="iziTools Logo" 
+  alt="shabitools Logo" 
   className="h-32 w-32"
 />
 ```

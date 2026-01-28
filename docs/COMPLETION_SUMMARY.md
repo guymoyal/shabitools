@@ -1,4 +1,4 @@
-# iziTools - Completion Summary
+# shabitools - Completion Summary
 
 ## ✅ Completed Tasks
 
@@ -68,7 +68,7 @@ To generate logos for the website and tools, use:
 ```
 SKILL:image-creator
 
-Create a logo for iziTools website and icons for all tools listed in data/tools.json.
+Create a logo for shabitools website and icons for all tools listed in data/tools.json.
 Follow the brand guidelines in .ai-rules/image-creator.md
 ```
 

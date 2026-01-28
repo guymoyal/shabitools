@@ -12,10 +12,10 @@ import organizationSchema from '@/schemas/organization.json';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'iziTools - Free Web Tools for Developers',
+  title: 'shabitools - Free Web Tools for Developers',
   description: 'A comprehensive collection of free, easy-to-use web utilities to streamline your workflow and boost productivity',
   keywords: 'web tools, developer tools, free tools, online utilities, productivity tools',
-  authors: [{ name: 'iziTools' }],
+  authors: [{ name: 'shabitools' }],
   robots: {
     index: false,
     follow: false,
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
     apple: '/logo-simple.svg',
   },
   alternates: {
-    canonical: 'https://izitools.com',
+    canonical: 'https://shabitools.com',
   },
   openGraph: {
-    title: 'iziTools - Free Web Tools for Developers',
+    title: 'shabitools - Free Web Tools for Developers',
     description: 'A comprehensive collection of free, easy-to-use web utilities',
     type: 'website',
     images: [
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
         url: '/logo.svg',
         width: 200,
         height: 200,
-        alt: 'iziTools Logo',
+        alt: 'shabitools Logo',
       },
     ],
   },

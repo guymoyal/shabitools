@@ -3,10 +3,10 @@ import Link from 'next/link';
 import contactData from '@/data/contact.json';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - iziTools',
-  description: 'Get in touch with iziTools - We\'d love to hear from you',
+  title: 'Contact Us - shabitools',
+  description: 'Get in touch with shabitools - We\'d love to hear from you',
   alternates: {
-    canonical: 'https://izitools.com/contact',
+    canonical: 'https://shabitools.com/contact',
   },
 };
 

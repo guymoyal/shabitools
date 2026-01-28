@@ -1,6 +1,6 @@
 # Tool Documentation
 
-This directory contains markdown documentation files for each tool in the iziTools platform.
+This directory contains markdown documentation files for each tool in the shabitools platform.
 
 ## Documentation Structure
 

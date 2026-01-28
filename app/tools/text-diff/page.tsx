@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/text-diff',
+  url: 'https://shabitools.com/tools/text-diff',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'Text Diff Tool - Compare Text Files Online | iziTools',
+  title: 'Text Diff Tool - Compare Text Files Online | shabitools',
   description: overviewData.description,
   keywords: 'text diff, text compare, text difference, text comparison',
   alternates: {
-    canonical: 'https://izitools.com/tools/text-diff',
+    canonical: 'https://shabitools.com/tools/text-diff',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/email-validator',
+  url: 'https://shabitools.com/tools/email-validator',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'Email Validator - Validate Email Address Online | iziTools',
+  title: 'Email Validator - Validate Email Address Online | shabitools',
   description: overviewData.description,
   keywords: 'email validator, validate email, email checker, email validation tool',
   alternates: {
-    canonical: 'https://izitools.com/tools/email-validator',
+    canonical: 'https://shabitools.com/tools/email-validator',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

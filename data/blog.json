@@ -1,6 +1,6 @@
 {
-  "title": "iziTools Blog",
-  "subtitle": "Stay updated with the latest news, tips, and updates from iziTools",
+  "title": "shabitools Blog",
+  "subtitle": "Stay updated with the latest news, tips, and updates from shabitools",
   "comingSoon": {
     "icon": "📝",
     "title": "Coming Soon",
@@ -23,7 +23,7 @@
       {
         "icon": "🚀",
         "title": "New Features",
-        "description": "Stay updated on new tools and features we're adding to iziTools.",
+        "description": "Stay updated on new tools and features we're adding to shabitools.",
         "color": "purple"
       },
       {
@@ -35,7 +35,7 @@
       {
         "icon": "📢",
         "title": "Announcements",
-        "description": "Important updates and announcements about iziTools.",
+        "description": "Important updates and announcements about shabitools.",
         "color": "yellow"
       }
     ]

@@ -3,10 +3,10 @@ import Link from 'next/link';
 import termsData from '@/data/terms.json';
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - iziTools',
-  description: 'Terms of Service for iziTools - Read our terms and conditions',
+  title: 'Terms of Service - shabitools',
+  description: 'Terms of Service for shabitools - Read our terms and conditions',
   alternates: {
-    canonical: 'https://izitools.com/terms',
+    canonical: 'https://shabitools.com/terms',
   },
 };
 

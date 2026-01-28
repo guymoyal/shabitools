@@ -3,10 +3,10 @@ import Link from 'next/link';
 import aboutData from '@/data/about.json';
 
 export const metadata: Metadata = {
-  title: 'About Us - iziTools',
-  description: 'Learn about iziTools - Free web tools for developers and creators',
+  title: 'About Us - shabitools',
+  description: 'Learn about shabitools - Free web tools for developers and creators',
   alternates: {
-    canonical: 'https://izitools.com/about',
+    canonical: 'https://shabitools.com/about',
   },
 };
 

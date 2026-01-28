@@ -1,0 +1,41 @@
+{
+  "title": "Color Picker",
+  "subtitle": "Pick colors and get hex codes instantly",
+  "description": "Pick colors from a visual color wheel and get hex, RGB, HSL codes instantly. Perfect for designers, developers, and anyone working with colors in digital projects.",
+  "features": [
+    {
+      "title": "Visual Color Picker",
+      "description": "Interactive color wheel for precise color selection"
+    },
+    {
+      "title": "Multiple Formats",
+      "description": "Get colors in hex, RGB, HSL, and HSV formats"
+    },
+    {
+      "title": "Color History",
+      "description": "Save and reuse previously picked colors"
+    },
+    {
+      "title": "Copy to Clipboard",
+      "description": "One-click copy in any supported format"
+    },
+    {
+      "title": "Color Palette",
+      "description": "Generate complementary color palettes"
+    }
+  ],
+  "useCases": [
+    "Web design color selection",
+    "UI/UX color palette creation",
+    "Brand color specification",
+    "Digital art and graphics",
+    "CSS development"
+  ],
+  "tips": [
+    "Use the color wheel for intuitive color selection",
+    "Copy hex codes for web development",
+    "Save favorite colors for reuse",
+    "Use HSL for fine-tuning saturation and lightness",
+    "Consider color accessibility when designing"
+  ]
+}

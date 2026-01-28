@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/html-encoder',
+  url: 'https://shabitools.com/tools/html-encoder',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'HTML Encoder & Decoder - Escape HTML Entities Online | iziTools',
+  title: 'HTML Encoder & Decoder - Escape HTML Entities Online | shabitools',
   description: overviewData.description,
   keywords: 'html encoder, html decoder, html escape, html entities, xss prevention',
   alternates: {
-    canonical: 'https://izitools.com/tools/html-encoder',
+    canonical: 'https://shabitools.com/tools/html-encoder',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

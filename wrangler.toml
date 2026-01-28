@@ -1,4 +1,4 @@
-name = "izitools"
+name = "shabitools"
 compatibility_date = "2024-01-01"
 
 # Cloudflare Pages configuration
@@ -6,10 +6,10 @@ compatibility_date = "2024-01-01"
 pages_build_output_dir = "out"
 
 [env.production]
-name = "izitools-production"
+name = "shabitools-production"
 
 [env.preview]
-name = "izitools-preview"
+name = "shabitools-preview"
 
 # Environment variables (set via Cloudflare dashboard or CLI)
 # [vars]

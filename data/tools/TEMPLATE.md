@@ -111,7 +111,7 @@ import ToolComponent from '@/components/[ToolName]/[ToolName]';
 import overviewData from '@/data/tools/[tool-name]/overview.json';
 
 export const metadata: Metadata = {
-  title: `${overviewData.title} - iziTools`,
+  title: `${overviewData.title} - shabitools`,
   description: overviewData.description,
   // ...
 };

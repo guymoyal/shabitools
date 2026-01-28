@@ -3,10 +3,10 @@ import Link from 'next/link';
 import privacyData from '@/data/privacy.json';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - iziTools',
-  description: 'Privacy Policy for iziTools - Learn how we protect your data and privacy',
+  title: 'Privacy Policy - shabitools',
+  description: 'Privacy Policy for shabitools - Learn how we protect your data and privacy',
   alternates: {
-    canonical: 'https://izitools.com/privacy',
+    canonical: 'https://shabitools.com/privacy',
   },
 };
 

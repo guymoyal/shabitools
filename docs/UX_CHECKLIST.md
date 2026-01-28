@@ -1,4 +1,4 @@
-# UX Checklist - iziTools
+# UX Checklist - shabitools
 
 ## ✅ Completed UX Improvements
 

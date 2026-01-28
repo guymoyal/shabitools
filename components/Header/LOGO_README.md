@@ -18,7 +18,7 @@ With:
 <Link href={data.logo.href} className="flex items-center">
   <img 
     src="/logo.png" 
-    alt="iziTools Logo" 
+    alt="shabitools Logo" 
     className="h-8 w-auto"
   />
 </Link>
@@ -29,7 +29,7 @@ Or if you want to keep text as fallback:
 <Link href={data.logo.href} className="flex items-center gap-2">
   <img 
     src="/logo.png" 
-    alt="iziTools Logo" 
+    alt="shabitools Logo" 
     className="h-8 w-auto"
   />
   <span className="text-2xl font-bold text-primary-600">{data.logo.text}</span>

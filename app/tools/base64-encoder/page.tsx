@@ -4,11 +4,11 @@ import Overview from '@/components/Base64Encoder/Overview/Overview';
 import overviewData from '@/data/tools/base64-encoder/overview.json';
 
 export const metadata: Metadata = {
-  title: 'Base64 Encoder & Decoder - Encode Decode Base64 Online | iziTools',
+  title: 'Base64 Encoder & Decoder - Encode Decode Base64 Online | shabitools',
   description: overviewData.description,
   keywords: 'base64 encoder, base64 decoder, base64 image, encode base64, decode base64, data url',
   alternates: {
-    canonical: 'https://izitools.com/tools/base64-encoder',
+    canonical: 'https://shabitools.com/tools/base64-encoder',
   },
 };
 

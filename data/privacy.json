@@ -4,14 +4,14 @@
   "sections": [
     {
       "title": "Introduction",
-      "content": "Welcome to iziTools. We are committed to protecting your privacy and ensuring transparency about how we handle your data. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our website."
+      "content": "Welcome to shabitools. We are committed to protecting your privacy and ensuring transparency about how we handle your data. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our website."
     },
     {
       "title": "Information We Collect",
       "subsections": [
         {
           "title": "Data Processed Locally",
-          "content": "iziTools is designed with privacy in mind. Most of our tools process data entirely in your browser, meaning your data never leaves your device.",
+          "content": "shabitools is designed with privacy in mind. Most of our tools process data entirely in your browser, meaning your data never leaves your device.",
           "points": [
             "Your input data is processed in your browser",
             "No data is sent to our servers",
@@ -21,7 +21,7 @@
         },
         {
           "title": "Automatically Collected Information",
-          "content": "Like most websites, we automatically collect certain information when you visit iziTools:",
+          "content": "Like most websites, we automatically collect certain information when you visit shabitools:",
           "points": [
             "IP address (anonymized)",
             "Browser type and version",
@@ -109,7 +109,7 @@
       "title": "Contact Us",
       "content": "If you have any questions about this Privacy Policy, please contact us:",
       "contact": {
-        "email": "privacy@izitools.com",
+        "email": "privacy@shabitools.com",
         "contactPage": "/contact"
       }
     }

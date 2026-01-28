@@ -68,6 +68,7 @@ export default function TimestampConverter() {
     if (input) {
       convert();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [input, inputType, timezone]);
 
   const copyValue = (value: string) => {

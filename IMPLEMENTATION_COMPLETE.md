@@ -1,4 +1,4 @@
-# ✅ iziTools - Implementation Complete
+# ✅ shabitools - Implementation Complete
 
 ## 🎉 All Tasks Completed Successfully!
 
@@ -78,7 +78,7 @@
 ```
 SKILL:image-creator
 
-Create a logo for iziTools website. Requirements:
+Create a logo for shabitools website. Requirements:
 - Modern, professional design
 - Represents developer tools/utilities
 - Works well as favicon (16x16px, 32x32px)
@@ -90,7 +90,7 @@ Create a logo for iziTools website. Requirements:
 Also create icons for all 18 tools listed in data/tools.json.
 Each tool icon should:
 - Be 128x128px (or SVG scalable)
-- Match iziTools brand style
+- Match shabitools brand style
 - Represent the tool's function clearly
 - Simple, flat design
 - Work in both themes
@@ -141,7 +141,7 @@ Each tool icon should:
 ## 📁 File Structure
 
 ```
-izitools/
+shabitools/
 ├── app/                    # Next.js pages
 ├── components/             # React components (all support dark theme)
 ├── data/                   # JSON content files

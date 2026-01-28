@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://izitools.com';
+  const baseUrl = 'https://shabitools.com';
   
   // Temporarily disallow all pages from being indexed
   return {

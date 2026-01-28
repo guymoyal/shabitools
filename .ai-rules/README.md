@@ -44,7 +44,7 @@ Expert AI image and logo creator specializing in generating professional graphic
 - Style consistency and brand guidelines
 - Free and paid AI generation options
 
-**Usage**: Add `SKILL:image-creator` to your prompt when you need to generate logos, icons, or visual assets for iziTools.
+**Usage**: Add `SKILL:image-creator` to your prompt when you need to generate logos, icons, or visual assets for shabitools.
 
 ## How to Use
 
@@ -98,7 +98,7 @@ Design and implement a new tool that solves a common developer pain point. Inclu
 **Image creation prompt**:
 ```
 SKILL:image-creator
-Create a logo for iziTools and icons for the JSON Formatter and Regex Tester tools.
+Create a logo for shabitools and icons for the JSON Formatter and Regex Tester tools.
 ```
 
 ## Skill Activation
@@ -132,9 +132,9 @@ To add a new skill:
 - **Be Specific**: Use skills when you need specialized expertise
 - **Combine When Needed**: Use multiple skills for complex tasks
 - **Keep Updated**: Regularly update skill files with new learnings
-- **Project Context**: Skills are tailored for iziTools project
+- **Project Context**: Skills are tailored for shabitools project
 - **Clear Prompts**: Still write clear prompts, skills enhance context
 
 ---
 
-**Note**: These skills are designed specifically for the iziTools project context and can be customized as needed.
+**Note**: These skills are designed specifically for the shabitools project context and can be customized as needed.

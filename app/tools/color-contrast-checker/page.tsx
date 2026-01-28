@@ -4,11 +4,11 @@ import Overview from '@/components/ColorContrastChecker/Overview/Overview';
 import overviewData from '@/data/tools/color-contrast-checker/overview.json';
 
 export const metadata: Metadata = {
-  title: 'Color Contrast Checker - WCAG Accessibility Compliance Tool | iziTools',
+  title: 'Color Contrast Checker - WCAG Accessibility Compliance Tool | shabitools',
   description: overviewData.description,
   keywords: 'color contrast checker, wcag checker, accessibility checker, contrast ratio, color accessibility',
   alternates: {
-    canonical: 'https://izitools.com/tools/color-contrast-checker',
+    canonical: 'https://shabitools.com/tools/color-contrast-checker',
   },
 };
 

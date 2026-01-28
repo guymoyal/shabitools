@@ -1,0 +1,45 @@
+{
+  "title": "Password Generator",
+  "subtitle": "Generate secure random passwords",
+  "description": "Generate secure random passwords with customizable length, character types, and strength indicators. Perfect for creating strong passwords for accounts, applications, and security.",
+  "features": [
+    {
+      "title": "Custom Length",
+      "description": "Set password length from 4 to 128 characters"
+    },
+    {
+      "title": "Character Types",
+      "description": "Include uppercase, lowercase, numbers, and symbols"
+    },
+    {
+      "title": "Strength Indicator",
+      "description": "Real-time password strength evaluation"
+    },
+    {
+      "title": "Copy to Clipboard",
+      "description": "One-click copy for easy use"
+    },
+    {
+      "title": "Multiple Passwords",
+      "description": "Generate multiple passwords at once"
+    },
+    {
+      "title": "Secure Generation",
+      "description": "Cryptographically secure random generation"
+    }
+  ],
+  "useCases": [
+    "Creating secure account passwords",
+    "Generating API keys and tokens",
+    "Setting up user accounts",
+    "Security testing and demonstrations",
+    "Password policy compliance"
+  ],
+  "tips": [
+    "Use at least 12 characters for strong passwords",
+    "Include all character types for maximum security",
+    "Avoid using predictable patterns",
+    "Use a unique password for each account",
+    "Consider using a password manager"
+  ]
+}

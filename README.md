@@ -1,4 +1,4 @@
-# iziTools
+# shabitools
 
 A comprehensive collection of web tools for developers and general users, built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -84,7 +84,7 @@ Each tool added to the tabs or menu should have a corresponding markdown file in
 
 ### Cloudflare Pages
 
-This project is configured for Cloudflare Pages deployment. See [suggestions.md](./suggestions.md) for detailed deployment guide and best practices.
+This project is configured for Cloudflare Pages deployment. See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment guide and best practices.
 
 **Quick Deploy:**
 ```bash

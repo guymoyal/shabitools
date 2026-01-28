@@ -1,8 +1,8 @@
-# Deployment Guide for iziTools
+# Deployment Guide for shabitools
 
 ## Overview
 
-This guide explains how to build and deploy iziTools to Cloudflare Pages as a Static Site Generation (SSG) site.
+This guide explains how to build and deploy shabitools to Cloudflare Pages as a Static Site Generation (SSG) site.
 
 ## Prerequisites
 
@@ -39,7 +39,7 @@ pnpm cf:whoami
 
 After creating a Pages project in Cloudflare dashboard, you'll need:
 
-- **Project Name**: Your project name (e.g., "izitools")
+- **Project Name**: Your project name (e.g., "shabitools")
 - **Account ID**: Found in Cloudflare dashboard URL or via API
 - **Pages Project Name**: The name you gave your Pages project
 
@@ -92,14 +92,13 @@ You should see:
 ### Method 1: Using npm/pnpm Scripts (Recommended)
 
 ```bash
-# Deploy to production (main branch)
+# Deploy to production (main branch) - DEFAULT
+pnpm deploy
+# OR explicitly:
 pnpm deploy:production
 
 # Deploy to preview branch
 pnpm deploy:preview
-
-# Deploy to default branch
-pnpm deploy
 ```
 
 ### Method 2: Using Deployment Script
@@ -113,7 +112,9 @@ chmod +x scripts/deploy.sh
 Then run:
 
 ```bash
-# Deploy to production
+# Deploy to production (default) - RECOMMENDED
+./scripts/deploy.sh
+# OR explicitly:
 ./scripts/deploy.sh production
 
 # Deploy to preview

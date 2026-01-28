@@ -1,11 +1,11 @@
 {
   "title": "Frequently Asked Questions",
-  "description": "Everything you need to know about iziTools",
+  "description": "Everything you need to know about shabitools",
   "items": [
     {
       "id": "1",
       "question": "Are the tools free to use?",
-      "answer": "Yes, all tools on iziTools are completely free to use. There are no signups required, no hidden costs, and no limitations on usage."
+      "answer": "Yes, all tools on shabitools are completely free to use. There are no signups required, no hidden costs, and no limitations on usage."
     },
     {
       "id": "2",
@@ -30,7 +30,7 @@
     {
       "id": "6",
       "question": "Do you support mobile devices?",
-      "answer": "Yes, all tools are fully responsive and optimized for mobile, tablet, and desktop devices. Use iziTools anywhere, anytime."
+      "answer": "Yes, all tools are fully responsive and optimized for mobile, tablet, and desktop devices. Use shabitools anywhere, anytime."
     }
   ]
 }

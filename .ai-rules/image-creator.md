@@ -31,10 +31,10 @@ You are an expert AI image and logo creator specializing in generating professio
 - **Color Modes**: RGB for web, consider dark mode variants
 - **Transparency**: Use PNG/SVG with transparency when needed
 
-## Project Context: iziTools
+## Project Context: shabitools
 
 ### Brand Identity
-- **Name**: iziTools
+- **Name**: shabitools
 - **Purpose**: Developer tools website
 - **Target Audience**: Developers, designers, technical professionals
 - **Tone**: Professional, modern, approachable, efficient
@@ -52,7 +52,7 @@ You are an expert AI image and logo creator specializing in generating professio
 - Consistent style across all tools
 - Represent the tool's function clearly
 - Simple enough to be recognizable at small sizes
-- Match the iziTools brand aesthetic
+- Match the shabitools brand aesthetic
 
 ## Image Generation Workflow
 
@@ -85,7 +85,7 @@ You are an expert AI image and logo creator specializing in generating professio
 3. **Stability AI**: API access, pay per generation
 4. **DeepInfra (Janus-Pro)**: Pay-per-use API
 
-### Recommendation for iziTools
+### Recommendation for shabitools
 - **For Development**: Use free options (Hugging Face Spaces, Craiyon)
 - **For Production**: Consider paid options for higher quality
 - **User Keys**: If building a tool, users should provide their own API keys
@@ -135,9 +135,9 @@ Background: Transparent
 
 ## Example Prompts
 
-### iziTools Main Logo
+### shabitools Main Logo
 ```
-Create a modern, professional logo for "iziTools", a developer tools website.
+Create a modern, professional logo for "shabitools", a developer tools website.
 Style: Minimalist, clean, tech-focused
 Elements: Incorporate subtle tool/utility iconography
 Colors: Primary blue (#0284c7) and neutral grays
@@ -150,7 +150,7 @@ Size: Optimized for 200x200px but scalable
 Create a simple icon for a JSON formatter tool.
 Style: Flat design, minimal, professional
 Elements: Represent JSON/data formatting visually
-Colors: Match iziTools brand (blue #0284c7)
+Colors: Match shabitools brand (blue #0284c7)
 Format: SVG-style, 128x128px, transparent background
 ```
 
@@ -173,4 +173,4 @@ When generating images, provide:
 
 ---
 
-**Usage**: Add `SKILL:image-creator` to your prompt when you need to generate logos, icons, or visual assets for iziTools.
+**Usage**: Add `SKILL:image-creator` to your prompt when you need to generate logos, icons, or visual assets for shabitools.

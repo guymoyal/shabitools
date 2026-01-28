@@ -1,6 +1,6 @@
 # Monetization Guide - Easy 3rd Party Scripts Integration
 
-This guide provides step-by-step instructions for adding monetization scripts to iziTools.
+This guide provides step-by-step instructions for adding monetization scripts to shabitools.
 
 ## 🎯 Quick Overview
 
@@ -45,8 +45,8 @@ import Donation from '@/components/Donation';
 // Add before closing </footer> tag
 <Donation 
   username="your-username"  // Replace with your username
-  description="Support iziTools development"
-  message="Enjoying iziTools? Buy me a coffee!"
+  description="Support shabitools development"
+  message="Enjoying shabitools? Buy me a coffee!"
   color="#0284c7"  // Your brand color
   position="Right"
 />
@@ -80,8 +80,8 @@ import Script from 'next/script';
   data-cfasync="false"
   src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
   data-id="your-username"
-  data-description="Support iziTools development"
-  data-message="Enjoying iziTools? Buy me a coffee!"
+  data-description="Support shabitools development"
+  data-message="Enjoying shabitools? Buy me a coffee!"
   data-color="#0284c7"
   data-position="Right"
   data-x_margin="18"
@@ -117,7 +117,7 @@ import Script from 'next/script';
 1. Go to [Google AdSense](https://www.google.com/adsense)
 2. Sign in with your Google account
 3. Click "Get Started"
-4. Add your website URL (e.g., `izitools.com` or your domain)
+4. Add your website URL (e.g., `shabitools.com` or your domain)
 5. Select your country and payment method
 6. Submit for review
 

@@ -1,9 +1,9 @@
 {
-  "title": "About iziTools",
+  "title": "About shabitools",
   "subtitle": "Empowering developers and creators with free, easy-to-use web tools",
   "mission": {
     "title": "Our Mission",
-    "content": "At iziTools, we believe that powerful web tools should be accessible to everyone. Our mission is to provide a comprehensive collection of free, easy-to-use utilities that help developers, designers, and creators streamline their workflow and boost productivity.",
+    "content": "At shabitools, we believe that powerful web tools should be accessible to everyone. Our mission is to provide a comprehensive collection of free, easy-to-use utilities that help developers, designers, and creators streamline their workflow and boost productivity.",
     "commitment": "We're committed to building tools that are fast, reliable, and privacy-focused. Most of our tools process data entirely in your browser, ensuring your information never leaves your device."
   },
   "offerings": [
@@ -45,12 +45,12 @@
     {
       "icon": "📱",
       "title": "Accessible Everywhere",
-      "content": "Our tools work seamlessly across all devices - desktop, tablet, and mobile. Use iziTools anywhere, anytime."
+      "content": "Our tools work seamlessly across all devices - desktop, tablet, and mobile. Use shabitools anywhere, anytime."
     }
   ],
   "technology": {
     "title": "Built with Modern Technology",
-    "content": "iziTools is built using cutting-edge web technologies to ensure the best user experience:",
+    "content": "shabitools is built using cutting-edge web technologies to ensure the best user experience:",
     "stack": [
       {
         "name": "Next.js 14+",
@@ -72,7 +72,7 @@
   },
   "getInvolved": {
     "title": "Get Involved",
-    "content": "We're always looking to improve and expand iziTools. Here's how you can help:",
+    "content": "We're always looking to improve and expand shabitools. Here's how you can help:",
     "ways": [
       {
         "title": "Suggest a tool",
@@ -84,7 +84,7 @@
         "description": "Found a bug or have feedback? We'd love to hear from you"
       },
       {
-        "title": "Share iziTools",
+        "title": "Share shabitools",
         "description": "Help others discover our tools by sharing with your network"
       }
     ]

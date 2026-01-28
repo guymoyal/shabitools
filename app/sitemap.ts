@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import toolsData from '@/data/tools.json';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://izitools.com';
+  const baseUrl = 'https://shabitools.com';
   
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [

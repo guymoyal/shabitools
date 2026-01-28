@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/json-diff',
+  url: 'https://shabitools.com/tools/json-diff',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'JSON Diff Tool - Compare JSON Objects Online | iziTools',
+  title: 'JSON Diff Tool - Compare JSON Objects Online | shabitools',
   description: overviewData.description,
   keywords: 'json diff, json compare, json difference, json comparison',
   alternates: {
-    canonical: 'https://izitools.com/tools/json-diff',
+    canonical: 'https://shabitools.com/tools/json-diff',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

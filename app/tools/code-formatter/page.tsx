@@ -4,11 +4,11 @@ import Overview from '@/components/CodeFormatter/Overview/Overview';
 import overviewData from '@/data/tools/code-formatter/overview.json';
 
 export const metadata: Metadata = {
-  title: 'Code Formatter - Format Code in Multiple Languages | iziTools',
+  title: 'Code Formatter - Format Code in Multiple Languages | shabitools',
   description: overviewData.description,
   keywords: 'code formatter, javascript formatter, python formatter, code beautifier, format code',
   alternates: {
-    canonical: 'https://izitools.com/tools/code-formatter',
+    canonical: 'https://shabitools.com/tools/code-formatter',
   },
 };
 

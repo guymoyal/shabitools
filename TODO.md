@@ -1,4 +1,4 @@
-# iziTools - TODO & Roadmap
+# shabitools - TODO & Roadmap
 
 ## 🎯 Planned Tools (First Phase)
 
@@ -94,8 +94,8 @@ import Donation from '@/components/Donation';
 // Add before closing </footer> tag
 <Donation 
   username="your-username" 
-  description="Support iziTools development"
-  message="Enjoying iziTools? Buy me a coffee!"
+  description="Support shabitools development"
+  message="Enjoying shabitools? Buy me a coffee!"
   color="#0284c7"
   position="Right"
 />

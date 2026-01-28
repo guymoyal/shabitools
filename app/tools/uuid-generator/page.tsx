@@ -3,11 +3,11 @@ import UUIDGenerator from '@/components/UUIDGenerator/UUIDGenerator';
 import Overview from '@/components/UUIDGenerator/Overview/Overview';
 
 export const metadata: Metadata = {
-  title: 'UUID Generator - Generate UUIDs Online | iziTools',
+  title: 'UUID Generator - Generate UUIDs Online | shabitools',
   description: 'Generate RFC 4122 compliant UUIDs',
   keywords: 'uuid generator, guid generator, unique identifier',
   alternates: {
-    canonical: 'https://izitools.com/tools/uuid-generator',
+    canonical: 'https://shabitools.com/tools/uuid-generator',
   },
 };
 

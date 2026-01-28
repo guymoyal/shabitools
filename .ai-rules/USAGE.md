@@ -23,7 +23,7 @@ Create a new JSON formatter tool component. It should:
 ```
 SKILL:product
 
-Research and recommend 5 new developer tools we should add to iziTools.
+Research and recommend 5 new developer tools we should add to shabitools.
 Consider:
 - Market demand and search volume
 - Ease of implementation
@@ -37,7 +37,7 @@ Consider:
 ```
 SKILL:image-creator
 
-Create a logo for iziTools website. Requirements:
+Create a logo for shabitools website. Requirements:
 - Modern, professional design
 - Represents developer tools/utilities
 - Works well as favicon (small size)
@@ -50,7 +50,7 @@ Also create icons for:
 2. Regex Tester tool
 3. Base64 Encoder tool
 
-All icons should match the iziTools brand style.
+All icons should match the shabitools brand style.
 ```
 
 ### Example 4: Combined Skills
@@ -72,7 +72,7 @@ Design and implement a new "Code Formatter" tool. Include:
 ```
 SKILL:image-creator
 
-Generate icons for these iziTools:
+Generate icons for these shabitools:
 1. Page Speed Compare - represents performance/analytics
 2. Color Contrast Checker - represents accessibility/colors
 3. QR Code Generator - represents QR codes/barcodes
@@ -80,7 +80,7 @@ Generate icons for these iziTools:
 5. CSS Minifier - represents optimization/compression
 
 Style: Flat design, minimal, professional
-Colors: Match iziTools brand (#0284c7 primary blue)
+Colors: Match shabitools brand (#0284c7 primary blue)
 Size: 128x128px each
 Format: SVG preferred, PNG fallback
 Background: Transparent

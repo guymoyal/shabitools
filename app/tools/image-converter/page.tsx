@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/image-converter',
+  url: 'https://shabitools.com/tools/image-converter',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'Image Format Converter - Convert Images Online | iziTools',
+  title: 'Image Format Converter - Convert Images Online | shabitools',
   description: overviewData.description,
   keywords: 'image converter, image format converter, png to jpeg, jpeg to webp, image conversion',
   alternates: {
-    canonical: 'https://izitools.com/tools/image-converter',
+    canonical: 'https://shabitools.com/tools/image-converter',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/jwt-decoder',
+  url: 'https://shabitools.com/tools/jwt-decoder',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'JWT Decoder & Validator - Decode JSON Web Tokens Online | iziTools',
+  title: 'JWT Decoder & Validator - Decode JSON Web Tokens Online | shabitools',
   description: overviewData.description,
   keywords: 'jwt decoder, jwt validator, decode jwt, jwt token, json web token',
   alternates: {
-    canonical: 'https://izitools.com/tools/jwt-decoder',
+    canonical: 'https://shabitools.com/tools/jwt-decoder',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

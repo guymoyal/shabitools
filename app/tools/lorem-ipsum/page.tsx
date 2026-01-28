@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/lorem-ipsum',
+  url: 'https://shabitools.com/tools/lorem-ipsum',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'Lorem Ipsum Generator - Generate Placeholder Text | iziTools',
+  title: 'Lorem Ipsum Generator - Generate Placeholder Text | shabitools',
   description: overviewData.description,
   keywords: 'lorem ipsum generator, placeholder text, dummy text, lorem ipsum online',
   alternates: {
-    canonical: 'https://izitools.com/tools/lorem-ipsum',
+    canonical: 'https://shabitools.com/tools/lorem-ipsum',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

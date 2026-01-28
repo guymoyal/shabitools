@@ -77,7 +77,7 @@ Added canonical URLs to:
 All pages now include:
 ```typescript
 alternates: {
-  canonical: 'https://izitools.com/tools/[tool-name]',
+  canonical: 'https://shabitools.com/tools/[tool-name]',
 }
 ```
 

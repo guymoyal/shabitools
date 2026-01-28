@@ -8,7 +8,7 @@ import faqData from '@/data/faq.json';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: 'https://izitools.com',
+    canonical: 'https://shabitools.com',
   },
 };
 

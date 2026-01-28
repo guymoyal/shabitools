@@ -5,15 +5,15 @@
   "contacts": [
     {
       "title": "General Inquiries",
-      "email": "contact@izitools.com"
+      "email": "contact@shabitools.com"
     },
     {
       "title": "Privacy & Legal",
-      "email": "privacy@izitools.com"
+      "email": "privacy@shabitools.com"
     },
     {
       "title": "Support",
-      "email": "support@izitools.com"
+      "email": "support@shabitools.com"
     }
   ],
   "helpCategories": [
@@ -32,7 +32,7 @@
     {
       "icon": "💬",
       "title": "Feedback",
-      "description": "Share your thoughts on how we can improve iziTools.",
+      "description": "Share your thoughts on how we can improve shabitools.",
       "color": "green"
     },
     {

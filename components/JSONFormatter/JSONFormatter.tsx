@@ -23,6 +23,7 @@ export default function JSONFormatter() {
 
   useEffect(() => {
     validateAndFormat();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [input, indentSize]);
 
   const validateAndFormat = () => {
@@ -105,7 +106,7 @@ export default function JSONFormatter() {
 
   const renderTree = (data: any, level = 0): JSX.Element => {
     if (data === null) return <span className="text-gray-500 dark:text-gray-400">null</span>;
-    if (typeof data === 'string') return <span className="text-green-600 dark:text-green-400">"{data}"</span>;
+    if (typeof data === 'string') return <span className="text-green-600 dark:text-green-400">&quot;{data}&quot;</span>;
     if (typeof data === 'number') return <span className="text-blue-600 dark:text-blue-400">{data}</span>;
     if (typeof data === 'boolean') return <span className="text-purple-600 dark:text-purple-400">{data.toString()}</span>;
 
@@ -131,7 +132,7 @@ export default function JSONFormatter() {
           <span className="text-gray-600 dark:text-gray-400">{'{'}</span>
           {keys.map((key, idx) => (
             <div key={key} className="ml-4">
-              <span className="text-red-600 dark:text-red-400">"{key}"</span>
+              <span className="text-red-600 dark:text-red-400">&quot;{key}&quot;</span>
               <span className="text-gray-600 dark:text-gray-400">: </span>
               {renderTree(data[key], level + 1)}
               {idx < keys.length - 1 && <span className="text-gray-600 dark:text-gray-400">,</span>}

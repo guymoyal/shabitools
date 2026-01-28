@@ -1,0 +1,41 @@
+{
+  "title": "Hash Generator",
+  "subtitle": "Generate cryptographic hashes",
+  "description": "Generate MD5, SHA1, SHA256, SHA512 and other cryptographic hashes for data integrity verification, password storage, and security applications.",
+  "features": [
+    {
+      "title": "Multiple Algorithms",
+      "description": "Support for MD5, SHA1, SHA256, SHA512, and more"
+    },
+    {
+      "title": "File Hashing",
+      "description": "Generate hashes from text or uploaded files"
+    },
+    {
+      "title": "HMAC Support",
+      "description": "Generate HMAC hashes with custom keys"
+    },
+    {
+      "title": "Copy & Compare",
+      "description": "Easy copy and hash comparison"
+    },
+    {
+      "title": "Secure Processing",
+      "description": "Client-side processing for security"
+    }
+  ],
+  "useCases": [
+    "File integrity verification",
+    "Password hashing for storage",
+    "Digital signatures",
+    "Blockchain and cryptography",
+    "Data validation and checksums"
+  ],
+  "tips": [
+    "Use SHA256 or higher for security applications",
+    "MD5 is deprecated for security - use only for checksums",
+    "File hashing processes client-side for privacy",
+    "HMAC provides additional security with secret keys",
+    "Compare hashes to verify data integrity"
+  ]
+}

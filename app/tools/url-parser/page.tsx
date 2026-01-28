@@ -8,16 +8,16 @@ const schema = {
   ...toolSchema,
   name: overviewData.title,
   description: overviewData.description,
-  url: 'https://izitools.com/tools/url-parser',
+  url: 'https://shabitools.com/tools/url-parser',
   featureList: overviewData.features.map((f: any) => f.title),
 };
 
 export const metadata: Metadata = {
-  title: 'URL Parser & Analyzer - Parse URLs Online | iziTools',
+  title: 'URL Parser & Analyzer - Parse URLs Online | shabitools',
   description: overviewData.description,
   keywords: 'url parser, url analyzer, url components, seo url',
   alternates: {
-    canonical: 'https://izitools.com/tools/url-parser',
+    canonical: 'https://shabitools.com/tools/url-parser',
   },
   other: {
     'application/ld+json': JSON.stringify(schema),

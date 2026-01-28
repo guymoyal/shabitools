@@ -10,7 +10,7 @@
     "priceCurrency": "USD"
   },
   "description": "[TOOL_DESCRIPTION]",
-  "url": "https://izitools.com[TOOL_LINK]",
+  "url": "https://shabitools.com[TOOL_LINK]",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",
