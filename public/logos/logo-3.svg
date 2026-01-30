@@ -18,5 +18,5 @@
   <circle cx="67" cy="17" r="1.5" fill="none" stroke="#0ea5e9" stroke-width="1"/>
   
   <!-- Text -->
-  <text x="75" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0284c7">iziTools</text>
+  <text x="75" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0284c7">shabitools</text>
 </svg>

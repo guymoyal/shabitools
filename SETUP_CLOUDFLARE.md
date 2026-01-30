@@ -49,7 +49,7 @@ Once the project exists, deploy:
 
 ```bash
 # Make sure you're in the project directory
-cd /Users/guym/Projects/izitools
+cd /Users/guym/Projects/shabitools
 
 # Build the site
 pnpm build
