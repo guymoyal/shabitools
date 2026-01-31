@@ -1,92 +1,75 @@
 # shabitools
 
-A comprehensive collection of web tools for developers and general users, built with Next.js, TypeScript, and Tailwind CSS.
+A comprehensive collection of free web tools for developers and creators, built with Next.js, TypeScript, and Tailwind CSS.
 
-## Getting Started
+## 🚀 Features
 
-### Prerequisites
+- ✅ **28+ Free Tools** - JSON Formatter, Regex Tester, Visual Page Compare, and more
+- ✅ **Dark Mode** - Complete dark theme support
+- ✅ **Responsive Design** - Mobile-first, works on all devices
+- ✅ **SEO Optimized** - Structured data, meta tags, sitemap
+- ✅ **Fast & Modern** - Built with Next.js 14 and React 18
 
-- Node.js 18+ 
-- pnpm (recommended package manager)
-
-### Installation
-
-```bash
-pnpm install
-```
-
-### Development
-
-Run the development server:
-
-```bash
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-### Build
-
-Build the production version:
-
-```bash
-pnpm build
-```
-
-### Start Production Server
-
-```bash
-pnpm start
-```
-
-### Linting
-
-```bash
-pnpm lint
-```
-
-## Project Structure
-
-- `app/` - Next.js app directory with pages and layouts
-- `components/` - Reusable React components (Header, Hero, Tabs, FAQ, Footer, Search)
-- `data/` - JSON data files for component content
-  - `data/tools/` - Tool-specific content data (each tool has its own folder)
-- `types/` - TypeScript type definitions
-- `tools/` - Individual tool implementations (separate folder)
-- `docs/` - Project documentation
-  - `docs/tools/` - Individual tool documentation (MD files)
-- `public/` - Static assets
-
-## Content Management
-
-All tool content is stored in JSON files for easy editing:
-
-- **Main Data**: `data/header.json`, `data/hero.json`, `data/tabs.json`, etc.
-- **Tool Data**: `data/tools/[tool-name]/overview.json`, `instructions.json`, `examples.json`
-- **Benefits**: Non-developers can update content without touching code
-
-## Tool Documentation
-
-Each tool added to the tabs or menu should have a corresponding markdown file in `docs/tools/[tool-name].md` documenting:
-- Tool purpose and features
-- Usage instructions
-- Examples
-- Screenshots (if applicable)
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Next.js 14** - React framework with SSR/SSG
 - **TypeScript** - Type-safe development
 - **Tailwind CSS** - Utility-first CSS framework
-- **React 18** - UI library
+- **Playwright** - Automated testing
 
-## Deployment
+## 📦 Installation
 
-### Cloudflare Pages
+```bash
+# Install dependencies
+pnpm install
 
-This project is configured for Cloudflare Pages deployment. See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment guide and best practices.
+# Install Playwright browsers (for testing)
+pnpm exec playwright install
+```
 
-**Quick Deploy:**
+## 🚀 Development
+
+```bash
+# Start dev server
+pnpm dev
+
+# Build for production
+pnpm build
+
+# Run tests
+pnpm test
+```
+
+## 📋 Available Tools
+
+### Developer Tools
+- JSON Formatter & Validator
+- Regex Tester
+- Base64 Encoder/Decoder
+- API Tester
+- Visual Page Compare ⭐
+- Page Speed Compare
+- Markdown Editor
+- Code Formatter
+- And more...
+
+### Design Tools
+- Color Contrast Checker
+- Color Palette Generator
+- Image Converter
+- And more...
+
+### General Tools
+- QR Code Generator
+- Password Generator
+- Text Counter
+- Lorem Ipsum Generator
+- And more...
+
+## 🚀 Deployment
+
+### Deploy to Cloudflare Pages
+
 ```bash
 # Login to Cloudflare
 pnpm cf:login
@@ -95,66 +78,55 @@ pnpm cf:login
 pnpm deploy:production
 ```
 
-## Monetization
+See [DEPLOYMENT_STEPS.md](./DEPLOYMENT_STEPS.md) for detailed instructions.
 
-See [MONETIZATION.md](./MONETIZATION.md) for detailed step-by-step guides on:
-- Buy Me a Coffee integration (5-minute setup)
-- Google AdSense setup (easy ads integration)
-- Carbon Ads (developer-focused alternative)
+## 📊 Testing
 
-## Roadmap & TODO
+```bash
+# Run all tests
+pnpm test
 
-See [TODO.md](./TODO.md) for planned tools, monetization strategy, and implementation checklist.
+# Run in UI mode
+pnpm test:ui
 
-## AI Rules & Skills
+# Run simple checks
+pnpm test:simple
+```
 
-This project includes AI skill definitions for specialized expertise. See [.ai-rules/README.md](./.ai-rules/README.md) for details.
+## 💰 Monetization
 
-**Available Skills**:
-- `SKILL:developer` - Expert fullstack developer & frontend UI specialist
-- `SKILL:product` - Expert product manager & research specialist
-- `SKILL:image-creator` - Expert AI image and logo creator
+- **Buy Me a Coffee** - Direct donations (username: guymo)
+- **Google AdSense** - Display ads (Publisher ID: ca-pub-2858012859068424)
+- See [ADS_IMPLEMENTATION_GUIDE.md](./ADS_IMPLEMENTATION_GUIDE.md) for details
 
-Use these skills in prompts to activate specialized context and expertise.
+## 📚 Documentation
 
-## Features
+- [Launch Strategy](./LAUNCH_STRATEGY.md) - Launch plan and recommendations
+- [Deployment Guide](./DEPLOYMENT_STEPS.md) - Step-by-step deployment
+- [AdSense Setup](./ADSENSE_SETUP.md) - AdSense implementation guide
+- [Testing Checklist](./TESTING_CHECKLIST.md) - Manual testing guide
+- [Git Setup](./GIT_SETUP.md) - Git repository setup
 
-- ✅ **Dark Theme**: Complete dark mode support with theme toggle
-- ✅ **SEO Optimized**: Structured data schemas, meta tags, optimized content
-- ✅ **Data-Driven**: All content from JSON files (easy updates)
-- ✅ **Organized Tools**: Categorized by type and usage
-- ✅ **Search Functionality**: Quick tool discovery
-- ✅ **Responsive Design**: Mobile-first, fully responsive
-- ✅ **Accessibility**: ARIA labels, keyboard navigation
-- ✅ **30 Task Files**: Ready for future tool development
+## 🎯 Project Structure
 
-## Documentation
+```
+shabitools/
+├── app/                    # Next.js pages
+├── components/             # React components
+├── data/                   # JSON content files
+├── tests/                  # Playwright tests
+├── public/                 # Static assets
+└── docs/                   # Documentation
+```
 
-- **[Project Overview](./docs/PROJECT_OVERVIEW.md)** - Complete project architecture and structure
-- **[SEO Guide](./docs/SEO_GUIDE.md)** - Comprehensive SEO strategy and implementation
-- **[UX Checklist](./docs/UX_CHECKLIST.md)** - UX improvements and best practices
-- **[Logo Guide](./docs/LOGO_GUIDE.md)** - How to generate logos using SKILL:image-creator
-- **[Tool Documentation](./docs/tools/)** - Individual tool documentation (18 tools)
-- **[Task Files](./tasks/)** - 30 detailed task specifications for new tools
+## 📝 License
 
-## Implementation Status
+© 2024 shabitools. All rights reserved.
 
-✅ **All core improvements complete!**
+## 🙏 Support
 
-- ✅ Header improved (shorter search, contact removed)
-- ✅ Tools organized by categories and usage
-- ✅ All tools have 20-40 word descriptions
-- ✅ 18 tool documentation files created
-- ✅ 20 additional task files created (30 total)
-- ✅ SEO schemas implemented
-- ✅ Dark theme system complete
-- ✅ All content from JSON files
-- ✅ Comprehensive documentation
+Enjoying shabitools? [Buy me a coffee](https://buymeacoffee.com/guymo) ☕
 
-**See [IMPLEMENTATION_COMPLETE.md](./IMPLEMENTATION_COMPLETE.md) for full details.**
+---
 
-## Learn More
-
-See the [documentation](./docs/README.md) for more details about the project architecture, development guidelines, and SEO strategy.
-
-See [suggestions.md](./suggestions.md) for Cloudflare deployment best practices and optimization tips.
+**Built with ❤️ for developers**
