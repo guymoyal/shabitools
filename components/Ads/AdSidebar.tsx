@@ -21,14 +21,14 @@ export default function AdSidebar({ adSlot, className = '' }: AdSidebarProps) {
     <>
       <Script
         async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2858012859068424"
         crossOrigin="anonymous"
         strategy="lazyOnload"
       />
       <ins
         className={`adsbygoogle ${className}`}
         style={{ display: 'block', width: '300px', height: '250px' }}
-        data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
+        data-ad-client="ca-pub-2858012859068424"
         data-ad-slot={adSlot}
         data-ad-format="rectangle"
       />

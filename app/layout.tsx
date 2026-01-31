@@ -4,6 +4,7 @@ import './globals.css';
 import Header from '@/components/Header/Header';
 import Footer from '@/components/Footer/Footer';
 import BuyMeACoffee from '@/components/BuyMeACoffee/BuyMeACoffee';
+import AutoAds from '@/components/Ads/AutoAds';
 import headerData from '@/data/header.json';
 import footerData from '@/data/footer.json';
 import toolsData from '@/data/tools.json';
@@ -61,6 +62,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="light">
       <body className={`${inter.className} bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors`}>
+        <AutoAds />
         <Header data={headerData} tools={toolsData} />
         <main>{children}</main>
         <Footer data={footerData} />

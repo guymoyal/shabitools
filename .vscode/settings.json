@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.root": "/out",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.open": "/",
+  "liveServer.settings.file": "index.html"
+}

@@ -7,6 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "test": "playwright test",
+    "test:simple": "playwright test tests/simple-check.spec.ts",
+    "test:ui": "playwright test --ui",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "test:mobile": "playwright test --project='Mobile Chrome'",
+    "test:report": "playwright show-report",
     "deploy": "pnpm build && wrangler pages deploy out --branch main",
     "deploy:preview": "pnpm build && wrangler pages deploy out --branch preview",
     "deploy:production": "pnpm build && wrangler pages deploy out --branch main",
@@ -24,6 +32,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.40.0",
     "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
