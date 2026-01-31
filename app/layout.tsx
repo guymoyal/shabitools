@@ -51,6 +51,7 @@ export const metadata: Metadata = {
   },
   other: {
     'application/ld+json': JSON.stringify([websiteSchema, organizationSchema]),
+    'google-adsense-account': 'ca-pub-2858012859068424',
   },
 };
 
