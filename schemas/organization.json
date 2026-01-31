@@ -3,7 +3,7 @@
   "@type": "Organization",
   "name": "shabitools",
   "url": "https://shabitools.com",
-  "logo": "https://shabitools.com/logo.svg",
+  "logo": "https://shabitools.com/images/logo.png",
   "description": "Free web tools for developers and creators",
   "sameAs": [
     "https://github.com/shabitools"

@@ -22,21 +22,6 @@ export default function Footer({ data }: FooterProps) {
                 {data.brand.description}
               </p>
             </div>
-            <div className="flex gap-4">
-              {data.social.map((social) => (
-                <a
-                  key={social.name}
-                  href={social.href}
-                  className="text-gray-400 hover:text-gray-300 transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label={social.name}
-                >
-                  <span className="sr-only">{social.name}</span>
-                  <span className="text-xl">{social.icon === 'github' ? '📦' : '🐦'}</span>
-                </a>
-              ))}
-            </div>
           </div>
           <div className="mt-12 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-8">

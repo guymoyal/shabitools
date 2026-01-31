@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header/Header';
 import Footer from '@/components/Footer/Footer';
+import BuyMeACoffee from '@/components/BuyMeACoffee/BuyMeACoffee';
 import headerData from '@/data/header.json';
 import footerData from '@/data/footer.json';
 import toolsData from '@/data/tools.json';
@@ -17,21 +18,19 @@ export const metadata: Metadata = {
   keywords: 'web tools, developer tools, free tools, online utilities, productivity tools',
   authors: [{ name: 'shabitools' }],
   robots: {
-    index: false,
-    follow: false,
-    nocache: true,
+    index: true,
+    follow: true,
     googleBot: {
-      index: false,
-      follow: false,
-      noimageindex: true,
+      index: true,
+      follow: true,
       'max-video-preview': -1,
       'max-image-preview': 'large',
       'max-snippet': -1,
     },
   },
   icons: {
-    icon: '/logo-simple.svg',
-    apple: '/logo-simple.svg',
+    icon: '/images/logo.png',
+    apple: '/images/logo.png',
   },
   alternates: {
     canonical: 'https://shabitools.com',
@@ -42,7 +41,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/logo.svg',
+        url: '/images/logo.png',
         width: 200,
         height: 200,
         alt: 'shabitools Logo',
@@ -65,6 +64,7 @@ export default function RootLayout({
         <Header data={headerData} tools={toolsData} />
         <main>{children}</main>
         <Footer data={footerData} />
+        <BuyMeACoffee variant="floating" />
       </body>
     </html>
   );

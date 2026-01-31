@@ -1,16 +1,61 @@
-import { Metadata } from 'next';
+'use client';
+
+import { useState } from 'react';
 import Link from 'next/link';
 import contactData from '@/data/contact.json';
 
-export const metadata: Metadata = {
-  title: 'Contact Us - shabitools',
-  description: 'Get in touch with shabitools - We\'d love to hear from you',
-  alternates: {
-    canonical: 'https://shabitools.com/contact',
-  },
-};
-
 export default function ContactPage() {
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    subject: '',
+    message: '',
+    type: 'feedback',
+  });
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+    setFormData({
+      ...formData,
+      [e.target.name]: e.target.value,
+    });
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+    setSubmitStatus('idle');
+
+    // Create mailto link with form data
+    const subject = encodeURIComponent(`[${formData.type.toUpperCase()}] ${formData.subject || 'Feedback from shabitools'}`);
+    const body = encodeURIComponent(
+      `Name: ${formData.name}\n` +
+      `Email: ${formData.email}\n` +
+      `Type: ${formData.type}\n` +
+      `Subject: ${formData.subject}\n\n` +
+      `Message:\n${formData.message}`
+    );
+    
+    const mailtoLink = `mailto:contact@shabitools.com?subject=${subject}&body=${body}`;
+    
+    // Open email client
+    window.location.href = mailtoLink;
+    
+    // Show success message
+    setTimeout(() => {
+      setSubmitStatus('success');
+      setIsSubmitting(false);
+      setFormData({
+        name: '',
+        email: '',
+        subject: '',
+        message: '',
+        type: 'feedback',
+      });
+    }, 500);
+  };
+
   const getColorClasses = (color: string) => {
     const colors: Record<string, string> = {
       blue: 'bg-blue-50 dark:bg-blue-900/20 border-blue-200 dark:border-blue-800',
@@ -33,9 +78,117 @@ export default function ContactPage() {
           </p>
         </div>
 
-        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 md:p-12">
-          <div className="grid md:grid-cols-2 gap-8 mb-8">
-            <div>
+        <div className="grid md:grid-cols-2 gap-8 mb-8">
+          {/* Feedback Form */}
+          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
+            <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-6">
+              Send Us Feedback
+            </h2>
+            
+            {submitStatus === 'success' && (
+              <div className="mb-6 p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg">
+                <p className="text-green-800 dark:text-green-200 text-sm">
+                  ✓ Thank you! Your email client should open. If not, please email us at contact@shabitools.com
+                </p>
+              </div>
+            )}
+
+            <form onSubmit={handleSubmit} className="space-y-6">
+              <div>
+                <label htmlFor="type" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  Type of Message
+                </label>
+                <select
+                  id="type"
+                  name="type"
+                  value={formData.type}
+                  onChange={handleChange}
+                  className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                  required
+                >
+                  <option value="feedback">General Feedback</option>
+                  <option value="bug">Bug Report</option>
+                  <option value="suggestion">Tool Suggestion</option>
+                  <option value="partnership">Partnership Inquiry</option>
+                  <option value="other">Other</option>
+                </select>
+              </div>
+
+              <div>
+                <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  Your Name
+                </label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  value={formData.name}
+                  onChange={handleChange}
+                  className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                  required
+                />
+              </div>
+
+              <div>
+                <label htmlFor="email" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  Your Email
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                  required
+                />
+              </div>
+
+              <div>
+                <label htmlFor="subject" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  Subject
+                </label>
+                <input
+                  type="text"
+                  id="subject"
+                  name="subject"
+                  value={formData.subject}
+                  onChange={handleChange}
+                  className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+                  placeholder="Brief description of your message"
+                  required
+                />
+              </div>
+
+              <div>
+                <label htmlFor="message" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                  Message
+                </label>
+                <textarea
+                  id="message"
+                  name="message"
+                  value={formData.message}
+                  onChange={handleChange}
+                  rows={6}
+                  className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-primary-500 focus:border-transparent resize-none"
+                  placeholder="Tell us what's on your mind..."
+                  required
+                />
+              </div>
+
+              <button
+                type="submit"
+                disabled={isSubmitting}
+                className="w-full bg-primary-600 dark:bg-primary-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 dark:hover:bg-primary-600 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              >
+                {isSubmitting ? 'Sending...' : 'Send Feedback'}
+              </button>
+            </form>
+          </div>
+
+          {/* Contact Info */}
+          <div className="space-y-8">
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
               <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Get in Touch</h2>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                 {contactData.description}
@@ -55,7 +208,7 @@ export default function ContactPage() {
               </div>
             </div>
 
-            <div>
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
               <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">What Can We Help With?</h2>
               <div className="space-y-4">
                 {contactData.helpCategories.map((category: any, index: number) => (
@@ -66,27 +219,27 @@ export default function ContactPage() {
                 ))}
               </div>
             </div>
-          </div>
 
-          <div className="pt-8 border-t border-gray-200 dark:border-gray-700">
-            <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-4">{contactData.responseTime.title}</h2>
-            <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-              {contactData.responseTime.content}
-            </p>
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8">
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-4">{contactData.responseTime.title}</h2>
+              <p className="text-gray-700 dark:text-gray-300 leading-relaxed text-sm">
+                {contactData.responseTime.content}
+              </p>
+            </div>
           </div>
+        </div>
 
-          <div className="mt-8 p-6 rounded-lg bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700">
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">{contactData.faq.title}</h3>
-            <p className="text-sm text-gray-600 dark:text-gray-300 mb-3">
-              {contactData.faq.content}
-            </p>
-            <Link
-              href={contactData.faq.link}
-              className="inline-flex items-center text-primary-600 dark:text-primary-400 hover:underline font-medium"
-            >
-              {contactData.faq.linkText} →
-            </Link>
-          </div>
+        <div className="mt-8 p-6 rounded-lg bg-white dark:bg-gray-800 shadow-lg border border-gray-200 dark:border-gray-700">
+          <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">{contactData.faq.title}</h3>
+          <p className="text-sm text-gray-600 dark:text-gray-300 mb-3">
+            {contactData.faq.content}
+          </p>
+          <Link
+            href={contactData.faq.link}
+            className="inline-flex items-center text-primary-600 dark:text-primary-400 hover:underline font-medium"
+          >
+            {contactData.faq.linkText} →
+          </Link>
         </div>
       </div>
     </div>

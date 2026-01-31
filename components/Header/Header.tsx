@@ -20,9 +20,9 @@ export default function Header({ data, tools = [] }: HeaderProps) {
         <div className="flex items-center gap-x-4 lg:gap-x-12">
           <Link href={data.logo.href} className="flex items-center gap-2 group">
             <img 
-              src="/logo-simple.svg" 
+              src="/images/logo.png" 
               alt="shabitools Logo" 
-              className="h-8 w-8 dark:brightness-0 dark:invert transition-transform group-hover:scale-110"
+              className="h-10 w-auto transition-transform group-hover:scale-110"
             />
             <span className="text-2xl font-bold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300">
               {data.logo.text}
@@ -70,14 +70,6 @@ export default function Header({ data, tools = [] }: HeaderProps) {
               )}
             </button>
           </div>
-          <div className="hidden lg:flex">
-            <Link
-              href={data.cta.href}
-              className="rounded-md bg-primary-600 dark:bg-primary-500 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 dark:hover:bg-primary-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 dark:focus-visible:outline-primary-500 transition-colors whitespace-nowrap"
-            >
-              {data.cta.label}
-            </Link>
-          </div>
         </div>
       </nav>
 
@@ -105,15 +97,6 @@ export default function Header({ data, tools = [] }: HeaderProps) {
                   {item.label}
                 </Link>
               ))}
-            </div>
-            <div className="pt-4 border-t border-gray-200 dark:border-gray-800">
-              <Link
-                href={data.cta.href}
-                onClick={() => setMobileMenuOpen(false)}
-                className="block w-full text-center rounded-md bg-primary-600 dark:bg-primary-500 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 dark:hover:bg-primary-600 transition-colors"
-              >
-                {data.cta.label}
-              </Link>
             </div>
           </div>
         </div>
