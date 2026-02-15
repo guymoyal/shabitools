@@ -14,9 +14,9 @@ import organizationSchema from '@/schemas/organization.json';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'shabitools - Free Web Tools for Developers',
-  description: 'A comprehensive collection of free, easy-to-use web utilities to streamline your workflow and boost productivity',
-  keywords: 'web tools, developer tools, free tools, online utilities, productivity tools',
+  title: 'shabitools - Free Developer Tools Hub | Code Tools & Developer Apps',
+  description: 'Free developer tools hub with 28+ code tools, developer apps, and dev tools. JSON formatter, regex tester, API tester, and more free tools for developers.',
+  keywords: 'dev tools, developer tools, developers free tools, developers apps, code tools, developer tools hub, free tools, web tools, online utilities, productivity tools, developer utilities, coding tools, programming tools',
   authors: [{ name: 'shabitools' }],
   robots: {
     index: true,
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
     canonical: 'https://shabitools.com',
   },
   openGraph: {
-    title: 'shabitools - Free Web Tools for Developers',
-    description: 'A comprehensive collection of free, easy-to-use web utilities',
+    title: 'shabitools - Free Developer Tools Hub | Code Tools & Developer Apps',
+    description: 'Free developer tools hub with 28+ code tools, developer apps, and dev tools. JSON formatter, regex tester, API tester, and more.',
     type: 'website',
     images: [
       {
