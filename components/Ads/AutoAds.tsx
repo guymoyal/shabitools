@@ -11,7 +11,7 @@ export default function AutoAds() {
   return (
     <Script
       async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2858012859068424"
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2201239508910470"
       crossOrigin="anonymous"
       strategy="afterInteractive"
     />
