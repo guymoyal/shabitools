@@ -4,7 +4,8 @@
   "sections": [
     {
       "title": "Agreement to Terms",
-      "content": "By accessing and using shabitools (\"the Service\"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service."
+      "content": "By accessing and using shabitools (\"the Service\"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.",
+      "note": "This website uses Google AdSense for advertising. By using this site, you acknowledge that Google AdSense may display advertisements and use cookies as described in our Privacy Policy."
     },
     {
       "title": "Use License",
@@ -72,7 +73,7 @@
       "title": "Contact Information",
       "content": "If you have any questions about these Terms of Service, please contact us:",
       "contact": {
-        "email": "legal@shabitools.com",
+        "email": "guysites1@gmail.com",
         "contactPage": "/contact"
       }
     }

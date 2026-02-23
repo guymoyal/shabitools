@@ -69,18 +69,6 @@ export default function AboutPage() {
           </section>
 
           <section>
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">{aboutData.technology.title}</h2>
-            <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-              {aboutData.technology.content}
-            </p>
-            <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-              {aboutData.technology.stack.map((tech: any, index: number) => (
-                <li key={index}><strong>{tech.name}</strong> - {tech.description}</li>
-              ))}
-            </ul>
-          </section>
-
-          <section>
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">{aboutData.getInvolved.title}</h2>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
               {aboutData.getInvolved.content}

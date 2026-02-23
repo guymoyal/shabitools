@@ -21,6 +21,42 @@ export default function Overview() {
             </div>
           </div>
 
+          {overviewData.pros && overviewData.pros.length > 0 && (
+            <div className="mb-8">
+              <h3 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Pros</h3>
+              <ul className="list-disc list-inside space-y-2 text-green-700 dark:text-green-400">
+                {overviewData.pros.map((pro: string, idx: number) => (
+                  <li key={idx}>{pro}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {overviewData.cons && overviewData.cons.length > 0 && (
+            <div className="mb-8">
+              <h3 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Cons</h3>
+              <ul className="list-disc list-inside space-y-2 text-red-700 dark:text-red-400">
+                {overviewData.cons.map((con: string, idx: number) => (
+                  <li key={idx}>{con}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {overviewData.bestFor && (
+            <div className="mb-8">
+              <h3 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Best For</h3>
+              <p className="text-lg text-gray-700 dark:text-gray-300">{overviewData.bestFor}</p>
+            </div>
+          )}
+
+          {overviewData.technicalVerdict && (
+            <div className="mb-8">
+              <h3 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Technical Verdict</h3>
+              <p className="text-lg text-gray-700 dark:text-gray-300">{overviewData.technicalVerdict}</p>
+            </div>
+          )}
+
           <div className="mb-8">
             <h3 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">Use Cases</h3>
             <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300">

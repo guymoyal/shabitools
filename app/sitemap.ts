@@ -33,12 +33,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   // Tool pages
-  const toolPages = toolsData.map((tool) => ({
-    url: `${baseUrl}${tool.link}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: tool.featured ? 0.8 : 0.6,
-  }));
+  const toolPages = toolsData
+    .filter((tool) => tool.status === 'published')
+    .map((tool) => ({
+      url: `${baseUrl}${tool.link}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: tool.featured ? 0.8 : 0.6,
+    }));
 
   return [...staticPages, ...toolPages];
 }

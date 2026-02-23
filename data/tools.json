@@ -8,7 +8,8 @@
     "icon": "📄",
     "tags": ["json", "formatter", "validator", "developer"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Regex Tester",
@@ -19,7 +20,8 @@
     "icon": "🔤",
     "tags": ["regex", "regular expression", "tester", "developer", "pattern"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Base64 Encoder",
@@ -30,7 +32,8 @@
     "icon": "🔐",
     "tags": ["base64", "encode", "decode", "developer"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "API Tester",
@@ -41,7 +44,8 @@
     "icon": "🔌",
     "tags": ["api", "rest", "http", "tester", "developer"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Visual Page Compare",
@@ -151,7 +155,8 @@
     "icon": "🎨",
     "tags": ["color", "picker", "hex", "rgb", "designer"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Image Compressor",
@@ -184,7 +189,8 @@
     "icon": "📱",
     "tags": ["qr", "code", "generator", "general"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Password Generator",
@@ -195,7 +201,8 @@
     "icon": "🔒",
     "tags": ["password", "generator", "security", "general"],
     "featured": true,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Text Counter",
@@ -228,7 +235,8 @@
     "icon": "📝",
     "tags": ["lorem", "ipsum", "placeholder", "text", "designer"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Timestamp Converter",
@@ -283,7 +291,8 @@
     "icon": "✉️",
     "tags": ["email", "validator", "validation", "developer"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "JSON to CSV",
@@ -317,6 +326,7 @@
     "tags": ["image", "converter", "format", "designer"],
     "featured": false,
     "usage": "high",
+    "status": "published",
     "backendRequired": true
   },
   {
@@ -385,7 +395,8 @@
     "icon": "🎨",
     "tags": ["color", "palette", "generator", "designer"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "JSON to YAML Converter",
@@ -429,7 +440,8 @@
     "icon": "🔤",
     "tags": ["text", "case", "converter", "format", "general"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "URL Slug Generator",
@@ -440,7 +452,8 @@
     "icon": "🔗",
     "tags": ["url", "slug", "seo", "generator", "general"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "CSS Gradient Generator",
@@ -451,7 +464,8 @@
     "icon": "🌈",
     "tags": ["css", "gradient", "generator", "designer", "color"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Favicon Generator",
@@ -484,7 +498,8 @@
     "icon": "🎨",
     "tags": ["color", "shades", "generator", "designer", "palette"],
     "featured": false,
-    "usage": "high"
+    "usage": "high",
+    "status": "published"
   },
   {
     "title": "Text to Slug Converter",

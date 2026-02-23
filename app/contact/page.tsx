@@ -37,7 +37,7 @@ export default function ContactPage() {
       `Message:\n${formData.message}`
     );
     
-    const mailtoLink = `mailto:contact@shabitools.com?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:guysites1@gmail.com?subject=${subject}&body=${body}`;
     
     // Open email client
     window.location.href = mailtoLink;
@@ -88,7 +88,7 @@ export default function ContactPage() {
             {submitStatus === 'success' && (
               <div className="mb-6 p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg">
                 <p className="text-green-800 dark:text-green-200 text-sm">
-                  ✓ Thank you! Your email client should open. If not, please email us at contact@shabitools.com
+                  ✓ Thank you! Your email client should open. If not, please email us at guysites1@gmail.com
                 </p>
               </div>
             )}

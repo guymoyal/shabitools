@@ -45,7 +45,7 @@
     },
     {
       "title": "Third-Party Services",
-      "content": "We may use third-party services that have their own privacy policies:",
+      "content": "We use third-party services that have their own privacy policies:",
       "services": [
         {
           "name": "Analytics",
@@ -53,7 +53,7 @@
         },
         {
           "name": "Advertising",
-          "description": "We may display advertisements through third-party ad networks"
+          "description": "We display advertisements through Google AdSense. AdSense may use cookies and similar technologies to serve personalized ads based on your browsing history and interests. You can opt out of personalized advertising by visiting Google's Ad Settings."
         },
         {
           "name": "Hosting",
@@ -64,7 +64,7 @@
     },
     {
       "title": "Cookies",
-      "content": "We may use cookies and similar tracking technologies to enhance your experience. Cookies are small data files stored on your device. You can control cookie preferences through your browser settings.",
+      "content": "We use cookies and similar tracking technologies to enhance your experience and serve advertisements. Cookies are small data files stored on your device. You can control cookie preferences through your browser settings.",
       "cookieTypes": [
         {
           "name": "Essential cookies",
@@ -73,6 +73,10 @@
         {
           "name": "Analytics cookies",
           "description": "Help us understand how visitors interact with our site"
+        },
+        {
+          "name": "Advertising cookies",
+          "description": "Used by Google AdSense to serve relevant advertisements and measure ad performance. These cookies may track your browsing activity across websites to show you personalized ads."
         },
         {
           "name": "Preference cookies",
@@ -109,7 +113,7 @@
       "title": "Contact Us",
       "content": "If you have any questions about this Privacy Policy, please contact us:",
       "contact": {
-        "email": "privacy@shabitools.com",
+        "email": "guysites1@gmail.com",
         "contactPage": "/contact"
       }
     }

@@ -1,28 +1,28 @@
 {
   "title": "About shabitools",
-  "subtitle": "Empowering developers and creators with free, easy-to-use web tools",
+  "subtitle": "Free web tools for developers and creators",
   "mission": {
-    "title": "Our Mission",
-    "content": "At shabitools, we believe that powerful web tools should be accessible to everyone. Our mission is to provide a comprehensive collection of free, easy-to-use utilities that help developers, designers, and creators streamline their workflow and boost productivity.",
-    "commitment": "We're committed to building tools that are fast, reliable, and privacy-focused. Most of our tools process data entirely in your browser, ensuring your information never leaves your device."
+    "title": "What We Do",
+    "content": "shabitools provides free, practical web tools that help developers, designers, and creators get their work done faster. Whether you need to format code, convert files, validate data, or check colors, we've got tools that work right in your browser.",
+    "commitment": "Everything is free to use. No signups required. Most tools process your data locally in your browser, so your information never leaves your device."
   },
   "offerings": [
     {
       "icon": "🛠️",
       "title": "Developer Tools",
-      "description": "Code formatters, validators, encoders, and more to help you code faster and better.",
+      "description": "Code formatters, validators, encoders, and utilities for everyday development tasks.",
       "color": "blue"
     },
     {
       "icon": "🎨",
       "title": "Design Tools",
-      "description": "Color palettes, contrast checkers, and visual utilities for designers.",
+      "description": "Color tools, contrast checkers, and visual utilities for designers.",
       "color": "purple"
     },
     {
       "icon": "⚡",
-      "title": "Productivity Tools",
-      "description": "General utilities to make your daily tasks easier and more efficient.",
+      "title": "General Utilities",
+      "description": "Useful tools for common tasks like password generation, QR codes, and text processing.",
       "color": "green"
     }
   ],
@@ -30,68 +30,46 @@
     {
       "icon": "🔒",
       "title": "Privacy First",
-      "content": "Your data is yours. Most of our tools run entirely in your browser, meaning we never see, store, or transmit your information."
+      "content": "Your data stays on your device. Most tools run entirely in your browser, so we never see or store your information."
     },
     {
       "icon": "🆓",
-      "title": "Free Forever",
-      "content": "All our tools are completely free to use. No signups, no hidden costs, no limitations."
+      "title": "Completely Free",
+      "content": "All tools are free to use. No signups, no hidden costs, no limits on usage."
     },
     {
       "icon": "⚡",
-      "title": "Fast & Reliable",
-      "content": "We optimize for speed and reliability. Our tools are built with modern web technologies to ensure the best performance."
+      "title": "Fast & Simple",
+      "content": "Tools load quickly and work immediately. No complicated setup or configuration needed."
     },
     {
       "icon": "📱",
-      "title": "Accessible Everywhere",
-      "content": "Our tools work seamlessly across all devices - desktop, tablet, and mobile. Use shabitools anywhere, anytime."
+      "title": "Works Everywhere",
+      "content": "Use shabitools on any device - desktop, tablet, or mobile. All tools are responsive and work across platforms."
     }
   ],
-  "technology": {
-    "title": "Built with Modern Technology",
-    "content": "shabitools is built using cutting-edge web technologies to ensure the best user experience:",
-    "stack": [
-      {
-        "name": "Next.js 14+",
-        "description": "React framework with server-side rendering"
-      },
-      {
-        "name": "TypeScript",
-        "description": "Type-safe development for reliability"
-      },
-      {
-        "name": "Tailwind CSS",
-        "description": "Modern, responsive styling"
-      },
-      {
-        "name": "Cloudflare Pages",
-        "description": "Fast, global content delivery"
-      }
-    ]
-  },
   "getInvolved": {
-    "title": "Get Involved",
-    "content": "We're always looking to improve and expand shabitools. Here's how you can help:",
+    "title": "Have Feedback?",
+    "content": "We're always looking to improve. Here's how you can help:",
     "ways": [
       {
         "title": "Suggest a tool",
-        "description": "Have an idea for a new tool? Let us know",
+        "description": "Have an idea for a new tool? Contact us with your suggestion",
         "link": "/contact"
       },
       {
         "title": "Report issues",
-        "description": "Found a bug or have feedback? We'd love to hear from you"
+        "description": "Found a bug or have feedback? Contact us and we'll look into it"
       },
       {
-        "title": "Share shabitools",
-        "description": "Help others discover our tools by sharing with your network"
+        "title": "Share with others",
+        "description": "Help others discover our tools by sharing shabitools with your network"
       }
     ]
   },
   "cta": {
     "title": "Ready to Get Started?",
-    "content": "Explore our collection of free web tools and find the perfect utility for your needs.",
+    "content": "Browse our collection of free web tools and find what you need.",
     "buttonText": "Browse All Tools",
     "link": "/tools"
   }

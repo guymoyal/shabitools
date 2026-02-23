@@ -1,7 +1,7 @@
 {
   "title": "JWT Decoder & Validator",
   "subtitle": "Decode and validate JSON Web Tokens",
-  "description": "Decode JWT tokens to view header, payload, and signature. Check expiration status and validate tokens with optional secret verification.",
+  "description": "JWT Decoder helps you inspect and validate JSON Web Tokens. It decodes the header and payload so you can see what's inside a token, checks expiration status, and optionally validates the signature. Useful for debugging authentication issues and understanding token structure.",
   "features": [
     {
       "title": "Token Decoding",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Formatted Display",
-      "description": "Pretty-printed JSON for easy reading"
+      "description": "Pretty-printed JSON makes token contents easy to read"
     },
     {
       "title": "Token History",
@@ -29,12 +29,26 @@
     "Inspecting JWT payloads",
     "Validating token signatures",
     "Checking token expiration",
-    "Learning JWT structure"
+    "Learning JWT structure and format"
   ],
   "tips": [
-    "JWT tokens have three parts: header.payload.signature",
-    "Never share your secret key publicly",
-    "Check expiration before using tokens",
-    "Use token history for quick access"
-  ]
+    "JWT tokens have three parts separated by dots: header.payload.signature",
+    "Never share your secret key publicly when validating signatures",
+    "Always check expiration before using tokens in production",
+    "Use token history to quickly access tokens you're working with"
+  ],
+  "pros": [
+    "Decoding happens instantly without sending tokens to a server.",
+    "Pretty-printed JSON makes token contents easy to read.",
+    "Expiration checking helps catch expired tokens before use.",
+    "Token history saves time when working with multiple tokens."
+  ],
+  "cons": [
+    "Signature validation requires you to enter the secret key manually.",
+    "Can't verify tokens against remote authentication servers.",
+    "No support for refreshing expired tokens automatically.",
+    "Very large tokens may be difficult to read in the interface."
+  ],
+  "bestFor": "Developers working with JWT-based authentication who need to debug tokens, inspect payloads, or validate signatures. Useful for understanding token structure, debugging authentication issues, and learning how JWTs work.",
+  "technicalVerdict": "This JWT decoder handles the core tasks developers need when working with tokens. The instant decoding is useful because you can quickly see what's in a token without setting up API calls. The pretty-printed JSON display makes it much easier to read token contents compared to raw tokens. Expiration checking is helpful, though you still need to handle expired tokens in your application code. Signature validation works but requires manual entry of the secret key, which is a security consideration. The token history is a nice convenience feature. Overall, this tool does what it needs to for debugging and inspection purposes."
 }
