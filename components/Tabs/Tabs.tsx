@@ -21,18 +21,18 @@ export default function Tabs({ data }: TabsProps) {
   };
 
   return (
-    <section className="bg-gradient-to-b from-gray-50 to-white dark:from-gray-800 dark:to-gray-900 py-16 sm:py-24 lg:py-32">
+    <section className="bg-gradient-to-b from-gray-50 to-white dark:from-gray-800 dark:to-gray-900 py-8 sm:py-12 lg:py-16">
       <div className="mx-auto max-w-7xl px-4 sm:px-4 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl">
             {data.title}
           </h2>
-          <p className="mt-2 text-lg leading-8 text-gray-600 dark:text-gray-300">
+          <p className="mt-2 text-base leading-7 text-gray-600 dark:text-gray-300">
             {data.description}
           </p>
         </div>
-        <div className="mx-auto mt-12 max-w-2xl sm:mt-16 lg:mt-20 lg:max-w-none">
-          <div className="flex flex-wrap justify-center gap-3 mb-8">
+        <div className="mx-auto mt-8 max-w-2xl sm:mt-10 lg:mt-12 lg:max-w-none">
+          <div className="flex flex-wrap justify-center gap-3 mb-6">
             {data.tabs.map((tab) => (
               <button
                 key={tab.id}
@@ -49,7 +49,7 @@ export default function Tabs({ data }: TabsProps) {
             ))}
           </div>
           {currentTab && (
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
               {currentTab.tools.map((tool, index) => (
                 <Link
                   key={index}

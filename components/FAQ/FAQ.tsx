@@ -21,18 +21,18 @@ export default function FAQ({ data }: FAQProps) {
   };
 
   return (
-    <section className="bg-white dark:bg-gray-900 py-16 sm:py-24 lg:py-32">
+    <section className="bg-white dark:bg-gray-900 py-8 sm:py-12 lg:py-16">
       <div className="mx-auto max-w-7xl px-4 sm:px-4 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl">
             {data.title}
           </h2>
-          <p className="mt-2 text-lg leading-8 text-gray-600 dark:text-gray-300">
+          <p className="mt-2 text-base leading-7 text-gray-600 dark:text-gray-300">
             {data.description}
           </p>
         </div>
-        <div className="mx-auto mt-12 max-w-2xl sm:mt-16 lg:mt-20 lg:max-w-4xl">
-          <dl className="space-y-4">
+        <div className="mx-auto mt-8 max-w-2xl sm:mt-10 lg:mt-12 lg:max-w-4xl">
+          <dl className="space-y-3">
             {data.items.map((item) => {
               const isOpen = openItems.has(item.id);
               return (
