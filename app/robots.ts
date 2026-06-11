@@ -1,16 +1,8 @@
 import { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://shabitools.com';
-  
   return {
-    rules: [
-      {
-        userAgent: '*',
-        allow: '/',
-        disallow: ['/api/', '/_next/'],
-      },
-    ],
-    sitemap: `${baseUrl}/sitemap.xml`,
+    rules: [{ userAgent: '*', allow: '/', disallow: ['/_next/'] }],
+    sitemap: 'https://shabitools.com/sitemap.xml',
   };
 }
