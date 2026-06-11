@@ -1,0 +1,80 @@
+import type { Metadata } from 'next';
+import { notFound } from 'next/navigation';
+import ComparisonTable from '@/components/compare/ComparisonTable';
+import Breadcrumbs from '@/components/layout/Breadcrumbs';
+import Prose from '@/components/layout/Prose';
+import AdSlot from '@/components/monetization/AdSlot';
+import AffiliateCTA from '@/components/monetization/AffiliateCTA';
+import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
+import FAQSection from '@/components/seo/FAQSection';
+import JsonLd from '@/components/seo/JsonLd';
+import { getCompare, getCompares, getReview } from '@/lib/content';
+import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
+import { pageMetadata, SITE_URL } from '@/lib/seo';
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return getCompares().map((c) => ({ slug: c.slug }));
+}
+
+function shortLabel(c: { productA: { name: string }; productB: { name: string } }) {
+  return `${c.productA.name} vs ${c.productB.name}`;
+}
+
+export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
+  const compare = getCompare(params.slug);
+  if (!compare) return {};
+  const description =
+    compare.verdict.length > 150 ? `${compare.verdict.slice(0, 147).trimEnd()}...` : compare.verdict;
+  return pageMetadata({
+    title: compare.title,
+    description,
+    path: `/compare/${compare.slug}`,
+  });
+}
+
+export default function ComparePage({ params }: { params: { slug: string } }) {
+  const compare = getCompare(params.slug);
+  if (!compare) notFound();
+  const crumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Compare', href: '/compare' },
+    { name: shortLabel(compare), href: `/compare/${compare.slug}` },
+  ];
+  const winnerReview =
+    compare.winner === 'tie'
+      ? undefined
+      : getReview(
+          compare.winner === 'a' ? compare.productA.reviewSlug : compare.productB.reviewSlug
+        );
+  return (
+    <article className="mx-auto max-w-3xl px-4 py-10">
+      <JsonLd
+        data={[
+          faqJsonLd(compare.faq),
+          breadcrumbJsonLd(crumbs.map((c) => ({ name: c.name, url: `${SITE_URL}${c.href}` }))),
+        ]}
+      />
+      <Breadcrumbs items={crumbs} />
+      <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-stone-900 sm:text-4xl">
+        {compare.title}
+      </h1>
+      <div className="mt-3 text-sm text-stone-500">
+        Updated <time dateTime={compare.dateModified}>{compare.dateModified}</time>
+      </div>
+      <aside className="mt-8 rounded-2xl border-2 border-amber-300 bg-amber-50 p-6">
+        <h2 className="text-xl font-bold text-stone-900">The short answer</h2>
+        <p className="mt-2 leading-relaxed text-stone-700">{compare.verdict}</p>
+      </aside>
+      <ComparisonTable compare={compare} />
+      {winnerReview && (
+        <AffiliateCTA links={winnerReview.affiliate} productName={winnerReview.model} />
+      )}
+      <Prose markdown={compare.body} />
+      <AdSlot slot="0000000000" />
+      <FAQSection faq={compare.faq} />
+      <WhereToBuyStrip />
+    </article>
+  );
+}
