@@ -33,7 +33,9 @@ export const metadata: Metadata = {
   },
   other: {
     'google-adsense-account': 'ca-pub-2201239508910470',
-    'verify-admitad': '45daf07b7b',
+    ...(process.env.ADMITAD_VERIFY_CODE
+      ? { 'verify-admitad': process.env.ADMITAD_VERIFY_CODE }
+      : {}),
   },
 };
 
