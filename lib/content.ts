@@ -9,25 +9,30 @@ import type { Review } from '@/types/review';
 
 const DEFAULT_BASE = path.join(process.cwd(), 'content');
 
-export function loadCollection<T extends { datePublished?: string }>(
+const collectionCache = new Map<string, unknown[]>();
+
+export function loadCollection<T extends { slug: string; datePublished?: string }>(
   dir: string,
   base: string = DEFAULT_BASE
 ): T[] {
   const full = path.join(base, dir);
+  if (collectionCache.has(full)) return collectionCache.get(full) as T[];
   if (!fs.existsSync(full)) return [];
-  return fs
+  const result = fs
     .readdirSync(full)
     .filter((f) => f.endsWith('.json'))
     .map((f) => JSON.parse(fs.readFileSync(path.join(full, f), 'utf8')) as T)
     .sort((a, b) => (b.datePublished ?? '').localeCompare(a.datePublished ?? ''));
+  collectionCache.set(full, result);
+  return result;
 }
 
-export function loadOne<T extends { slug: string }>(
+export function loadOne<T extends { slug: string; datePublished?: string }>(
   dir: string,
   slug: string,
   base: string = DEFAULT_BASE
 ): T | undefined {
-  return loadCollection<T & { datePublished?: string }>(dir, base).find((i) => i.slug === slug);
+  return loadCollection<T>(dir, base).find((i) => i.slug === slug);
 }
 
 export const getReviews = () => loadCollection<Review>('reviews');
@@ -41,14 +46,19 @@ export const getBrand = (slug: string) => loadOne<Brand>('brands', slug);
 export const getCategories = () => loadCollection<Category>('categories');
 export const getCategory = (slug: string) => loadOne<Category>('categories', slug);
 
+const landingsCache = new Map<string, StoreLanding[]>();
+
 /** CPC store landings from content/admitad-landings.json (aibuzz format:
  *  `{ entries: [...] }`). Only entries with a tracking link render. */
 export function getStoreLandings(base: string = DEFAULT_BASE): StoreLanding[] {
   const file = path.join(base, 'admitad-landings.json');
+  if (landingsCache.has(file)) return landingsCache.get(file)!;
   if (!fs.existsSync(file)) return [];
   const payload = JSON.parse(fs.readFileSync(file, 'utf8'));
   const entries: StoreLanding[] = Array.isArray(payload?.entries) ? payload.entries : [];
-  return entries.filter((e) => e.slug && e.admitad?.gotolink);
+  const result = entries.filter((e) => e.slug && e.admitad?.gotolink);
+  landingsCache.set(file, result);
+  return result;
 }
 
 export const getStoreLanding = (slug: string) =>

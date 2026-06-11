@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import fs from 'fs';
 import os from 'os';
 import path from 'path';
-import { loadCollection, loadOne } from '../content';
+import { loadCollection, loadOne, getStoreLandings } from '../content';
 
 function fixtureDir(): string {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'shabi-content-'));
@@ -35,5 +35,27 @@ describe('loadOne', () => {
     const dir = fixtureDir();
     expect(loadOne<{ slug: string }>('reviews', 'older', dir)?.slug).toBe('older');
     expect(loadOne('reviews', 'ghost', dir)).toBeUndefined();
+  });
+});
+
+describe('getStoreLandings', () => {
+  it('returns [] when admitad-landings.json is missing', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'shabi-landings-'));
+    expect(getStoreLandings(dir)).toEqual([]);
+  });
+
+  it('parses {entries:[...]} and filters out entries lacking slug or admitad.gotolink', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'shabi-landings-'));
+    const payload = {
+      entries: [
+        { slug: 'amazon', admitad: { gotolink: 'https://track.admitad.com/amazon' }, name: 'Amazon' },
+        { slug: 'no-link', admitad: {}, name: 'No Link' },
+        { admitad: { gotolink: 'https://track.admitad.com/no-slug' }, name: 'No Slug' },
+        { slug: 'ebay', admitad: { gotolink: 'https://track.admitad.com/ebay' }, name: 'eBay' },
+      ],
+    };
+    fs.writeFileSync(path.join(dir, 'admitad-landings.json'), JSON.stringify(payload));
+    const result = getStoreLandings(dir);
+    expect(result.map((e) => e.slug)).toEqual(['amazon', 'ebay']);
   });
 });
