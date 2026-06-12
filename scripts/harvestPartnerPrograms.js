@@ -13,9 +13,9 @@
  * The ad space must already be connected to the partner catalog (Takeads),
  * otherwise link generation fails — the script detects this and says so.
  *
- * Usage: yarn partners:harvest   (then yarn partners:sync && yarn build)
+ * Usage: pnpm partners:harvest   (then pnpm partners:sync && pnpm build)
  * Env:
- *   HARVEST_WEBSITE_ID — ad space id (default 2913701, the catalog-connected one)
+ *   HARVEST_WEBSITE_ID — ad space id (required; from the Admitad dashboard URL …/websites/<id>/…)
  *   HARVEST_LIMIT — stop after N programs (default 0 = all)
  *   HARVEST_DELAY_MS — delay between link generations (default 300)
  *   HARVEST_KEYWORDS — optional case-insensitive regex filter on program name
