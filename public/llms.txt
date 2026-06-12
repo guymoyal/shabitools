@@ -1,0 +1,15 @@
+# shabitools.com
+
+Independent US reviews, comparisons, and buying guides for home & power tools
+(Makita, DeWalt, Bosch, Milwaukee, Ryobi). Every review includes specs,
+pros/cons, a rating out of 5, and a buy-it-if / skip-it-if verdict.
+
+## Key sections
+- /reviews — single-product reviews with spec tables and FAQs
+- /compare — head-to-head tool comparisons with a declared winner
+- /guides — ranked best-of buying guides
+- /brands — brand background hubs
+- /categories — category buying advice
+
+Content is written and fact-checked by shabitools. Affiliate links are
+disclosed at /affiliate-disclosure and never affect rankings.
