@@ -52,11 +52,13 @@ export default defineConfig({
     },
   ],
 
-  /* Run your local dev server before starting the tests */
+  /* Serve the static export for smoke tests.
+   * `pnpm dev` cannot serve dynamic routes when output:'export' is set.
+   * Run `pnpm build` first to refresh the out/ directory if content changed. */
   webServer: {
-    command: 'pnpm dev',
+    command: 'npx serve out -l 3000 --no-clipboard',
     url: 'http://localhost:3000',
-    reuseExistingServer: true, // Always reuse if server is already running
-    timeout: 120 * 1000,
+    reuseExistingServer: true,
+    timeout: 30 * 1000,
   },
 });
