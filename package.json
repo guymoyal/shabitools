@@ -27,7 +27,8 @@
     "partners:manual": "node scripts/mergePartnerPrograms.js",
     "partners:copy": "node scripts/generateLandingCopy.js",
     "partners:sync": "pnpm partners:manual && pnpm partners:copy",
-    "admitad:sync": "node scripts/admitadSync.js"
+    "admitad:sync": "node scripts/admitadSync.js",
+    "images:fetch": "node scripts/fetchImages.js"
   },
   "packageManager": "pnpm@8.15.0",
   "dependencies": {
@@ -47,6 +48,7 @@
     "eslint-config-next": "^14.2.5",
     "playwright": "^1.60.0",
     "postcss": "^8.4.39",
+    "sharp": "^0.35.1",
     "slugify": "^1.6.9",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.5.3",
