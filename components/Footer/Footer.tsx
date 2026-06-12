@@ -7,6 +7,7 @@ const SECTIONS = [
       { name: 'Reviews', href: '/reviews' },
       { name: 'Comparisons', href: '/compare' },
       { name: 'Buying guides', href: '/guides' },
+      { name: 'DIY projects', href: '/projects' },
       { name: 'Categories', href: '/categories' },
     ],
   },

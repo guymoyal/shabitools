@@ -2,8 +2,9 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import PageHero from '@/components/layout/PageHero';
 import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
+import ProjectCard from '@/components/projects/ProjectCard';
 import ReviewCard from '@/components/reviews/ReviewCard';
-import { getCategories, getGuides, getReviews } from '@/lib/content';
+import { getCategories, getGuides, getProjects, getReviews } from '@/lib/content';
 import { pageMetadata } from '@/lib/seo';
 
 export const metadata: Metadata = pageMetadata({
@@ -17,6 +18,7 @@ export const metadata: Metadata = pageMetadata({
 export default function HomePage() {
   const reviews = getReviews().slice(0, 6);
   const guides = getGuides().slice(0, 3);
+  const projects = getProjects().slice(0, 3);
   const categories = getCategories();
   return (
     <>
@@ -46,6 +48,21 @@ export default function HomePage() {
             <ReviewCard key={r.slug} review={r} />
           ))}
         </div>
+        {projects.length > 0 && (
+          <>
+            <div className="mt-14 flex items-end justify-between">
+              <h2 className="text-2xl font-bold text-stone-900">Build something this weekend</h2>
+              <Link href="/projects" className="text-sm font-medium text-amber-700 hover:text-amber-800">
+                All projects →
+              </Link>
+            </div>
+            <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {projects.map((p) => (
+                <ProjectCard key={p.slug} project={p} />
+              ))}
+            </div>
+          </>
+        )}
         <h2 className="mt-14 text-2xl font-bold text-stone-900">Buying guides</h2>
         <div className="mt-6 grid gap-6 sm:grid-cols-3">
           {guides.map((g) => (

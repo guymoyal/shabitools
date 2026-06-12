@@ -5,6 +5,7 @@ const NAV = [
   { name: 'Reviews', href: '/reviews' },
   { name: 'Compare', href: '/compare' },
   { name: 'Guides', href: '/guides' },
+  { name: 'Projects', href: '/projects' },
   { name: 'Brands', href: '/brands' },
   { name: 'Stores', href: '/stores' },
 ];

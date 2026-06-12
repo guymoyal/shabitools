@@ -8,6 +8,7 @@ pros/cons, a rating out of 5, and a buy-it-if / skip-it-if verdict.
 - /reviews — single-product reviews with spec tables and FAQs
 - /compare — head-to-head tool comparisons with a declared winner
 - /guides — ranked best-of buying guides
+- /projects — step-by-step DIY project & build guides with tool/material lists
 - /brands — brand background hubs
 - /categories — category buying advice
 

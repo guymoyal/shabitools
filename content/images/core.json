@@ -30,5 +30,9 @@
   "categories/cordless-drills": {
     "source": "pexels:cordless drill driver power tools workshop overhead view",
     "alt": "Overhead view of a cordless drill driver surrounded by drill bits and accessories on a workshop table"
+  },
+  "projects/build-a-simple-workbench": {
+    "source": "pexels:DIY workbench garage woodworking tools",
+    "alt": "Sturdy DIY workbench built from 2x4 lumber and plywood in a home garage"
   }
 }

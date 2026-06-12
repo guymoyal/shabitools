@@ -4,6 +4,7 @@ import {
   getCategories,
   getCompares,
   getGuides,
+  getProjects,
   getReviews,
   getStoreLandings,
 } from '@/lib/content';
@@ -17,6 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/reviews',
     '/compare',
     '/guides',
+    '/projects',
     '/brands',
     '/categories',
     '/stores',
@@ -31,6 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getReviews().map((r) => ({ path: `/reviews/${r.slug}`, mod: r.dateModified })),
     ...getCompares().map((c) => ({ path: `/compare/${c.slug}`, mod: c.dateModified })),
     ...getGuides().map((g) => ({ path: `/guides/${g.slug}`, mod: g.dateModified })),
+    ...getProjects().map((p) => ({ path: `/projects/${p.slug}`, mod: p.dateModified })),
     ...getBrands().map((b) => ({ path: `/brands/${b.slug}`, mod: b.dateModified })),
     ...getCategories().map((c) => ({ path: `/categories/${c.slug}`, mod: c.dateModified })),
     ...getStoreLandings().map((s) => ({ path: `/stores/${s.slug}`, mod: undefined as string | undefined })),
