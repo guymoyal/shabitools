@@ -1,0 +1,39 @@
+{
+  "slug": "bosch",
+  "name": "Bosch",
+  "description": "Bosch is a German engineering company whose power tool division is one of the most established names in the global tool market. The parent company, Robert Bosch GmbH, was founded by Robert Bosch in Stuttgart in 1886 as the Workshop for Precision Mechanics and Electrical Engineering, and is today headquartered in Gerlingen, Baden-Württemberg. Bosch grew first through automotive ignition and electrical systems before expanding into power tools, household appliances, industrial technology, and energy and building technology. In the United States, Bosch sells professional blue power tools through its Power Tools division, and the company is unusual in being majority-owned by a charitable foundation, the Robert Bosch Stiftung, which shapes its long-horizon, engineering-led culture.\n\n## The 18V battery platform\n\nBosch's US cordless strategy centers on a single 18V lithium-ion battery platform that spans both its standard 18V tools and its higher-output PROFACTOR line. PROFACTOR tools are built around Bosch's CORE18V batteries, which use larger 21700 lithium-ion cells to deliver substantially more power and runtime than standard 18V packs while remaining backward and forward compatible with the same 18V tool family. This is a meaningful selling point: a buyer can run an entry-level 18V drill and a high-demand PROFACTOR circular saw or rotary hammer on the same battery system, choosing standard packs for light tools and CORE18V packs where power matters most. Keeping everything on one 18V interface — rather than splitting into incompatible voltage classes — simplifies the decision for buyers who want a single battery ecosystem.\n\n## US pro versus DIY positioning\n\nIn the US, Bosch's blue tools are firmly professional, with particular strength among concrete, masonry, and construction trades. Bosch's reputation in rotary hammers, hammer drills, and SDS-plus and SDS-max systems is among the strongest in the industry, and its measuring and laser tools are widely used on professional jobsites. For cordless drills and drivers, Bosch positions itself as a value-conscious professional choice: tools like the GSR18V-400 deliver competitive torque and solid build quality at prices that often undercut Makita and Milwaukee kits, which makes Bosch attractive to first-time buyers entering a professional-grade platform. (Note that in some markets Bosch also sells a separate green DIY line, but the US-relevant story is the professional blue range.)\n\n## What Bosch is known for\n\nBosch is best known for category-leading concrete drilling and demolition tools, for precise and durable engineering, for its long power tool warranty, and for the CORE18V high-output battery system that bridges standard and PROFACTOR tools on one platform. Its measuring, laser, and rotary-hammer lines are reference products for many trades. The trade-off versus Milwaukee or DeWalt is that Bosch's cordless catalog, while strong, is not as broad as Makita's enormous LXT lineup, so buyers who want the single largest tool ecosystem may find fewer niche cordless options.\n\n## Who should choose Bosch\n\nChoose Bosch if you do significant concrete, masonry, or construction work and want best-in-class hammer drills and rotary hammers, or if you want a well-built professional drill or driver at a competitive price. Bosch is a strong value entry point for buyers building their first professional 18V fleet, especially given its long warranty. Buyers who prioritize the very broadest cordless ecosystem or the highest drill torque should weigh Bosch against Makita's LXT breadth and Milwaukee's high-torque M18 lineup.",
+  "founded": "1886",
+  "headquarters": "Gerlingen, Baden-Württemberg, Germany",
+  "knownFor": [
+    "Class-leading rotary hammers and concrete/masonry tools",
+    "18V platform spanning standard and PROFACTOR tools",
+    "CORE18V high-output 21700-cell batteries",
+    "Precise, durable German engineering",
+    "Competitive pricing on professional drills and drivers",
+    "Long power tool warranty"
+  ],
+  "faq": [
+    {
+      "q": "Where is Bosch headquartered?",
+      "a": "Bosch's parent company, Robert Bosch GmbH, is headquartered in Gerlingen, Baden-Württemberg, Germany. The company was originally founded in Stuttgart in 1886 by Robert Bosch. Its US power tools are sold and supported through Bosch's North American Power Tools division."
+    },
+    {
+      "q": "What is the difference between Bosch 18V and PROFACTOR tools?",
+      "a": "PROFACTOR is Bosch's high-output line built around CORE18V batteries that use larger 21700 cells for more power and runtime, while standard 18V tools use conventional 18V packs. Both run on the same 18V battery interface and are cross-compatible, so you can mix standard and PROFACTOR tools on one battery system. PROFACTOR targets demanding jobs like heavy cutting and concrete drilling."
+    },
+    {
+      "q": "Is Bosch a good brand for concrete and masonry work?",
+      "a": "Yes, Bosch is widely regarded as one of the best brands for concrete and masonry work. Its rotary hammers, hammer drills, and SDS-plus and SDS-max systems are reference products on many professional jobsites. If your work involves significant drilling into concrete or demolition, Bosch is one of the strongest options available."
+    },
+    {
+      "q": "Are Bosch power tools professional or DIY?",
+      "a": "In the United States, Bosch's blue power tools are professional-grade and aimed at trades and serious users. They are common in construction, concrete, and remodeling work. Bosch positions its cordless drills as a value-conscious professional choice, often pricing competitive tools below comparable Makita and Milwaukee kits."
+    },
+    {
+      "q": "How does Bosch compare to Makita and Milwaukee?",
+      "a": "Bosch leads in concrete and masonry tools and often offers better drill pricing and a longer warranty, but its cordless catalog is narrower than Makita's 300-plus-tool LXT lineup. Milwaukee generally wins on raw drill torque with its high-output M18 tools. Choose Bosch for hammer-drill strength and value; choose Makita for ecosystem breadth and Milwaukee for maximum power."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

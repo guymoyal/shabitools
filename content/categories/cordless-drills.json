@@ -1,0 +1,51 @@
+{
+  "slug": "cordless-drills",
+  "name": "Cordless Drills",
+  "description": "A cordless drill is a battery-powered rotary tool used to bore holes and drive fasteners in wood, metal, plastic, and — with the right model — masonry. It is the single most-used power tool in most home and jobsite kits, which is why choosing the right one matters more than almost any other tool purchase. The category, however, is not one tool but three overlapping ones, and understanding the distinction between a drill/driver, a hammer drill, and an impact driver is the key to buying correctly.\n\n## Drill/driver versus hammer drill versus impact driver\n\nA **drill/driver** is the standard, all-purpose tool. It has a keyless chuck that accepts round- and hex-shank bits, a clutch collar that lets you dial in how much torque is applied before the bit slips (so you can avoid stripping screws or sinking them too deep), and usually a two-speed transmission — a low gear for high-torque driving and a high gear for fast drilling. For the vast majority of home and trade tasks — drilling pilot holes, boring with spade and twist bits, and driving screws into wood and metal — a drill/driver is the correct tool, and it is the one most buyers should start with.\n\nA **hammer drill** is a drill/driver with an added percussion mode. A mechanical mechanism rapidly pulses the chuck forward and back while it spins, chipping through brittle material as the bit rotates. This matters specifically for masonry: drilling into brick, block, mortar, and light concrete with masonry bits. A hammer drill still works as an ordinary drill/driver with the percussion switched off, so it is the right choice if you occasionally need to anchor into concrete or brick. For frequent or heavy concrete work, though, a dedicated rotary hammer (which uses a far more powerful piston mechanism and SDS bits) is the proper tool, not a cordless hammer drill.\n\nAn **impact driver** is a different tool optimized for one job: driving fasteners. Instead of a chuck it has a 1/4-inch hex collet, and instead of a clutch it uses rotational hammering — concussive blows that deliver high bursts of torque to drive long screws, lag bolts, and structural fasteners with almost no kickback to your wrist. An impact driver is far better than a drill/driver for repetitive heavy driving, but it is poor at precise drilling and cannot use round-shank drill bits without hex adapters. Many buyers ultimately own both a drill/driver and an impact driver — combo kits exist precisely because the two tools complement each other.\n\n## When each matters\n\nIf you buy one tool, buy a drill/driver. If you anchor into masonry now and then, buy a hammer drill, which does everything a drill/driver does plus percussion. If you drive a lot of long screws, decking, or framing fasteners, add an impact driver. Heavy, regular concrete drilling points you to a rotary hammer instead. Getting this mapping right prevents both overbuying (paying for a hammer mode you never use) and underbuying (struggling to drive structural screws with an underpowered drill/driver).",
+  "buyingFactors": [
+    {
+      "title": "Voltage and battery platform",
+      "text": "For most users the battery system matters more than raw voltage. 18V/20V-class drills cover nearly all home and trade work; 12V models are lighter for cabinetry and access work but less powerful. Crucially, your batteries are locked to one brand's platform, so pick a system — Makita LXT, Bosch 18V, Milwaukee M18, or DeWalt 20V MAX — that has the other tools you will want, since the pack you buy first determines your future tool fleet."
+    },
+    {
+      "title": "Brushless versus brushed motors",
+      "text": "Brushless motors are the current standard on quality drills and are worth prioritizing. They run cooler, last longer, and adjust power electronically to the load, which means more runtime per charge and more usable torque than older brushed motors. Brushed drills are cheaper and fine for occasional light use, but a brushless drill delivers meaningfully better efficiency and longevity for anyone who uses a drill regularly."
+    },
+    {
+      "title": "Torque and the clutch",
+      "text": "Maximum torque (measured in inch-pounds) tells you how much driving force a drill can apply; higher figures handle large fasteners and big bits without stalling. Around 400-500 in-lbs covers most DIY and trade tasks, while heavy structural fastening rewards 1,000-plus in-lbs. The adjustable clutch is just as important: it lets you cap torque to seat screws consistently without stripping heads or over-driving into soft material."
+    },
+    {
+      "title": "Chuck size and type",
+      "text": "Most full-size drills use a 1/2-inch keyless chuck, which accepts larger bits and grips better than the 3/8-inch chuck found on lighter compact models. Look for an all-metal ratcheting chuck, which clamps round-shank bits more securely and resists loosening under load better than plastic chucks. The chuck determines the maximum bit shank you can fit, so match it to the size of holes you expect to drill."
+    },
+    {
+      "title": "Weight and ergonomics",
+      "text": "Weight and balance decide how a drill feels over a long session, especially overhead or in tight spaces. Compact and sub-compact drills with shorter heads fit between studs and inside cabinets and reduce fatigue, while higher-torque drills are heavier and more nose-heavy. Consider grip shape, head length, and battery weight together — the lightest tool on paper may not be the best balanced, and balance is what your wrist actually notices."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between a drill/driver and an impact driver?",
+      "a": "A drill/driver uses a keyless chuck and an adjustable clutch for precise drilling and controlled screw driving, while an impact driver uses a 1/4-inch hex collet and concussive rotational blows to deliver high bursts of torque for driving long fasteners. The drill/driver is the better all-purpose tool; the impact driver excels at heavy, repetitive driving but is poor at precise drilling. Many users own both."
+    },
+    {
+      "q": "Do I need a hammer drill?",
+      "a": "You need a hammer drill only if you drill into masonry such as brick, block, or light concrete, since its percussion mode chips through brittle material. For wood, metal, and fastening, a standard drill/driver is enough. A hammer drill also works as a normal drill/driver with percussion off, so it is a safe upgrade if you occasionally anchor into masonry; for frequent concrete work, use a rotary hammer instead."
+    },
+    {
+      "q": "How much torque do I need in a cordless drill?",
+      "a": "Around 400 to 500 in-lbs of maximum torque covers the vast majority of DIY and trade tasks, including deck screws and one-inch spade bits. Heavy structural fastening, such as large lag bolts, benefits from 1,000-plus in-lbs. More important than chasing the highest number is having an adjustable clutch so you can cap torque and seat fasteners consistently without stripping them."
+    },
+    {
+      "q": "Should I buy a brushless or brushed drill?",
+      "a": "Buy brushless if you use a drill regularly. Brushless motors run cooler, last longer, and deliver more runtime and usable torque because they adjust power electronically to the load. Brushed drills are cheaper and acceptable for occasional light use, but brushless is the current standard on quality tools and the better long-term value for most buyers."
+    },
+    {
+      "q": "Does the drill brand matter, or just the tool?",
+      "a": "The brand matters because batteries are locked to one platform. Your first cordless drill purchase effectively commits you to that brand's battery system — Makita LXT, Bosch 18V, Milwaukee M18, or DeWalt 20V MAX — since future tools must share the pack and charger. Choose a platform that carries the other tools you will eventually want, not just the single best drill in isolation."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}
