@@ -40,18 +40,22 @@ const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const TIME_ISO_RE = /^PT(\d+H)?(\d+M)?$/;
 const HONESTY_RE = /\bwe (tested|tried|used|ran)\b|\bin our (shop|workshop|hands)\b|hands-on/i;
 
+function isObj(x: unknown): x is Record<string, unknown> {
+  return typeof x === 'object' && x !== null && !Array.isArray(x);
+}
+
 // ---------------------------------------------------------------------------
 // Load image manifest (merged)
 // ---------------------------------------------------------------------------
 
-function loadMergedManifest(): Record<string, { source: string; alt: string }> {
+function loadMergedManifest(): Record<string, unknown> {
   const imagesDir = path.join(CONTENT_DIR, 'images');
-  const merged: Record<string, { source: string; alt: string }> = {};
+  const merged: Record<string, unknown> = {};
   if (!fs.existsSync(imagesDir)) return merged;
   for (const f of fs.readdirSync(imagesDir).filter((f) => f.endsWith('.json'))) {
     const fragment = JSON.parse(
       fs.readFileSync(path.join(imagesDir, f), 'utf8')
-    ) as Record<string, { source: string; alt: string }>;
+    ) as Record<string, unknown>;
     Object.assign(merged, fragment);
   }
   return merged;
@@ -114,16 +118,18 @@ function checkFaq(
     errors.push(`${file}: faq has ${faq.length} items, minimum is ${minItems}`);
   }
   faq.forEach((item: unknown, i) => {
-    const f = item as Record<string, unknown>;
-    const keys = Object.keys(f);
-    const extraKeys = keys.filter((k) => k !== 'q' && k !== 'a');
+    if (!isObj(item)) {
+      errors.push(`${file}: faq[${i}] must be an object {q, a}`);
+      return;
+    }
+    const extraKeys = Object.keys(item).filter((k) => k !== 'q' && k !== 'a');
     if (extraKeys.length > 0) {
       errors.push(`${file}: faq[${i}] has unexpected keys: ${extraKeys.join(', ')}`);
     }
-    if (!f.q || typeof f.q !== 'string' || f.q.trim() === '') {
+    if (!item.q || typeof item.q !== 'string' || (item.q as string).trim() === '') {
       errors.push(`${file}: faq[${i}].q is missing or empty`);
     }
-    if (!f.a || typeof f.a !== 'string' || f.a.trim() === '') {
+    if (!item.a || typeof item.a !== 'string' || (item.a as string).trim() === '') {
       errors.push(`${file}: faq[${i}].a is missing or empty`);
     }
   });
@@ -176,34 +182,53 @@ describe('content/reviews', () => {
         errors.push(`${file}: cons has ${Array.isArray(data.cons) ? data.cons.length : 0} items, minimum is 2`);
       }
 
-      // specs >= 5
+      // specs >= 5; every value must be a non-empty string
       const specsCount = typeof data.specs === 'object' && data.specs !== null
         ? Object.keys(data.specs).length : 0;
       if (specsCount < 5) {
         errors.push(`${file}: specs has ${specsCount} entries, minimum is 5`);
       }
+      if (typeof data.specs === 'object' && data.specs !== null) {
+        for (const [k, v] of Object.entries(data.specs as Record<string, unknown>)) {
+          if (typeof v !== 'string' || (v as string).trim() === '') {
+            errors.push(`${file}: specs["${k}"] must be a non-empty string, got ${JSON.stringify(v)}`);
+          }
+        }
+      }
 
-      // related >= 3
+      // related >= 3; non-array → error; elements must be non-empty strings
       if (!Array.isArray(data.related) || data.related.length < 3) {
         errors.push(`${file}: related has ${Array.isArray(data.related) ? data.related.length : 0} items, minimum is 3`);
       } else {
-        // every related slug must exist in the union of all review/compare/guide/project slugs
-        for (const r of data.related as string[]) {
-          if (!allContentSlugs.has(r)) {
+        for (let ri = 0; ri < (data.related as unknown[]).length; ri++) {
+          const r = (data.related as unknown[])[ri];
+          if (typeof r !== 'string' || (r as string).trim() === '') {
+            errors.push(`${file}: related[${ri}] must be a non-empty string`);
+          } else if (!allContentSlugs.has(r as string)) {
             errors.push(`${file}: related slug "${r}" does not exist in any collection`);
           }
         }
       }
 
-      // affiliate: every entry has merchant (non-empty) and url is string|null
+      // affiliate: every entry has merchant (non-empty) and url is null or non-empty https string
       if (Array.isArray(data.affiliate)) {
         for (let i = 0; i < data.affiliate.length; i++) {
-          const aff = data.affiliate[i] as Record<string, unknown>;
-          if (!aff.merchant || typeof aff.merchant !== 'string' || String(aff.merchant).trim() === '') {
+          const aff = data.affiliate[i];
+          if (!isObj(aff)) {
+            errors.push(`${file}: affiliate[${i}] must be an object`);
+            continue;
+          }
+          if (!aff.merchant || typeof aff.merchant !== 'string' || (aff.merchant as string).trim() === '') {
             errors.push(`${file}: affiliate[${i}].merchant is missing or empty`);
           }
           if (aff.url !== null && typeof aff.url !== 'string') {
             errors.push(`${file}: affiliate[${i}].url must be a string or null`);
+          }
+          if (typeof aff.url === 'string' && (aff.url as string).trim() === '') {
+            errors.push(`${file}: affiliate[${i}].url must be null or a non-empty https string, got ""`);
+          }
+          if (typeof aff.url === 'string' && (aff.url as string).trim() !== '' && !(aff.url as string).startsWith('https://')) {
+            errors.push(`${file}: affiliate[${i}].url "${aff.url}" must start with https://`);
           }
         }
       }
@@ -241,9 +266,15 @@ describe('content/compare', () => {
         if (!(field in data)) errors.push(`${file}: missing required field "${field}"`);
       }
 
-      // productA.reviewSlug and productB.reviewSlug must exist
-      const pa = (data.productA as Record<string, unknown> | undefined)?.reviewSlug;
-      const pb = (data.productB as Record<string, unknown> | undefined)?.reviewSlug;
+      // productA and productB must be objects; reviewSlugs must exist
+      if (!isObj(data.productA)) {
+        errors.push(`${file}: productA must be an object`);
+      }
+      if (!isObj(data.productB)) {
+        errors.push(`${file}: productB must be an object`);
+      }
+      const pa = isObj(data.productA) ? data.productA.reviewSlug : undefined;
+      const pb = isObj(data.productB) ? data.productB.reviewSlug : undefined;
       if (!pa || !reviewSlugs.has(String(pa))) {
         errors.push(`${file}: productA.reviewSlug "${pa}" does not exist in reviews`);
       }
@@ -264,11 +295,18 @@ describe('content/compare', () => {
       // faq >= 4
       errors.push(...checkFaq(file, data.faq, 4));
 
-      // related slugs must exist
-      if (Array.isArray(data.related)) {
-        for (const r of data.related as string[]) {
-          if (!allContentSlugs.has(r)) {
-            errors.push(`${file}: related slug "${r}" does not exist in any collection`);
+      // related slugs must exist; non-array → error; elements must be non-empty strings
+      if ('related' in data && data.related !== undefined) {
+        if (!Array.isArray(data.related)) {
+          errors.push(`${file}: related must be an array`);
+        } else {
+          for (let ri = 0; ri < (data.related as unknown[]).length; ri++) {
+            const r = (data.related as unknown[])[ri];
+            if (typeof r !== 'string' || (r as string).trim() === '') {
+              errors.push(`${file}: related[${ri}] must be a non-empty string`);
+            } else if (!allContentSlugs.has(r as string)) {
+              errors.push(`${file}: related slug "${r}" does not exist in any collection`);
+            }
           }
         }
       }
@@ -297,21 +335,28 @@ describe('content/guides', () => {
         if (!(field in data)) errors.push(`${file}: missing required field "${field}"`);
       }
 
-      // picks: ranks are contiguous 1..n
+      // picks: ranks are contiguous 1..n, all elements must be objects
       if (Array.isArray(data.picks)) {
-        const ranks = (data.picks as Record<string, unknown>[])
-          .map((p) => Number(p.rank))
-          .sort((a, b) => a - b);
-        const expected = Array.from({ length: ranks.length }, (_, i) => i + 1);
-        if (JSON.stringify(ranks) !== JSON.stringify(expected)) {
-          errors.push(`${file}: picks ranks are not contiguous 1..n, got: [${ranks.join(',')}]`);
-        }
-        // every picks[].reviewSlug (when set) must exist in review slugs
-        for (let i = 0; i < (data.picks as Record<string, unknown>[]).length; i++) {
-          const pick = (data.picks as Record<string, unknown>[])[i];
-          const rs = pick.reviewSlug;
-          if (rs !== undefined && rs !== null && !reviewSlugs.has(String(rs))) {
-            errors.push(`${file}: picks[${i}].reviewSlug "${rs}" does not exist in reviews`);
+        const picksArr = data.picks as unknown[];
+        const allObjs = picksArr.every((p, i) => {
+          if (!isObj(p)) {
+            errors.push(`${file}: picks[${i}] must be an object`);
+            return false;
+          }
+          return true;
+        });
+        if (allObjs) {
+          const picks = picksArr as Record<string, unknown>[];
+          const ranks = picks.map((p) => Number(p.rank)).sort((a, b) => a - b);
+          const expected = Array.from({ length: ranks.length }, (_, i) => i + 1);
+          if (JSON.stringify(ranks) !== JSON.stringify(expected)) {
+            errors.push(`${file}: picks ranks are not contiguous 1..n, got: [${ranks.join(',')}]`);
+          }
+          for (let i = 0; i < picks.length; i++) {
+            const rs = picks[i].reviewSlug;
+            if (rs !== undefined && rs !== null && !reviewSlugs.has(String(rs))) {
+              errors.push(`${file}: picks[${i}].reviewSlug "${rs}" does not exist in reviews`);
+            }
           }
         }
       } else {
@@ -326,11 +371,18 @@ describe('content/guides', () => {
       // faq >= 4
       errors.push(...checkFaq(file, data.faq, 4));
 
-      // related slugs must exist
-      if (Array.isArray(data.related)) {
-        for (const r of data.related as string[]) {
-          if (!allContentSlugs.has(r)) {
-            errors.push(`${file}: related slug "${r}" does not exist in any collection`);
+      // related slugs must exist; non-array → error; elements must be non-empty strings
+      if ('related' in data && data.related !== undefined) {
+        if (!Array.isArray(data.related)) {
+          errors.push(`${file}: related must be an array`);
+        } else {
+          for (let ri = 0; ri < (data.related as unknown[]).length; ri++) {
+            const r = (data.related as unknown[])[ri];
+            if (typeof r !== 'string' || (r as string).trim() === '') {
+              errors.push(`${file}: related[${ri}] must be a non-empty string`);
+            } else if (!allContentSlugs.has(r as string)) {
+              errors.push(`${file}: related slug "${r}" does not exist in any collection`);
+            }
           }
         }
       }
@@ -429,24 +481,46 @@ describe('content/projects', () => {
         errors.push(`${file}: difficulty "${data.difficulty}" must be beginner|intermediate|advanced`);
       }
 
-      // timeRequiredIso matches /^PT(\d+H)?(\d+M)?$/ and is not just 'PT'
+      // timeRequiredIso matches /^PT(\d+H)?(\d+M)?$/, is not just 'PT', and is not zero duration
       const tiso = String(data.timeRequiredIso ?? '');
-      if (!TIME_ISO_RE.test(tiso) || tiso === 'PT') {
-        errors.push(`${file}: timeRequiredIso "${tiso}" does not match PT<hours>H<minutes>M format`);
+      const ZERO_DURATION_RE = /^PT(0H)?(0M)?$/;
+      if (!TIME_ISO_RE.test(tiso) || tiso === 'PT' || ZERO_DURATION_RE.test(tiso)) {
+        errors.push(`${file}: timeRequiredIso "${tiso}" does not match PT<hours>H<minutes>M format (non-zero required)`);
       }
 
-      // steps >= 5
+      // steps >= 5; each step must be an object with non-empty name and text
       if (!Array.isArray(data.steps) || data.steps.length < 5) {
         errors.push(`${file}: steps has ${Array.isArray(data.steps) ? data.steps.length : 0} items, minimum is 5`);
       }
+      if (Array.isArray(data.steps)) {
+        for (let i = 0; i < (data.steps as unknown[]).length; i++) {
+          const step = (data.steps as unknown[])[i];
+          if (!isObj(step)) {
+            errors.push(`${file}: steps[${i}] must be an object`);
+            continue;
+          }
+          if (!step.name || typeof step.name !== 'string' || (step.name as string).trim() === '') {
+            errors.push(`${file}: steps[${i}].name must be a non-empty string`);
+          }
+          if (!step.text || typeof step.text !== 'string' || (step.text as string).trim() === '') {
+            errors.push(`${file}: steps[${i}].text must be a non-empty string`);
+          }
+        }
+      }
 
-      // toolsNeeded >= 3
+      // toolsNeeded >= 3; each element must be an object with non-empty name
       if (!Array.isArray(data.toolsNeeded) || data.toolsNeeded.length < 3) {
         errors.push(`${file}: toolsNeeded has ${Array.isArray(data.toolsNeeded) ? data.toolsNeeded.length : 0} items, minimum is 3`);
       } else {
-        // every toolsNeeded[].reviewSlug (when present) must exist in review slugs
-        for (let i = 0; i < (data.toolsNeeded as Record<string, unknown>[]).length; i++) {
-          const tool = (data.toolsNeeded as Record<string, unknown>[])[i];
+        for (let i = 0; i < (data.toolsNeeded as unknown[]).length; i++) {
+          const tool = (data.toolsNeeded as unknown[])[i];
+          if (!isObj(tool)) {
+            errors.push(`${file}: toolsNeeded[${i}] must be an object`);
+            continue;
+          }
+          if (!tool.name || typeof tool.name !== 'string' || (tool.name as string).trim() === '') {
+            errors.push(`${file}: toolsNeeded[${i}].name must be a non-empty string`);
+          }
           const rs = tool.reviewSlug;
           if (rs !== undefined && rs !== null && !reviewSlugs.has(String(rs))) {
             errors.push(`${file}: toolsNeeded[${i}].reviewSlug "${rs}" does not exist in reviews`);
@@ -454,15 +528,23 @@ describe('content/projects', () => {
         }
       }
 
-      // materials >= 3
+      // materials >= 3; each element must be a non-empty string
       if (!Array.isArray(data.materials) || data.materials.length < 3) {
         errors.push(`${file}: materials has ${Array.isArray(data.materials) ? data.materials.length : 0} items, minimum is 3`);
       }
+      if (Array.isArray(data.materials)) {
+        for (let i = 0; i < (data.materials as unknown[]).length; i++) {
+          const mat = (data.materials as unknown[])[i];
+          if (typeof mat !== 'string' || (mat as string).trim() === '') {
+            errors.push(`${file}: materials[${i}] must be a non-empty string`);
+          }
+        }
+      }
 
-      // description length 80–200 chars
+      // description length 120–170 chars, used for meta description
       const descLen = typeof data.description === 'string' ? data.description.length : 0;
-      if (descLen < 80 || descLen > 200) {
-        errors.push(`${file}: description is ${descLen} chars, must be 80–200`);
+      if (descLen < 120 || descLen > 170) {
+        errors.push(`${file}: description is ${descLen} chars, must be 120–170`);
       }
 
       // body word count >= 700
@@ -473,11 +555,178 @@ describe('content/projects', () => {
       // faq >= 4
       errors.push(...checkFaq(file, data.faq, 4));
 
+      // related slugs must exist; non-array → error; elements must be non-empty strings
+      if ('related' in data && data.related !== undefined) {
+        if (!Array.isArray(data.related)) {
+          errors.push(`${file}: related must be an array`);
+        } else {
+          for (let ri = 0; ri < (data.related as unknown[]).length; ri++) {
+            const r = (data.related as unknown[])[ri];
+            if (typeof r !== 'string' || (r as string).trim() === '') {
+              errors.push(`${file}: related[${ri}] must be a non-empty string`);
+            } else if (!allContentSlugs.has(r as string)) {
+              errors.push(`${file}: related slug "${r}" does not exist in any collection`);
+            }
+          }
+        }
+      }
+
       // honesty
       errors.push(...checkHonesty(file, data.body));
     }
 
     expect(errors).toEqual([]);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// timeRequiredIso validation
+// ---------------------------------------------------------------------------
+
+describe('timeRequiredIso validation', () => {
+  const TIME_ISO_RE_LOCAL = /^PT(\d+H)?(\d+M)?$/;
+  const ZERO_DURATION_RE_LOCAL = /^PT(0H)?(0M)?$/;
+
+  function validateTiso(tiso: string): boolean {
+    return TIME_ISO_RE_LOCAL.test(tiso) && tiso !== 'PT' && !ZERO_DURATION_RE_LOCAL.test(tiso);
+  }
+
+  it('accepts valid non-zero durations', () => {
+    expect(validateTiso('PT2H')).toBe(true);
+    expect(validateTiso('PT30M')).toBe(true);
+    expect(validateTiso('PT1H30M')).toBe(true);
+  });
+
+  it('rejects PT (bare)', () => {
+    expect(validateTiso('PT')).toBe(false);
+  });
+
+  it('rejects zero durations PT0H, PT0M, PT0H0M', () => {
+    expect(validateTiso('PT0H')).toBe(false);
+    expect(validateTiso('PT0M')).toBe(false);
+    expect(validateTiso('PT0H0M')).toBe(false);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// related field validation
+// ---------------------------------------------------------------------------
+
+describe('related field validation', () => {
+  it('non-array related produces error not silent skip', () => {
+    const errors: string[] = [];
+    const file = 'test/file.json';
+    const related: unknown = 'not-an-array';
+    if (related !== undefined) {
+      if (!Array.isArray(related)) {
+        errors.push(`${file}: related must be an array`);
+      }
+    }
+    expect(errors).toEqual(['test/file.json: related must be an array']);
+  });
+
+  it('non-string related elements produce errors', () => {
+    const errors: string[] = [];
+    const file = 'test/file.json';
+    const related: unknown[] = ['valid-slug', '', 42, null];
+    for (let i = 0; i < related.length; i++) {
+      const r = related[i];
+      if (typeof r !== 'string' || (r as string).trim() === '') {
+        errors.push(`${file}: related[${i}] must be a non-empty string`);
+      }
+    }
+    expect(errors).toEqual([
+      'test/file.json: related[1] must be a non-empty string',
+      'test/file.json: related[2] must be a non-empty string',
+      'test/file.json: related[3] must be a non-empty string',
+    ]);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Specs value validation
+// ---------------------------------------------------------------------------
+
+describe('specs value validation', () => {
+  it('detects non-string and empty-string spec values', () => {
+    const specs: Record<string, unknown> = { key1: '', key2: 42, key3: 'valid' };
+    const errors: string[] = [];
+    const file = 'test/file.json';
+    for (const [k, v] of Object.entries(specs)) {
+      if (typeof v !== 'string' || (v as string).trim() === '') {
+        errors.push(`${file}: specs["${k}"] must be a non-empty string, got ${JSON.stringify(v)}`);
+      }
+    }
+    expect(errors).toEqual([
+      'test/file.json: specs["key1"] must be a non-empty string, got ""',
+      'test/file.json: specs["key2"] must be a non-empty string, got 42',
+    ]);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Cross-collection duplicate slug detection
+// ---------------------------------------------------------------------------
+
+describe('cross-collection duplicate slugs', () => {
+  it('no slug appears in more than one collection', () => {
+    const errors: string[] = [];
+    const collections = [
+      { name: 'reviews', items: reviews },
+      { name: 'compare', items: compares },
+      { name: 'guides', items: guides },
+      { name: 'brands', items: brands },
+      { name: 'categories', items: categories },
+      { name: 'projects', items: projects },
+    ];
+    const seen = new Map<string, string>(); // slug -> "collection/file"
+    for (const { items } of collections) {
+      for (const { slug, file } of items) {
+        if (seen.has(slug)) {
+          errors.push(`duplicate slug "${slug}": found in both ${seen.get(slug)} and ${file}`);
+        } else {
+          seen.set(slug, file);
+        }
+      }
+    }
+    expect(errors).toEqual([]);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// element guards unit tests
+// ---------------------------------------------------------------------------
+
+describe('element guards', () => {
+  it('isObj rejects null, strings, arrays; accepts plain objects', () => {
+    expect(isObj(null)).toBe(false);
+    expect(isObj('string')).toBe(false);
+    expect(isObj([1, 2])).toBe(false);
+    expect(isObj(42)).toBe(false);
+    expect(isObj({ key: 'val' })).toBe(true);
+    expect(isObj({})).toBe(true);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// checkFaq helper unit tests
+// ---------------------------------------------------------------------------
+
+describe('checkFaq helper', () => {
+  it('returns a named error for null elements, not a crash', () => {
+    const errs = checkFaq('test/file.json', [null], 0);
+    expect(errs).toEqual(['test/file.json: faq[0] must be an object {q, a}']);
+  });
+
+  it('returns a named error for non-object array elements', () => {
+    const errs = checkFaq('test/file.json', ['string-not-obj'], 0);
+    expect(errs).toEqual(['test/file.json: faq[0] must be an object {q, a}']);
+  });
+
+  it('does not report "extra keys: 0,1,2" for non-objects', () => {
+    const errs = checkFaq('test/file.json', [[1, 2, 3]], 0);
+    expect(errs).not.toContain(expect.stringContaining('extra keys: 0, 1, 2'));
+    expect(errs).toEqual(['test/file.json: faq[0] must be an object {q, a}']);
   });
 });
 
@@ -490,13 +739,19 @@ describe('image manifest integrity', () => {
     const errors: string[] = [];
 
     for (const [id, entry] of Object.entries(manifest)) {
-      if (!entry.alt || entry.alt.trim() === '') {
+      if (!isObj(entry)) {
+        errors.push(`manifest entry "${id}": entry must be an object`);
+        continue;
+      }
+      const alt = entry.alt;
+      const source = entry.source;
+      if (!alt || typeof alt !== 'string' || (alt as string).trim() === '') {
         errors.push(`manifest entry "${id}": alt is empty`);
       }
-      if (!entry.source || entry.source.trim() === '') {
+      if (!source || typeof source !== 'string' || (source as string).trim() === '') {
         errors.push(`manifest entry "${id}": source is empty`);
       } else {
-        const src = entry.source;
+        const src = source as string;
         const validSource = src.startsWith('pexels:') || src.startsWith('https://');
         if (!validSource) {
           errors.push(`manifest entry "${id}": source "${src}" must start with "pexels:" or "https://"`);
@@ -538,8 +793,8 @@ describe('image manifest integrity', () => {
   it('compare pages: both referenced review manifest entries exist', () => {
     const errors: string[] = [];
     for (const { file, data } of compares) {
-      const pa = (data.productA as Record<string, unknown> | undefined)?.reviewSlug;
-      const pb = (data.productB as Record<string, unknown> | undefined)?.reviewSlug;
+      const pa = isObj(data.productA) ? data.productA.reviewSlug : undefined;
+      const pb = isObj(data.productB) ? data.productB.reviewSlug : undefined;
       if (pa && !(`reviews/${pa}` in manifest)) {
         errors.push(`${file}: productA review image "reviews/${pa}" not in manifest`);
       }

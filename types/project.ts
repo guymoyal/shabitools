@@ -14,7 +14,7 @@ export interface ProjectStep {
 export interface Project extends ContentDates {
   slug: string;
   title: string;
-  description: string; // 150–160 chars, used for meta description
+  description: string; // 120–170 chars, used for meta description
   category: string; // category slug
   difficulty: 'beginner' | 'intermediate' | 'advanced';
   timeRequired: string; // human, "4–6 hours"

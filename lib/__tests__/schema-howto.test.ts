@@ -57,11 +57,11 @@ describe('howToJsonLd', () => {
     expect(ld.totalTime).toBe(project.timeRequiredIso);
   });
 
-  it('sets estimatedCost as MonetaryAmount', () => {
+  it('sets estimatedCost as MonetaryAmount with numeric value', () => {
     expect(ld.estimatedCost).toEqual({
       '@type': 'MonetaryAmount',
       currency: 'USD',
-      value: project.estCost,
+      value: '20', // first number parsed from "$20–$40"
     });
   });
 
