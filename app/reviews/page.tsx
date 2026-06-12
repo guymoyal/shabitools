@@ -9,7 +9,7 @@ import { pageMetadata, SITE_URL } from '@/lib/seo';
 export const metadata: Metadata = pageMetadata({
   title: 'Power Tool Reviews',
   description:
-    'Hands-on style reviews of cordless drills, saws, and power tools from Makita, DeWalt, Bosch, and Milwaukee — with pros, cons, and clear buy/skip verdicts.',
+    'In-depth reviews of cordless drills, saws, and power tools from Makita, DeWalt, Bosch, and Milwaukee — with pros, cons, and clear buy/skip verdicts.',
   path: '/reviews',
 });
 
