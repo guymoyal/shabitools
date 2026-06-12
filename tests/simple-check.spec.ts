@@ -27,6 +27,24 @@ test('guide page renders ranked picks', async ({ page }) => {
   ).toBeVisible();
 });
 
+test('project page renders steps and HowTo JSON-LD', async ({ page }) => {
+  await page.goto('/projects/build-a-simple-workbench');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText(/workbench/i);
+  await expect(page.locator('li[id^="step-"]').first()).toBeVisible();
+  const jsonLd = await page.locator('script[type="application/ld+json"]').allTextContents();
+  expect(jsonLd.some((s) => s.includes('"HowTo"'))).toBe(true);
+});
+
+test('review page has hero image with dimensions and og:image', async ({ page }) => {
+  await page.goto('/reviews/dewalt-dws780');
+  const hero = page.locator('img[src^="/images/reviews/"]').first();
+  await expect(hero).toBeVisible();
+  expect(await hero.getAttribute('width')).toBeTruthy();
+  expect(await hero.getAttribute('height')).toBeTruthy();
+  const og = await page.locator('meta[property="og:image"]').getAttribute('content');
+  expect(og).toContain('/images/reviews/dewalt-dws780');
+});
+
 test('no tracker URLs in rendered HTML', async ({ page }) => {
   for (const path of ['/', '/reviews/makita-xfd131', '/stores']) {
     await page.goto(path);
