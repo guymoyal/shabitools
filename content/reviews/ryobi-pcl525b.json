@@ -1,0 +1,69 @@
+{
+  "slug": "ryobi-pcl525b",
+  "title": "Ryobi PCL525B 18V ONE+ Jigsaw Review: Best Budget Entry",
+  "brand": "ryobi",
+  "category": "jigsaws",
+  "model": "PCL525B",
+  "rating": 3.9,
+  "priceRange": "$69–$99",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Jig-Saw-Tool-Only-PCL525B/318898528" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/RYOBI-PCL525B-18V-Jig-Saw/dp/B0BQSFC76Q" }
+  ],
+  "pros": [
+    "Under $80 bare tool at Home Depot — the most accessible entry point to a four-orbital-setting jigsaw in any major battery platform",
+    "Full 0–3,000 SPM variable speed range with 4 orbital settings matches the functional spec list of tools costing twice as much",
+    "18V ONE+ compatibility gives access to the Ryobi ONE+ ecosystem with over 300 tools sharing the same battery — ideal for homeowners building a first cordless fleet",
+    "30% reduced vibration versus the prior Ryobi 18V jigsaw reduces hand fatigue on longer curve-cutting sessions",
+    "Onboard LED worklight and tool-free T-shank blade release are genuine conveniences at this price point"
+  ],
+  "cons": [
+    "Brushed motor is less efficient than the brushless motors in the DeWalt DCS334B and Milwaukee 2737-20 — runtime per charge is shorter and the motor runs warmer under sustained load",
+    "Plastic base plate lacks the rigidity of the Bosch JS365's aluminum shoe — acceptable for light work but introduces flex in heavy cuts against a straight edge",
+    "3,000 SPM ceiling is the lowest in this comparison, which shows in cut speed on hardwood and when driving through stacked material",
+    "2 lbs tool-only weight is a positive, but performance in demanding material does not match the lighter feel — the brushed motor bogs under heavy load"
+  ],
+  "bestFor": "First-time jigsaw owners, casual DIYers, and homeowners already in the Ryobi ONE+ 18V platform who need a capable tool for occasional cuts in plywood, trim, and sheet goods.",
+  "skipIf": "You do production jigsaw work, need to cut hardwood or thick stock regularly, or already own batteries in the Milwaukee M18 or DeWalt 20V MAX ecosystem.",
+  "specs": {
+    "voltage": "18V ONE+ (battery not included)",
+    "motor": "Brushed",
+    "noLoadSPM": "0–3,000 SPM (variable)",
+    "strokeLength": "1 inch",
+    "orbitalSettings": "4-position orbital action",
+    "bevelCapacity": "0–45 degrees left and right",
+    "bladeCompatibility": "T-Shank (tool-free release)",
+    "weight": "2 lbs (tool only)",
+    "dimensions": "10 x 5 x 8 inches"
+  },
+  "faq": [
+    {
+      "q": "What battery does the Ryobi PCL525B use?",
+      "a": "Any Ryobi ONE+ 18V lithium-ion battery works in the PCL525B — the platform has been consistent for over 30 years, so older ONE+ packs run the new saw and newer 4.0Ah and 6.0Ah HIGH PERFORMANCE packs extend runtime significantly. The PCL525B is sold bare (no battery); the PCL525K1 kit version includes a 1.5Ah battery and charger, though a 2.0Ah or larger pack is recommended for any cutting session beyond a few minutes."
+    },
+    {
+      "q": "Can the Ryobi PCL525B cut tile or ceramic?",
+      "a": "With a diamond-grit or carbide-tipped T-shank blade and a very slow feed rate, the PCL525B can score and cut ceramic tile and thin stone, but it is not the right tool for tile work. The brushed motor generates more heat under sustained slow-speed load than a brushless motor, which shortens blade life and motor life on abrasive materials. A dedicated tile saw or oscillating tool is the better choice for regular tile cutting."
+    },
+    {
+      "q": "How does the Ryobi PCL525B compare to the DeWalt DCS334B?",
+      "a": "The DCS334B costs roughly 2–2.5 times more and offers a brushless motor, 200 more SPM, and a more robust base plate. For homeowners who use a jigsaw a few times a year for plywood cuts and occasional project work, the PCL525B does the same types of tasks at a much lower entry price. For tradespeople, serious DIYers, or anyone cutting regularly, the brushless DeWalt's efficiency and durability justify the premium."
+    },
+    {
+      "q": "Is the Ryobi PCL525B good for cutting curves in plywood?",
+      "a": "Yes, within its limitations. Set orbital to 0 for cleanest edges, use a 20 TPI fine-tooth T-shank blade, and the PCL525B tracks curves in 1/2-inch and 3/4-inch plywood adequately. The plastic shoe and brushed motor mean the tool is not ideal for production-rate curve cutting in thick stock, but for a kitchen sink cutout, a curved shelf profile, or flooring notches, it performs the task correctly."
+    },
+    {
+      "q": "Does the Ryobi PCL525B have a dust blower?",
+      "a": "No — the PCL525B does not include a dust blower. Keeping the cut line visible requires either pausing to brush away sawdust or wearing safety glasses and blowing gently while cutting. Both the Milwaukee 2737-20 and DeWalt DCS334B have blowers. For light DIY work, the lack of a blower is a minor inconvenience; for production cutting where seeing the cut line continuously matters, it is a genuine workflow limitation."
+    },
+    {
+      "q": "What is the weight of the Ryobi PCL525B with a battery?",
+      "a": "The PCL525B tool body weighs 2 lbs. A standard Ryobi ONE+ 2.0Ah battery adds approximately 0.8–0.9 lbs, bringing the total to under 3 lbs — lighter than every other jigsaw in this comparison with comparable batteries attached. That light weight is its most obvious ergonomic advantage, particularly for younger users or for overhead cuts where any extra ounce is felt."
+    }
+  ],
+  "body": "## The case for the Ryobi PCL525B\n\nNot every tool buyer is a contractor. A significant share of jigsaws sold go to homeowners who need to cut a sink opening in a countertop once, add a curved edge to a floating shelf, or notch baseboard around a door casing. For that user, spending $175 on a Milwaukee M18 FUEL bare tool — then another $100 for a battery — is not rational when the Ryobi PCL525B does those same tasks for $69–$79 bare at Home Depot.\n\nThe PCL525B is Ryobi's current-generation 18V ONE+ jigsaw, released in 2022. It is a brushed cordless tool with 0–3,000 SPM variable speed, four orbital settings, a 1-inch stroke, and a tool-free T-shank blade change system. That feature list is the same as the $200+ tools; what is different is the motor type, base plate material, and how the tool behaves under sustained heavy load.\n\n## What works well for the target user\n\nFor plywood, thin stock, laminate flooring, MDF, and softwood trim — the materials a homeowner jigsaw sees most — the PCL525B does exactly what is asked of it. The four orbital settings cover slow-and-clean (orbit 0) all the way to fast rough cuts (orbit 4). The variable speed trigger is accurate enough for controlled entry cuts and curve steering. The LED worklight illuminates the blade area, which at this price point is a genuine inclusion rather than a marketing checkbox.\n\nThe 30% vibration reduction Ryobi advertises over its prior-generation tool is perceptible in extended use. Holding a jigsaw on a long curved cut, a calmer tool keeps the cut line visible and the blade on track. On a short kitchen countertop cutout, the difference from the prior generation is minor; on a detailed scroll-work profile in 1/4-inch birch plywood, a steadier platform helps.\n\n## Where the brushed motor shows its limitations\n\nLoad the PCL525B into a hardwood board — red oak, maple, or any species denser than pine — and the brushed motor's limits become apparent. Speed drops under load rather than holding the way a brushless motor does. The saw does not stall in 3/4-inch hardwood, but it slows, the blade deflects slightly in the cut, and the resultant edge is less clean than the same cut from a brushless tool at sustained speed.\n\nStack two sheets of 3/4-inch plywood and the difference is amplified. The brushless DeWalt DCS334B and Milwaukee 2737-20 plow through stacked sheet goods at consistent speed; the PCL525B slows and the user compensates by feeding more slowly, which extends the cut time and stresses the motor.\n\nThe plastic base plate flexes under lateral pressure in a way the Bosch JS365's aluminum shoe does not. For freehand curve cuts where you are not pushing hard against a guide, this is not noticeable. For cuts along a clamped straightedge where you press the shoe into the guide, the flex can introduce tracking error at the start of a cut.\n\n## Battery platform and pricing logic\n\nRyobi's ONE+ 18V platform is the largest-by-SKU count battery platform on the market with over 300 products. For a new homeowner building a first cordless toolkit, the platform breadth is genuinely useful — one battery purchase gets you into drills, circular saws, oscillating tools, outdoor equipment, and more. The PCL525B bare tool at $69–$79 is the lowest-cost entry to a full-featured jigsaw in any major platform.\n\nA starter kit with the PCL525B, a 2.0Ah battery, and charger runs $99–$119 — still under $120 for a complete cordless jigsaw setup. That value proposition is hard to match, particularly for buyers who need a jigsaw rarely but want a real tool rather than an entry-level corded saw with no orbital action.\n\n## How to get the best results\n\nThe PCL525B performs best with quality blades. Budget blades included with many kits dull quickly and produce worse results than they should. A set of Bosch or Diablo T-shank blades — fine-tooth for plywood, medium for general wood, bi-metal for composites — costs $15–$25 and transforms the quality of cuts from this or any jigsaw. Use orbital 0 for any cut where edge quality matters, work at moderate feed rate in hardwood, and the PCL525B covers typical homeowner tasks without complaint.\n\n## Blade tips that maximize what the PCL525B does well\n\nAt this price point, blade quality matters more than on premium tools because the motor provides less margin for error when a dull blade resists the cut. A fresh Bosch or Diablo T-shank blade in the correct TPI for the material makes the PCL525B perform noticeably better. Avoid the cheapest no-brand blades — they flex in the kerf at 3,000 SPM and produce wavy cuts. For clean plywood cuts, a 20 TPI fine blade at orbital setting 0 is the correct setup regardless of which jigsaw you own, but it produces a particularly large improvement with a lighter-duty motor that benefits from reduced blade resistance. Change blades when burning or pulling begins rather than continuing with a dull blade.\n\n## Final verdict\n\nThe Ryobi PCL525B scores 3.9 because it delivers a feature-complete jigsaw experience at the lowest price in this group. It does not compete with the Milwaukee 2737-20 or DeWalt DCS334B on sustained performance, motor efficiency, or base plate quality — and it does not need to. For casual use in the materials homeowners actually cut, the PCL525B is sufficient and sensible. For buyers already in the ONE+ ecosystem, the decision is even clearer: a capable jigsaw that runs on batteries already in the drawer.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["bosch-js365", "milwaukee-2737-20", "dewalt-dcs334b"]
+}

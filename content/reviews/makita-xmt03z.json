@@ -1,0 +1,69 @@
+{
+  "slug": "makita-xmt03z",
+  "title": "Makita XMT03Z 18V LXT Oscillating Multi-Tool Review",
+  "brand": "makita",
+  "category": "oscillating-multi-tools",
+  "model": "XMT03Z",
+  "rating": 4.2,
+  "priceRange": "$145–$170",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Makita-18V-LXT-Lithium-Ion-Cordless-Variable-Speed-Oscillating-Multi-Tool-Tool-Only-With-Blade-and-Accessory-Adapters-XMT03Z/205302496" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Makita-XMT03Z-Lithium-Ion-Cordless-Multi-Tool/dp/B00LIV11RG" }
+  ],
+  "pros": [
+    "Lower speed bound of 6,000 OPM is the slowest among the cordless tools reviewed — detail sanding on finished surfaces, veneer, and lacquer benefits from this gentle starting point",
+    "Tool-less clamp system releases and seats blades without tools and without the multi-turn threading of the Milwaukee collar",
+    "Ships with multiple accessory adapters to accept most competitive blade profiles out of the box",
+    "Sits on the Makita 18V LXT platform, the broadest cordless lineup on the market with over 300 compatible tools",
+    "Slim barrel diameter reduces grip fatigue compared to bulkier oscillating tool housings"
+  ],
+  "cons": [
+    "Full weight of 4.9 lbs with a battery is higher than the Milwaukee 2836-20 plus M18 pack at a similar configuration — the XMT03Z's heft shows most in overhead work",
+    "Oscillation angle of 3.2 degrees matches the DeWalt DCS356B rather than exceeding it, so aggressive material removal requires the same number of passes",
+    "The variable speed dial lacks indexed detents — finding a specific repeat setting is less reliable than the Milwaukee's numbered positions or the DeWalt's three discrete tiers",
+    "MSRP of $169 is higher than the DeWalt DCS356B for similar oscillation specs and a less refined blade-swap system"
+  ],
+  "bestFor": "Makita LXT platform owners who need an oscillating multi-tool primarily for fine finish work, slow-speed detail sanding, and general remodeling tasks on existing battery stock.",
+  "skipIf": "You do not already own Makita 18V batteries — at $149–$169 bare tool, the DeWalt DCS356B provides a cleaner blade-swap system and simpler speed control at a comparable or lower street price.",
+  "specs": {
+    "voltage": "18V (LXT lithium-ion)",
+    "motor": "Brushless (LXT)",
+    "opm": "6,000–20,000 OPM (variable speed dial)",
+    "oscillationAngle": "3.2 degrees",
+    "bladeSystem": "Tool-less clamp with Makita-profile and universal accessory adapters included",
+    "variableSpeed": "Variable speed dial with soft-start",
+    "weight": "4.9 lbs (with battery)",
+    "battery": "Compatible with all 18V Makita LXT lithium-ion batteries (sold separately)",
+    "overallLength": "12 inches"
+  },
+  "faq": [
+    {
+      "q": "What is the minimum speed on the Makita XMT03Z?",
+      "a": "The XMT03Z starts at 6,000 OPM at the lowest dial setting. That is roughly half the minimum speed of the Milwaukee 2836-20 and less than half of the Ryobi PCL430B's 10,000 OPM floor. The practical benefit is gentler sanding action on fine woodwork, lacquered trim, and veneer where the 10,000 OPM minimum of competing tools removes material too aggressively."
+    },
+    {
+      "q": "Will the Makita XMT03Z fit old 18V LXT batteries I already own?",
+      "a": "Yes, the XMT03Z is fully compatible with all Makita 18V LXT lithium-ion batteries including older 1.5Ah and 3.0Ah packs. Higher-capacity cells like the 5.0Ah and 6.0Ah BL1850B provide longer runtime for sustained grout removal but add weight to an already moderately heavy tool."
+    },
+    {
+      "q": "Does the Makita XMT03Z accept Bosch and Milwaukee blades?",
+      "a": "The XMT03Z ships with adapters for the most common blade profiles, covering Bosch, Milwaukee, DeWalt, and most aftermarket multi-fit blades. Makita also sells multi-fit blades under its own brand. The tool-less clamp handles the full ecosystem without a separate hex key."
+    },
+    {
+      "q": "How does the XMT03Z compare to the Milwaukee 2836-20?",
+      "a": "The XMT03Z's standout advantage is its 6,000 OPM minimum speed, which the Milwaukee cannot match. Milwaukee wins on oscillation angle (4.2 vs 3.2 degrees), weight (2.56 vs 4.9 lbs with battery), and speed granularity. If slow-speed finish sanding matters, XMT03Z is the better pick; if cutting speed and light weight matter more, Milwaukee leads."
+    },
+    {
+      "q": "Why is the XMT03Z heavier than competing tools?",
+      "a": "The 4.9-lb figure is measured with a battery installed, and Makita's LXT batteries — particularly the 3.0Ah and 5.0Ah cells — are among the heavier packs in the 18V cordless segment. The bare tool is notably lighter; if you already own a 2.0Ah LXT battery, working weight drops accordingly. Milwaukee's M18 packs and DeWalt's 20V cells are physically lighter at equivalent amp-hour ratings."
+    },
+    {
+      "q": "Is the Makita XMT03Z suitable for professional tile grout removal?",
+      "a": "The XMT03Z handles grout removal effectively at full speed with a carbide-grit blade. Its 3.2-degree angle and 20,000 OPM ceiling match the DeWalt DCS356B on paper. For heavy professional grout work across many linear feet of tile, the Milwaukee 2836-20's 4.2-degree angle removes material faster, which adds up over a full-day tile job."
+    }
+  ],
+  "body": "## Starting slow: the XMT03Z's distinguishing feature\n\nMost cordless oscillating tools start at 10,000 OPM — fast enough for cutting, uncomfortably fast for the slowest finish sanding. The Makita XMT03Z runs from 6,000 OPM at the lowest dial setting, giving woodworkers and finish carpenters a genuine slow-speed range that competing tools cannot match. That lower bound is the XMT03Z's strongest argument on a spec sheet, and in practice it delivers.\n\nSanding lacquered trim at 6,000–8,000 OPM produces a finer, more controlled scratch pattern than the same work at 10,000 OPM minimum. On veneer and thin hardwood overlays where removing too much material in one pass causes irreversible damage, the slower speed floor matters. For remodelers who switch between aggressive tile cutting and delicate finish work, having the full range in one tool is genuinely useful.\n\n## Variable dial without indexed stops\n\nThe speed dial is a continuous rotary control without click-stop positions. This design choice has a tradeoff: you can set any speed you want, but repeating a specific setting on subsequent sessions requires visual reference or muscle memory rather than a numbered click position. The Milwaukee 2836-20 uses a ten-step indexed dial; the DeWalt DCS356B uses three physical detents. Makita's continuous dial gives finer theoretical resolution but less repeatability in practice.\n\nFor users who set a speed and leave it there throughout a task, this is a non-issue. For those who repeatedly cycle between fine and coarse settings across a session, the Milwaukee or DeWalt systems provide more tactile certainty.\n\n## Blade system and accessory fit\n\nThe tool-less clamp opens and closes around the blade collar without threading or tools. The mechanism is straightforward: a lever releases tension, the blade comes free, a new one seats, the lever closes. It is faster than Milwaukee's threaded collar and equivalent to the DeWalt Quick-Change in speed for most blade swaps. Makita ships the XMT03Z with adapters for non-Makita profiles, covering the full blade ecosystem from day one.\n\nThe accessory market for Makita LXT oscillating tools is well-developed. Makita sells bi-metal, carbide, and sanding accessories in kits and individually. Third-party blades in multi-fit form work with the included adapter, which is honest and practical compared to tools that require brand-specific blades at premium prices.\n\n## Weight and platform considerations\n\nThe 4.9-lb specification is with battery included, and the choice of battery pack significantly affects that number. A 2.0Ah LXT cell brings the working weight down considerably; a 5.0Ah pack for extended sessions adds it back up. The bare tool itself is moderate weight with a slim barrel diameter that reduces hand-cramp in long sessions, but overhead cutting — flush-trimming door casings while holding the tool horizontal — is more fatiguing here than with the Milwaukee 2836-20 on a comparably-sized M18 battery.\n\nOn the LXT platform side, Makita's 18V ecosystem is the largest in the industry. If you have drill/drivers, circular saws, jigsaws, and sanders on LXT batteries, adding the XMT03Z requires no additional battery investment. That platform fit is the strongest real-world argument for the tool over the similarly-priced DeWalt DCS356B.\n\n## Cutting and sanding performance\n\nAt full 20,000 OPM with a sharp bi-metal blade, the XMT03Z cuts wood cleanly and with good control. Flush-cutting door jambs and plunge-cutting outlet openings in drywall work exactly as expected. The 3.2-degree oscillation angle means cutting speed is comparable to the DeWalt, slower than the Milwaukee.\n\nGrout removal with a carbide-grit blade works effectively at positions 7–10 on the dial. The motor holds speed without significant bog in standard unsanded grout; very hard epoxy grout slows the tool more than it would slow the Milwaukee. For tile remodeling involving a few square feet of grout repair, this distinction is academic. For a bathroom remodel or kitchen backsplash replacement measured in linear feet, the Milwaukee's wider angle becomes a practical time difference.\n\n## How it compares\n\nThe **Milwaukee 2836-20** outperforms the XMT03Z on oscillation angle, bare-tool weight, and speed control, at a higher price. The **DeWalt DCS356B** matches the XMT03Z on oscillation angle, beats it on blade-swap ergonomics and street price, and has a minimum speed of 13,000 OPM (higher than the XMT03Z's 6,000). The **Ryobi PCL430B** is the budget option that covers light homeowner needs; the XMT03Z is the platform-fit choice for LXT users who do not need Milwaukee's top-end performance.\n\n## Accessory ecosystem on the LXT platform\n\nMakita sells a full range of oscillating accessories: bi-metal wood blades, carbide-grit grout blades, wood-cutting blades for the XMT03Z's tool-less collar, and hook-and-loop sanding pads in multiple grit profiles. The accessories are widely available at Home Depot and online retailers. Makita also sells a multi-fit blade line compatible with the included adapter, so you are not restricted to Makita-branded accessories. Blade kit pricing runs $20–$45 for common assortments — comparable to DeWalt and Milwaukee accessory pricing at this tier.\n\n## Verdict\n\nThe Makita XMT03Z is a solid oscillating multi-tool for LXT platform owners, with its 6,000 OPM minimum speed as the genuine performance differentiator. For buyers without an existing LXT battery collection, the DeWalt DCS356B offers a more refined blade-swap mechanism and simpler speed control at a competitive price. Choose the XMT03Z when slow-speed finish work matters and you already own LXT batteries; choose the DeWalt when you want the cleanest blade-swap experience.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2836-20", "dewalt-dcs356b", "ryobi-pcl430b"]
+}

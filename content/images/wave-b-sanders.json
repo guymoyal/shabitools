@@ -1,0 +1,18 @@
+{
+  "reviews/dewalt-dcw210b": {
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCW210B_1_1680.webp",
+    "alt": "DeWalt DCW210B 20V MAX XR 5-inch cordless random orbit sander"
+  },
+  "reviews/makita-bo5041": {
+    "source": "https://www.coastaltool.com/cdn/shop/products/image_eaff9454-fab0-4e4e-83e9-f26032210ae0_1024x.png?v=1603199798",
+    "alt": "Makita BO5041 5-inch corded random orbit sander"
+  },
+  "reviews/dewalt-dwe6411k": {
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWE6411K_1_1680.webp",
+    "alt": "DeWalt DWE6411K 1/4-sheet corded palm grip sander"
+  },
+  "reviews/ryobi-rs290g": {
+    "source": "https://cdn.shopify.com/s/files/1/0651/3668/9323/files/4a954451bb2a4cd687b2f7e8f43cca10_1824x874.jpg?v=1734040962",
+    "alt": "Ryobi RS290G 2.6-amp corded 5-inch random orbit sander"
+  }
+}

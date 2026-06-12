@@ -1,0 +1,69 @@
+{
+  "slug": "dewalt-dws780",
+  "title": "DeWalt DWS780 Review: 12\" Sliding Compound Miter Saw",
+  "brand": "dewalt",
+  "category": "miter-saws",
+  "model": "DWS780",
+  "rating": 4.6,
+  "priceRange": "$449–$649",
+  "affiliate": [
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-DWS780-12-Inch-Sliding-Compound/dp/B00540JS7C" },
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-12-in-Double-Bevel-Sliding-Compound-Miter-Saw-with-XPS-technology-Blade-Wrench-and-Material-Clamp-DWS780/321488310" }
+  ],
+  "pros": [
+    "XPS shadow cutline system projects the blade's silhouette onto the workpiece without a bulb that burns out — cut accuracy is immediately apparent before the trigger is pulled",
+    "Double-bevel tilts 48° left and right, handling opposing compound crown angles without repositioning the workpiece",
+    "Cuts 2×14 lumber and 13-3/4-inch-wide boards at 90°, covering virtually every residential trim and framing application",
+    "Stainless-steel miter detent plate with 10 positive stops clicks in firmly and holds under repeated production crosscutting",
+    "Approximately 56 lbs — noticeably lighter than the 65-lb Bosch GCM12SD at the same price tier",
+    "Tall sliding fence supports 7-1/2 inches of crown molding nested and 6-3/4 inches of base molding vertically"
+  ],
+  "cons": [
+    "Rail-based sliding mechanism requires roughly 14–18 inches of clearance behind the fence, limiting placement against a wall",
+    "Dust collection captures approximately 75% of material — below the Bosch GCM12SD's 90% figure with the same shop vacuum setup",
+    "Bundled blade is a 32-tooth general-purpose cut; a 60-tooth or 80-tooth upgrade is advisable for finish trim work on hardwood or MDF"
+  ],
+  "bestFor": "Professional trim carpenters and serious DIYers who want a highly accurate 12-inch sliding compound saw with a projected cutline for rapid, repeatable cuts on wide stock.",
+  "skipIf": "Your bench space is against a wall and rear clearance is limited — the Bosch GCM12SD's Axial-Glide design eliminates the 14-inch rearward rail requirement.",
+  "specs": {
+    "bladeSize": "12 in. (305mm)",
+    "crossCutAt90": "2 in. × 14 in. dimensional lumber",
+    "crossCutAt45": "2 in. × 10 in. dimensional lumber",
+    "miterRange": "60° right, 50° left",
+    "bevelRange": "0°–48° left and right (dual-bevel)",
+    "motor": "15 Amp, 3,800 RPM no-load",
+    "crownMoldingCapacity": "7-1/2 in. nested; 6-3/4 in. base vertically",
+    "dustCollection": "Captures over 75% of dust generated",
+    "warranty": "3-year limited, 1-year free service contract"
+  },
+  "faq": [
+    {
+      "q": "What is the XPS cutline system on the DeWalt DWS780?",
+      "a": "XPS (Cross Positioning System) uses an LED light source positioned above the blade to cast a precise shadow of the kerf onto the workpiece surface. Unlike a laser line that must be calibrated and aligned to a specific kerf offset, the XPS shadow represents the actual path of the blade at full width — so the dark band you see before cutting corresponds exactly to the wood that will be removed. The LED is rated for the tool's service life and does not require replacement."
+    },
+    {
+      "q": "Is the DeWalt DWS780 discontinued?",
+      "a": "DeWalt marked the DWS780 as discontinued on its official product page, but the saw remains widely available at Home Depot, Amazon, and authorized dealers as of mid-2026. Production inventory is still moving through retail channels. Buyers should confirm availability at their preferred retailer; pricing has held in the $449–$649 range depending on sales promotions."
+    },
+    {
+      "q": "How much rear clearance does the DWS780 need?",
+      "a": "The DWS780 uses a traditional dual-rail sliding system, which requires approximately 14–18 inches of clear space behind the rear fence for the rails to extend when the blade slides forward. This is the primary design limitation compared to the Bosch GCM12SD's Axial-Glide mechanism, which requires essentially zero rear clearance. For against-the-wall placement, the rail requirement is a genuine constraint."
+    },
+    {
+      "q": "What is the difference between the DWS779 and the DWS780?",
+      "a": "The DWS779 and DWS780 share the same motor, rails, and cutting capacity. The DWS780 adds the integrated XPS cross-cut positioning system — the LED shadow cutline projector. The DWS779 does not have XPS. The DWS780 is also somewhat lighter than the older DWS779. DeWalt has discontinued both models officially, but inventory remains available at retail."
+    },
+    {
+      "q": "Can the DWS780 cut 6×6 lumber?",
+      "a": "The DWS780's crosscut capacity at 90° is 2 inches of height × 14 inches of width for dimensional lumber. For thick stock like a 6×6 post (5-1/2 inches × 5-1/2 inches actual), a single crosscut pass at 90° will not clear the full height — you would need to rotate the workpiece and make two passes to complete a through-cut on a 6×6. For consistent heavy-timber crosscutting, a dedicated beam saw or a track saw with a circular saw provides a cleaner workflow."
+    },
+    {
+      "q": "How does the DWS780 compare to the Ryobi TSS103?",
+      "a": "The DWS780 is a professional-tier tool at $449–$649; the Ryobi TSS103 is a homeowner-grade saw at approximately $269. Both are 10- and 12-inch sliding compound miter saws, but the comparison highlights: the DeWalt uses a 12-inch blade versus Ryobi's 10-inch, cuts wider stock, has a more refined detent system, superior dust collection, and the XPS cutline indicator. The Ryobi is a sound choice for occasional trim work; the DeWalt is built for daily production use."
+    }
+  ],
+  "body": "## Where the DWS780 sits in the miter saw hierarchy\n\nDeWalt's DWS780 has occupied the upper tier of the corded miter saw market for nearly a decade. It is the saw that North American framers, finish carpenters, and trim installers most often reference when comparing 12-inch sliding compound options against the Bosch GCM12SD or Makita LS1019L. Its reputation comes from a combination of consistent crosscut accuracy, the XPS cutline system, and the kind of feature set that professional production use demands.\n\nUnderstanding what makes the DWS780 compelling starts with the XPS system.\n\n## The XPS cross-cut positioning system\n\nMost miter saws — including the Bosch GCM12SD — rely on a physical blade guard shadow or an optional laser to indicate where the cut will fall. Laser systems require calibration when the blade is changed and can drift out of alignment with the kerf. The DWS780's XPS uses a high-intensity LED mounted above the blade to cast a precise shadow of the blade body onto the workpiece surface. That shadow corresponds directly to the kerf path — no offset, no calibration.\n\nFor production work where you are cutting dozens of identical pieces, the XPS reduces the cognitive load of cut placement. You see the exact kerf width on the wood before committing. The LED is rated for the service life of the tool, so there is no bulb replacement schedule. Carpenters who have used both the GCM12SD and the DWS780 routinely cite the XPS as the feature that tips the decision.\n\n## Cutting capacity and miter range\n\nThe 12-inch blade cuts 2×14 dimensional lumber at 90° — a practical limit that handles everything from standard framing lumber to wide baseboard profiles. At 45°, the capacity drops to 2×10, which covers the majority of compound crown molding applications. The miter range of 60° right and 50° left is generous, and the stainless-steel detent plate with 10 positive stops delivers consistent, repeatable angle settings that hold under the vibration of all-day cutting.\n\nThe double-bevel tilts 48° in both directions, so opposing compound crown angles require only a dial adjustment rather than a workpiece flip. Tall sliding fences support 7-1/2 inches of nested crown and 6-3/4 inches of vertical base — proportions that accommodate wide architectural molding profiles that a 10-inch saw like the Ryobi TSS103 cannot handle without reorienting the material.\n\n## The rail clearance trade-off\n\nThe DWS780 uses a traditional two-rail sliding system. When the blade slides forward across the workpiece, the rails extend backward through the rear of the saw by roughly 14–18 inches. That extension demands clear wall or cabinet space behind the fence. In a fixed workshop, the solution is straightforward — leave 18 inches of rear clearance when positioning the bench. In a customer's home, a narrow room, or a packed trailer, that requirement becomes a real constraint.\n\nThis is the primary reason some professional carpenters choose the Bosch GCM12SD: its Axial-Glide mechanism requires zero rear clearance. If placement flexibility matters more than the XPS system, the Bosch has the structural advantage.\n\n## Dust collection: functional but not class-leading\n\nDeWalt rates the DWS780's dust collection at 75% capture efficiency with a vacuum connected to the rear port. That is adequate for most workshop environments and meaningfully better than budget saws in the 40–60% range. However, the Bosch GCM12SD consistently achieves roughly 90% capture under comparable conditions, a gap that becomes visible when cutting painted MDF or hardwood over a finished floor. The DWS780's dust bag performs adequately for jobsite framing cuts where residual dust is a minor concern; for clean interior finish work, a vacuum connection is strongly advisable.\n\n## Weight and portability\n\nAt approximately 56 lbs, the DWS780 is lighter than the Bosch GCM12SD (65 lbs) by a meaningful margin. Single-person loading onto a truck or stand is still a two-handed job, but the 9-lb difference matters at the end of a long day. DeWalt's miter saw stands — particularly the DWX726 and DWX725B — provide folding support with integrated mounting brackets that make frequent setup and breakdown manageable.\n\n## Price and current availability\n\nThe DWS780's street price has ranged from $449 to $649 depending on promotions at major retailers. Amazon has periodically offered the saw at $490 and occasionally lower during major sale events. Home Depot and Lowe's list it in the $599–$649 range at standard pricing. Given that DeWalt has marked it as discontinued on its product page while still shipping inventory, buyers should expect the price to remain in this band until stock clears rather than climbing.\n\nAt any price under $550, the DWS780 represents strong value for a professional 12-inch double-bevel sliding compound saw with an XPS cutline system — a feature set that competitors at this price tier do not match. Buyers who can catch the saw during one of its periodic sale windows below $500 are getting a tool built for decades of professional use at a price that reflects current inventory liquidation rather than any decline in capability.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["bosch-gcm12sd", "metabo-hpt-c10fcgs", "ryobi-tss103"]
+}

@@ -1,0 +1,18 @@
+{
+  "reviews/bosch-gcm12sd": {
+    "source": "https://www.boschtools.com/us/en/ocsmedia/131320-945/application-image/1434x828/miter-saws-gcm12sd-060166501c.png",
+    "alt": "Bosch GCM12SD 12-inch Dual-Bevel Axial-Glide Sliding Compound Miter Saw"
+  },
+  "reviews/dewalt-dws780": {
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWS780_1_1680.webp",
+    "alt": "DeWalt DWS780 12-inch Double Bevel Sliding Compound Miter Saw"
+  },
+  "reviews/metabo-hpt-c10fcgs": {
+    "source": "https://www.metabo-hpt.com/images/default-source/c10fcgs/c10fcgs-b07px44jqm-main.jpg?sfvrsn=7d22c754_3",
+    "alt": "Metabo HPT C10FCGS 10-inch Single Bevel Compound Miter Saw"
+  },
+  "reviews/ryobi-tss103": {
+    "source": "https://cdn.shopify.com/s/files/1/0651/3668/9323/files/82f68b56a99e4f278b0b0e9a8d569f12_2000x2000.jpg?v=1734041721",
+    "alt": "Ryobi TSS103 10-inch Sliding Compound Miter Saw with LED Cutline Indicator"
+  }
+}

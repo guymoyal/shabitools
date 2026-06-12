@@ -1,0 +1,18 @@
+{
+  "reviews/dewalt-dwe7485": {
+    "source": "pexels:dewalt compact jobsite table saw yellow black workshop",
+    "alt": "DeWalt DWE7485 8-1/4-inch compact jobsite table saw"
+  },
+  "reviews/bosch-gts18v-08n": {
+    "source": "pexels:bosch cordless portable table saw blue workshop",
+    "alt": "Bosch GTS18V-08N PROFACTOR 18V 8-1/4-inch cordless portable table saw"
+  },
+  "reviews/metabo-hpt-c10rjs": {
+    "source": "pexels:metabo hpt jobsite table saw 10 inch fold roll stand",
+    "alt": "Metabo HPT C10RJS 10-inch jobsite table saw with fold-and-roll stand"
+  },
+  "reviews/skil-ts6307-00": {
+    "source": "pexels:skil 10 inch portable table saw folding stand workshop",
+    "alt": "Skil TS6307-00 10-inch portable table saw with integrated folding stand"
+  }
+}

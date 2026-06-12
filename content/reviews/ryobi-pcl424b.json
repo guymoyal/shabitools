@@ -1,0 +1,63 @@
+{
+  "slug": "ryobi-pcl424b",
+  "title": "Ryobi PCL424B Review: Budget 18V Compact Router",
+  "brand": "ryobi",
+  "category": "routers",
+  "model": "PCL424B",
+  "rating": 3.8,
+  "priceRange": "$79–$99",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Compact-Fixed-Base-Router-Tool-Only-PCL424B/320033032" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Cordless-Compact-Fixed-Base-Router/dp/B0BNFBL5PR" }
+  ],
+  "pros": [
+    "At $79–$99 tool-only, it is the least expensive entry point into cordless compact routing on any major 18V platform",
+    "20,000–30,000 RPM variable speed range is actually wider at the top than the DeWalt DCW600B (25,500 RPM), allowing faster spinning for fine detail bits",
+    "Quick-release lever and micro dial depth adjustment give faster bit changes and finer depth control than the threading-ring mechanism common on budget corded trimmers",
+    "Part of the 300+ tool Ryobi 18V ONE+ platform — buyers already invested in the system add routing capability at minimal incremental cost"
+  ],
+  "cons": [
+    "Brushed motor is the main performance gap versus the DeWalt DCW600B — less efficient, generates more heat under sustained load, and will require brush replacement eventually",
+    "At 3.2 lbs bare, it is heavier than the DeWalt DCW600B (2.6 lbs) despite having less motor technology; the weight difference comes from the less efficient motor requiring more copper winding",
+    "No electronic speed feedback — RPM drops under load in a way that better-specced routers compensate for automatically",
+    "Platform limitation: Ryobi ONE+ 18V does not have a brushless router upgrade path; the brushless PBLRR01 is a separate, higher-cost product"
+  ],
+  "bestFor": "Homeowners already on the Ryobi 18V ONE+ platform who need occasional laminate trimming, roundover profiling, and light edge work without buying into a new battery ecosystem or spending above $100.",
+  "skipIf": "You plan to use a router frequently or for extended sessions — the brushed motor limits sustained performance. Step up to the DeWalt DCW600B or Makita RT0701C for regular routing work.",
+  "specs": {
+    "voltage": "18V ONE+ (compatible with entire 18V ONE+ battery line)",
+    "motor": "Brushed",
+    "speedRange": "20,000–30,000 RPM variable",
+    "collet": "1/4 in.",
+    "depthAdjustment": "Micro dial + quick-release lever",
+    "weight": "3.2 lbs (bare tool, no battery)",
+    "dustPort": "1-7/8 in.",
+    "warranty": "3-year limited"
+  },
+  "faq": [
+    {
+      "q": "What batteries work with the Ryobi PCL424B?",
+      "a": "Any Ryobi 18V ONE+ battery works in the PCL424B — from the 1.5Ah starter packs to the 4.0Ah and 6.0Ah high-capacity cells. The tool does not require a high-performance or HP-series battery. For occasional use, a 2.0Ah pack is adequate; for extended sessions, a 4.0Ah pack reduces battery changes."
+    },
+    {
+      "q": "Can the Ryobi PCL424B trim laminate countertops?",
+      "a": "Yes. Flush-trimming plastic laminate is a light-duty application that the PCL424B handles well — the required depth is shallow, the cut is short, and the heat generated is minimal. This is actually one of its best use cases: quick, infrequent laminate trim work where you do not need sustained motor output."
+    },
+    {
+      "q": "Is the PCL424B good enough for furniture woodworking?",
+      "a": "For occasional and light furniture work — rounding over table edges, routing decorative profiles on shelf fronts, doing light template routing — the PCL424B is adequate. For regular furniture production or any sustained routing session over 10–15 minutes, the brushed motor's heat generation makes the DeWalt DCW600B or Makita RT0701C a better long-term choice."
+    },
+    {
+      "q": "How does the Ryobi PCL424B compare to the DeWalt DCW600B?",
+      "a": "The DCW600B has a brushless motor, electronic speed feedback, and weighs less (2.6 lbs versus 3.2 lbs). The PCL424B costs roughly half as much at the bare-tool level. For platform-committed Ryobi ONE+ users doing occasional routing, the PCL424B is a reasonable choice. For regular routing use, the DCW600B's brushless motor and speed maintenance justify the higher cost."
+    },
+    {
+      "q": "Does the PCL424B work with a router table?",
+      "a": "Yes, it is compatible with compact router table inserts designed for 1/4-inch-shank trim routers. However, the brushed motor means sustained table use at high loads is not ideal for this tool. For occasional table use — running a profile along a few feet of stock — it is fine. For a dedicated router table setup, a corded router with better thermal management is more appropriate."
+    }
+  ],
+  "body": "## What budget routing actually means\n\nThe Ryobi PCL424B exists to answer a specific question: what do you get if you spend under $100 on a cordless compact router? The answer is useful for buyers who already own Ryobi 18V ONE+ batteries and need routing capability occasionally — trimming laminate, rounding over a few edges, doing light template work — without adding a new battery standard to their shop or spending the $160–$220 that the DeWalt DCW600B commands.\n\nUnderstanding the PCL424B requires being clear-eyed about what the brushed motor trade-off means in practice, rather than treating it as a bullet point that explains a price difference.\n\n## Brushed versus brushless: what actually changes\n\nA brushed motor uses carbon brushes that physically contact a spinning commutator to transfer current to the rotor. The contact creates friction, which generates heat, which limits how long and how hard the motor can run before thermal management becomes an issue. In a compact router, this manifests as RPM drop under load — when the bit bites into hardwood, the motor slows because it is transferring energy through a less efficient electrical path.\n\nA brushless motor eliminates the brushes and commutator through electronic commutation. The result is lower heat generation, more efficient current use per battery charge, and consistent RPM maintenance under load. The DeWalt DCW600B and most tools at $150 and above use brushless motors for exactly these reasons.\n\nThe PCL424B's brushed motor is not defective engineering at its price point — it is the correct cost-reduction choice for a tool targeted at occasional use. Carbon brushes are replaceable (Ryobi sells replacement brushes), and the motor is entirely adequate for light, intermittent routing sessions. The practical limitation is sustained work: running a full edge profile on a large tabletop, routing multiple long dados, or using the tool in a router table for a significant period generates heat that a brushless motor sheds more readily.\n\n## Speed range and variable speed\n\nThe PCL424B's 20,000–30,000 RPM range with a variable dial is a genuine positive. The upper limit of 30,000 RPM matches the Makita RT0701C and exceeds the DeWalt DCW600B's 25,500 RPM ceiling. For fine-detail 1/4-inch shank bits — small roundovers, chamfers, V-groove bits for sign lettering — a higher top speed produces cleaner cuts. The practical consequence is that for fine, light profiling work, the PCL424B's speed range is not its limiting factor.\n\nThe dial adjusts speed smoothly across its range. Without electronic feedback, the set speed is a target rather than a maintained value — the motor will slow somewhat under load. For laminate trimming and light edge work in softwood and MDF, this is not a meaningful issue because the cutting resistance is low. For hardwoods like hickory or hard maple, you will notice the RPM variation in cut quality over a long edge.\n\n## Depth adjustment and base design\n\nThe quick-release lever and micro dial combination is a legitimate design upgrade over the threaded-ring adjustment common on cheaper trim routers. The lever releases and re-locks depth without removing your hand from the tool or requiring a wrench. The micro dial allows precise small-increment changes once the approximate depth is set. This is a practical convenience that improves the experience of repetitive setup-and-adjust workflows like fitting multiple door pulls at the same depth.\n\nThe 1-7/8-inch dust port is a practical addition for shop vacuum hookup. Routing generates fine, irritating dust, and having a port present — even if the seal is not as tight as on more expensive tools — is better than no provision at all.\n\n## Platform value for Ryobi ONE+ users\n\nThe 3-year limited warranty that Ryobi offers on the PCL424B is the same term as the DeWalt DCW600B and longer than Makita's 1-year on the RT0701C. That consistency signals Ryobi's confidence in the tool's durability for its intended use profile. The 300+ tool 18V ONE+ platform means any Ryobi ONE+ battery from a drill, circular saw, or jigsaw slides directly into the PCL424B — no adapter, no compatibility concern.\n\nFor buyers who already own two or three Ryobi ONE+ tools and batteries, the total cost of adding routing capability to the shop is literally the $79–$99 tool price. That calculation is different from asking a new buyer to evaluate the PCL424B against the DCW600B on absolute merit.\n\n## Where the PCL424B fits\n\nBudget tools are worth buying when they are used within their design envelope. The PCL424B's design envelope is occasional, light routing: laminate trimming after a countertop installation, a few feet of roundover profile on a bookshelf, light template routing for a hardware installation. Within that envelope, it performs the task without complication. Outside that envelope — production woodworking, sustained router table use, regular full-session profiling — the brushless-motor tools at twice the price are the better long-term investment. The PCL424B knows what it is.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["makita-rt0701c", "dewalt-dcw600b", "bosch-1617evspk"]
+}

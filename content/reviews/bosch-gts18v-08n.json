@@ -1,0 +1,67 @@
+{
+  "slug": "bosch-gts18v-08n",
+  "title": "Bosch GTS18V-08N Review: Cordless Table Saw Worth the Cost?",
+  "brand": "bosch",
+  "category": "table-saws",
+  "model": "GTS18V-08N",
+  "rating": 4.1,
+  "priceRange": "$449–$499 (bare tool)",
+  "affiliate": [
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/Bosch-Profactor-8-25-in-Portable-Jobsite-Table-Saw/5014014919" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/BOSCH-GTS18V-08N-PROFACTORTM-Portable-Table/dp/B0BF2Z4SDY" }
+  ],
+  "pros": [
+    "Genuinely cord-free operation removes the extension cord as a jobsite hazard and setup constraint — significant value on finished-floor remodels and multi-story work",
+    "BITURBO Brushless technology delivers 5,500 RPM and sustained power through dense hardwood without the voltage sag that affects smaller cordless platforms",
+    "Innovative rack-and-pinion fence with dial micro-adjustment is the most precise fence mechanism in the portable saw class — no tapping, no racking",
+    "At 44 lbs bare, it matches the DWE7485's weight while adding cordless flexibility and a superior fence system"
+  ],
+  "cons": [
+    "Bare-tool pricing at $449–$499 assumes you own at least one CORE18V PROFACTOR battery ($150–$200 each) — total investment for a first-time Bosch buyer exceeds $650",
+    "8.25-inch blade restricts maximum depth of cut to 2-1/2 inches at 90 degrees — same limitation as the DeWalt corded compact, for a higher price",
+    "PROFACTOR platform is smaller than DeWalt's 20V MAX or Milwaukee's M18 — fewer tools share the same battery, reducing cross-tool value",
+    "Runtime on a single 8 Ah CORE18V battery covers a full morning of typical cuts but demands a spare battery for full-day continuous use"
+  ],
+  "bestFor": "Contractors working in finished spaces, upper floors, or sites where running extension cords is impractical, who are already invested in the Bosch PROFACTOR 18V platform.",
+  "skipIf": "You are not already on the Bosch PROFACTOR platform or you routinely cut thick hardwood above 2.5 inches — the bare-tool price plus a battery purchase exceeds a capable 10-inch corded saw with stand.",
+  "specs": {
+    "bladeDiameter": "8-1/4 in.",
+    "motor": "18V BITURBO Brushless (CORE18V PROFACTOR battery)",
+    "noLoadRPM": "5,500 RPM",
+    "ripCapacityRight": "25 in.",
+    "depthOfCut90": "2-1/2 in.",
+    "depthOfCut45": "1-3/4 in.",
+    "bevelRange": "-2° to +47°",
+    "arbor": "5/8 in.",
+    "weight": "44 lbs (bare tool, no battery)",
+    "fenceSystem": "Rack-and-pinion with dial micro-adjustment",
+    "batteryCompatibility": "Bosch CORE18V PROFACTOR 8 Ah (recommended); compatible with all PROFACTOR 18V batteries",
+    "warranty": "1-year limited (tool); battery warranty per Bosch CORE18V terms"
+  },
+  "faq": [
+    {
+      "q": "Does the Bosch GTS18V-08N include a blade guard and riving knife?",
+      "a": "Yes. The GTS18V-08N is equipped with a blade guard assembly and a riving knife that prevents the kerf from closing on the blade — the primary mechanical cause of table saw kickback. The riving knife moves with blade height adjustments and stays engaged for all standard through-cuts. As with any table saw, removing the guard for dado cuts requires extra caution and a featherboard to control the workpiece."
+    },
+    {
+      "q": "What battery does the Bosch GTS18V-08N require?",
+      "a": "Bosch specifies the CORE18V 8 Ah PROFACTOR battery (GBA18V80) as the recommended power source for demanding applications like ripping lumber. The saw is compatible with any PROFACTOR 18V battery, but smaller capacities like 4 Ah will shorten runtime noticeably under load. A single 8 Ah battery runs through a typical morning of jobsite cuts before needing a charge."
+    },
+    {
+      "q": "How does the cordless GTS18V-08N compare to the corded DeWalt DWE7485?",
+      "a": "Both saws use an 8.25-inch blade with very similar cutting dimensions — the Bosch cuts 2-1/2 inches deep at 90 degrees versus 2-9/16 inches for the DeWalt, essentially identical. The Bosch fence is measurably superior with its dial micro-adjustment. The DeWalt costs $80–$150 less when you account for a battery. The Bosch earns its premium only if cord-free operation is a genuine requirement of your work."
+    },
+    {
+      "q": "Can the Bosch GTS18V-08N run on corded power?",
+      "a": "No. The GTS18V-08N is a battery-only tool — it has no provision for corded AC power. If you need a corded fallback for all-day shop use, the GTS18V-08N is not the right choice. Bosch's older corded table saws are the alternative, though the REAXX safety-system model has been discontinued following patent litigation."
+    },
+    {
+      "q": "Is the Bosch PROFACTOR GTS18V-08N accurate enough for cabinet work?",
+      "a": "For cabinet-grade work, the rack-and-pinion dial fence is the best available in the portable saw class — it adjusts in small, repeatable increments without racking, which is the primary accuracy complaint on budget-saw fences. The limitation is blade diameter: 8.25 inches at 5,500 RPM produces a clean cut surface, but depth capacity restricts the saw to components under about 2.5 inches thick. For case sides and drawer components from 3/4-inch sheet stock, the GTS18V-08N is fully capable."
+    }
+  ],
+  "body": "## The cordless case for a table saw\n\nThe Bosch GTS18V-08N PROFACTOR is a calculated bet that the extension cord is a bigger obstacle on modern jobsites than a battery pack's cost. On finished-floor remodels, multi-story work, renovations in occupied buildings, or any site where cord management competes with trim components and case goods on the floor, that bet pays off. The GTS18V-08N removes the cord entirely, and at 44 lbs bare, it weighs the same as the lightest corded compact saws while delivering performance that matches them in most real-world cutting scenarios.\n\nThe case for cordless collapses in a fixed shop or on a site where power is accessible and abundant. Here the battery cost — a CORE18V 8 Ah pack runs $150–$200 — becomes a straight surcharge over a corded saw that delivers equivalent or better cutting performance at lower total investment.\n\n## Fence quality — the actual differentiator\n\nBosch's most defensible claim for the GTS18V-08N is the fence, not the battery system. The rack-and-pinion design with a dial micro-adjustment knob is a qualitative step above the telescoping fence on the DeWalt DWE7485 and the basic rack-and-pinion fences on the Metabo HPT C10RJS and Skil TS6307-00. The dial allows fine-increment adjustment — moving the fence a thirty-second of an inch at a time — that cabinet work and finish carpentry require, without the repeated lock-unlock-tap-recheck cycle that makes precision work tedious on most portable saw fences.\n\nFor production ripping of identical widths — flooring strips, stile stock, shelf standards, baseboard blanks — the Bosch fence's repeatability is its most practical attribute. Set the dimension once, lock the dial, and the fence holds through a full stack of material without drift. That reliability is worth real money in a production context, and it makes the GTS18V-08N a legitimate option for small-shop cabinet and furniture work where the cordless aspect is a secondary benefit.\n\n## Cutting performance under load\n\nAt 5,500 RPM on an 8.25-inch blade, the GTS18V-08N operates at the upper end of the portable saw speed range. Bosch's BITURBO Brushless motor maintains speed under load rather than sagging the way smaller cordless platforms do when encountering dense hardwood grain or wet treated lumber. Cordless table saws from earlier generations suffered from noticeable speed drop under moderate load; the PROFACTOR platform with the 8 Ah battery closes that gap to where it is largely imperceptible in typical jobsite ripping of dimensional lumber and sheet goods.\n\nThe 2.5-inch depth of cut at 90 degrees is the consistent physical limitation. Ripping 2x framing lumber, 3/4-inch and 1-1/4-inch sheet goods, and hardwood up to about 2.5 inches thick falls within the saw's capacity without difficulty. Cutting nominal 4x4 posts (3.5 inches actual), resawing thick hardwood boards for book-matched panels, or making deep dadoes in thick stock are operations this saw cannot complete in a single pass — for those applications, the Metabo HPT C10RJS with its 3-1/8-inch depth is the appropriate tool.\n\n## Battery platform and runtime considerations\n\nBosch's PROFACTOR 18V lineup is more focused than DeWalt's 20V MAX or Milwaukee's M18 systems — it concentrates on the high-demand tool tier: circular saws, reciprocating saws, rotary hammers, this table saw, and a select group of accessories. If you already own PROFACTOR tools and batteries, the GTS18V-08N integrates cleanly into your system. Building a platform from scratch and wanting the broadest tool selection on one battery means DeWalt's 20V MAX or Milwaukee's M18 still offer more models.\n\nThe 8 Ah CORE18V battery is non-negotiable for sustained table saw use — Bosch's own documentation makes this recommendation, and the motor draw under continuous ripping load confirms why smaller packs fall short. Budget for two 8 Ah packs for full-day site operation; one pack is adequate for morning work sessions with a mid-day charge.\n\n## Price and total cost of ownership\n\nAt $449–$499 bare tool, the GTS18V-08N is the most expensive saw in this comparison before adding a battery. Add one CORE18V 8 Ah battery at $180 and a charger at $50 for a first-time Bosch buyer, and the complete kit costs $680–$730 — significantly more than a capable 10-inch corded saw with stand, riving knife, and a quality blade included.\n\nThe premium is rational in exactly one scenario: you already own PROFACTOR batteries from other tools, and you regularly work in situations where running an extension cord is genuinely impractical. In every other scenario, the corded alternatives in this group deliver more cutting capacity for less total money.\n\n## Verdict\n\nThe Bosch GTS18V-08N is the right saw for a specific buyer: a finish carpenter or renovation contractor already on the Bosch PROFACTOR platform who needs a genuinely portable, cord-free table saw with the most precise fence in this class. For everyone else, the DeWalt DWE7485 delivers nearly identical cutting dimensions at $100–$150 less, and the Metabo HPT C10RJS delivers more depth and rip capacity with better total value for fixed-location shop use. The Bosch fence is legitimately the best in this segment, but that advantage only justifies the price when cordless operation is a real job requirement rather than a feature preference.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dwe7485", "metabo-hpt-c10rjs", "skil-ts6307-00"]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "milwaukee-2731-20",
+  "title": "Milwaukee 2731-20 M18 FUEL 7-1/4\" Circular Saw Review",
+  "brand": "milwaukee",
+  "category": "circular-saws",
+  "model": "2731-20",
+  "rating": 4.7,
+  "priceRange": "$179–$210",
+  "affiliate": [
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Milwaukee-2731-20-Fuel-Circular-Bare/dp/B00PGQ6D2W" },
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18-Volt-Brushless-Lithium-Ion-7-1-4-in-Cordless-Circular-Saw-Bare-Tool-2731-20/205462865" }
+  ],
+  "pros": [
+    "POWERSTATE brushless motor holds 5,000 RPM under load through dense LVL and wet framing lumber with minimal speed droop — a characteristic advantage of the M18 FUEL line over standard M18 tools",
+    "7.5 lbs bare is the lightest full-size 7-1/4-inch pro-grade cordless saw in the class, which matters noticeably over a long day of framing or roofing",
+    "Magnesium shoe combines light weight with genuine rigidity — it does not flex under side pressure the way stamped-steel shoes do on lesser saws",
+    "50-degree bevel range covers standard rafter, hip-roof, and compound-angle cuts, with detents at 22.5 and 45 degrees",
+    "300 cuts per charge with a REDLITHIUM XC5.0 battery gives a realistic working day on a single pack for most residential framing tasks",
+    "Deep integration with the M18 REDLITHIUM FORGE and HIGH OUTPUT ecosystem means XC6.0 and HO12.0 packs all fit and deliver increasing runtime"
+  ],
+  "cons": [
+    "Sold as bare tool only — new-to-Milwaukee buyers must add at least one M18 battery and charger, raising the entry cost past $250",
+    "50-degree bevel limit falls short of the DeWalt DCS573B's 57-degree range, which matters for some hip-roof rafter cuts",
+    "The rafter hook, while present, is smaller than DeWalt's and sits closer to the trigger in a way some users find slightly awkward for single-hand hanging"
+  ],
+  "bestFor": "M18 platform users who want the lightest, most capable 7-1/4-inch cordless saw for production framing, roofing, and any task where the saw is held for hours at a stretch.",
+  "skipIf": "You are just getting started with cordless tools and have no battery investment — the Ryobi PBLCS300B is dramatically cheaper to enter, or the Skil 5280-01 eliminates the battery cost entirely.",
+  "specs": {
+    "bladeSize": "7-1/4 in., 5/8 in. arbor",
+    "powerSource": "M18 REDLITHIUM 18V (battery sold separately)",
+    "motor": "POWERSTATE Brushless",
+    "noLoadSpeed": "5,000 RPM",
+    "bevelCapacity": "0–50 degrees (detents at 22.5° and 45°)",
+    "depthAtNinety": "2-1/2 in.",
+    "depthAtFortyFive": "1-7/8 in.",
+    "shoe": "Magnesium",
+    "weightBare": "7.5 lbs",
+    "weightWithBattery": "9 lbs (with XC5.0)"
+  },
+  "faq": [
+    {
+      "q": "What is the difference between the Milwaukee 2731-20 and 2731-21?",
+      "a": "The 2731-20 is the bare tool — no battery or charger included. The 2731-21 is a kit that adds one M18 REDLITHIUM XC5.0 battery and a charger. If you already own M18 batteries, the 2731-20 bare tool is the better value. If you are starting fresh on M18, the kit saves money compared to buying battery and charger separately."
+    },
+    {
+      "q": "How does the Milwaukee 2731-20 compare to the DeWalt DCS573B?",
+      "a": "Both are pro-tier brushless 7-1/4-inch cordless saws in the $180–$260 bare-tool range. The Milwaukee is about 0.7 lbs lighter, uses a magnesium shoe, and has a lower RPM (5,000 vs 5,500). The DeWalt bevels farther (57 vs 50 degrees) and gains extra power when paired with a 60V FLEXVOLT battery. Choose Milwaukee if weight and M18 platform compatibility matter most; choose DeWalt if bevel range and FLEXVOLT scalability are priorities."
+    },
+    {
+      "q": "Can the Milwaukee 2731-20 cut a 4x4 post in one pass?",
+      "a": "No single-pass cut at 90 degrees — the maximum cutting depth is 2-1/2 inches and a 4x4 is 3-1/2 inches thick. A standard approach is to cut from two opposite faces: set the depth slightly beyond half thickness, make a cut, rotate the post 180 degrees, and cut through. This two-pass method produces a cleaner result than forcing a single cut anyway."
+    },
+    {
+      "q": "How many cuts does the 2731-20 make per charge?",
+      "a": "Milwaukee publishes 300 cuts per charge through dimensional lumber using a REDLITHIUM XC5.0 battery. Real-world output depends on material density, blade sharpness, and cut length. A REDLITHIUM HIGH OUTPUT HD12.0 pack extends runtime substantially for production framing days, though it adds weight."
+    },
+    {
+      "q": "Does the 2731-20 have an electric blade brake?",
+      "a": "Yes, the 2731-20 includes an electric brake. Blade rotation stops within a couple of seconds after the trigger releases, which is standard equipment on M18 FUEL circular saws. This makes it meaningfully safer and faster in use than older saws that freewheel for five or more seconds."
+    },
+    {
+      "q": "What batteries are compatible with the Milwaukee 2731-20?",
+      "a": "Any genuine Milwaukee M18 lithium-ion battery fits the 2731-20, including the REDLITHIUM compact (1.5Ah, 2.0Ah), REDLITHIUM XC (3.0Ah, 4.0Ah, 5.0Ah, 6.0Ah), and REDLITHIUM HIGH OUTPUT (9.0Ah, 12.0Ah) packs. Higher-capacity packs increase runtime without changing tool compatibility. The REDLITHIUM FORGE packs also work and add improved thermal management."
+    }
+  ],
+  "body": "## The case for the Milwaukee 2731-20\n\nAmong pro-tier 7-1/4-inch cordless circular saws, the Milwaukee 2731-20 M18 FUEL holds one clear advantage over every competitor in the class: weight. At 7.5 lbs bare, it is the lightest full-size 7-1/4-inch brushless saw from any major brand, and lighter than the DeWalt DCS573B by nearly three-quarters of a pound. That gap sounds modest until you consider that a framing carpenter carries the saw for eight or more hours and makes hundreds of cuts overhead, vertically, and at awkward angles. By midday, lighter is noticeably better.\n\nThe POWERSTATE brushless motor is Milwaukee's argument that light does not mean underpowered. At 5,000 RPM no-load, the 2731-20 sits slightly below the DCS573B's 5,500 RPM, but the motor's ability to maintain that speed under load through dense lumber is what matters in practice. Cutting 2x10 Douglas fir or pressure-treated deck boards, the saw tracks through without the RPM dropping audibly the way standard brushed or less-capable brushless motors do.\n\n## Build quality\n\nThe magnesium shoe is the right choice for a saw in this price and weight class. Magnesium is lighter than aluminum by a meaningful margin, stiffer than stamped steel, and more dimensionally stable than plastic-reinforced composites. It holds its reference plane under the lateral forces of a long rip cut and does not require flattening out of the box the way some stamped-steel budget shoes do.\n\nThe upper and lower guards are also magnesium, which keeps them from cracking in cold weather or after hard contact — a recurring failure point on lighter guards in other saws. The body itself is compact enough to work in tight quarters: fitting between 16-inch on-center studs to make a plunge cut or entering a roof cavity are not awkward maneuvers.\n\nThe LED work light is positioned to illuminate the cut line rather than the user's hand, which is a consistent M18 FUEL design detail that makes a real difference in low-light conditions — in a crawlspace, under a deck, or in a partially sheathed framing bay early in the morning.\n\n## Battery and runtime in context\n\nMilwaukee's 300-cuts-per-charge figure with an XC5.0 battery is credible for standard framing cuts in dimensional lumber. For a single-family residential framing crew making mostly 2x4 and 2x6 cuts, one 5.0Ah pack per saw per half-day of cutting is a realistic expectation. Step up to a HIGH OUTPUT HD9.0 or HD12.0 and the runtime extends substantially, at the cost of more weight on the back of the tool.\n\nThe M18 platform is the broadest 18V ecosystem in the professional market, with well over 200 tools sharing the same pack. That breadth matters for a framing crew running M18 FUEL framing nailers, reciprocating saws, grinders, and drills alongside the circular saw — one charger and a set of batteries serve the whole site.\n\n## Cutting capacity and bevel range\n\nThe 2-1/2-inch depth at 90 degrees handles standard 2x framing cleanly, and the 1-7/8-inch depth at 45 degrees is sufficient for beveled cuts through dimensional lumber at typical rafter angles. The 50-degree bevel limit covers most residential framing tasks including hip-roof rafters at common pitches.\n\nWhere the 2731-20 falls slightly short of the DeWalt DCS573B is bevel range: 50 degrees versus 57 degrees. Some hip-roof rafter cuts and certain compound-angle work on steep-pitch roofs require bevels past 50 degrees. For a general framing crew, that gap rarely matters; for a contractor who regularly cuts steep-pitch compound angles, the DCS573B's extra 7 degrees is worth considering.\n\n## How this saw fits the lineup\n\nCompared to the **DeWalt DCS573B**: the Milwaukee wins on weight and platform breadth among pro contractors; the DeWalt wins on bevel range and the FLEXVOLT scalability option. Both cost roughly the same as bare tools. The decision almost always comes down to which battery platform you are already on.\n\nCompared to the **Ryobi PBLCS300B**: the Ryobi is a capable budget tool that genuinely performs well for homeowners and light professionals. The Milwaukee is in a different durability and performance class — magnesium shoe, faster and more consistent motor, better guard construction — and costs roughly twice as much as a bare tool for a reason. For production professionals, the Milwaukee's durability pays for itself in reduced downtime.\n\nCompared to the **Skil 5280-01**: the Skil is a corded saw at $70 that delivers 5,300 RPM indefinitely without battery management. For a stationary workshop setup or a single-project homeowner, the Skil's economics are unbeatable. For portable job-site work, the Milwaukee's cordless convenience wins.\n\n## Final assessment\n\nThe Milwaukee 2731-20 is the standard that other pro-tier cordless circular saws are measured against. Its combination of low weight, consistent motor performance, magnesium construction, and deep M18 FUEL ecosystem integration makes it a clear choice for professionals already invested in M18 and a compelling reason to enter the platform for new buyers who plan to build a full cordless lineup.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dcs573b", "skil-5280-01", "ryobi-pblcs300b"]
+}

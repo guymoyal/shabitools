@@ -1,0 +1,69 @@
+{
+  "slug": "ryobi-pcl235b",
+  "title": "Ryobi PCL235B 18V ONE+ Impact Driver Review: Budget Done Right",
+  "brand": "ryobi",
+  "category": "impact-drivers",
+  "model": "PCL235B",
+  "rating": 3.9,
+  "priceRange": "$59 (bare tool), $99–$129 (kit with batteries)",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-1-4-in-Impact-Driver-Tool-Only-PCL235B/318621812" },
+    { "merchant": "Home Depot (Kit)", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-1-4-in-Impact-Drill-Driver-Kit-with-2-Compact-Batteries-and-Charger-PCL235K2/317987589" }
+  ],
+  "pros": [
+    "At $59 bare and $99 with two 1.5Ah batteries and a charger, the PCL235B is the most accessible entry point into 18V impact driving",
+    "1,800 in-lbs of rated torque is competitive on paper with the Bosch Freak and close to the DeWalt — sufficient for deck screws, cabinet assembly, and general home fastening",
+    "Compatible with over 300 Ryobi ONE+ 18V tools — the broadest consumer battery platform available, including outdoor power equipment",
+    "On-board LED worklight provides adequate illumination for close-quarters fastening without the complexity of multi-LED arrays"
+  ],
+  "cons": [
+    "Sustained torque output drops noticeably under heavy continuous loads compared to premium brushless drivers — the PCL235B uses a brushed motor design in its base configuration",
+    "0–2,700 RPM top speed is the lowest in this comparison, making it slower on large-diameter holes and in dense materials",
+    "3,400 IPM maximum impact rate trails the Bosch (4,200 IPM) and Makita/DeWalt (3,800 IPM) — the gap is felt in hardwood decking and structural lumber",
+    "Single-speed operation — no mode selector for precision fastening, increasing the risk of overdriving small screws in soft materials"
+  ],
+  "bestFor": "Homeowners tackling weekend projects, furniture assembly, cabinet hardware, and occasional deck screws who want a complete kit with batteries at a sub-$100 price point.",
+  "skipIf": "You are driving more than a few hundred screws per week or working in hardwood, dense lumber, or structural applications — the sustained output limitation and lower IPM will frustrate you on heavy-duty work.",
+  "specs": {
+    "voltage": "18V ONE+ lithium-ion",
+    "motor": "Brushed",
+    "maxTorque": "1,800 in-lbs",
+    "noLoadSpeed": "0–2,700 RPM",
+    "impactRate": "0–3,400 IPM",
+    "weightBareTool": "2.91 lbs (bare tool)",
+    "collet": "1/4 in. hex quick-connect",
+    "batteryPlatform": "Ryobi ONE+ 18V (300+ compatible tools)",
+    "worklight": "On-board LED",
+    "warranty": "3-year limited (tool)"
+  },
+  "faq": [
+    {
+      "q": "Is the Ryobi PCL235B brushless or brushed?",
+      "a": "The standard PCL235B is a brushed-motor impact driver. Ryobi offers brushless ONE+ impact drivers (such as the PCL801B) at a higher price point. The brushed design in the PCL235B reduces upfront cost and keeps the tool available at the $59 bare-tool price, but it means shorter motor life under heavy sustained loads and higher energy consumption per charge compared to a brushless design."
+    },
+    {
+      "q": "Will Ryobi ONE+ 18V batteries from older tools work with the PCL235B?",
+      "a": "Yes — all Ryobi ONE+ 18V lithium-ion batteries are compatible with the PCL235B, including older P-series packs and newer PCL-series batteries. The platform's backward compatibility across the full ONE+ line is one of its genuine strengths. Older NiCad 18V Ryobi batteries are not compatible and should not be used."
+    },
+    {
+      "q": "Can the PCL235B handle lag bolts?",
+      "a": "The PCL235B's 1,800 in-lbs of rated torque is theoretically sufficient for 1/4-inch lag bolts up to about 2.5 inches in softwood, but the brushed motor's tendency to lose output under sustained load means it struggles with repeated lag-bolt driving in harder materials. For occasional lag bolts in softwood framing, it works. For regular structural fastening, a brushless driver is the more reliable choice."
+    },
+    {
+      "q": "Is the PCL235B the same as the older Ryobi P235?",
+      "a": "The PCL235B and older P235 share similar specifications and are both ONE+ 18V tools, but the PCL235B is the current-generation model with updated electronics, an improved LED worklight, and a revised collet that releases bits more cleanly. The P235 may still be found as a refurbished or closeout item. For a new purchase, the PCL235B is the current catalog model."
+    },
+    {
+      "q": "What is the difference between the PCL235B bare tool and the PCL235K2 kit?",
+      "a": "The PCL235B is the driver alone — no battery or charger included. The PCL235K2 kit adds two compact 1.5Ah batteries and an 18V charger at a retail price of $99–$119 depending on promotions. For anyone starting with Ryobi ONE+, the kit is the obvious value; for existing Ryobi owners with multiple batteries, the bare tool at $59 is the efficient add-on choice."
+    },
+    {
+      "q": "How does the PCL235B perform on IKEA-style flat-pack furniture assembly?",
+      "a": "Flat-pack furniture assembly is exactly where the PCL235B performs well. The fasteners are small, the materials are engineered wood, and the total fastener count per piece rarely exceeds 40–50 screws. The 1,800 in-lbs of torque is more than adequate, and the risk of overdriving is the main concern — keeping a light trigger finger on the single-speed control mitigates that. Many homeowners use PCL235B-style drivers almost exclusively for furniture assembly and occasional projects."
+    }
+  ],
+  "body": "## Setting Expectations Correctly\n\nRyobi's PCL235B costs $59 as a bare tool and $99 with two batteries and a charger. Before evaluating it against the $149–$199 premium drivers in this category, it is worth being direct: the PCL235B is not a competition-grade impact driver, and it is not trying to be. Its competitors are the conditions that lead homeowners to drive screws by hand or skip the project entirely. Measured against those alternatives, it is an excellent tool.\n\nThe $99 PCL235K2 kit gives a first-time buyer a capable 1,800 in-lbs impact driver, two 1.5Ah batteries, a charger, and entry into the Ryobi ONE+ ecosystem — a platform covering over 300 tools including lawn mowers, trimmers, circular saws, and reciprocating saws — all sharing the same 18V packs. For the homeowner who expects to add a circular saw or drill in the same calendar year, the value of those compatible batteries compounds well beyond the price of the driver itself.\n\n## What 1,800 In-Lbs Actually Means Here\n\nThe PCL235B's 1,800 in-lbs rated torque matches the Bosch GDX18V-1800CN's specification exactly and sits only 25 in-lbs below the category leader DeWalt DCF887B. That comparison is misleading without context. The rated torque figures for premium brushless drivers reflect sustained output under load; the PCL235B's brushed motor produces that peak torque at startup but loses output measurably during extended continuous fastening. Driving forty 3-inch deck screws in succession on a hot day illustrates the gap — the brushless drivers maintain pace throughout; the Ryobi slows toward the end of a full battery discharge cycle.\n\nFor the homeowner driving twenty screws into a deck rail, installing a set of door hinges, or assembling a bookshelf, that gap is invisible. For a contractor driving three boxes of deck screws before lunch, it matters.\n\nThe 0–2,700 RPM top speed and 0–3,400 IPM impact rate are the actual performance differentiators against the premium field. Both figures trail the comparison group by meaningful margins: the Makita and DeWalt reach 3,800 IPM; the Bosch hits 4,200 IPM. At 2,700 RPM the PCL235B rotates the bit 17% slower than the Makita at full speed. In softwood and composite materials, the user notices a slightly slower feel. In dense hardwood or structural lumber, the limitation becomes tangible — the driver requires more time per fastener and more passes to seat stubborn screws.\n\n## Single Speed: A Real Limitation\n\nThe PCL235B has no speed selector. One squeeze of the trigger and the tool runs at full power, with only the variable-speed trigger itself as a modulation tool. That works well for driving the standard fasteners this tool is built for, but creates a risk scenario when driving small trim screws or fasteners in PVC or thin composite materials — the full-power hammering action can overdrive screws in a single pull without the precision that Speed 1 or T-mode controls on premium drivers provide.\n\nThe practical workaround is a light trigger finger. Experienced users apply partial trigger pressure for the first half of the drive and open up when the fastener approaches seated. Less experienced users may find the learning curve produces a few stripped or over-driven fasteners before the right feel develops. For projects involving decorative hardware, door knobs, or fine woodworking fasteners, a dedicated drill/driver gives more intuitive control.\n\n## Build and Ergonomics\n\nThe PCL235B's plastic housing is functional rather than refined. The grip circumference accommodates most hand sizes and the rubber overmold on the lower half reduces fatigue on short sessions. The belt hook is a molded plastic clip — serviceable for carrying the tool between fastening positions but less robust than the cast metal hooks on the DeWalt and Makita. The LED worklight is a single element above the collet that adequately illuminates close-quarters work in normally lit environments.\n\nRyobi backs the PCL235B with a 3-year limited warranty, matching the coverage offered by most premium brands. That coverage provides meaningful reassurance given the entry-level price point, particularly because Ryobi's customer service has generally been cooperative on warranty claims that involve demonstrable defects rather than wear.\n\n## Who Owns Ryobi ONE+ Already\n\nFor anyone with existing Ryobi ONE+ batteries — from a circular saw, drill/driver, or outdoor equipment — the PCL235B is an effortless add-on. At $59, it costs less than a spare battery from most premium brands, and it gives that battery collection a dedicated fastening tool. The platform's breadth means the same pack that powers the PCL235B charges the lawn mower battery and the shop vac, which is a genuinely useful economic reality for homeowners managing one battery platform across all their cordless tools.\n\n## Final Assessment\n\nThe 3.9 score reflects a tool that delivers exactly what it promises at a price that makes cordless impact driving accessible to everyone. Its limitations (brushed motor, single speed, lower IPM) are architectural trade-offs made to hit the $59 price point, not manufacturing shortcuts. For the buyer who needs a capable home-maintenance and occasional-project impact driver backed by a large battery platform and a $99 complete kit, it remains one of the most sensible purchases in the category.",
+  "related": ["makita-xdt16z", "dewalt-dcf887b", "bosch-gdx18v-1800cn"],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

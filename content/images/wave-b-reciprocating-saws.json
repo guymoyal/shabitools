@@ -1,0 +1,18 @@
+{
+  "reviews/milwaukee-2722-20": {
+    "source": "pexels:Milwaukee M18 FUEL reciprocating saw demolition framing lumber",
+    "alt": "Milwaukee 2722-20 M18 FUEL Super Sawzall reciprocating saw"
+  },
+  "reviews/dewalt-dcs386b": {
+    "source": "pexels:DeWalt cordless reciprocating saw cutting pipe demolition",
+    "alt": "DeWalt DCS386B 20V MAX FLEXVOLT Advantage reciprocating saw"
+  },
+  "reviews/bosch-rs428": {
+    "source": "https://www.boschtools.com/binary/ocsmedia/optimized/166x164/o275190v945_CordedReciprocatingSawBoschRS428Hero.png",
+    "alt": "Bosch RS428 14-Amp corded reciprocating saw"
+  },
+  "reviews/ryobi-psbrs01b": {
+    "source": "pexels:Ryobi compact one-hand reciprocating saw tight space access cut",
+    "alt": "Ryobi PSBRS01B ONE+ HP compact one-handed reciprocating saw"
+  }
+}

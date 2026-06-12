@@ -1,0 +1,71 @@
+{
+  "slug": "dewalt-dwe7485",
+  "title": "DeWalt DWE7485 Review: Best Compact Jobsite Table Saw?",
+  "brand": "dewalt",
+  "category": "table-saws",
+  "model": "DWE7485",
+  "rating": 4.4,
+  "priceRange": "$330–$380",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-15-Amp-Corded-8-1-4-in-Compact-Portable-Jobsite-Tablesaw-Stand-Not-Included-DWE7485/310178475" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-Jobsite-Compact-4-Inch-DWE7485/dp/B0842QDW95" }
+  ],
+  "pros": [
+    "At 46 lbs it is the lightest 10-equivalent saw in this group — fits in a truck bed alongside lumber without dominating the load",
+    "Rack-and-pinion telescoping fence is genuinely accurate: locks parallel to the blade reliably and stays put under feed pressure",
+    "24.5-inch rip capacity handles full 4x8 sheet rips without a second pass, which is the one spec that separates jobsite saws from benchtop toys",
+    "5,800 RPM with an 8.25-inch blade produces exceptionally clean cut surfaces — finer finish than most 10-inch saws at equivalent blade tooth counts",
+    "Ships with a non-through-cut riving knife, blade guard assembly, anti-kickback pawls, and push stick all stored on-board"
+  ],
+  "cons": [
+    "8.25-inch blade limits maximum depth of cut to 2-9/16 inches at 90 degrees — thick hardwood slabs and 4x4 posts require two passes or a larger saw",
+    "Stand not included at this price point; the optional DW7451 compact stand adds $100–$130 to the total cost",
+    "The included miter gauge is basic — plastic body, no positive stops beyond 0 and 45 degrees — and serious crosscut work benefits from an aftermarket sled"
+  ],
+  "bestFor": "Contractors and serious DIYers who need to rip sheet goods and dimensional lumber on the jobsite or in a small shop where floor space and truck capacity are real constraints.",
+  "skipIf": "You regularly cut 4x4 posts, thick hardwood stock, or full dado stacks — the 8.25-inch blade's depth limitation will frustrate you, and a 10-inch saw like the Metabo HPT C10RJS is a better fit.",
+  "specs": {
+    "bladeDiameter": "8-1/4 in.",
+    "motor": "15 Amp, 120V corded",
+    "noLoadRPM": "5,800 RPM",
+    "ripCapacityRight": "24-1/2 in.",
+    "ripCapacityLeft": "12 in.",
+    "depthOfCut90": "2-9/16 in.",
+    "depthOfCut45": "1-3/4 in.",
+    "arbor": "5/8 in.",
+    "weight": "46.0 lbs (saw only)",
+    "fenceSystem": "Rack-and-pinion telescoping fence rails",
+    "standIncluded": "No (compatible with DW7451 and DW7440RS stands, sold separately)",
+    "warranty": "3-year limited, 1-year free service, 90-day satisfaction guarantee"
+  },
+  "faq": [
+    {
+      "q": "Does the DeWalt DWE7485 have a riving knife and blade guard?",
+      "a": "Yes. The DWE7485 ships with both a through-cut blade guard assembly and a non-through-cut riving knife that stays in place for dado cuts and operations where the full guard cannot be used. Anti-kickback pawls are also included. DeWalt stores all these components in dedicated on-board holders so they are available when you need them rather than lost in a shop drawer."
+    },
+    {
+      "q": "What is the maximum depth of cut on the DeWalt DWE7485?",
+      "a": "Maximum depth of cut is 2-9/16 inches at 90 degrees and 1-3/4 inches at 45 degrees. That covers the vast majority of jobsite and home-shop cuts — dimensional framing lumber, plywood, sheet goods, and most hardwoods up to about 2.5 inches thick. Where you hit the limit is cutting 4x4 posts (3.5 inches actual) and thick hardwood slabs, which require two passes or a saw with a 10-inch blade."
+    },
+    {
+      "q": "Can the DWE7485 cut dado joints?",
+      "a": "The DWE7485 accepts a limited-width dado stack — the 5/8-inch arbor is compatible, but the arbor thread length accommodates stacks only up to about 11/16 inches wide rather than the full 13/16 inches a larger saw accepts. For occasional shallow dadoes and rabbets it is usable; for frequent dado work or full-width stacks, a 10-inch saw with a longer arbor is the correct tool."
+    },
+    {
+      "q": "Does the DWE7485 come with a stand?",
+      "a": "No, the base model is saw-only. DeWalt sells compatible stands separately: the DW7451 compact stand ($110–$130) is the light, simple option, while the DW7440RS heavy-duty rolling stand ($150–$200) adds mobility and stability for shop or site use. Several bundle SKUs at Home Depot include the DW7451 or DW7440RS for a modest premium over buying separately."
+    },
+    {
+      "q": "How does the DWE7485 compare to the DeWalt DWE7491RS?",
+      "a": "The DWE7491RS is a 10-inch saw with a 32.5-inch rip capacity, a rolling stand included, and a deeper 3-1/8-inch cut at 90 degrees, but it weighs around 90 lbs with the stand and costs $150–$200 more. The DWE7485 is the right choice for portability and tight spaces; the DWE7491RS is the right choice when maximum rip capacity, dado depth, and a permanent shop setup are the priority."
+    },
+    {
+      "q": "What blades are compatible with the DeWalt DWE7485?",
+      "a": "Any standard 8-1/4-inch blade with a 5/8-inch arbor hole works in the DWE7485. DeWalt's own 8-1/4-inch 24-tooth ripping blade and 40-tooth combination blade are the primary aftermarket options; Freud, Diablo, and CMT also make 8.25-inch blades for this saw. Note that 10-inch blades — the standard for most saw accessories and blade upgrades — do not fit."
+    }
+  ],
+  "body": "## What the DWE7485 is built to solve\n\nThe DeWalt DWE7485 answers a specific question: how do you get genuine rip capacity into a package that one person can lift into a truck bed? The answer is an 8.25-inch blade spinning at 5,800 RPM in a 46-pound body — and the result is a saw that rips full 4x8 sheets, crosscuts accurately, and moves between sites without a pallet jack.\n\nThat 8.25-inch blade is the saw's defining constraint. It delivers a 2-9/16-inch maximum depth of cut at 90 degrees, which covers dimensional framing lumber, sheet goods, and most hardwood stock up to about 2.5 inches thick. If you are cutting 4x4 posts or resaw work on thick stock, the DWE7485 will send you to a larger saw. But for the electrician, cabinet installer, or remodeler doing the cuts that actually dominate jobsite work — ripping plywood, crosscutting 2x framing, sizing trim — the depth limit is rarely a practical constraint.\n\n## Fence system and accuracy\n\nThe rack-and-pinion telescoping fence is the reason this saw commands its price premium over the Skil TS6307-00 at the budget end of the segment. The fence locks with a single lever and stays parallel to the blade reliably without the racking that plagues stamped-steel fence designs on cheaper saws. The telescoping rails fold in for transport without removing the fence entirely, and the scale reads accurately enough for production work without constant re-measurement. DeWalt's implementation is not as refined as the Bosch GTS18V-08N's dial micro-adjust mechanism, but it is significantly more reliable than what you find at the Skil price point.\n\nThe miter gauge is a different story. It is functional — positive stops at 0 and 45 degrees, slotted for repeat positioning — but it lacks the clamping surface and detent variety a serious crosscutting operation requires. Anyone doing significant miter work will replace it with an aftermarket gauge or build a crosscut sled. That is standard for this price class and not a unique shortcoming of the DWE7485.\n\n## Setup and jobsite workflow\n\nThe DWE7485 sets up faster than the Metabo HPT C10RJS because there is less machine to deploy: no heavy cast-iron wings, no 100-lb stand system to unfold and stabilize. The on-board storage for the riving knife, blade guard assembly, anti-kickback pawls, and push stick is a legitimate workflow benefit — these components are always present and locatable rather than rattling around the bottom of a toolbox.\n\nDeWalt designed the DWE7485 around the assumption that the buyer already has a stand or builds outfeed support from site materials. The saw-only configuration makes sense for contractors who roll the saw onto a DeWalt-compatible stand they already own. For buyers who need a complete ready-to-use package from day one, the DW7451 stand bundle from Home Depot adds around $100 and brings total cost to roughly $440–$460 — still competitive with 10-inch saws that include stands.\n\n## Cutting performance across materials\n\nIn **sheet goods**, the DWE7485 delivers exceptional results for its size class. The 5,800 RPM no-load speed and the smaller blade diameter combine to produce a cleaner surface than most 10-inch saws at equivalent blade tooth counts, because the higher tooth-entry speed leaves less tear-out on plywood face veneers. Ripping 3/4-inch plywood or OSB is effortless, and the 24.5-inch rip capacity handles full-width rips from a 48-inch panel without an auxiliary fence extension.\n\nFor **dimensional framing lumber**, the saw handles 2x material without hesitation, including wet-treated lumber that loads motors aggressively. The 15-amp motor sustains speed through demanding rips without the stall behavior that affects saws with less-efficient motor designs.\n\nIn **hardwood**, the blade depth limit becomes relevant above about 2 inches actual thickness. Ripping 8/4 (two-inch nominal, 1.75-inch actual) hardwood works cleanly. Attempting a single-pass rip through 4x4 posts or thick hardwood slabs is where this saw reaches its limit, and those cuts require a two-pass approach or a different tool.\n\n## Safety systems\n\nThe riving knife is the DWE7485's most important safety feature and DeWalt's implementation is one of the better ones in this class. DeWalt includes two separate pieces: the through-cut blade guard assembly for standard ripping and crosscutting, and a dedicated non-through-cut riving knife for dado and stopped-cut operations. Having these as separate components means you can use dado accessories without completely disassembling the kickback-prevention system — a thoughtful detail that budget saws typically skip.\n\nAnti-kickback pawls are included and mount to the riving knife assembly. The power-loss reset feature prevents accidental restart after a power interruption, which is a safety-critical feature on any saw that might be in mid-cut when power is lost.\n\n## Value context\n\nAt $330–$380 for the bare saw, the DWE7485 occupies the premium end of the compact jobsite saw market. The Skil TS6307-00 at $270–$299 offers a 10-inch blade and deeper cuts but a less refined fence and no electric brake. The Metabo HPT C10RJS at $350–$420 delivers more cutting capacity at the cost of roughly 54 additional pounds. The Bosch GTS18V-08N at $449–$499 bare gives a superior fence and cordless operation for a significantly higher total investment.\n\nFor anyone building or finishing interiors, hanging cabinets, or doing production trim work on sites where the saw moves regularly, the DWE7485 is the most capable compact saw at this price. Its 46-lb weight and reliable fence make it the saw that one person can actually deploy, cut with accurately, and move — which is the complete package the jobsite demands.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["metabo-hpt-c10rjs", "bosch-gts18v-08n", "skil-ts6307-00"]
+}

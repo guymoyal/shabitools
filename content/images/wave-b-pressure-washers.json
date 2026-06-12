@@ -1,0 +1,18 @@
+{
+  "reviews/ryobi-ry142300": {
+    "source": "https://cdn.shopify.com/s/files/1/0651/3668/9323/files/d94c0af7a78243f588fc0f4eb3e675c1_2000x2000.jpg?v=1734043032",
+    "alt": "Ryobi RY142300 2300 PSI brushless electric pressure washer"
+  },
+  "reviews/dewalt-dxpw3425e": {
+    "source": "https://pressurewasherdb.com/wp-content/uploads/DeWalt-DXPW3425E-1.jpg",
+    "alt": "DeWalt DXPW3425E 3400 PSI gas pressure washer"
+  },
+  "reviews/ego-hpw3200": {
+    "source": "https://egopowerplus.com/media/catalog/product/h/p/hpw3204-2_ego_pressure_washer_3q_24-0809_main_1000.png",
+    "alt": "EGO HPW3200 3200 PSI cordless battery pressure washer"
+  },
+  "reviews/craftsman-cmepw1700": {
+    "source": "https://assets.craftsman.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/CMEPW1700_1_1680.webp",
+    "alt": "Craftsman CMEPW1700 1700 PSI electric pressure washer"
+  }
+}

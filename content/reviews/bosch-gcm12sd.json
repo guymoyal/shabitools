@@ -1,0 +1,68 @@
+{
+  "slug": "bosch-gcm12sd",
+  "title": "Bosch GCM12SD Review: The 12\" Axial-Glide Miter Saw Explained",
+  "brand": "bosch",
+  "category": "miter-saws",
+  "model": "GCM12SD",
+  "rating": 4.7,
+  "priceRange": "$549–$649",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Bosch-15-Amp-12-in-Corded-Dual-Bevel-Sliding-Glide-Miter-Saw-with-60-Tooth-Saw-Blade-GCM12SD/202568455" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Bosch-120-Volt-12-Inch-Dual-Bevel-GCM12SD/dp/B004323NNC" }
+  ],
+  "pros": [
+    "Axial-Glide system needs zero rear clearance — the head pivots on an arc rather than extending rails backward, so it fits flush against a wall",
+    "Dual-bevel tilts 48° left and right, eliminating the need to flip crown molding when cutting opposing compound angles",
+    "Massive 13-1/2-inch crosscut capacity at 90° handles 4x14 dimensional lumber and wide baseboard profiles in one pass",
+    "60-tooth blade ships in the box, so precision trim cuts are available immediately without an upgrade purchase",
+    "Category-leading dust collection captures roughly 90% of chips from 2x material when connected to a shop vacuum",
+    "52° left / 60° right miter range covers every crown and picture-frame angle without interpolating off-standard stops"
+  ],
+  "cons": [
+    "At 65 lbs it is one of the heaviest 12-inch miter saws available — moving it solo between rooms or to a jobsite is genuinely awkward",
+    "No XPS or laser cutline indicator; you rely on the traditional kerf shadow and blade guard, which is less precise than a projected shadow line",
+    "Premium pricing puts it $100–$200 above the DeWalt DWS780 at most retailers"
+  ],
+  "bestFor": "Dedicated workshop users and professional trim carpenters who want the widest crosscut capacity in a space-saving footprint and can tolerate the weight.",
+  "skipIf": "You move your saw frequently between job sites or need a projected cutline indicator — the DeWalt DWS780 is lighter and adds the XPS shadow system.",
+  "specs": {
+    "bladeSize": "12 in. (305mm)",
+    "crossCutAt90": "3-1/2 in. × 13-1/2 in. (4×14 dimensional lumber)",
+    "crossCutAt45": "3-1/2 in. × 9-1/2 in. (4×10 dimensional lumber)",
+    "miterRange": "52° left, 60° right",
+    "bevelRange": "48° left, 48° right (dual-bevel)",
+    "motor": "15 Amp, 4,000 RPM no-load",
+    "weight": "65 lbs",
+    "warranty": "1-year limited (with optional 2-year extension through registration)"
+  },
+  "faq": [
+    {
+      "q": "What is the Bosch Axial-Glide system?",
+      "a": "The Axial-Glide is Bosch's patented sliding mechanism that replaces traditional extending rails with a pivot arc. The blade arm swings forward on a curved path, which means the saw requires no clearance behind it — you can push it flush against a wall. Traditional rail sliders require 12–18 inches of free space behind the fence. The Axial-Glide also eliminates the rail alignment that can drift over time, which is one reason the GCM12SD holds its crosscut accuracy well with heavy use."
+    },
+    {
+      "q": "Does the Bosch GCM12SD need a rear wall clearance?",
+      "a": "No. The Axial-Glide mechanism is the key reason many trim carpenters choose this saw: it requires essentially zero clearance behind the fence, meaning it can sit against a wall or inside a cabinet installation. Conventional sliding compound miter saws require 12–18 inches of rearward travel space for the rails to extend."
+    },
+    {
+      "q": "Can the GCM12SD cut crown molding in the flat position?",
+      "a": "Yes. With 48° of bevel travel in both directions and a 52°/60° miter range, the GCM12SD supports both nested crown cutting (molding held against the fence at its spring angle) and flat crown cutting (molding laid flat on the table with compound miter and bevel settings). The dual-bevel design means you set one compound angle, then simply flip the bevel direction for the opposing cut rather than repositioning the workpiece."
+    },
+    {
+      "q": "Is the GCM12SD still being made in 2026?",
+      "a": "The GCM12SD has been in continuous production since 2010 and remains in Bosch's US catalog as of 2026. It is sold at Home Depot, Amazon, and major tool distributors. Bosch has not announced a direct successor in the corded 12-inch category; the GCM18V-12SDN is the cordless version for those who want battery convenience at a significant price premium."
+    },
+    {
+      "q": "How does the GCM12SD compare to the DeWalt DWS780?",
+      "a": "Both are premium 12-inch dual-bevel sliding compound miter saws at similar price points. The GCM12SD's Axial-Glide advantage is its space-saving zero-rear-clearance design, wider crosscut at 90° (13-1/2 in. vs. approximately 13-3/4 in. for the DWS780), and superior dust collection (90% vs. 75%). The DWS780's advantages are the integrated XPS shadow cutline system, lighter weight (approximately 56 lbs vs. 65 lbs), and deeper dust bag capacity. For a fixed workshop where space planning matters, the Bosch is the smarter pick; for jobsite portability, the DeWalt pulls ahead."
+    },
+    {
+      "q": "What blade does the Bosch GCM12SD come with?",
+      "a": "The GCM12SD ships with a 12-inch 60-tooth carbide-tipped blade. A 60-tooth count is a genuine finish-grade blade — most competing saws bundle 32- or 40-tooth general-purpose blades that produce noticeably rougher crosscut surfaces on hardwood and MDF trim. Many owners install a specialized 80-tooth blade for ultra-smooth MDF cuts, but the included 60-tooth is appropriate for the majority of trim and molding applications."
+    }
+  ],
+  "body": "## Why the Axial-Glide design matters\n\nMost 12-inch sliding compound miter saws share the same basic architecture: the blade arm sits on steel rails that extend rearward when the blade slides forward across the workpiece. Those rails demand 12–18 inches of clear space behind the saw fence, which forces you to position the tool away from walls, cabinets, or workshop benches.\n\nBosch's Axial-Glide eliminates that constraint entirely. The arm pivots on a curved arc rather than traveling straight backward, so the fence can sit flush against a wall. That single feature shapes how trim carpenters and woodworkers think about the GCM12SD: it is the 12-inch saw you can actually place against the wall of a shop, a room, or a trailer.\n\nThe practical upside extends beyond wall clearance. Because there are no rails to align, there is one fewer alignment variable to drift over months of use. Bosch claims the Axial-Glide maintains its cut accuracy over the tool's service life better than rail-based sliders, and the long-term owner feedback pattern on the GCM12SD — still the dominant piece of evidence after 15 years on the market — supports that claim.\n\n## Cutting capacity: who this saw is actually built for\n\nAt 90°, the GCM12SD crosses 13-1/2 inches of material width — enough for 4×14 dimensional lumber. That number puts it in a class above most 10-inch saws (typically 10–12 inches at 90°) and roughly equal to competing 12-inch sliders. At 45° miter, the capacity drops to 9-1/2 inches (4×10). The dual-bevel tilts 48° each direction, covering every standard compound crown angle without repositioning.\n\nThe miter range of 52° left / 60° right is generous enough to cover picture-frame miters, angled soffits, and most architectural trim configurations. Detent stops at common angles — 0, 15, 22.5, 31.6, and 45 degrees — click in firmly and hold position reliably with the cam-lock. The stainless-steel detent plate feels several grades above the stamped aluminum found on lower-tier saws.\n\n## Motor and blade performance\n\nThe 15-amp motor runs at 4,000 RPM no-load, which is lower than the 3,800–5,000 RPM range of 10-inch saws but appropriate for a 12-inch blade mass. At lower RPM, the 12-inch blade tip is moving at a comparable peripheral speed to smaller-diameter blades running faster. The motor pulls hard through dense hardwood and wide MDF profiles without audible strain.\n\nThe included 60-tooth carbide blade is a differentiator at this price point. Competitors like the DeWalt DWS780 and Makita LS1019L bundle blades in the 32-to-40-tooth range; the Bosch ships a genuine finish blade. Anyone cutting painted MDF base or hardwood casing immediately benefits from that choice without spending $40–$70 on a blade upgrade.\n\n## Dust collection compared to the category\n\nBosch rates the GCM12SD at approximately 90% dust capture from 2×-sized softwood material with a shop vacuum connected. That figure is consistently cited as the best in the corded 12-inch category. The DeWalt DWS780 captures roughly 75% under similar conditions; most budget saws capture 40–60%. For shops without dedicated ventilation, and for interior trim work where dust in finished surfaces is a real concern, that 15-percentage-point advantage over the DeWalt is meaningful.\n\nThe collection system uses a rear-exhaust port with a 2-1/2-inch vacuum connection. Bosch's integrated chip deflector channels sawdust rearward into the bag rather than ejecting it laterally. When running production crosscuts on painted base molding in a customer's home, that lateral ejection pattern on lesser saws is exactly the problem that leads to dust complaints and rework.\n\n## The weight penalty and who it matters to\n\nAt 65 lbs, the GCM12SD is one of the heavier 12-inch miter saws available. The DeWalt DWS780 comes in at approximately 56 lbs; the Metabo HPT C10FCGS — a 10-inch non-slider — weighs just 24 lbs. If you are a one-person trim operation who loads and unloads a van every day, the GCM12SD's extra mass is a real daily cost. If the saw lives on a stand in a workshop or dedicated trim bay, that weight becomes irrelevant.\n\nThe flip-down carrying handle and compact footprint (the Axial-Glide mechanism actually keeps the tool shorter front-to-back than a rail slider) make it manageable on a stand, but single-person floor-to-bench lifts are uncomfortable. A dedicated miter saw stand with integrated mounting brackets — Bosch's GTA3800 or a third-party equivalent — is essentially mandatory equipment for mobile use.\n\n## Value verdict\n\nAt $549–$649 street price, the GCM12SD sits at the top of the corded miter saw market alongside the DeWalt DWS780 and Makita LS1019L. Its case is built around three pillars: the space-saving Axial-Glide design, best-in-class dust collection, and a 60-tooth finish blade in the box. If your shop is tight on rear space or dust control is a priority, it makes a compelling argument. If you move the saw frequently, prefer a projected cutline indicator, or want to spend $100 less, the DeWalt DWS780 or the Makita LS1019L deserve equal consideration.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dws780", "metabo-hpt-c10fcgs", "ryobi-tss103"]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "bosch-1617evspk",
+  "title": "Bosch 1617EVSPK Review: 2.25HP Fixed/Plunge Combo",
+  "brand": "bosch",
+  "category": "routers",
+  "model": "1617EVSPK",
+  "rating": 4.6,
+  "priceRange": "$199–$250",
+  "affiliate": [
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Bosch-1617EVSPK-Woodworking-Router-Combo/dp/B00005RHPD" },
+    { "merchant": "Rockler", "url": null, "campaignId": 0, "productUrl": "https://www.rockler.com/bosch-1617evspk-router-combo-package" }
+  ],
+  "pros": [
+    "Ships with both fixed and plunge bases in one kit, giving you full routing capability — edge profiling, mortises, stopped dadoes, and template routing — without a second purchase",
+    "Self-releasing 1/2-inch and 1/4-inch collet chucks are included, opening the complete catalog of router bit profiles including raised panels, large cove cuts, and drawer-lock joints",
+    "Constant Response circuitry is among the best electronic feedback implementations at this price — the motor holds its set speed through hardwood, MDF, and grain reversals without audible bog",
+    "Microfine bit-depth adjustment on the fixed base enables depth changes at the precision required for fine furniture joinery, not just rough profiling",
+    "2-1/4-inch plunge depth on the plunge base is sufficient for most door-lock mortises and through-tenon work without repositioning",
+    "Durable carrying case with dedicated compartments keeps both bases organized and the motor protected between jobs"
+  ],
+  "cons": [
+    "At 10 lbs for the kit, this is a two-handed tool — not a candidate for one-handed laminate trimming or overhead work where compact routers excel",
+    "Fixed base depth range of 1-5/8 inches is shorter than some competitors at this power level, which matters for very deep single-pass profiling",
+    "No dust extraction system is included; the 2-inch subbase opening is compatible with Bosch guide accessories but requires a separate dust port adapter for vacuum hookup"
+  ],
+  "bestFor": "Furniture makers, cabinet builders, and serious woodworkers who need both fixed and plunge routing capability with 1/2-inch shank bit access — one kit that handles edge profiling, mortises, raised-panel doors, and template routing.",
+  "skipIf": "You primarily need one-handed laminate trimming or edge profiling — the Makita RT0701C or DeWalt DCW600B are lighter and more maneuverable for that work. Also consider stepping up if you need more than 2-1/4 HP for large raised-panel production runs.",
+  "specs": {
+    "motorPower": "2-1/4 HP (12 amps)",
+    "speedRange": "8,000–25,000 RPM variable (6 settings)",
+    "colletSizes": "1/4 in. and 1/2 in. self-releasing chucks included",
+    "baseTypes": "Fixed base (RA1161) and plunge base (RA1166) included",
+    "plungeDepth": "2-1/4 in.",
+    "fixedDepthRange": "1-5/8 in.",
+    "weight": "10 lbs (kit with both bases)",
+    "warranty": "1-year limited"
+  },
+  "faq": [
+    {
+      "q": "Does the Bosch 1617EVSPK include both a fixed base and plunge base?",
+      "a": "Yes. The kit includes the 1617EVS motor, the RA1161 fixed base, and the RA1166 plunge base in a single carrying case. This is the defining advantage of the combo configuration — you get both routing modes from one motor without purchasing separate bases later."
+    },
+    {
+      "q": "Can the Bosch 1617EVSPK use router table inserts?",
+      "a": "Yes. The fixed base RA1161 is compatible with Bosch's RA1171 cabinet-style router table and RA1181 benchtop router table, as well as third-party tables with standard 3-1/2-inch diameter router inserts. Using the 1617EVS in a table is common for raised-panel cabinet door work, where table mounting greatly improves repeatability."
+    },
+    {
+      "q": "What is the difference between the Bosch 1617EVS and 1617EVSPK?",
+      "a": "The 1617EVS is the motor and fixed base only. The 1617EVSPK adds the RA1166 plunge base and the carrying case to create the complete combo kit. Most buyers should purchase the 1617EVSPK — the plunge base is not sold at a meaningful discount separately, and the carrying case is worth having for a two-base kit."
+    },
+    {
+      "q": "How does the Constant Response circuitry work?",
+      "a": "Constant Response is Bosch's implementation of closed-loop electronic feedback: the motor controller monitors actual rotor speed and adjusts power delivery to maintain the speed set on the dial when the bit encounters material resistance. The result is consistent cut quality through varying grain, density changes in engineered wood, and depth transitions — the RPM does not drop when you push the bit into a harder section."
+    },
+    {
+      "q": "Is the 1617EVSPK powerful enough for raised-panel cabinet doors?",
+      "a": "Yes for most applications. At 2-1/4 HP, the 1617EVSPK handles standard raised-panel cutters on solid wood when taking two passes — a climb-cut pass to prevent tearout, then a full pass to final depth. Very large-diameter raised-panel bits (over 3-1/2 inches) and very hard exotics may benefit from a 3-HP router, but for typical hardwood cabinet door production, 2-1/4 HP is the standard professional spec."
+    },
+    {
+      "q": "What accessories work with the Bosch 1617 series?",
+      "a": "Bosch's RA1054 deluxe edge guide with dust extraction, the RA1000 router table, guide bushings in standard sizes, and the full Bosch template guide system all work with the 1617 series. The 2-inch sub-base opening accepts Bosch's standard template guide adapter, which is a common system across the 1617 series motor."
+    }
+  ],
+  "body": "## The case for a combo kit\n\nMost routing tasks fall cleanly into one of two categories. Edge profiling — roundovers, chamfers, decorative ogee profiles, laminate flush-trimming, bearing-guided template routing along the edge of a workpiece — requires a fixed base. The router sits flat on the material, the bit is set to a fixed depth before the cut begins, and stability and speed consistency determine cut quality.\n\nMortises, stopped dadoes, and any cut that starts and ends in the middle of a board away from an edge require a plunge base. You lower the spinning bit into the wood at the start of the cut and retract it at the end. Attempting stopped grooves with a fixed base router means starting the cut on an angled entry, which produces a visible divot at the start of the profile.\n\nThe Bosch 1617EVSPK's core proposition is that you do not need two routers. One 2-1/4 HP motor, two interchangeable bases, one carrying case. For woodworkers building furniture, fitting cabinetry, and doing general shop routing, this kit covers every task a handheld router can do.\n\n## Motor and electronics\n\nTwelve amps and 2-1/4 HP sit at exactly the right specification for the range of bits the 1617EVSPK is designed to run. The included 1/2-inch collet chuck unlocks the full catalog of router profiles: raised-panel cutters, large roundovers (up to 1-1/4-inch radius), drawer lock bits, cove and bead combinations, and large straight bits for wide dados. These are profiles that the 1/4-inch-only compact routers physically cannot run, regardless of their variable speed range.\n\nBosch's Constant Response circuitry is the distinguishing electronic feature. Router reviews frequently mention bit bog — the audible slowdown when a router encounters a hardwood figure or transitions from softwood to hardwood in a piece with sapwood. Constant Response is among the more effective feedback implementations in this price bracket. The motor controller actively compensates in real time, maintaining the set RPM rather than recovering after a dip.\n\nThe speed dial provides six discrete settings from 8,000 to 25,000 RPM. Having a true low-speed setting of 8,000 RPM is meaningful: large-diameter bits — raised-panel cutters, large coves — need to run slower than small bits for safe, clean operation. A 3-1/2-inch raised-panel cutter running at 22,000 RPM is spinning its edge at a peripheral speed that exceeds safe bit design limits. The 8,000 RPM starting point lets you run large-diameter bits safely without an external speed controller.\n\n## Fixed base in detail\n\nThe RA1161 fixed base uses a rack-and-pinion column adjustment for setting bit depth, with a micro-adjust ring for fine changes and a positive locking clamp. The depth window is graduated and easy to read. The base diameter is 6 inches — smaller than a 3-HP production router but large enough to provide stable bearing on a workpiece, and small enough to navigate inside curved template boundaries.\n\nFor router table use, the RA1161 drops into compatible Bosch table inserts and most standard 3-1/2-inch insert-diameter aftermarket tables. Table use transforms the 1617EVSPK into a profiling station: feed the workpiece against the fence rather than pushing the router over the material, and you get a more controlled, repeatable cut for production profiling work on multiple pieces of the same profile.\n\n## Plunge base in detail\n\nThe RA1166 plunge base runs on dual columns with calibrated depth stops and a three-position turret. The turret depth stop system allows pre-setting three progressive depths so you can rout a deep mortise in three incremental passes without re-setting the stop between passes — a significant time-saver for door hardware mortising. The 2-1/4-inch plunge depth covers the full range of standard door lock mortises and most through-tenon work.\n\nPlunge spring tension is adjustable, which matters for fine work. Heavy spring tension fights you on entry; lighter tension lets the bit descend with controlled finger pressure. The 1617EVSPK's plunge mechanism is smooth and does not exhibit the lateral wiggle under load that some lower-cost plunge bases produce.\n\n## Weight and handling\n\nThe 10-pound kit weight is the correct framing. The motor alone weighs less than that; the full assembled tool with either base is a two-handed tool by design. This is a different ergonomic category than a trim router. The handling requirement is planting the base securely on the workpiece, gripping both handles, and feeding with steady, controlled pressure. The weight distribution with the fixed base is well-balanced — the motor does not tip the base when the tool is set down between passes.\n\n## Who this kit is for\n\nThe 1617EVSPK's competition is the DeWalt DWP611PK and the Makita RP0900K, both of which offer similar combo configurations at comparable prices. The Bosch's Constant Response circuitry and the refinement of the fixed base micro-adjust are specific advantages over the DeWalt pack; the Makita's speed range extends slightly lower at 10,000 versus Bosch's 8,000 RPM. Any of these kits is a sound choice; platform loyalty and what is on sale at a given moment are reasonable decision criteria.\n\nFor the buyer who is new to routing, the 1617EVSPK is the correct first full-size router. The combination kit means you are not forced to choose between fixed and plunge capability before you know which you will actually use, and the 1/2-inch collet compatibility means you are not buying bits you cannot use.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["makita-rt0701c", "dewalt-dcw600b", "ryobi-pcl424b"]
+}

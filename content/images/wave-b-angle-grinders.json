@@ -1,0 +1,18 @@
+{
+  "reviews/dewalt-dwe402": {
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DWE402_1_1680.webp",
+    "alt": "DeWalt DWE402 angle grinder"
+  },
+  "reviews/milwaukee-2880-20": {
+    "source": "https://www.milwaukeetool.com/--/web-images/sc/33ce3b34541045d8888322123f1cd84e?hash=0b332ad28bb5a631efeff25c633ff1e9&lang=en",
+    "alt": "Milwaukee 2880-20 M18 FUEL angle grinder"
+  },
+  "reviews/makita-ga4534": {
+    "source": "https://cdn-ilejfnp.nitrocdn.com/BPDdYOqFmxevoZeJbOLIlFZnFkrryyms/assets/images/optimized/rev-5df0f7c/www.usagranitetools.com/wp-content/uploads/2026/05/makita-paddle-switch-angle-grinder-ga4534.jpg",
+    "alt": "Makita GA4534 angle grinder"
+  },
+  "reviews/ryobi-pcl445b": {
+    "source": "https://cdn.shopify.com/s/files/1/0590/4980/3863/files/41c2c61117614b70b4bc8f8226338c8b_1824x874.jpg",
+    "alt": "Ryobi PCL445B angle grinder"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ryobi-tss103",
+  "title": "Ryobi TSS103 Review: $269 Sliding Miter Saw for Homeowners",
+  "brand": "ryobi",
+  "category": "miter-saws",
+  "model": "TSS103",
+  "rating": 3.7,
+  "priceRange": "$249–$299",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-15-Amp-10-in-Corded-Sliding-Compound-Miter-Saw-with-LED-Cutline-Indicator-TSS103/306939218" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/TSS103-Sliding-Compound-Cutline-Indicator/dp/B0DN6WYYQ6" }
+  ],
+  "pros": [
+    "Sliding rail system extends crosscut capacity to 12 inches at 90°, well beyond the 8-inch limit of non-sliding budget saws like the Metabo HPT C10FCGS",
+    "LED cutline indicator projects a shadow line onto the workpiece, replacing the guesswork of pure fence-mark alignment without a bulb-based laser",
+    "47° miter range left and right with positive stops at common molding angles covers standard door casing and base molding cuts",
+    "15-amp, 4,600 RPM motor handles standard softwood and MDF trim without stalling on moderate stock",
+    "Included accessories — table extensions, work clamp, blade wrench, dust bag — complete a workable trim setup out of the box"
+  ],
+  "cons": [
+    "Single-bevel design (bevel range not dual) means opposing compound crown angles require flipping the workpiece rather than adjusting the bevel direction",
+    "Detent system and fence assembly use more plastic construction than professional-tier saws, with positive stops that feel softer than the stainless-steel plates on DeWalt and Bosch",
+    "Dust collection is adequate at best; connecting a shop vacuum to the 1-1/4-inch port improves capture, but the system leaves meaningful residue compared to the Bosch GCM12SD",
+    "40-tooth included blade is a step up from 24-tooth framing blades but still not a finish-quality crosscut blade for hardwood or painted MDF"
+  ],
+  "bestFor": "Homeowners and occasional DIYers who need sliding crosscut capacity for base molding and trim work on a $250–$300 budget and do not require dual-bevel capability.",
+  "skipIf": "You cut crown molding regularly (the single-bevel limits compound angle workflow) or need production-grade durability and detent precision — the DeWalt DWS780 or Bosch GCM12SD are the correct tools.",
+  "specs": {
+    "bladeSize": "10 in. (254mm)",
+    "crossCutAt90": "Up to 12 in. crosscut capacity",
+    "miterRange": "0–47° left and right",
+    "bevelRange": "0–48° (single-bevel)",
+    "motor": "15 Amp, 4,600 RPM no-load",
+    "dustPort": "1-1/4 in. connection to standard dust collection",
+    "includedBlade": "10 in. 40-tooth carbide-tipped",
+    "warranty": "3-year limited"
+  },
+  "faq": [
+    {
+      "q": "How wide can the Ryobi TSS103 crosscut at 90°?",
+      "a": "The TSS103 can crosscut up to 12 inches of material width at 90° thanks to its sliding rail mechanism. This puts it well above non-sliding budget saws like the Metabo HPT C10FCGS (approximately 8 inches), though it falls short of 12-inch saw capacity from the Bosch GCM12SD and DeWalt DWS780 (13-1/2 and 13-3/4 inches respectively). For standard base molding, door casing, 2×8 lumber, and most residential trim profiles, 12 inches is sufficient."
+    },
+    {
+      "q": "Is the Ryobi TSS103 a dual-bevel miter saw?",
+      "a": "No. The TSS103 is a single-bevel sliding compound miter saw. The blade tilts in one direction only, up to 48°. For compound crown molding cuts requiring opposing bevel angles (left-hand corner and right-hand corner of the same wall), you must flip the workpiece to achieve the mirror-image compound setting rather than reversing the bevel direction as you would on a dual-bevel saw like the Bosch GCM12SD or DeWalt DWS780."
+    },
+    {
+      "q": "What is the LED cutline indicator on the TSS103?",
+      "a": "The LED cutline indicator uses a light source to cast a shadow of the blade onto the workpiece surface, showing you approximately where the blade will cut before you pull the trigger. Unlike a traditional laser line that must be calibrated to a kerf offset, the shadow represents the blade's actual path width. It is less precise than the DeWalt DWS780's XPS system but significantly better than no cutline reference at all — a meaningful upgrade over the Metabo HPT C10FCGS, which has no cutline indicator."
+    },
+    {
+      "q": "What materials can the Ryobi TSS103 cut?",
+      "a": "The TSS103 is designed for wood-based materials: softwood and hardwood dimensional lumber, MDF, plywood, and standard molding profiles. The 15-amp motor handles most residential trim stock without difficulty. The saw is not designed for metal, tile, masonry, or plastic pipe — dedicated cut-off tools or angle grinders with appropriate blades are the correct choice for those materials."
+    },
+    {
+      "q": "How does the Ryobi TSS103 compare to the Metabo HPT C10FCGS?",
+      "a": "The TSS103 costs approximately $130–$150 more than the Metabo HPT C10FCGS and adds two meaningful capabilities: sliding rails that extend crosscut capacity from 8 inches to 12 inches, and an LED cutline indicator. Both are single-bevel 10-inch compound miter saws with 15-amp motors, but the Ryobi's wider cut capacity makes it the better choice for anyone who regularly encounters stock wider than 8 inches. The Metabo HPT's 24.2-lb weight advantage and 5-year warranty are worth noting for buyers who prioritize portability and coverage term."
+    },
+    {
+      "q": "Is the Ryobi TSS103 appropriate for professional trim carpentry use?",
+      "a": "The TSS103 is designed and priced for homeowner and light DIY use; it is not a professional production tool. The fence system, detent quality, and long-term durability of the sliding mechanism are not matched to daily all-day production use. Trim carpenters working full-time schedules should consider the DeWalt DWS780 or Bosch GCM12SD, both of which are built to a substantially higher construction standard with correspondingly longer production service lives."
+    }
+  ],
+  "body": "## The sliding rail difference at the budget tier\n\nRyobi's TSS103 occupies a specific gap in the miter saw market: it is the entry point for sliding compound capability at a price — $249–$299 — that puts sliding crosscut capacity within reach of first-time buyers and occasional DIYers. To understand its value, it helps to compare it directly to the non-sliding alternative.\n\nThe Metabo HPT C10FCGS is a 10-inch non-sliding compound miter saw that costs roughly $130–$150, about half the TSS103's price. It crosscuts up to approximately 8 inches at 90°. The TSS103's sliding rails extend that capacity to 12 inches. If the widest material you cut is standard 3-1/4-inch door casing, the non-sliding C10FCGS is sufficient and saves money. If you encounter 5-1/2-inch wide baseboard, 2×8 lumber, or crown molding profiles over 4 inches, the TSS103's extra reach becomes the deciding factor.\n\n## What the 12-inch crosscut capacity covers\n\nAt 12 inches of crosscut width at 90°, the TSS103 handles the full range of standard dimensional lumber (2×4, 2×6, 2×8, 2×10), wide baseboard profiles up to 7 inches, and standard crown molding profiles up to approximately 5-1/2 inches laid flat on the table. Stock wider than 12 inches — 4×14 beams, very wide crown profiles, or wide cabinet face frames — requires either a 12-inch saw like the Bosch GCM12SD or a table saw.\n\nFor the majority of residential trim work, 12 inches of sliding capacity is sufficient without the jump to a 12-inch blade and $500+ price point.\n\n## Motor, speed, and cutting behavior\n\nThe TSS103's 15-amp motor turns the blade at 4,600 RPM no-load. In practice through softwood and MDF, the motor maintains speed and cuts cleanly with the included 40-tooth blade. Hardwood — oak, maple, or cherry trim — exposes the 40-tooth blade's rough exit cut quality; replacement with a 60-tooth or 80-tooth thin-kerf finish blade ($30–$50) resolves this immediately.\n\nThe electric brake stops the blade in approximately 3 seconds after release, a safety and efficiency feature that budget saws in the sub-$150 range often omit. The spindle lock simplifies blade changes to a single wrench and a thumb.\n\n## Miter range and detent feel\n\nThe TSS103 covers 47° left and right with positive-stop detents at common molding angles: 0°, 15°, 22.5°, 31.6°, and 45°. That 47° maximum miter covers the full range of standard trim cuts. The stop feel is functional — detents click in recognizably — but the plastic construction of the miter lock and detent components is noticeably less solid than the metal components on the DeWalt DWS780 or Bosch GCM12SD. For production work where you snap between angles dozens of times per day, that material quality difference matters for long-term reliability.\n\nFor occasional residential use — a room trim project every few months — the TSS103's detent system performs reliably within the expected service demands.\n\n## The single-bevel constraint for crown molding\n\nThe TSS103 is a single-bevel saw, tilting the blade 0–48° in one direction only. Crown molding installation is the category where this limitation is most visible. To cut opposing compound angles at a room corner, you must flip the crown profile to its mirror position against the fence for one of the two cuts. On a dual-bevel saw — the Bosch GCM12SD or DeWalt DWS780 — you simply flip the bevel direction without repositioning the material.\n\nFor a homeowner installing crown in a single room, the extra step is manageable with careful attention to cut marking and workpiece orientation. For a carpenter running crown through an entire house, the extra repositioning time accumulates meaningfully over a day's work.\n\n## Dust collection and workspace cleanliness\n\nThe TSS103 includes a 1-1/4-inch dust port that accepts standard shop vacuum hoses. Collection performance with a vacuum connected is adequate for moderate use — better than operating with the included dust bag alone, which fills quickly and captures less efficiently. The Bosch GCM12SD achieves roughly 90% capture; the TSS103 performs in the 50–65% range under similar conditions, leaving visible sawdust residue around the fence area during extended cutting sessions. For outdoor projects or garages without finished floors, this is a minor inconvenience. For interior work over finished hardwood, connecting a dedicated shop vacuum is worth the setup time.\n\n## Verdict: the sliding miter saw for the DIYer's budget\n\nThe Ryobi TSS103 delivers the most important capability upgrade at the budget miter saw tier: sliding crosscut capacity. At $249–$299, it closes the gap between entry-level non-sliding saws and the $500+ professional tier while keeping the price accessible for homeowners doing periodic trim and molding work. The LED cutline indicator, electric brake, and 12-inch crosscut capacity make it a more complete tool than the Metabo HPT C10FCGS for anyone who works with stock wider than 8 inches or wants cut placement reference before the blade touches the workpiece. The trade-offs — single bevel, lighter construction, and functional rather than excellent dust collection — are what the price gap relative to the DeWalt DWS780 or Bosch GCM12SD represents.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["bosch-gcm12sd", "dewalt-dws780", "metabo-hpt-c10fcgs"]
+}

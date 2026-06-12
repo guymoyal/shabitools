@@ -1,0 +1,68 @@
+{
+  "slug": "makita-ga4534",
+  "title": "Makita GA4534 Review: 6-Amp Paddle Grinder, Lightest Class",
+  "brand": "makita",
+  "category": "angle-grinders",
+  "model": "GA4534",
+  "rating": 4.1,
+  "priceRange": "$60–$80",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Makita-6-Amp-4-1-2-in-Paddle-Switch-Angle-Grinder-GA4534/202517732" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Makita-GA4534-2-Inch-Paddle-Grinder/dp/B003S3SOV8" }
+  ],
+  "pros": [
+    "4.2 lbs and the narrowest barrel grip in the 4-1/2-inch corded class — noticeably lighter and easier to hold during extended overhead or vertical work than 11-amp competitors",
+    "AC/DC switch allows the grinder to run on generator power or DC welding outlet supply in field environments where AC power quality is inconsistent",
+    "All-ball bearing construction and machined bevel gears rated for twice the service life of previous-generation Makita corded grinders",
+    "Paddle switch with lock-off provides the safety-shutoff behavior that budget slide-switch grinders lack",
+    "At $65–$75, one of the most affordable name-brand corded grinders with a paddle switch available in the US market"
+  ],
+  "cons": [
+    "6-amp motor limits sustained heavy grinding — thick weld beads on structural steel and continuous concrete cutting will bog the motor faster than an 11-amp tool",
+    "No Dust Ejection System; the motor intake sits in a position where masonry dust accumulates faster than on DeWalt's DWE402, shortening brush intervals on heavy concrete or tile work",
+    "Lower power ceiling means it is not the right pick for users who regularly remove significant material from plate steel or rebar in high-volume applications"
+  ],
+  "bestFor": "Homeowners, tile setters, and light tradespeople who want a proper-brand paddle switch grinder at the lowest cost — particularly tasks where the lighter weight reduces fatigue: overhead cutting, vertical work, and precision fitting.",
+  "skipIf": "Your primary tasks involve sustained heavy grinding on structural steel, thick weld beads, or prolonged concrete cutting — the 6-amp motor will work harder and run hotter than an 11-amp tool under those conditions.",
+  "specs": {
+    "motorAmps": "6.0 A (AC/DC)",
+    "noLoadSpeed": "11,000 RPM",
+    "discSize": "4-1/2 in. (115 mm)",
+    "arbor": "5/8\"-11",
+    "switchType": "Paddle switch with lock-off",
+    "weight": "4.2 lbs",
+    "overallLength": "10-3/8 in. (265 mm)",
+    "gearHousing": "Metal gear housing, machined bevel gears",
+    "warranty": "1-year limited"
+  },
+  "faq": [
+    {
+      "q": "What does the AC/DC switch on the Makita GA4534 do?",
+      "a": "The AC/DC switch lets the GA4534 operate on either standard 120V AC household current or on DC power, such as from a welding machine's auxiliary outlet or certain generator configurations. It is not a variable-speed control — it allows the grinder to run in field environments where a pure AC supply is unavailable. For standard shop and home use, leave it in the AC position."
+    },
+    {
+      "q": "Is 6 amps enough for an angle grinder?",
+      "a": "For most homeowner and light trade tasks — grinding welds on thin stock, cutting tile and stone, removing surface rust, cutting conduit or rebar — 6 amps is adequate. The GA4534 runs at 11,000 RPM and maintains enough torque for normal material removal. The limitation appears under heavy sustained load: grinding thick weld beads on heavy plate, cutting lots of rebar in sequence, or hours of concrete cutting will tax a 6-amp motor more than an 11-amp unit. For infrequent or light use, 6 amps is not a practical limitation."
+    },
+    {
+      "q": "How does the Makita GA4534 compare to the DeWalt DWE402?",
+      "a": "The GA4534 is lighter (4.2 vs 4.6 lbs), has a slimmer barrel grip, and costs $25–$35 less at most retailers. The DWE402 delivers 11 amps versus the GA4534's 6 amps — nearly double the motor output — and includes a Dust Ejection System that improves durability in masonry environments. For precision light work and extended use where fatigue matters, the Makita is the better tool. For heavy material removal and shop durability, the DeWalt's motor advantage is real."
+    },
+    {
+      "q": "Does the GA4534 fit standard 4-1/2-inch accessories?",
+      "a": "Yes — the GA4534 uses a standard 5/8\"-11 arbor that fits all commodity 4-1/2-inch grinding discs, cutting wheels, flap discs, wire wheels, and diamond blades. Accessories from DeWalt, Milwaukee, Bosch, and generic brands sized for 4-1/2-inch grinders fit without modification. Verify that each accessory is rated for 11,000 RPM or higher before mounting."
+    },
+    {
+      "q": "What is the warranty on the Makita GA4534?",
+      "a": "The GA4534 carries Makita's standard 1-year limited tool warranty. This is shorter than the DeWalt DWE402's 3-year limited warranty and the Milwaukee 2880-20's 5-year limited warranty. For occasional use, 1 year is generally adequate; for professional daily use, the warranty gap is a meaningful consideration when comparing tools at similar price points."
+    },
+    {
+      "q": "Can the GA4534 cut ceramic and porcelain tile?",
+      "a": "Yes. A 4-1/2-inch diamond blade rated for 11,000 RPM on the GA4534's 5/8\"-11 arbor cuts ceramic and porcelain tile cleanly. The 11,000 RPM speed is standard for tile cutting, and the 4.2-lb weight makes the tool maneuverable for fitting cuts at floor and wall junction points. Use dry-cutting diamond blades only — the GA4534 is not configured for wet cutting."
+    }
+  ],
+  "body": "## The case for a lighter corded grinder\n\nNot every corded angle grinder task requires maximum motor amperage. Grinding a weld on thin-wall tube, cutting a row of ceramic tiles, trimming a copper pipe, or removing rust from a gate hinge are jobs where the 6-amp Makita GA4534 performs identically to an 11-amp grinder. What the GA4534 brings to those tasks that the higher-powered tools cannot match is a weight and grip advantage that changes how the tool feels over the course of an hour.\n\nAt 4.2 lbs and with the slimmest barrel grip Makita builds into this disc size, the GA4534 is notably easier to hold during overhead and vertical work. The difference between 4.2 lbs and 4.6 lbs — the DeWalt DWE402's weight — sounds trivial on paper, but sustained use amplifies it. For a tile setter making dozens of fitting cuts in a day, a plumber cutting copper and cast iron in cramped spaces, or a homeowner grinding rust in an uncomfortable position, the lighter tool reduces fatigue and improves control.\n\n## Build quality and mechanism\n\nMakita builds the GA4534 with an all-ball bearing design and a metal gear housing — both choices that favor durability over minimum manufacturing cost. The machined bevel gears are rated for twice the service life of Makita's previous-generation corded grinders, a meaningful claim for a tool that sees regular professional use. The paddle switch with lock-off functions correctly: firm enough that it does not trigger accidentally in a toolbag, easy enough that you can actuate it with a normal grip while wearing gloves.\n\nThe AC/DC switch is a feature found on very few corded grinders at this price and is worth explaining. It allows the GA4534 to run on direct current sources — a welding machine's auxiliary output, certain generator configurations, or DC power systems in mobile vehicles. The practical value is for users who regularly work in environments where AC power quality is variable or DC is the available supply. For standard home and shop use on 120V AC, it is a non-factor, but it adds versatility for field and remote applications that competitors at this price simply do not offer.\n\n## Motor output: where 6 amps is enough\n\nThe 11,000 RPM no-load speed matches the DeWalt DWE402. Both tools run the same peripheral disc speed at idle. The difference emerges under load: the 11-amp DWE402 has substantially more torque reserve when the disc encounters resistance — thick weld material, hard stone, or heavy scale — and it maintains speed more steadily during sustained heavy cuts. The GA4534's 6-amp motor handles normal loads cleanly but loses RPM faster under aggressive grinding pressure and will overheat if pushed continuously on heavy material.\n\nFor the applications this grinder is intended for — tile cutting, light metal grinding, rust removal, pipe and rod cutting, occasional weld blending on thin stock — that distinction rarely matters. The failure mode appears during sustained heavy use: a fabricator grinding thick welds on structural steel all day will outwork the GA4534 within a session. A homeowner cleaning up welds on a project, or a tile setter cutting stone for a bathroom floor, will not notice the limitation.\n\n## What the GA4534 is missing\n\nTwo omissions relative to the DeWalt DWE402 matter depending on how you use a grinder. The first is the Dust Ejection System. DeWalt routes debris away from motor brushes through a channeled vent; the GA4534's motor intake is positioned conventionally. For masonry cutting — concrete backer board, stone tile, pavers — the GA4534 will accumulate grit at the motor faster. If your work involves significant masonry, the DWE402's dust management feature extends service intervals.\n\nThe second is the 1-year warranty compared to DeWalt's 3-year coverage. For occasional residential use, this gap is not a significant factor. For professional tradespeople considering the GA4534 as a job site tool, the warranty disparity and the power ceiling are both arguments for spending the additional $25–$35 for the DWE402.\n\n## Price and positioning in the category\n\nAt $65–$75, the GA4534 is the most affordable way to own a genuine paddle-switch angle grinder from a tier-one Japanese tool brand with US dealer and parts support. The step down in price from the DWE402 buys you a lighter, more maneuverable tool at the cost of motor output and warranty duration. The step up to the Milwaukee 2880-20 cordless costs more than triple and adds battery dependency.\n\nAmong the four grinders in this category, the GA4534 occupies a specific position: it is the corded choice for buyers whose primary need is ergonomics and light-to-medium cutting tasks over raw power output. A homeowner who cuts tile twice a year and grinds occasional welds on a gate or furniture project will be served well by the GA4534 for less money and less weight than any alternative.\n\n## Fit and finish observations\n\nThe overall length of 10-3/8 inches is shorter than most corded competitors, making the GA4534 easier to maneuver in confined spaces like under a sink or inside a cabinet opening. The guard adjusts with a wrench — not tool-free — which is a minor inconvenience compared to the DeWalt's one-touch design. The included accessories (grinding wheel, wheel guard, side handle, wrench, flange) cover the basic setup without requiring an immediate additional purchase.\n\n## Final assessment\n\nThe GA4534 is the right corded angle grinder for buyers who prioritize light weight and ergonomics over maximum motor output, and who want a name-brand tool with a proper safety switch at the lowest possible price. Its 6-amp motor is matched to light and medium grinding tasks, not sustained heavy fabrication. Users who know they will work within those parameters — and the majority of homeowners and light tradespeople do — get an honest, durable tool at a competitive price. Anyone who anticipates heavy continuous stock removal should step up to the DeWalt DWE402's 11 amps.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dwe402", "milwaukee-2880-20", "ryobi-pcl445b"]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "bosch-js365",
+  "title": "Bosch JS365 Review: The Corded Jigsaw Benchmark",
+  "brand": "bosch",
+  "category": "jigsaws",
+  "model": "JS365",
+  "rating": 4.6,
+  "priceRange": "$100–$130",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Bosch-6-5-Amp-Corded-Variable-Speed-Top-Handle-Jig-Saw-Kit-with-Carrying-Case-JS365/202502524" },
+    { "merchant": "Lowes", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/Bosch-6-5-Amp-Keyless-T-Shank-Variable-Speed-Corded-Jigsaw-with-Case/50041008" }
+  ],
+  "pros": [
+    "6.5-amp motor sustains full 500–3,100 SPM range through dense hardwood and stacked plywood without voltage sag",
+    "1-inch stroke length at 3,100 SPM delivers noticeably faster material removal than the shorter strokes on most budget tools",
+    "Four-position orbital action covers everything from scroll-work on thin stock (orbit 0) to aggressive rough cuts in framing lumber (orbit 4)",
+    "Die-cast aluminum base plate with steel insert sits flat and resists flex — a meaningful advantage over plastic shoes on budget saws when accuracy matters",
+    "Toolless T-shank blade clamp allows one-handed blade swaps without touching the hot blade after a long cut",
+    "Kit includes a carrying case, anti-splinter insert, and blade — immediately usable out of the box"
+  ],
+  "cons": [
+    "At 5.35 lbs the JS365 is meaningfully heavier than the cordless competition — extended overhead cuts or detailed scroll work fatigue the wrist faster",
+    "Corded format means a trailing cord on the jobsite and no use in areas without a nearby outlet or extension cord",
+    "Dust blower is effective but lacks a dust-port for vacuum extraction — fine for outdoor work, less ideal for finished interiors",
+    "Bevel scale markings can shift slightly over time without re-calibration if the shoe is repeatedly adjusted"
+  ],
+  "bestFor": "Woodworkers, remodelers, and dedicated DIYers who want the most consistent cutting power available in a jigsaw and work near outlets — the JS365 is the corded reference point everything else is measured against.",
+  "skipIf": "You need to cut without a power cord, work on a ladder or in tight spaces overhead, or want to share batteries with the rest of your cordless tool fleet.",
+  "specs": {
+    "amperage": "6.5 Amp, 120V corded",
+    "noLoadSPM": "500–3,100 SPM (variable)",
+    "strokeLength": "1 inch",
+    "orbitalSettings": "4-position orbital action",
+    "bevelCapacity": "0–45 degrees",
+    "bladeCompatibility": "T-Shank (toolless clamp)",
+    "cuttingCapacity": "3-1/2 in. softwood; 7/8 in. aluminum; 3/8 in. mild steel",
+    "weight": "5.35 lbs",
+    "baseplate": "Die-cast aluminum with steel insert"
+  },
+  "faq": [
+    {
+      "q": "Is the Bosch JS365 a good jigsaw for cutting curves in plywood?",
+      "a": "Yes — set orbital action to 0 (straight-line mode), pair it with a 20 TPI fine-tooth T-shank blade, and the JS365 tracks curves cleanly with minimal tearout. The flat aluminum shoe and low-vibration mechanism help the blade follow a marked line without chatter. For finish-quality cuts on visible plywood faces, tape the cut line with painter's tape beforehand."
+    },
+    {
+      "q": "What blades fit the Bosch JS365?",
+      "a": "The JS365 accepts all standard T-shank jigsaw blades — the modern industry format used by Bosch, Milwaukee, DeWalt, Makita, and virtually every other blade manufacturer. It does not accept the older U-shank format. Bosch's own T-shank blade sets are widely available and recommended, but any quality T-shank blade from Diablo, Freud, or Milwaukee will work correctly."
+    },
+    {
+      "q": "How does the Bosch JS365 compare to the Milwaukee 2737-20 M18 FUEL?",
+      "a": "The JS365 runs on household current so it never runs out of power and typically costs less, while the Milwaukee 2737-20 is cordless and reaches 3,500 SPM versus the Bosch's 3,100. For dedicated workshop or jobsite use near outlets, the JS365 holds its own against any cordless model on sustained cutting speed; for portability or battery-platform integration, the Milwaukee wins. The JS365 also weighs a bit less than the Milwaukee with a 5.0Ah pack attached."
+    },
+    {
+      "q": "Can the Bosch JS365 cut metal?",
+      "a": "Yes, with the correct blade. The JS365's rated mild steel capacity is 3/8 inch using a bi-metal blade at a slow speed setting. For sheet metal, thin wall conduit, and thin structural steel, a bi-metal or carbide-tipped T-shank blade at the lower end of the SPM range cuts cleanly. Keep the orbital setting at 0 when cutting metal to prevent blade flex and vibration."
+    },
+    {
+      "q": "Does the Bosch JS365 come with a warranty?",
+      "a": "Bosch backs the JS365 with a 1-year full warranty and a 1-year service contract, which is shorter than the Milwaukee and DeWalt cordless competition. The tool is built to a durability standard that far exceeds its warranty period in practice, but the coverage lag versus competitors is worth noting if warranty length matters to your decision."
+    },
+    {
+      "q": "What is the orbital action setting on the Bosch JS365 used for?",
+      "a": "Orbital action adds a forward-and-back elliptical sweep to the blade's up-down stroke. Setting 0 (straight-line) gives the cleanest, tightest-radius cuts in finished material. Settings 1 and 2 balance speed and edge quality for general wood cuts. Setting 3 and 4 are aggressive — they cut fast in dimensional lumber and OSB but leave a rougher edge. Use the lowest effective setting for the material and desired finish quality."
+    }
+  ],
+  "body": "## Why the Bosch JS365 is still the reference corded jigsaw\n\nThe Bosch JS365 has been a top-handle corded jigsaw benchmark for well over a decade, and the 2026 version explains exactly why it has lasted: 6.5 amps of consistent power, a 1-inch stroke, four orbital positions, and a die-cast aluminum shoe built to stay flat under production use. For anyone who works near outlets and values uninterrupted cutting over cordless convenience, the JS365 remains the standard by which cordless jigsaws are measured.\n\nThe tool-only version runs about $100 at Home Depot and Lowe's; the kit version with case lands closer to $120–$130. At that price, you get a saw that beats most cordless models on sustained SPM and outbuilds all budget corded competitors on base-plate quality.\n\n## Motor and cutting performance\n\nThe 6.5-amp motor is where the JS365 separates itself from budget 4.5-amp corded jigsaws and from 18V brushed cordless tools. Under load — plowing through 2-inch hardwood, stacking two sheets of 3/4-inch plywood, or driving through fiber-cement trim — the motor maintains speed rather than bogging down. Variable speed runs 500–3,100 SPM with a dial on top and accelerator control at the trigger, letting you slow down for precise entry cuts and run flat-out for rough work.\n\nIn softwood, the JS365 rips through 3-1/2 inches of material without complaint. In hardwood, cutting capacity drops, but for dimensional lumber — the bread-and-butter jigsaw task — the saw covers everything a contractor or advanced DIYer needs. Metal cutting at 3/8-inch mild steel capacity is adequate for conduit, sheet metal, and thin structural shapes; heavy structural steel requires a dedicated metal saw.\n\n## Orbital action and cut quality\n\nFour orbital settings is the full range. Setting 0 is pure straight-line action — the blade moves directly up and down, producing the cleanest edge and the tightest-radius curves. This is the setting for sink cutouts in laminate countertops, detailed profile work, and anywhere the cut face will be visible. Settings 1 through 4 progressively increase the forward bite, trading edge quality for material removal rate. Setting 4 in framing lumber is aggressive and fast but leaves a rough kerf; it has no business near finished surfaces.\n\nThe low-vibration design Bosch built into the JS365 mechanism pays off at setting 0 — the saw tracks a pencil line without the blade wandering, which matters for curves where accuracy compounds over the length of a cut.\n\n## The aluminum base plate advantage\n\nThis is the detail that separates the JS365 from budget jigsaws. The die-cast aluminum base plate with steel insert stays flat. Plastic shoes on entry-level saws flex under sideways pressure and mar finished surfaces when the shoe rocks. The JS365's shoe tracks the workpiece consistently, which translates directly to straighter bevel cuts and better control on tight curves. The bevel adjustment runs 0–45 degrees with detents; the lock is firm once set.\n\n## Ergonomics and handling\n\nAt 5.35 lbs, the JS365 is heavier than all the cordless jigsaws in this roundup once battery weight is excluded from the comparison. That weight is felt on extended detail work and overhead cuts. The top-handle grip is comfortable for the majority of cuts — tabletop work, horizontal cutting in sheet goods — but the barrel-grip format (available in the Bosch JS470E) is more natural for vertical plunge cuts and tight maneuvering. The dust blower keeps the cut line clear; there is no port for vacuum hookup.\n\n## Corded versus the cordless field\n\nAgainst the **Milwaukee 2737-20 M18 FUEL**, the JS365 gives up 400 SPM (3,100 vs 3,500) and cordless freedom but never needs a battery charged. Against the **DeWalt DCS334B**, the JS365 is similarly matched on SPM (3,100 vs 3,200) but heavier; the DeWalt wins on portability. Against the **Ryobi PCL525B**, the Bosch is in a different performance class — more power, better base plate, and more SPM, at roughly twice the price.\n\nThe honest trade-off is simple: if your workspace has an outlet, the JS365 delivers consistent full-power cutting that no 18V tool can beat for sustained workloads. If portability, battery integration, or working without a cord matters, step to the Milwaukee or DeWalt.\n\n## Accessories and blade recommendations\n\nThe JS365 kit ships with one T-shank blade, an anti-splinter insert, and a carrying case. The included blade is adequate for a first project but not optimized for any specific task. For most users, a basic blade assortment covers daily needs: a 6 TPI aggressive blade for rough cuts in framing lumber, a 10 TPI blade for general plywood work, a 20 TPI fine blade for clean finish cuts, and a bi-metal blade for cutting metal and fiber-cement. Bosch's own T-shank blades are consistently high quality and appropriately priced; Diablo and Freud offer excellent alternatives. The anti-splinter insert slides into the shoe opening and supports the wood fibers immediately ahead of the blade — a simple addition that measurably reduces tearout on the top face without changing the cutting motion at all.\n\n## Final verdict\n\nThe Bosch JS365 earns its 4.6 rating by doing everything well without compromise on the things that matter most for sustained jigsaw work: consistent power, precision base plate, full orbital range, and straightforward blade changes. It is the right pick for dedicated shop use, heavy production work, and anyone who wants the performance ceiling of corded jigsaws at a price that undercuts premium cordless models.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2737-20", "dewalt-dcs334b", "ryobi-pcl525b"]
+}

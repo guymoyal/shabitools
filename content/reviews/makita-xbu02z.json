@@ -1,0 +1,63 @@
+{
+  "slug": "makita-xbu02z",
+  "title": "Makita XBU02Z Review: Balanced LXT 36V Clearing Power",
+  "brand": "makita",
+  "category": "leaf-blowers",
+  "model": "XBU02Z",
+  "rating": 4.2,
+  "priceRange": "$219–$329",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Makita-120-MPH-473-CFM-18-Volt-X2-36-Volt-LXT-Lithium-Ion-Cordless-Brushless-Leaf-Blower-Tool-Only-XBU02Z/206058495" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Makita-XBU02Z-Lithium-Ion-Brushless-Cordless/dp/B00YCKAWAM" }
+  ],
+  "pros": [
+    "473 CFM and 120 MPH on two standard 18V LXT batteries — full-yard clearing power without stepping outside the 18V ecosystem that powers Makita's 300-plus-tool LXT lineup",
+    "61 dB(A) sound pressure rating per ANSI B175.2 makes it among the quietest full-output cordless handhelds available",
+    "Three-position speed dial gives precise, repeatable airflow selection rather than a continuous trigger that shifts with hand pressure",
+    "Brushless LXT motor delivers up to 28 minutes on a single 5.0Ah dual-battery charge with consistent output through the discharge cycle",
+    "36-5/8-inch overall length and balanced weight distribution keeps the nozzle positioned naturally without pulling your arm forward"
+  ],
+  "cons": [
+    "Requires two 18V batteries to operate — a meaningful upfront cost for users without an LXT collection, since batteries are sold separately",
+    "473 CFM falls below the 650 CFM class of EGO and Ryobi's top cordless handhelds, which matters on larger lots with heavy leaf loads",
+    "No turbo or burst mode — maximum output is the top dial position; the EGO and Ryobi designs allow variable-speed operation plus a burst beyond normal range"
+  ],
+  "bestFor": "Makita LXT platform users who already own two 18V 5.0Ah batteries and want a quiet, precise, well-balanced blower for lots up to half an acre.",
+  "skipIf": "You do not own Makita LXT 18V batteries, or your property exceeds half an acre with substantial seasonal leaf accumulation where 650 CFM is the practical minimum.",
+  "specs": {
+    "voltage": "36V (two 18V LXT batteries)",
+    "motor": "BL Brushless",
+    "airVolume": "473 CFM",
+    "airVelocity": "120 MPH",
+    "weight": "9.0 lbs with two 5.0Ah batteries",
+    "noiseLevel": "61 dB(A) per ANSI B175.2",
+    "speedControl": "3-position dial (variable speed)",
+    "runtime": "Up to 28 minutes on two 18V 5.0Ah batteries at speed setting 3"
+  },
+  "faq": [
+    {
+      "q": "Can the Makita XBU02Z run on two different-capacity batteries?",
+      "a": "Yes, the XBU02Z accepts any two 18V LXT lithium-ion batteries independently — they do not need to match in capacity. Running a 3.0Ah in one slot and a 5.0Ah in the other will work, though runtime will be limited by the smaller pack. For the best balanced performance and runtime, matching pairs of 5.0Ah cells are the practical recommendation."
+    },
+    {
+      "q": "Is 473 CFM enough for a full fall leaf cleanup?",
+      "a": "For lots up to approximately half an acre with typical deciduous leaf fall, 473 CFM at 120 MPH is adequate and will clear the property in a reasonable session. Very heavy leaf years, large lots, or sustained work with wet leaves will take longer per area than the 650 CFM category, though the XBU02Z handles normal suburban conditions without significant difficulty."
+    },
+    {
+      "q": "How does the 3-position dial compare to a variable-speed trigger?",
+      "a": "The dial system selects one of three discrete output levels rather than providing stepless control with a squeeze trigger. Setting 1 is gentle — suitable for light debris on a patio; setting 3 is full 473 CFM output. The advantage of the dial is repeatable, fatigue-free operation — once set, output stays exactly constant without any grip pressure changes. The disadvantage is less granularity than a true variable trigger."
+    },
+    {
+      "q": "What is the difference between the XBU02Z and XBU02PT?",
+      "a": "The XBU02Z is the bare tool with no batteries included. The XBU02PT is a kit that includes two 18V LXT 5.0Ah batteries and a dual-port rapid charger. The kit is the better starting point for LXT newcomers; the bare tool is the lower-cost option for users who already own two 5.0Ah packs. The blower performance is identical between both configurations."
+    },
+    {
+      "q": "Does the Makita XBU02Z have a vacuum mode?",
+      "a": "No, the XBU02Z is a blower only. Makita does not offer a vacuum conversion for this model. If leaf vacuuming and mulching is part of your yard maintenance routine, a separate vacuum-capable blower from EGO or other brands that offer convertible tube systems would be needed."
+    }
+  ],
+  "body": "## The 18V X2 design rationale\n\nMakita's 18V X2 architecture places two 18V LXT batteries in series to produce 36 volts — allowing the XBU02Z to deliver full-yard blower performance without requiring users to step outside the 18V platform that powers the rest of the LXT lineup. If your workshop, garage, or job site runs on 18V Makita tools, the XBU02Z adds outdoor clearing capability using cells you already own and a charger already on your bench.\n\nThis design philosophy prioritizes ecosystem alignment over maximizing airflow at any cost. The XBU02Z produces 473 CFM — solid residential performance — rather than the 650 CFM that would require a purpose-built higher-voltage blower platform. That is a deliberate trade-off, and it is the right one for a large segment of the tool market.\n\n## Clearing output and working speed\n\nAt 473 CFM and 120 MPH, the XBU02Z occupies the middle tier of cordless handheld performance. It outperforms single 18V blowers meaningfully in both volume and velocity; it does not match the top-output 40V or 56V class of the EGO LB6504 or Ryobi RY404014BTL.\n\nIn dry leaf conditions on a suburban lot, the XBU02Z moves material efficiently. The 120 MPH velocity creates a focused, directional air column that pushes leaves ahead cleanly rather than scattering them sideways, which reduces the number of redirecting passes needed along property edges and fence lines. For regular maintenance clearing — weekly clipping removal, light debris after a windstorm, seasonal gutter work — the output is well-matched to the task.\n\nFor the fall scenario where a half-inch-deep carpet of wet maple leaves covers a full backyard, the XBU02Z takes more time per square foot than a 650 CFM blower. The 120 MPH velocity at 473 CFM carries enough force to move wet leaves, but the lower volume means coverage per minute is reduced and the tool requires working closer to the leaf mass to fully dislodge it.\n\n## Three-speed dial and operating precision\n\nThe speed dial is the feature that most differentiates the XBU02Z's operating feel from variable-trigger blowers. You rotate to a numbered position, and the motor holds that output level exactly — not approximately, but with the precision of a locked motor controller target. This matters when moving between tasks with different debris types in the same session. Setting 1 clears clippings from a brick patio without disturbing the pea gravel edging three feet away. Setting 3 moves a pile of dry leaves across the lawn in a single directed pass.\n\nThe absence of a turbo or boost mode — where you can briefly exceed the dial setting for a particularly stubborn spot — is a real limitation compared to the EGO and Ryobi designs that offer a separate burst button. The XBU02Z's ceiling is its ceiling. For most residential tasks, setting 3 is fully capable; the gap is felt primarily when tackling the heaviest packed debris.\n\n## Acoustics\n\nThe 61 dB(A) ANSI B175.2 rating is among the quietest published figures for any full-output cordless handheld blower. At that level, sustained use in the morning does not produce the penetrating motor whine that draws attention from several houses away. The acoustic character of the BL brushless motor at high load is a smooth mid-frequency tone rather than a high-pitched scream — notably less fatiguing to listen to during a 20-minute clearing session than some competitors, and genuinely comfortable for extended yard work.\n\n## Battery management and runtime\n\nTwo batteries running in series means each battery contributes equally to the power budget. Runtime depends on both cells — remove one and the tool does not operate. The 28-minute figure Makita publishes at speed setting 3 with two 5.0Ah batteries is measured under controlled conditions; real-world clearing sessions with mixed speed settings typically yield 25–35 minutes total, which covers most quarter-acre lots comfortably.\n\nFor a standard quarter-acre lot with leaf clearing, a single two-battery charge covers the job. For a half-acre or larger property in fall, plan for two complete battery pairs or accept a mid-session swap. The dual LXT rapid charger tops off two 5.0Ah packs simultaneously in approximately 45–50 minutes, making the break-time swap approach practical for larger properties.\n\n## Weight and balance\n\nNine pounds with two 5.0Ah batteries is heavier than the lightweight end of the category (Milwaukee 2724-20 at 5.2 lbs bare) but the weight distribution is well-managed. The batteries mount behind the handle rather than in front, keeping the center of mass close to the grip and reducing arm extension load. Extended clearing sessions are less fatiguing than the raw weight figure suggests when you factor in the balanced geometry.\n\n## Comparing across the four blowers\n\nAgainst the **EGO LB6504**, the XBU02Z concedes CFM (473 vs. 650) and air velocity (120 vs. 180 MPH) but matches it in acoustic output and benefits from Makita's broader LXT tool ecosystem. For LXT users, the battery platform advantage justifies accepting lower clearing speed. Against the **Milwaukee 2724-20**, the XBU02Z produces more air volume (473 vs. 450 CFM) with similar acoustic output and a different two-battery power architecture. Against the **Ryobi RY404014BTL**, the Makita has lower CFM but better acoustics and the LXT ecosystem advantage for Makita tool owners who want a single-platform yard care solution.\n\nThe XBU02Z's primary recommendation is straightforward: if you own a substantial LXT collection with two 5.0Ah batteries available, this is your blower. If you are starting fresh with no platform investment, evaluate the full ecosystem cost alongside the blower's performance rather than comparing CFM numbers alone.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["ego-lb6504", "ryobi-ry404014btl", "milwaukee-2724-20"]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "dewalt-dcs356b",
+  "title": "DeWalt DCS356B Review: 3-Speed 20V Oscillating Tool",
+  "brand": "dewalt",
+  "category": "oscillating-multi-tools",
+  "model": "DCS356B",
+  "rating": 4.4,
+  "priceRange": "$140–$160",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-3-Speed-Oscillating-Multi-Tool-Tool-Only-DCS356B/309250506" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-DCS356B-Variable-Oscillating-Multi-Tool/dp/B07VBB55X5" }
+  ],
+  "pros": [
+    "Three discrete speed positions (0–13,000 / 0–17,000 / 0–20,000 OPM) plus a variable trigger make matching speed to material intuitive without hunting through a multi-step dial",
+    "Quick-Change accessory system releases and locks blades without a hex key or collar rotation — the fastest tool-free swap among the four oscillating tools reviewed here",
+    "XR brushless motor delivers up to 57% more runtime over a brushed comparable, making a single 3.0Ah battery last through a realistic remodeling session",
+    "Universal accessory adapter in the box means the DCS356B accepts blades from all major brands from day one",
+    "Street price of $140–$160 is the most accessible entry point in the cordless pro-grade tier, well below Milwaukee's 2836-20"
+  ],
+  "cons": [
+    "3.2-degree oscillation angle trails the Milwaukee 2836-20's 4.2 degrees — sustained grout removal takes more passes to cover the same linear footage",
+    "Three fixed speed tiers offer less granularity than the 10-position dials on Milwaukee and Makita — power users may want a finer intermediate setting between position two and three",
+    "Bare tool only at most price points; budget for a 20V MAX battery if you are not already on DeWalt's platform",
+    "At roughly 2.4 lbs bare, it is similar to the Milwaukee but a heavier barrel feel than the ultra-light Ryobi PCL430B for users who value low fatigue above all"
+  ],
+  "bestFor": "Remodelers, finish carpenters, and serious homeowners on DeWalt 20V MAX who want the fastest blade-swap mechanism and straightforward speed control at a competitive bare-tool price.",
+  "skipIf": "You remove grout or scrape adhesive for hours at a time — the Milwaukee 2836-20's wider oscillation angle and finer speed control will outperform this tool on sustained heavy-material tasks.",
+  "specs": {
+    "voltage": "20V MAX (lithium-ion)",
+    "motor": "XR Brushless",
+    "opm": "0–13,000 / 0–17,000 / 0–20,000 OPM (3-speed selector + variable trigger)",
+    "oscillationAngle": "3.2 degrees",
+    "bladeSystem": "Quick-Change tool-free accessory system with universal adapter",
+    "variableSpeed": "3-position speed selector with variable-speed trigger",
+    "weight": "2.4 lbs (bare tool, approx.)",
+    "battery": "Compatible with all DeWalt 20V MAX batteries (sold separately)",
+    "runtimeAdvantage": "Up to 57% more runtime vs. comparable brushed oscillating tool"
+  },
+  "faq": [
+    {
+      "q": "What are the three speed settings on the DeWalt DCS356B?",
+      "a": "The DCS356B's 3-speed selector sets maximum OPM to approximately 13,000 (position 1), 17,000 (position 2), or 20,000 (position 3). The variable-speed trigger then lets you run anywhere from 0 up to the selected maximum, giving you full range within each tier. Most users set position 1 for sanding, position 2 for wood cutting, and position 3 for grout and metal work."
+    },
+    {
+      "q": "Does the DCS356B accept Bosch, Milwaukee, and Makita blades?",
+      "a": "Yes. The DCS356B ships with a universal accessory adapter that fits blades from all major oscillating tool brands. The tool's own Quick-Change system accepts DeWalt-mount blades directly; the adapter covers Bosch, Milwaukee, Makita, and aftermarket multi-fit blades. Starlock-style blades from Bosch provide the most secure fit when used with the appropriate adapter."
+    },
+    {
+      "q": "How does the blade swap system on the DCS356B work?",
+      "a": "The Quick-Change system uses a lever mechanism rather than a threaded collar. Flipping the lever releases the blade clamp, the old blade drops free, you insert a new one, and flip the lever closed. No wrench, no rotating collar threads — it is genuinely one of the fastest blade-swap mechanisms in the cordless oscillating tool segment."
+    },
+    {
+      "q": "How does the DCS356B compare to the Milwaukee 2836-20?",
+      "a": "The DeWalt costs roughly $80–$100 less as a bare tool and has a faster blade swap. The Milwaukee offers a wider 4.2-degree oscillation angle versus the DeWalt's 3.2 degrees, which means more material removed per stroke, and a finer 10-step speed dial. For straightforward remodeling tasks the DeWalt is the better value; for sustained high-output grout removal the Milwaukee is genuinely faster."
+    },
+    {
+      "q": "What battery should I buy with the DCS356B?",
+      "a": "Any DeWalt 20V MAX battery works. A 3.0Ah compact battery keeps the tool light and gives a solid working session for most tasks. If you primarily do extended grout or subfloor scraping, a 5.0Ah battery roughly doubles runtime at the cost of about half a pound of added weight. The tool's XR brushless motor makes efficient use of higher-capacity packs."
+    },
+    {
+      "q": "Is the DCS356B the same as the DCS355?",
+      "a": "The DCS356B is the successor to the DCS355 and improves on it with the XR brushless motor, which the older DCS355 lacked in most configurations. The 3-speed selector carried over from the DCS355, but the brushless motor's runtime advantage and consistent under-load speed make the DCS356B a meaningful upgrade for anyone replacing an older DeWalt oscillating tool."
+    }
+  ],
+  "body": "## The case for three speeds over ten\n\nThe DeWalt DCS356B makes a deliberate design choice: three clean speed tiers instead of a continuous dial with ten or more positions. Position 1 tops out at 13,000 OPM, position 2 at 17,000, position 3 at 20,000 — and within each tier, the variable trigger lets you run anywhere from zero to maximum. The logic is that most oscillating tool tasks fall naturally into one of three categories: slow precision work (sanding, delicate trimming), mid-speed wood and plastic cutting, and full-speed grout and metal work. Three positions match those categories without requiring mental arithmetic on a ten-step dial.\n\nIn practice the system works well. Tile-work sessions stay at position 3 full-throttle until a detail pass calls for position 1. Flush-cutting baseboard is position 2 with partial trigger pressure. The variable trigger within each band gives you the finer control when you need it; the position selector locks you out of unintentional over-speed.\n\n## Quick-Change: genuinely fast blade swaps\n\nThe DCS356B's blade-swap mechanism is a standout. Flipping the lever over the blade collar releases the clamp, the blade falls out, a new one drops in, and flipping the lever closed locks it — all in under ten seconds. Compared to the Milwaukee 2836-20's threaded collar (three to four rotations to release) or any hex-key system, this is measurably faster. On a remodeling day where you cycle between a wood blade, a scraper, and a carbide grout cutter multiple times, the DCS356B saves genuine time.\n\nThe universal adapter that ships in the box handles non-DeWalt blade profiles. It seats firmly and does not rattle loose in use, which is not always the case with third-party multi-fit adapters. DeWalt's Quick-Change system, once a proprietary limitation, has been updated to accept a wide enough blade ecosystem that accessory compatibility is rarely a constraint.\n\n## Brushless motor performance\n\nDeWalt's XR brushless motor runs cool and maintains consistent speed under moderate load. Plunge-cutting drywall, undercutting door jambs, and cutting copper pipe in tight spaces are tasks where the DCS356B performs cleanly without complaint. Heavy sustained grout removal over several linear feet is where the 3.2-degree oscillation angle begins to feel slightly conservative compared to the Milwaukee 2836-20's 4.2 degrees — more passes are required to clear the same joint, though the motor itself does not slow down or overheat.\n\nDeWalt claims 57% more runtime over a comparable brushed oscillating tool. A 3.0Ah battery handles a realistic session of flush-cutting and spot sanding comfortably. Extended grout removal — the highest-demand oscillating tool task — benefits from a 5.0Ah pack.\n\n## Dimensions and handling\n\nAt approximately 2.4 lbs bare and 11.2 inches long, the DCS356B is a compact tool. The barrel grip has a standard rubber overmold and positions the hand close to the blade, which improves tactile feedback during precision cuts. The LED light sits at the front of the barrel, single-element, and casts a helpful but not exceptional illumination — adequate for most conditions, not as thorough as the Milwaukee's 180-degree arc.\n\nThe tool fits into standard oscillating-tool pouches and sits naturally in hand for both overhead work and floor-level scraping. There is no anti-vibration system listed in DeWalt's documentation for this model; extended grout removal sessions are manageable but not as damped as premium corded tools from Fein.\n\n## Platform and value context\n\nFor buyers already on DeWalt's 20V MAX platform, the DCS356B is an easy recommendation. The bare-tool price of $140–$160 is the most competitive among professional-grade cordless oscillating tools, and the 3-speed selector is genuinely useful for the full range of oscillating tool applications. The Makita XMT03Z is similarly priced but offers a lower minimum speed (6,000 vs 13,000 OPM) that suits very slow detail sanding — a niche benefit most users will not notice.\n\nFor buyers entering the cordless ecosystem fresh, the DCS356B's $140 bare-tool price plus a 3.0Ah battery at $50–$80 lands at $190–$240 total — the same range as the Milwaukee 2836-20 bare tool. At that point the Milwaukee's wider oscillation angle becomes a real differentiator for heavy use, while the DeWalt's value case depends on platform fit and the appeal of the simpler three-speed system.\n\n## Accessories and blade options\n\nDeWalt sells oscillating accessories across all common material types: bi-metal blades for wood and nail-embedded lumber, carbide-grit blades for grout removal, and flexible scrapers for caulk and adhesive. A six-piece accessory assortment typically retails at $20–$30 and covers the most common tasks. Universal-fit blades from third parties seat with the included adapter, keeping ongoing blade cost competitive. DeWalt's blade packaging labels materials compatibility clearly, which reduces guesswork on the jobsite.\n\n## Verdict\n\nThe DeWalt DCS356B is the most accessible professional-grade cordless oscillating tool in its tier. The three-speed selector is an honest design choice that works as intended, the Quick-Change blade system is the fastest in this comparison, and the XR brushless motor delivers consistent performance across the full range of oscillating tasks. The concession relative to the Milwaukee 2836-20 is oscillation angle — but for the majority of remodeling and finish carpentry applications, 3.2 degrees is entirely sufficient.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2836-20", "makita-xmt03z", "ryobi-pcl430b"]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ryobi-psbrs01b",
+  "title": "Ryobi PSBRS01B ONE+ HP Compact One-Hand Recip Saw Review",
+  "brand": "ryobi",
+  "category": "reciprocating-saws",
+  "model": "PSBRS01B",
+  "rating": 3.9,
+  "priceRange": "$99–$119",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-Compact-One-Handed-Reciprocating-Saw-Tool-Only-PSBRS01B/313438684" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/RYOBI-Brushless-Cordless-One-Handed-Reciprocating/dp/B09SGL1QRL" }
+  ],
+  "pros": [
+    "At 3.6 lbs bare and 12.4 inches long it fits between joists, inside wall cavities, and around plumbing that no full-size saw can reach",
+    "One-handed operation frees the other hand to hold material, steady a ladder, or grip a surface overhead — a real advantage in confined-space demo work",
+    "Brushless motor in the sub-compact class is unusual and provides meaningfully better efficiency and runtime than the brushed Ryobi alternatives",
+    "Part of the 18V ONE+ platform with over 300 compatible tools; existing ONE+ batteries work without adapters"
+  ],
+  "cons": [
+    "5/8-inch stroke length is less than half the Milwaukee 2722-20's 1-1/4-inch stroke — cutting speed through thick framing lumber is significantly slower",
+    "Best suited to cuts of 2×6 and thinner; repeated passes through 2×12 or doubled framing is a slow, effort-intensive process",
+    "No orbital action mode limits wood-cutting speed further compared to full-size saws with orbital engagement",
+    "Bare tool only — ONE+ battery and charger sold separately, which adds to the effective purchase cost for new platform buyers"
+  ],
+  "bestFor": "Homeowners and tradespeople who need a reciprocating saw for occasional plumbing repairs, access cuts in tight spaces, overhead pruning, or light demolition where a full-size saw cannot physically fit.",
+  "skipIf": "Your primary use case is framing demolition, structural lumber cuts, or production demo work — a full-size cordless saw like the Milwaukee 2722-20 or DeWalt DCS386B will complete those tasks in a fraction of the time.",
+  "specs": {
+    "voltage": "18V (ONE+ REDLITHIUM)",
+    "motor": "Brushless",
+    "strokeLength": "5/8 in.",
+    "spm": "0–3,000 SPM (variable trigger)",
+    "orbitalAction": "None",
+    "weight": "3.6 lbs (bare tool)",
+    "length": "12.4 in.",
+    "design": "One-handed compact form factor",
+    "warranty": "3-year limited"
+  },
+  "faq": [
+    {
+      "q": "What can the Ryobi PSBRS01B actually cut?",
+      "a": "The PSBRS01B cuts PVC pipe, copper tubing, conduit, thin metal studs, wood up to 2×6 cross sections, small branches, and drywall cleanly. It struggles with materials thicker than 1-1/2 inches in wood or dense nail-embedded demo lumber — the 5/8-inch stroke and compact motor are not designed for that category of work."
+    },
+    {
+      "q": "How does the PSBRS01B compare to the full-size Ryobi PBLRS01B?",
+      "a": "The PBLRS01B is Ryobi's full-size 18V brushless reciprocating saw with a 1-1/8-inch stroke and standard two-handed grip — a direct competitor to the DeWalt DCS386B in the budget tier. The PSBRS01B trades stroke length and power for a dramatically smaller form factor. Choose the PSBRS01B when the work space requires a short tool; choose the PBLRS01B when cutting performance per dollar is the priority."
+    },
+    {
+      "q": "Does the Ryobi PSBRS01B use standard reciprocating saw blades?",
+      "a": "Yes. The PSBRS01B accepts T-shank reciprocating saw blades, which is the industry-standard shank type used on Milwaukee, DeWalt, Bosch, and Ryobi full-size saws. Standard 4-inch to 6-inch T-shank blades from Lenox, Diablo, and Bosch all fit."
+    },
+    {
+      "q": "What battery gives the best runtime on the PSBRS01B?",
+      "a": "Ryobi recommends a 3.0Ah or larger ONE+ battery for best cutting performance. A 1.5Ah compact battery is light and keeps the tool small, but a 3.0Ah or 4.0Ah pack significantly extends runtime and provides more consistent speed under load. The HP series batteries (18V ONE+HP) deliver higher discharge rates that the brushless motor can use for sustained cuts."
+    },
+    {
+      "q": "Is the Ryobi PSBRS01B safe to use one-handed?",
+      "a": "Yes, within the tool's design scope. The compact body with a single-hand grip is specifically designed for one-handed use, and the trigger and blade guard are positioned for that mode of operation. That said, any power saw should be handled with appropriate attention — securing the workpiece with a clamp or your free hand, keeping the blade guard against the material during cuts, and maintaining footing before starting the cut."
+    },
+    {
+      "q": "Should a homeowner buy the PSBRS01B or a full-size reciprocating saw?",
+      "a": "For occasional homeowner use — cutting a few pipes during a bathroom remodel, pruning a tree branch overhead, or removing an old access panel — the PSBRS01B's compact size and manageable cost make it practical. For a homeowner whose projects regularly involve removing framing, cutting through wall assemblies, or doing any significant amount of lumber work, a full-size saw like the Bosch RS428 or DeWalt DCS386B will save hours of effort."
+    }
+  ],
+  "body": "## The case for a compact, one-handed reciprocating saw\n\nEvery category of power tool has a version built for access, not raw output, and the Ryobi PSBRS01B is the reciprocating saw version of that concept. At 12.4 inches long and 3.6 lbs bare, it reaches places the Milwaukee 2722-20 and DeWalt DCS386B physically cannot. The interior of a wall assembly during a partial demo, the gap between a vanity and a tile wall when removing old supply lines, the junction box cavity where a copper fitting needs to come out — these are the situations where the PSBRS01B's size is not a limitation but the entire reason to own it.\n\nOne-handed operation is the other differentiating capability. Freeing one hand to stabilize a pipe, hold a reference point, or grip a ladder rung while cutting with the other changes what is possible in overhead and confined-space work. A full-size saw in those positions requires two hands and either an awkward stance or a helper.\n\n## Brushless motor: why it matters in this size class\n\nAt the price point and compact form factor of the PSBRS01B, a brushed motor would be the easy engineering choice. Ryobi used a brushless motor, which matters for two reasons: runtime per charge is meaningfully better because brushless motors waste less energy as heat, and the motor does not have carbon brushes that wear and require replacement. For a compact tool that is already running at the limits of what a 5/8-inch stroke can do, the efficiency advantage of brushless helps maintain cutting speed across a full task without needing a battery swap.\n\nWith a 3.0Ah battery the PSBRS01B delivers over 100 cuts through 3/4-inch EMT conduit on a single charge — enough for most residential plumbing and electrical rough-in work without an interruption. In thin-material applications like conduit, PVC, and small copper tubing, the PSBRS01B's performance-to-weight ratio is competitive with tools far above its price point.\n\n## Stroke length: the fundamental limitation\n\nThe 5/8-inch stroke length is where the physics of compact tool design create an unavoidable ceiling. Stroke length — the distance the blade travels per cycle — determines how much material is removed per stroke. The Milwaukee 2722-20's 1-1/4-inch stroke removes twice as much material per cycle at the same SPM. Across 3,000 strokes per minute, that produces a cutting speed roughly twice as fast through equivalent material.\n\nIn practice the gap is most visible in thick wood. Cutting through a 2×12 with the PSBRS01B takes multiple passes and noticeably more time than a full-size saw completes in one continuous stroke. For a homeowner making occasional access cuts in single-layer framing this is acceptable. For a remodeler removing a wall of doubled 2×10 headers it is the wrong tool entirely.\n\nIn thin materials — PVC pipe up to 3/4 inch, copper tubing, conduit, drywall, and thin-wall steel studs — the stroke length limitation matters much less. The PSBRS01B cuts these materials quickly and cleanly.\n\n## What you can and cannot do with this saw\n\nThe PSBRS01B is well-matched to **plumbing access work**: cutting supply lines during fixture replacement, removing drain assemblies, and trimming pipe stubs to rough-in length in tight cabinets. The compact body and one-handed operation are genuine advantages here.\n\nFor **electrical rough-in**, cutting conduit and punching through single-layer studs for wire runs is handled efficiently. The variable trigger lets you slow down for precise start cuts in thin conduit wall.\n\nFor **pruning small branches** overhead — work where a chainsaw is impractical and loppers cannot reach — the PSBRS01B with a 6-inch wood blade is an effective and light tool that does not strain the arm during repeated overhead strokes.\n\nFor **full demolition work** — gutting a kitchen, removing a load-bearing wall, cutting through doubled framing — the PSBRS01B is the wrong tool and will waste significant time. Step up to a full-size saw.\n\n## Platform value and total cost\n\nThe 18V ONE+ platform is one of the broadest tool ecosystems available for homeowners, with over 300 tools on the same battery system including drills, circular saws, and jigsaws. If you already own ONE+ batteries and a charger, the PSBRS01B bare tool at $99–119 is inexpensive. New buyers without any ONE+ tools will need to factor in the cost of a battery and charger — Ryobi's starter kits typically add $60–90 to the total.\n\nThe three-year limited warranty is standard for the class and covers defects in materials and workmanship. Overall, the PSBRS01B fills a legitimate gap in a homeowner or light-trades toolkit and fills it at a price point that reflects the tool's actual scope.\n\n## Verdict\n\nThe PSBRS01B rates 3.9 out of 5 — strong for a compact access-class tool, tempered by the real constraints of its stroke length. No compact one-handed reciprocating saw overcomes the physics of a short stroke, and the PSBRS01B makes the right trade-offs for its category: brushless motor, ONE+ compatibility, and a lever blade release. For a homeowner doing occasional access cuts who already owns ONE+ batteries, it is one of the easiest recommendations in the category at its price.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2722-20", "dewalt-dcs386b", "bosch-rs428"]
+}

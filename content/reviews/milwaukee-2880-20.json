@@ -1,0 +1,69 @@
+{
+  "slug": "milwaukee-2880-20",
+  "title": "Milwaukee 2880-20 M18 FUEL Review: Cordless Pro Grinder",
+  "brand": "milwaukee",
+  "category": "angle-grinders",
+  "model": "2880-20",
+  "rating": 4.7,
+  "priceRange": "$220–$250 (bare tool)",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-4-1-2-in-5-in-Grinder-w-Paddle-Switch-Tool-Only-2880-20/315445886" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Milwaukee-2880-20-Grinder-Paddle-Switch/dp/B09RX4R3TR" }
+  ],
+  "pros": [
+    "RAPIDSTOP brake halts disc rotation in under 2 seconds — a meaningful safety upgrade over free-spinning grinders when switching discs or setting the tool down mid-task",
+    "Electronic kickback clutch detects a sudden disc bind within milliseconds and cuts motor power, the most important safety advancement in cordless grinders over the past decade",
+    "Accepts both 4-1/2-inch and 5-inch accessories, giving more surface coverage per pass for weld grinding and surface prep than a fixed 4-1/2-inch-only tool",
+    "FIXTEC quick-change accessory system allows tool-free disc changes in seconds, and the guard adjusts without a wrench in any orientation",
+    "POWERSTATE brushless motor delivers 11A corded-equivalent power with 8,500 RPM — no meaningful gap versus the DeWalt DWE402 for most cutting and grinding tasks",
+    "5-year tool warranty exceeds the 3-year coverage offered by DeWalt, Ryobi, and Makita on comparable grinders"
+  ],
+  "cons": [
+    "Bare-tool pricing of $225–$250 requires adding an M18 battery ($80–$150 for a 5.0 Ah pack) before you can use it — total entry cost for a new M18 user is $300–$400",
+    "At 5.4 lbs (bare), it is heavier than the DeWalt DWE402 at 4.6 lbs and the Makita GA4534 at 4.2 lbs, and the cordless form factor adds length that can be awkward in tight corners",
+    "8,500 RPM no-load speed is lower than corded grinders at 11,000 RPM — matters more for small-diameter work where surface speed is the limiting factor"
+  ],
+  "bestFor": "Tradespeople and serious fabricators on the Milwaukee M18 platform who need cordless freedom without sacrificing motor output — particularly for site work, outdoor cutting, and situations where dragging a cord is a genuine hazard.",
+  "skipIf": "You are new to cordless tools and don't own M18 batteries — the bare-tool price plus battery cost makes this a $300+ investment; the DeWalt DWE402 corded achieves similar grinding output for $100.",
+  "specs": {
+    "battery": "M18 REDLITHIUM (18V), compatible with all M18 batteries; bare tool only",
+    "noLoadSpeed": "8,500 RPM",
+    "discSize": "4-1/2 in. / 5 in. (115 mm / 125 mm)",
+    "arbor": "5/8\"-11",
+    "switchType": "Paddle switch, no-lock design",
+    "brakeType": "RAPIDSTOP — stops accessories in 2 seconds or less",
+    "kickbackProtection": "Electronic clutch (KICKBACK BRAKE)",
+    "weight": "5.4 lbs (bare tool)",
+    "warranty": "5-year limited tool warranty"
+  },
+  "faq": [
+    {
+      "q": "What makes the Milwaukee 2880-20 safer than a standard angle grinder?",
+      "a": "Two features set the 2880-20 apart on safety: RAPIDSTOP and the electronic kickback clutch. RAPIDSTOP brakes the disc to a full stop within 2 seconds of releasing the paddle — on an unbraked grinder, a 5-inch disc can spin freely for 10 or more seconds after shutoff, a real hazard when switching accessories or setting the tool on a bench. The electronic kickback clutch monitors rotational resistance and kills motor power within milliseconds if the disc binds suddenly — the scenario responsible for most serious angle grinder injuries. Neither feature replaces proper technique and PPE, but both reduce the consequences of a misjudgment."
+    },
+    {
+      "q": "Is the Milwaukee 2880-20 compatible with all M18 batteries?",
+      "a": "Yes — the 2880-20 accepts any M18 REDLITHIUM battery. Runtime scales with battery capacity: a 5.0 Ah pack supports roughly 15–20 minutes of aggressive cutting before needing a charge, while a HIGH OUTPUT 6.0 Ah pack extends that further. Milwaukee supplies the tool without a battery; if you are already on M18, any existing pack works immediately."
+    },
+    {
+      "q": "Can the Milwaukee 2880-20 use both 4-1/2-inch and 5-inch discs?",
+      "a": "Yes. The 5/8\"-11 spindle accepts both 4-1/2-inch and 5-inch accessories. The 5-inch disc provides more surface coverage per pass for weld grinding and large-area surface prep, which is meaningful on structural work. For cutting and detail grinding, the 4-1/2-inch disc is more maneuverable. Both fit without adapter or modification."
+    },
+    {
+      "q": "How does the 2880-20 compare to the older 2780-20?",
+      "a": "The 2880-20 is the current replacement for the discontinued 2780-20. The key addition is RAPIDSTOP braking, which the 2780-20 lacked. Motor specs, RPM, disc compatibility, and M18 battery platform are unchanged. If you are choosing between the two on the used market, the 2880-20's brake system is a meaningful upgrade worth seeking out."
+    },
+    {
+      "q": "Is the Milwaukee 2880-20 worth the price for occasional use?",
+      "a": "Probably not. The 2880-20 at $225–$250 bare, plus an M18 battery, totals $300–$400 for a new buyer. For occasional grinding and cutting — once a month or less — the DeWalt DWE402 delivers comparable motor output for $100 corded. The 2880-20 is worth its premium for users who work away from outlets regularly, are already invested in M18, or genuinely benefit from the safety features on frequent cutting tasks."
+    },
+    {
+      "q": "What accessories work with the Milwaukee 2880-20?",
+      "a": "Any standard 4-1/2-inch or 5-inch accessory with a 5/8\"-11 bore works with the 2880-20 — grinding discs, cutting wheels, flap discs, wire cups, diamond blades, and polishing pads. Check that each accessory's maximum RPM rating meets or exceeds 8,500 RPM before mounting. Milwaukee's own accessory line is rated for M18 FUEL tools, but commodity accessories from Dewalt, Makita, and generic brands with correct arbor size and RPM rating all fit."
+    }
+  ],
+  "body": "## The case for paying more for a cordless grinder\n\nAngle grinders are one of the few power tool categories where the argument against spending more is genuinely strong — a $100 corded grinder moves material just as fast as a $250 cordless one. The Milwaukee 2880-20 exists for buyers who have already decided that cordless freedom matters enough to pay the premium. The question it needs to answer is whether it justifies the premium within that cordless category, and by nearly every measure, it does.\n\nThe 2880-20 is the current-generation M18 FUEL 4-1/2\"/5\" grinder with RAPIDSTOP braking, replacing the discontinued 2780-20. It uses Milwaukee's POWERSTATE brushless motor, rated at 11A corded-equivalent power and 8,500 RPM no-load, and it accepts both 4-1/2-inch and 5-inch accessories on the 5/8\"-11 spindle — a feature flexibility that few cordless grinders at this price include as standard.\n\n## Safety features worth understanding\n\nThe 2880-20's two standout safety features — RAPIDSTOP and the electronic kickback clutch — deserve plain-language explanation because they address the two most common angle grinder accident scenarios.\n\n**RAPIDSTOP** brakes the disc to a full stop within 2 seconds of releasing the paddle switch. An unbraked grinder running a 5-inch disc can continue spinning for 10 seconds or longer after shutoff. During that time, setting the tool on a surface or bumping it against a leg can cause a serious laceration. The 2-second stop time is not just a convenience feature for faster disc changes — it closes a genuine window of risk.\n\n**Electronic kickback detection** (Milwaukee calls it KICKBACK BRAKE) monitors the rotational load on the motor and cuts power within milliseconds when the disc suddenly binds. Sudden binding — when a cutting wheel catches on a metal edge or a grinding disc grabs — generates a violent rotational torque that can wrench the tool from your hands and cause the disc to contact the operator. Electronic detection reacts faster than any human reflex. For frequent metal cutting and structural work, this feature represents a genuine risk reduction.\n\nNeither technology replaces a face shield, proper disc selection, or correct two-handed grip technique. But for tools used regularly in fabrication environments, the active safety features of the 2880-20 are a step beyond what any corded grinder in this price class provides.\n\n## Motor output and real-world grinding\n\nThe 8,500 RPM no-load speed is lower than the 11,000 RPM of the DeWalt DWE402, and that gap is real at the disc surface. For small-diameter discs where peripheral speed is critical, the corded DeWalt will feel slightly faster at material removal in direct comparison. In practice, for most grinding and cutting tasks on 4-1/2-inch and 5-inch discs, the surface speed difference is marginal — the POWERSTATE motor's ability to sustain speed under load compensates for the lower no-load figure.\n\nThe 5-inch disc capability is a practical advantage for surface prep and weld grinding. A 5-inch grinding disc covers about 24% more surface area per pass than a 4-1/2-inch disc, which reduces the number of passes needed to flatten a weld bead or prep a large surface. For fabricators and contractors doing structural work, that matters over the course of a workday.\n\n## Cordless runtime in context\n\nA Milwaukee M18 5.0 Ah pack supports roughly 15–20 minutes of sustained aggressive material removal — cutting rebar, grinding welds continuously — before the battery needs a cycle. For cutting and intermittent grinding, a single charge goes significantly further. The practical takeaway: two 5.0 Ah packs, one on the charger and one in the tool, give most tradespeople an uninterrupted workday.\n\nThe cordless form factor eliminates two real-world costs of corded grinding: the trip hazard of an extension cord in an active work zone, and the limitation of working distance from an outlet. On a rooftop, on scaffolding, outdoors, or in a vehicle where running power is impractical, the 2880-20 handles tasks that simply cannot be done with a corded grinder.\n\n## Weight and ergonomics\n\nAt 5.4 lbs bare, the 2880-20 is heavier than the DeWalt DWE402 (4.6 lbs) and the Makita GA4534 (4.2 lbs). With a 5.0 Ah battery installed, total weight reaches approximately 6.3 lbs. For extended overhead grinding, that difference accumulates. The paddle switch design and grip geometry are well-executed — Milwaukee has refined this body style over several generations — but the mass is inherent to cordless battery placement.\n\n## Platform economics\n\nFor buyers already owning M18 batteries, the 2880-20 at $225–$250 is a strong addition. The M18 platform includes over 200 tools sharing the same battery, and a 5.0 Ah pack purchased for the grinder immediately extends runtime for an M18 drill, saw, or impact driver. For new M18 buyers, the economics require including a battery in the calculation — a 5.0 Ah pack adds $80–$150, pushing the real entry cost to $300–$400. That comparison against the DeWalt DWE402 at $100 corded is a legitimate argument for the corded tool.\n\n## Final take\n\nThe Milwaukee 2880-20 is the best cordless 4-1/2\"/5\" angle grinder available from a major US brand at its price point. RAPIDSTOP and the electronic kickback clutch are genuine safety improvements over passive designs. The 5-inch disc capability and 5-year warranty add further value. The argument against it is purely economic: for users working primarily from a shop or garage, the DeWalt DWE402 matches the grinding output for a fraction of the cost. For site professionals, M18 platform users, and anyone who has nearly experienced a grinder kickback event, the 2880-20 justifies every dollar of its premium.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dwe402", "makita-ga4534", "ryobi-pcl445b"]
+}

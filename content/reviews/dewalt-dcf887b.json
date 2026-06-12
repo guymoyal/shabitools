@@ -1,0 +1,70 @@
+{
+  "slug": "dewalt-dcf887b",
+  "title": "DeWalt DCF887B 20V MAX XR Impact Driver Review: Fast and Compact",
+  "brand": "dewalt",
+  "category": "impact-drivers",
+  "model": "DCF887B",
+  "rating": 4.7,
+  "priceRange": "$139–$159 (bare tool), $229–$299 (kit)",
+  "affiliate": [
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/DEWALT-XR-20-Volt-Max-1-4-in-Variable-Speed-Brushless-Cordless-Impact-Driver/1000217089" },
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-3-Speed-1-4-in-Impact-Driver-with-2-20V-4-0Ah-Batteries-and-Charger-DCF887M2/206521139" }
+  ],
+  "pros": [
+    "1,825 in-lbs of maximum torque — the highest of the four tools in this group, handling 3/8-inch lag bolts and heavy structural fasteners without hesitation",
+    "Lightest tool in this comparison at 2.0 lbs bare, with a 5.3-inch compact body that fits most tight framing situations",
+    "Precision Drive mode in Speed 1 eliminates hammering entirely at low torque, protecting delicate fasteners and trim hardware from overdriving",
+    "Three-LED light array around the collet illuminates the workpiece from multiple angles, eliminating shadow in tight corners",
+    "Backed by the enormous DeWalt 20V MAX platform — hundreds of tools share the same FLEXVOLT-compatible batteries",
+    "3,800 IPM at top speed with 3-speed selection covers everything from small trim screws to heavy timber construction"
+  ],
+  "cons": [
+    "Bare-tool only — no battery or charger included, which adds $80–$120 to the cost for buyers new to the 20V MAX platform",
+    "Three-speed system, while excellent, lacks the fourth precision setting and T-mode intelligence of the Makita XDT16Z",
+    "Belt hook is plastic and positioned on the left side only, which lefties find awkward and right-handed users occasionally bump when setting the tool down"
+  ],
+  "bestFor": "Contractors and serious DIYers on the DeWalt 20V MAX platform who need the most torque in a compact 18V/20V impact driver, and anyone doing mixed structural and precision fastening on the same jobsite.",
+  "skipIf": "You are new to cordless tools and need a complete kit at a modest entry price — factor in the battery cost, and the Ryobi PCL235B kit becomes far more attractive for occasional use.",
+  "specs": {
+    "voltage": "20V MAX (18V nominal) lithium-ion",
+    "motor": "DeWalt-built brushless",
+    "maxTorque": "1,825 in-lbs",
+    "speedSettings": "3-speed: 0–1,000 / 0–2,800 / 0–3,250 RPM",
+    "impactRate": "0–3,800 IPM",
+    "weightBareTool": "2.0 lbs (bare tool)",
+    "length": "5.3 in.",
+    "collet": "1/4 in. hex quick-change",
+    "batteryPlatform": "20V MAX / FLEXVOLT compatible",
+    "warranty": "3-year limited, 1-year free service, 90-day money-back"
+  },
+  "faq": [
+    {
+      "q": "What is Precision Drive mode on the DCF887B?",
+      "a": "Precision Drive is Speed 1 on the DCF887B — it operates at 0–1,000 RPM with no hammering action below a torque threshold. This effectively turns the impact driver into a standard driver for delicate applications like cabinet hinges, trim screws, and electronic hardware where the hammering action could strip or damage smaller fasteners. It activates simply by selecting speed mode 1 via the top-of-tool switch."
+    },
+    {
+      "q": "Does the DCF887B work with DeWalt FLEXVOLT batteries?",
+      "a": "Yes — FLEXVOLT batteries are backward compatible with all DeWalt 20V MAX tools including the DCF887B. A FLEXVOLT 60V/20V battery switches automatically to 20V when inserted in a 20V MAX tool, delivering excellent runtime (a 6.0Ah FLEXVOLT provides roughly three times the runtime of a standard 2.0Ah 20V MAX pack) at the cost of significantly more weight."
+    },
+    {
+      "q": "How does the DCF887B compare to the newer DCF888B?",
+      "a": "The DCF888B adds Bluetooth connectivity and Tool Connect app integration for inventory management and security features, but the core drivetrain — 1,825 in-lbs, three speeds, brushless motor — is essentially identical. The DCF887B is the better value for anyone who does not need tool tracking; the DCF888B suits fleet managers and tool-room operations where theft prevention and asset management justify the price premium."
+    },
+    {
+      "q": "Is 1,825 in-lbs enough for 1/2-inch lag bolts?",
+      "a": "For 1/2-inch lag bolts up to about 3 inches in length into standard-density lumber, yes — the 1,825 in-lbs is sufficient, though final seating may require two passes at maximum speed. For longer lag bolts (4+ inches) in dense hardwood or LVL beams, owners commonly report better results with a dedicated impact wrench or by pre-drilling a clearance hole through the outer board."
+    },
+    {
+      "q": "What size bits work with the DCF887B?",
+      "a": "The DCF887B accepts any 1/4-inch hex-shank bit — standard screwdriving bits, hex keys, nut drivers, and hex-shank drill bits all work without an adapter. For round-shank bits, a universal hex-shank adapter fits the collet but adds runout and is not ideal for precision drilling. Makita and Milwaukee also make hex-shank spade bits and auger bits that fit standard impact drivers."
+    },
+    {
+      "q": "Why does the DCF887B show 20V on the label but 18V elsewhere?",
+      "a": "DeWalt's 20V MAX designation refers to the battery's peak open-circuit voltage; the nominal working voltage during use is 18V, which is the figure used in direct comparisons with Makita 18V LXT and Milwaukee M18 tools. There is no performance difference between tools marketed as 18V and 20V MAX — they operate at identical real-world voltages. DeWalt adopted the 20V MAX labeling for US marketing purposes."
+    }
+  ],
+  "body": "## Starting with Torque\n\nAt 1,825 in-lbs of maximum torque, the DCF887B leads this four-tool impact driver comparison by a measurable margin. That figure is not merely a spec-sheet artifact — it translates to real capability on the fastener types that matter most on a construction site: 3/8-inch lag bolts, 3-inch timber screws, and self-drilling metal screws through steel track and stud in commercial framing. The 225 in-lb advantage over the Makita XDT16Z and the 25 in-lb edge over the Bosch GDX18V-1800CN may not be perceptible on deck screws, but at the top end of each driver's capability range, the DeWalt sinks fasteners the others stall on.\n\nPairing that torque figure with a 2.0-lb bare-tool weight is where the DCF887B establishes its strongest engineering case. Most competitors sacrifice compactness to achieve high torque; DeWalt's engineers fit a high-output brushless motor into a 5.3-inch body that stays under 2 lbs without a battery installed. Add a 2.0Ah 20V MAX compact pack and you are holding a 2.8-lb tool that can drive 5/16-inch lag bolts — a combination that remains rare across the market.\n\n## Three Speeds, One Killer Feature\n\nThe DCF887B's three-speed system is well-calibrated. Speed 3 (0–3,250 RPM, 0–3,800 IPM) is full-power structural mode for lag bolts, timber screws, and through-fastening. Speed 2 (0–2,800 RPM) covers the vast majority of general construction and decking tasks. Speed 1 is where the DCF887B differentiates itself from most of the competition: at 0–1,000 RPM with no hammering below threshold, it eliminates the aggressive hammering action that can strip Phillips heads and crack composite or PVC trim.\n\nThat Precision Drive capability in Speed 1 effectively turns the DCF887B into a standard driver for sensitive applications, then snaps back to full impact mode the moment you engage Speed 2. Finish carpenters and cabinet installers who previously needed both an impact driver and a dedicated drill/driver report that the DCF887B handles the delicate end of their work acceptably — not perfectly, but well enough to reduce tool changes during mixed-duty sessions.\n\n## Ergonomics and Build Quality\n\nDeWalt's grip on the DCF887B uses a rubber overmold across the lower two-thirds of the handle. The grip circumference is slightly larger than the Makita XDT16Z's more tapered handle, which some users prefer for sustained driving and others find tiring over a full day. The three LED lights around the collet collar are a clear usability improvement over single-bulb designs — three lights distributed around the chuck eliminate the hard shadow that a single light casts across the bit tip, which matters in tight cabinets and dark wall cavities.\n\nThe belt hook sits on the left side of the body. Right-handed users who carry the tool in their dominant hand find this positioning slightly awkward when setting the tool on a sawhorse or reaching for another tool on a belt, but it does not interfere with normal operation. Owners consistently note that the DCF887B's fit and finish feel premium — minimal wobble in the collet, tight tolerances in the switch and trigger, and smooth speed transitions without the steppy feel of older 3-speed designs.\n\n## Platform Depth and Value Math\n\nThe DCF887B's strongest selling point beyond raw performance is DeWalt's 20V MAX/FLEXVOLT battery ecosystem. The same batteries that power the DCF887B power DeWalt's 7-1/4-inch circular saws, reciprocating saws, rotary hammers, wet/dry vacuums, and work lights — including the high-capacity FLEXVOLT cells that deliver exceptional runtime in demanding applications. A contractor building out a 20V MAX fleet gets compounding value from each additional battery purchase.\n\nAt $149 bare, the DCF887B is the best value per in-lb of torque in this group. Budget for at least one 20V MAX 2.0Ah battery ($40–$60) and a charger ($25–$35) if you do not already own them; the total first-purchase cost for new platform buyers runs $215–$245, which still undercuts the Makita XDT16Z kit on an equivalent basis.\n\n## How It Compares to the Others Here\n\nAgainst the **Makita XDT16Z**, the DCF887B has more torque, lighter bare weight, and a lower price. It concedes the XDT16Z's fourth speed mode and T-mode tightening intelligence — features that matter most for precision finish work. For structural and general construction tasks, the DeWalt wins.\n\nAgainst the **Bosch GDX18V-1800CN Freak**, the DCF887B trades the Bosch's dual-chuck versatility (which supports 1/2-inch sockets) for higher torque (1,825 vs. 1,800 in-lbs), a lighter body, and a broader battery ecosystem. The Bosch is the better tool for mixed impact driver and impact wrench applications; the DeWalt is the better pure fastening driver.\n\nAgainst the **Ryobi PCL235B**, the DCF887B delivers 25 in-lbs more torque at the max, significantly faster IPM at top speed, and professional build quality — but at roughly three times the bare-tool price. The Ryobi is the sensible choice for homeowners driving screws a few weekends per year; the DeWalt is the correct tool for anyone doing this work regularly.\n\n## Closing Assessment\n\nAmong 18V-class compact impact drivers available in 2026, the DCF887B's combination of 1,825 in-lbs, 2.0-lb weight, and Precision Drive mode is difficult to match at its price point. The 4.7 rating reflects a tool that is the strongest all-around performer in this group, held just below a perfect score by its bare-tool-only packaging and the slight ergonomic limitations of its single-side belt hook.",
+  "related": ["makita-xdt16z", "bosch-gdx18v-1800cn", "ryobi-pcl235b"],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

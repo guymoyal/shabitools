@@ -1,0 +1,70 @@
+{
+  "slug": "dewalt-dxv10p",
+  "title": "DeWalt DXV10P Review: Quiet 10-Gal Jobsite Wet/Dry Vac",
+  "brand": "dewalt",
+  "category": "shop-vacuums",
+  "model": "DXV10P",
+  "rating": 4.4,
+  "priceRange": "$100–$130",
+  "affiliate": [
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-DXV10P-Gallon-Vacuum-Yellow/dp/B07BYH6SWX" },
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/DEWALT-10-Gallon-5-5-HP-Portable-Wet-Dry-Shop-Vacuum/1000959064" }
+  ],
+  "pros": [
+    "2-stage motor runs significantly quieter than comparable single-stage shop vac motors — meaningful for enclosed garages and daily use",
+    "90 CFM at the hose tip is strong for a 10-gallon machine, maintaining useful suction through the full 20-ft cord and 7-ft hose run",
+    "Poly drum with integrated carry handle and large on/off switch make this one of the easiest 10-gallon vacs to move and operate",
+    "Built-in blower port and tank drain cover wet and debris-dispersal tasks without extra tools",
+    "Yellow DeWalt construction finish and robust drum construction match the jobsite durability expected of the brand",
+    "Swiveling casters on all four legs give 360-degree mobility on smooth shop floors"
+  ],
+  "cons": [
+    "10-gallon capacity requires more frequent emptying than the 16-gallon RIDGID and Craftsman alternatives — a real limitation on big renovation cleanups",
+    "Street price of $100–$130 is higher per gallon of capacity than the 16-gallon RIDGID HD1600 at $150",
+    "Hose is 1-7/8 in. x 7 ft. — slightly smaller diameter than the 2-1/2 in. hoses on RIDGID and Craftsman, which limits chip clearance on coarse debris"
+  ],
+  "bestFor": "Contractors and shop owners who run their vacuum frequently and need quieter operation, plus anyone whose primary use is tool-side dust collection or job sites where a compact footprint matters.",
+  "skipIf": "You are cleaning up large renovation debris volumes and will fill the drum repeatedly — the RIDGID HD1600's 16-gallon capacity for $30 more is the better value at that scale.",
+  "specs": {
+    "capacity": "10 gallons",
+    "peakHP": "5.5 peak HP",
+    "airflow": "90 CFM (at hose)",
+    "hose": "1-7/8 in. x 7 ft.",
+    "cord": "20 ft. (SJTW 18 AWG)",
+    "filter": "Disposable cartridge filter (included); HEPA cartridge sold separately",
+    "weight": "27.78 lbs (empty)",
+    "drainPort": "Bottom-mount tank drain",
+    "motor": "2-stage quiet motor",
+    "warranty": "3-year limited"
+  },
+  "faq": [
+    {
+      "q": "How quiet is the DeWalt DXV10P compared to other shop vacs?",
+      "a": "DeWalt does not publish a specific dB rating for the DXV10P, but the 2-stage motor design operates measurably quieter than single-stage motors in comparable vacs. Owners consistently describe it as noticeably less harsh in enclosed spaces. The design compresses air in two stages rather than one, which reduces the high-frequency motor whine that makes standard shop vacs fatiguing. It is not as quiet as professional dust extractors like the Festool CT series, but it is a clear step above the RIDGID HD1600 and Craftsman CMXEVBE17595."
+    },
+    {
+      "q": "Can the DeWalt DXV10P vacuum water?",
+      "a": "Yes — the DXV10P is a full wet/dry vacuum. Remove the disposable cartridge filter before vacuuming water to prevent the filter from becoming saturated and restricting airflow. The bottom-mount tank drain lets you empty liquid without lifting or tilting the drum. After wet pickup, drain the tank, dry the interior, and reinstall the dry filter."
+    },
+    {
+      "q": "What hose diameter does the DeWalt DXV10P use?",
+      "a": "The DXV10P uses a 1-7/8 in. diameter hose — slightly smaller than the 2-1/2 in. hoses on the RIDGID HD1600 and Craftsman CMXEVBE17595. This dimension is compatible with most 1-7/8 in. tool dust ports on DeWalt saws and sanders. For coarse chip debris, the smaller diameter has a marginally higher clog risk than 2-1/2 in. hoses; for fine dust collection at a power tool, it is the correct size."
+    },
+    {
+      "q": "Does the DeWalt DXV10P connect directly to power tools?",
+      "a": "The DXV10P's 1-7/8 in. hose fits many DeWalt dust ports directly. For tools with 1-1/4 in. ports, a reducer adapter is needed. The DXV10P does not include an auto-start outlet to trigger automatically when a connected tool starts — that feature is on the higher-end DeWalt DXV10S. For automated tool-triggered operation, either add an aftermarket auto-start switch or step up to the DXV10S."
+    },
+    {
+      "q": "How does the DeWalt DXV10P compare to the RIDGID HD1600?",
+      "a": "The RIDGID HD1600 offers 16 gallons of capacity versus 10 gallons on the DXV10P, a detachable blower, and a lifetime warranty — all for about $30–$50 more. The DXV10P counters with a quieter 2-stage motor, a more compact footprint, and slightly stronger hose-tip suction at 90 CFM. For noise-sensitive environments and tool-side dust collection, the DeWalt is the better choice; for maximum capacity and the blower, choose the RIDGID."
+    },
+    {
+      "q": "What filters work with the DeWalt DXV10P?",
+      "a": "The DXV10P ships with a disposable dry debris cartridge filter. DeWalt sells a HEPA cartridge (DXVA19-4112 or similar) rated to capture 99.97% of particles at 0.3 microns for fine wood dust or drywall applications. The foam wet filter sleeve is used for wet pickup. All filter accessories are available on Amazon and through DeWalt's parts channel."
+    }
+  ],
+  "body": "## Why the 2-stage motor matters\n\nMost shop vacs run a single-stage motor that compresses incoming air once before exhausting it. DeWalt's DXV10P uses a 2-stage design that compresses air twice, which produces more consistent suction pressure and — more practically — reduces the sharp high-frequency whine that makes standard shop vacs fatiguing to operate for extended periods.\n\nFor contractors who run a shop vac for hours on a finish carpentry or cabinet installation job, this noise reduction is not a minor amenity — it is the primary reason to pay a premium over an $80 budget machine. The difference is audible side by side, and after a full day working in a garage or finished basement it matters for both the operator and anyone else in the space.\n\nThe DXV10P is also quieter than the RIDGID HD1600 and Craftsman CMXEVBE17595, both of which use single-stage motors. This is the clearest competitive differentiator DeWalt brings at its price point.\n\n## Suction performance in real use\n\nThe DXV10P delivers 90 CFM at the hose tip — a real-world figure measured under running load, not a drum measurement inflated at the motor. That 90 CFM is strong for a 10-gallon machine and maintains useful suction through the full 20-ft power cord and 7-ft hose run. The 1-7/8 in. hose diameter is correctly sized for the dust ports on circular saws, miter saws, sanders, and routers, making this an effective machine for tool-side dust collection as well as general floor cleanup.\n\nThe smaller 1-7/8 in. hose is a mild disadvantage for coarse chip debris compared to the 2-1/2 in. hoses on the RIDGID and Craftsman 16-gallon vacs. Larger wood chips and debris chunks can occasionally hesitate at the hose inlet rather than clearing smoothly. For fine sawdust, shop dust, and the kinds of debris generated by finish work and tile installation, the narrower diameter is not a practical limitation.\n\n## Compact design and portability\n\nAt 10 gallons the DXV10P has a smaller footprint than 16-gallon drum vacuums — a practical advantage on a crowded jobsite or in a compact garage workshop where floor real estate matters. Four swiveling casters on all four legs provide 360-degree mobility across smooth concrete and finished floors without having to lift the drum.\n\nThe integrated carry handle on the drum top lets one person move the vac between rooms and floors comfortably. At 27.78 lbs empty the drum is heavier than it looks for its size, owing to the robust poly construction, but carrying it up a flight of stairs is a single-person task. A 16-gallon drum full of construction debris is considerably harder to move.\n\nThe large on/off switch is water-resistant and sized to operate with a work-gloved hand — a detail that contractors notice when the vac is used in wet conditions or during tasks where removing gloves is inconvenient.\n\n## Wet pickup and blower port\n\nWet/dry capability is fully supported on the DXV10P: swap the dry cartridge for the foam sleeve filter, and the vacuum handles standing water without issue. The bottom-mount tank drain speeds emptying — lift the hose connection, open the drain, and the liquid flows out without tilting the drum. This is particularly useful when dealing with basement water damage that requires emptying the drum repeatedly in quick succession.\n\nThe built-in blower port on the drum accepts a blower wand for dispersing light debris. The blower function is comparable to the RIDGID HD1600's rear blower port, though both lag behind RIDGID's detachable blower module that converts the entire motor housing into a standalone handheld unit.\n\n## Filter upgrade path for fine dust\n\nThe DXV10P ships with a disposable dry debris cartridge filter. DeWalt's HEPA cartridge upgrade (DXVA19-4112 or equivalent) captures particles down to 0.3 microns — the correct choice for woodworking shops, drywall sanding, or any environment where fine respirable dust is generated. The standard cartridge passes fine particles; the HEPA filter does not. Both are available on Amazon and through DeWalt's parts distribution.\n\n## Price-versus-capacity comparison\n\nThe DXV10P's $100–$130 street price places it at a higher cost per gallon of capacity than the RIDGID HD1600 ($140–$160 for 16 gallons) and significantly above the Craftsman CMXEVBE17595 ($80–$100 for 16 gallons). The arithmetic for capacity-focused buyers favors the larger machines decisively.\n\nThe DXV10P justifies its cost with the quieter motor, stronger hose-tip suction measurement (90 CFM under load versus drum measurements on competing machines), and DeWalt's brand integration for contractors already operating in the DeWalt ecosystem. For daily professional use in enclosed spaces where noise accumulation is a real consideration, the price premium is defensible. For occasional home use where noise is secondary to capacity and cost, the Craftsman or RIDGID 16-gallon machines are the better value.\n\n## Who buys the DXV10P\n\nThe DXV10P serves two primary buyer profiles. The first is the finish contractor — carpenter, tile setter, cabinet installer — running the vacuum for extended sessions in finished spaces where both noise level and suction consistency at the tool port matter. The second is the compact garage shop owner with limited floor space who wants quieter operation and a smaller drum footprint, and who empties the machine regularly enough that 10-gallon capacity is not a constraint.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["ridgid-hd1600", "craftsman-cmxevbe17595", "ryobi-pcl735b"]
+}

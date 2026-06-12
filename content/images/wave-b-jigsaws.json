@@ -1,0 +1,18 @@
+{
+  "reviews/bosch-js365": {
+    "source": "https://www.boschtools.com/binary/ocsmedia/optimized/1434x828/o250253v945_cordedjigsawJS365boschbeauty.png",
+    "alt": "Bosch JS365 jigsaw"
+  },
+  "reviews/milwaukee-2737-20": {
+    "source": "https://www.milwaukeetool.com/--/web-images/sc/f2b1af6b8eea460da4049776ca4ba487?hash=8c1b415af98389df71ac5750c3dcbcae&lang=en",
+    "alt": "Milwaukee 2737-20 M18 FUEL jigsaw"
+  },
+  "reviews/dewalt-dcs334b": {
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCS334B_1_1680.webp",
+    "alt": "DeWalt DCS334B 20V MAX XR jigsaw"
+  },
+  "reviews/ryobi-pcl525b": {
+    "source": "https://cdn.shopify.com/s/files/1/0651/3668/9323/files/PCL525BHERO_2000x2000.jpg?v=1779110268",
+    "alt": "Ryobi PCL525B 18V ONE+ jigsaw"
+  }
+}

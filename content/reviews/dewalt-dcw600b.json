@@ -1,0 +1,65 @@
+{
+  "slug": "dewalt-dcw600b",
+  "title": "DeWalt DCW600B Review: Cordless Compact Router",
+  "brand": "dewalt",
+  "category": "routers",
+  "model": "DCW600B",
+  "rating": 4.4,
+  "priceRange": "$159–$219",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-Fixed-Base-Compact-Router-Tool-Only-DCW600B/305964582" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-DCW600B-Compact-Router-Tool/dp/B07KSRTDML" }
+  ],
+  "pros": [
+    "Cordless freedom on 20V MAX XR is genuine — you can route cabinet edges, trim laminate on a job site countertop, or profile a tabletop outdoors without hunting for an outlet",
+    "Brushless motor and electronic feedback maintain speed under load in a way that cheap corded trim routers cannot match",
+    "At 2.6 lbs (bare tool), it is lighter than nearly every corded compact router including the Makita RT0701C, reducing fatigue during extended profiling sessions",
+    "1/64-inch precision depth adjustment ring gives fine, repeatable control that most cordless routers in this price range lack",
+    "Dual LED lights bracket the bit, eliminating the shadow your hand casts on the cut line — a practical advantage in low-light job site conditions",
+    "Pairs directly with the DeWalt 20V MAX battery platform, which spans hundreds of tools including the DCS334B jigsaw and DCS573B circular saw"
+  ],
+  "cons": [
+    "Tool-only pricing around $160–$220 means you need a 20V MAX battery separately; add $50–$80 for a 2.0Ah starter pack",
+    "Speed tops at 25,500 RPM — the Makita RT0701C reaches 30,000 RPM, a meaningful difference for fine detail bits",
+    "Accepts only 1/4-inch shank bits; no upgrade path to 1/2-inch shanks for larger profiles",
+    "Battery weight (approximately 0.6–1.1 lbs for a 2.0–5.0Ah pack) partially offsets the light tool body — with a 4.0Ah battery you are near the RT0701C's overall weight"
+  ],
+  "bestFor": "DeWalt 20V MAX platform users who do job site work — kitchen installations, finish carpentry, trim work — where routing without an extension cord is a real practical advantage.",
+  "skipIf": "You work primarily in a shop with outlets available and already own no DeWalt 20V MAX batteries; the corded Makita RT0701C delivers better speed range for less money as a complete out-of-box purchase.",
+  "specs": {
+    "voltage": "20V MAX (DCBP/DCB series batteries)",
+    "motor": "Brushless, with electronic feedback",
+    "speedRange": "16,000–25,500 RPM variable",
+    "collet": "1/4 in.",
+    "depthAdjustment": "Depth adjustment ring, 1/64 in. increments",
+    "weight": "2.6 lbs (bare tool, no battery)",
+    "lights": "Dual LED work lights",
+    "warranty": "3-year limited (tool); battery warranty per pack"
+  },
+  "faq": [
+    {
+      "q": "What battery does the DeWalt DCW600B use?",
+      "a": "The DCW600B runs on any DeWalt 20V MAX battery. A 2.0Ah pack (DCB203) is the lightest pairing and works for shorter sessions; a 4.0Ah or 5.0Ah pack extends runtime significantly. The tool is sold without a battery, so factor a battery purchase into the total cost if you are new to the 20V MAX platform."
+    },
+    {
+      "q": "How does the DCW600B compare to the Makita RT0701C?",
+      "a": "The DCW600B is lighter (2.6 lbs bare) and cordless, and its brushless motor is more durable than the RT0701C's brushed motor. The RT0701C spans 10,000–30,000 RPM versus the DeWalt's 16,000–25,500 RPM, giving the Makita a wider speed range for large-bit control. Both accept only 1/4-inch shank bits. Choose the DeWalt for job site cord-free work; choose the Makita for shop work where speed range and a lower all-in cost matter."
+    },
+    {
+      "q": "Can the DCW600B work in a router table?",
+      "a": "Yes, it is physically compatible with router tables that accept compact router bodies — Rockler and several other manufacturers offer compact-router table inserts. The main consideration is battery runtime; for long router table sessions you will cycle batteries more often than with a corded router."
+    },
+    {
+      "q": "What is the depth adjustment range on the DCW600B?",
+      "a": "DeWalt specifies a 1/64-inch precision increment via the depth adjustment ring. The total depth range is not published on the spec sheet, but in practice the fixed base accommodates the same range of 1/4-inch shank bits as any compact router — sufficient for edge profiles, chamfers, roundovers, and flush trimming."
+    },
+    {
+      "q": "Does the DCW600B have variable speed?",
+      "a": "Yes. A dial on the motor body sets speed from 16,000 to 25,500 RPM. Electronic feedback maintains the chosen speed when the bit enters the workpiece. Variable speed is important for compact routers because different bit diameters and materials require different speeds for clean cuts without burning."
+    }
+  ],
+  "body": "## The case for a cordless compact router\n\nFor most of the compact router category's history, corded was the rational choice. Trim routers draw 6–7 amps, which is modest enough that battery pack technology could not easily match the sustained power of a wall outlet, particularly during long laminate trimming sessions or repeated profiling passes. The DeWalt DCW600B changes that calculus in a specific, meaningful way.\n\nThe DCW600B is not the first cordless compact router, but it is the one that reached the feature parity that matters: a brushless motor with genuine electronic feedback, precision depth adjustment, and a battery platform (20V MAX XR) deep enough that most buyers already own compatible packs. Understanding who benefits from cordless routing requires being specific about where routers actually get used.\n\n## Where cordless routing is genuinely useful\n\nA kitchen installer fitting cabinet doors on a job site has no fixed outlet relationship with the finished cabinets. Running an extension cord for a laminate trim is possible but creates a trip hazard and adds setup time. A remodeler profiling the edges of a new countertop cut to length on site faces the same practical constraint. A deck builder rounding over handrail profiles at a structure 40 feet from the nearest outlet circuit has a real problem that the DCW600B solves.\n\nIn a shop with outlets at every bench position, cordless routing is a preference, not a necessity. That framing clarifies the DCW600B's real competition: it is not simply the Makita RT0701C, it is the Makita RT0701C plus a 25-foot extension cord on a job site versus the DeWalt with a 4.0Ah battery in your tool bag.\n\n## Motor and speed performance\n\nThe brushless motor is the right choice for a cordless router. Brushless motors extract more energy from each battery charge because there is no mechanical brush friction, and they generate less heat under sustained load, which matters when you are routing long linear feet of edge profile on a countertop. Electronic feedback maintains speed when the bit encounters resistance — profiling MDF (which varies more in density than solid wood) and hardwoods like maple produce speed dips in lesser cordless tools that the DCW600B handles more consistently.\n\nThe 16,000–25,500 RPM range is narrower than the Makita RT0701C's 10,000–30,000 RPM span. At the low end, this means slightly less control when running larger-diameter 1/4-inch shank bits — a 3/4-inch cove or large roundover will want to slow below 16,000 RPM for the cleanest cut on hard maple. For the most common compact router tasks — flush-trimming with a bearing-guided bit, standard roundovers, chamfers — the speed range is entirely adequate.\n\n## Build quality and ergonomics\n\nThe 2.6-pound bare tool weight is the lightest number in the corded or cordless compact router category. The sub-base is transparent polycarbonate, giving you a clear line of sight to the bit and cut line without requiring separate work lights most of the time. The dual LEDs are a practical addition: they sit on either side of the sub-base and cast a shadow-free ring of light at the cutting zone, which is genuinely useful in the dim interior lighting common on job sites.\n\nDepth adjustment uses a ring mechanism calibrated to 1/64-inch increments. It is functional and repeatable; the ring is firmer to turn than the Makita's rack-and-pinion system, but it locks securely and does not drift after setting. For the profiling and trimming tasks this tool is designed for, the resolution is more than adequate.\n\n## Battery considerations\n\nThe tool-only price of approximately $160–$220 is competitive against corded compact routers when you already own 20V MAX batteries. If you are buying in without a compatible pack, add $50–$80 for a 2.0Ah battery or $80–$100 for a 4.0Ah cell. A 2.0Ah pack delivers a useful session for most trim routing jobs; a 4.0Ah or 5.0Ah pack is preferable for sustained countertop work or repeated full-length edge profiling. The 20V MAX platform is DeWalt's most populated cordless line — if you own a DCS573B circular saw or DCS334B jigsaw from adjacent categories, those batteries work directly in the DCW600B.\n\n## Platform and long-term value\n\nThe 3-year tool warranty is standard for DeWalt professional tools and better than Makita's 1-year warranty on the RT0701C. The brushless motor genuinely extends the tool's service life compared to brushed competitors, making the DCW600B a sounder long-term purchase even when the initial entry cost is higher. For buyers building a 20V MAX tool fleet — which is a defensible strategy given the breadth of the platform — the DCW600B adds routing capability without adding a new battery standard.\n\n## Verdict\n\nThe DeWalt DCW600B is the compact router for job site work and for platform-first buyers on DeWalt 20V MAX. Its speed range is narrower than the best corded compact routers, and the bare-tool purchase model requires battery investment, but both trade-offs are rational given the genuine utility of cord-free routing on a modern job site. Shop-bound woodworkers and buyers starting fresh will find better value in the Makita RT0701C. Everyone else gets a light, well-built, brushless compact router that keeps up with the cuts.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["makita-rt0701c", "bosch-1617evspk", "ryobi-pcl424b"]
+}

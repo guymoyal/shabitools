@@ -1,0 +1,64 @@
+{
+  "slug": "ego-hpw3200",
+  "title": "EGO HPW3200 Review: 3200 PSI Cordless Pressure Washer",
+  "brand": "ego",
+  "category": "pressure-washers",
+  "model": "HPW3200",
+  "rating": 4.4,
+  "priceRange": "$350–$700",
+  "affiliate": [
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/EGO-3200PSI-Cold-Water-High-Pressure-Washer-Bare-Tool/5014700281" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/EGO-HPW3200-Lithium-ion-Cordless-Power/dp/B0CPDZK5RQ" }
+  ],
+  "pros": [
+    "Cord-free operation goes anywhere — rooftop cleaning, a boat dock, a driveway far from the garage outlet — without running extension cords",
+    "3,200 PSI peak with selectable ECO, High, and Turbo modes adapts pressure to the task and conserves battery on lighter work",
+    "Up to 60 minutes of runtime per charge on dual 6.0Ah 56V batteries covers full driveway and deck sessions",
+    "Stainless steel wand and quick-connect system resist corrosion and swap nozzles in seconds",
+    "Compatible with the entire EGO 56V platform — batteries power 40-plus other EGO outdoor tools"
+  ],
+  "cons": [
+    "Bare tool only; the kit with two 6.0Ah batteries and charger costs $550–$700, making entry cost the highest of this group",
+    "1.2 GPM is modest for the peak PSI — rinsing large concrete areas takes more passes than a gas washer's 2.5 GPM",
+    "Battery runtime drops in cold weather (below 40°F), shortening sessions on early-spring cleaning days"
+  ],
+  "bestFor": "EGO platform owners and buyers in locations without convenient outdoor outlets who want near-gas pressure output without engine maintenance or fuel.",
+  "skipIf": "You already own a different cordless platform and do not want to invest in EGO batteries, or your cleaning tasks are all within extension-cord reach of an outlet.",
+  "specs": {
+    "psi": "3,200 PSI (peak, Turbo mode)",
+    "gpm": "1.2 GPM standard / 2.0 GPM max",
+    "battery": "Two 56V ARC Lithium™ batteries required (6.0Ah recommended); batteries sold separately as HPW3200 bare tool",
+    "runtime": "Up to 60 minutes on dual 6.0Ah batteries",
+    "hoseLength": "25 ft. flexible high-pressure hose",
+    "nozzles": "5 spray tips: 15°, 25°, 40°, turbo, rinse",
+    "wand": "Stainless steel lance with integrated pressure display",
+    "weight": "Approximately 35 lbs (bare tool)",
+    "warranty": "5-year limited (tool), 3-year limited (battery)"
+  },
+  "faq": [
+    {
+      "q": "Is 3,200 PSI safe to use on a car's paint?",
+      "a": "No — 3,200 PSI is too high for direct paint-safe vehicle washing at close range. For safe car washing, use the 40-degree nozzle, switch the HPW3200 to ECO mode to reduce output, and maintain at least 18 to 24 inches of standoff from painted surfaces. ECO mode drops effective pressure well below the 3,200 PSI peak, making it safer for clear coat and rubber trim. Many detailers target 1,200 to 1,500 PSI for vehicle surfaces; the EGO's ECO mode is the closest approximation on this machine."
+    },
+    {
+      "q": "How many square feet can I clean on a single charge?",
+      "a": "On dual 6.0Ah 56V batteries in High mode, the HPW3200 delivers approximately 60 minutes of runtime. A typical residential driveway of 500 to 800 square feet can be cleaned fully in that window when using the 25-degree nozzle at a steady pace. Turbo mode shortens battery life; ECO mode extends it. Having a second pair of batteries on charge during the session eliminates downtime for larger properties."
+    },
+    {
+      "q": "Does the EGO HPW3200 work with smaller EGO batteries?",
+      "a": "Yes, any EGO 56V ARC Lithium™ battery works in the HPW3200. Smaller batteries (2.5Ah or 4.0Ah) will power the machine but deliver significantly shorter runtime — a 2.5Ah battery provides roughly 20 to 25 minutes under load. The recommended 6.0Ah batteries provide the 60-minute rated runtime. The machine uses two battery slots simultaneously, drawing from both in parallel."
+    },
+    {
+      "q": "Can the EGO HPW3200 replace a gas pressure washer?",
+      "a": "For residential cleaning tasks — driveways, decks, siding, vehicles, fences — yes. At 3,200 PSI peak the HPW3200 reaches the lower end of the gas pressure-washer range and handles the same surface types. Where it falls short is sustained high-volume rinsing (1.2 GPM versus a gas machine's 2.5 GPM) and runtime on very large jobs where gas runs indefinitely on a full tank. For a typical homeowner's seasonal cleaning needs, it is a capable gas alternative."
+    },
+    {
+      "q": "What accessories does the HPW3200 come with?",
+      "a": "The HPW3200 kit includes a flexible 25-foot high-pressure hose, a quick-connect short spray gun, a stainless steel wand lance, five nozzle tips (15°, 25°, 40°, turbo, and rinse), a foam cannon for detergent application, a siphon hose for drawing from a water tank, and an inlet filter. The foam cannon is a particularly useful inclusion — most washers in this class sell it as a separate $30–$50 accessory."
+    }
+  ],
+  "body": "## The case for going cordless\n\nEvery corded pressure washer comes with an invisible constraint: the distance between your cleaning location and the nearest grounded outdoor outlet. For most driveways and back decks that is a manageable 35 feet. For a lakeside cabin, a rooftop deck, a boat, a detached barn, or a driveway that wraps around the far side of the house, it is the difference between getting the job done and stringing together multiple extension cords of uncertain gauge.\n\nThe EGO HPW3200 eliminates that constraint entirely. Two 56V batteries replace the power cord, delivering up to 60 minutes of cleaning time and enough pressure to handle every residential surface class — concrete, wood, composite, masonry, metal, and vehicles with the correct nozzle technique. It is not a replacement for a professional gas machine running 4,000 PSI for eight hours; it is a replacement for the corded electric pressure washer on every job where the cord is the problem.\n\n## Pressure output across modes\n\nThe HPW3200's three operating modes — ECO, High, and Turbo — give you meaningful pressure control from the wand rather than forcing you to swap nozzle tips or adjust a dial on the machine body.\n\n**ECO mode** reduces output to the lower end of the range, appropriate for rinsing vehicles, washing outdoor furniture, and cleaning composite decking where high pressure would cause damage. **High mode** is the standard operating position for most residential cleaning: concrete driveways, wood fences, brick, and siding. **Turbo mode** activates peak 3,200 PSI for the most stubborn surfaces and drives a rotating stream pattern through the turbo nozzle that significantly accelerates concrete cleaning.\n\nThe integrated pressure display on the wand lance shows battery charge level and current mode — a small but useful detail when you are mid-job and cannot easily reach the machine to check status.\n\n## Battery economics and platform value\n\nThe bare tool (HPW3200) retails for around $350. The kit with two 6.0Ah batteries and the 320W rapid charger (HPW3204-2) runs $550–$700, depending on retailer and timing. If you already own EGO 56V batteries from a lawn mower, string trimmer, or leaf blower, the bare tool is a genuinely competitive entry price for near-gas pressure performance.\n\nIf you are buying into the EGO platform from scratch purely for this washer, the economics are less clear. Two 6.0Ah batteries and a charger bring total investment close to a mid-tier gas machine like the DeWalt DXPW3425E. The calculation tips toward EGO when you factor in zero maintenance costs (no oil, no fuel, no winterization), quieter operation, and zero exhaust — plus the battery investment is spread across a growing EGO tool lineup.\n\nThe 56V ARC Lithium platform now powers over 40 EGO outdoor tools, including zero-turn mowers, snow blowers, and chainsaws. Buyers who use multiple outdoor power tools benefit the most from the shared battery ecosystem.\n\n## Performance on specific surfaces\n\n**Concrete driveways**: In Turbo mode with the turbo nozzle, the HPW3200 clears residential concrete from a walking pass rate comparable to a mid-range gas washer. The 1.2 GPM flow rate means rinsing takes slightly longer than a 2.5 GPM gas machine, but total cleaning time for a typical two-car driveway fits comfortably within the 60-minute battery window on dual 6.0Ah packs.\n\n**Wood decks**: High mode with the 40-degree nozzle at 12 to 14 inches of standoff removes surface mold, algae, and grey oxidation from pressure-treated and cedar decking without raising grain aggressively. The mode selector lets you drop to ECO for rinsing after a deck-cleaning detergent dwell, keeping total moisture intrusion lower.\n\n**Vehicles**: ECO mode with the 40-degree nozzle is the appropriate configuration. The wand display showing active mode eliminates the guesswork of whether the machine has changed settings during a session.\n\n## What the HPW3200 does not do well\n\nLong continuous sessions on very large surfaces are where the battery limitation surfaces. A 2,000-square-foot concrete driveway with deep oil staining may consume more than 60 minutes of active Turbo mode use — requiring either a second battery set or a mid-session charge pause. A gas machine runs indefinitely on a $5 tank of fuel, which is a real advantage for large-scale jobs.\n\nThe 1.2 GPM standard flow is also lower than the 2.5 GPM on the DeWalt DXPW3425E. Rinsing large concrete sections after a detergent treatment is noticeably slower. Buyers who prioritize total cleaning throughput over cordless convenience should weigh the gas option.\n\n## Final verdict\n\nThe EGO HPW3200 is the most technically advanced machine in this group and the most appropriate choice for buyers who prioritize freedom from cords and engine maintenance. The pressure output is competitive with light gas washers, the three-mode selector adds real operational flexibility, and the 60-minute battery runtime covers most residential cleaning sessions in full. The price of entry with batteries is the main barrier. For EGO platform owners, it is a straightforward recommendation. For first-time buyers choosing a platform, it requires weighing battery ecosystem value against the lower upfront cost of a corded electric.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["ryobi-ry142300", "dewalt-dxpw3425e", "craftsman-cmepw1700"]
+}

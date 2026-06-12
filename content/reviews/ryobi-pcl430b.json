@@ -1,0 +1,64 @@
+{
+  "slug": "ryobi-pcl430b",
+  "title": "Ryobi PCL430B Review: Budget 18V Oscillating Multi-Tool",
+  "brand": "ryobi",
+  "category": "oscillating-multi-tools",
+  "model": "PCL430B",
+  "rating": 3.8,
+  "priceRange": "$49–$70",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Oscillating-Multi-Tool-Tool-Only-PCL430B/317987594" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/RYOBI-PCL430B-Ryobi-Multi-Tool/dp/B0B11CJ52Y" }
+  ],
+  "pros": [
+    "Street price of $49–$69 bare tool is less than a third of the Milwaukee 2836-20, removing the cost barrier for homeowners who need occasional oscillating tool capability",
+    "At 1.7 lbs bare tool, it is the lightest in this comparison — overhead flush-cutting and detail sanding with a light ONE+ battery produce minimal arm fatigue",
+    "Plugs into the Ryobi ONE+ system of over 280 tools sharing the same 18V battery, making it a near-zero marginal cost addition for existing ONE+ users",
+    "Variable speed dial from 10,000–20,000 OPM covers all common homeowner oscillating tasks: caulk removal, drywall patching, and undercutting door jambs"
+  ],
+  "cons": [
+    "Blade retention uses a standard hex-key bolt — blade swaps require the on-board Allen wrench and take longer than the tool-free mechanisms on the Milwaukee, DeWalt, or Makita",
+    "10,000 OPM minimum speed is the highest lower bound in this group — no low-speed mode for delicate finish sanding on lacquered or veneered surfaces",
+    "The brushed motor loses speed under heavy load noticeably faster than the brushless drivetrains in the pro-tier tools, which affects sustained grout removal quality",
+    "Oscillation angle of 3 degrees is narrower than the Milwaukee 2836-20's 4.2 degrees and slightly below the DeWalt and Makita's 3.2 degrees"
+  ],
+  "bestFor": "Homeowners and occasional remodelers who already own Ryobi 18V ONE+ batteries and need an oscillating multi-tool for infrequent tasks: caulk removal, drywall repair cuts, door jamb undercutting, and spot sanding.",
+  "skipIf": "You do grout removal, extended adhesive scraping, or any sustained high-load cutting — a brushless motor is worth the price step up, and either the Milwaukee 2836-20 or DeWalt DCS356B will outperform this tool on any heavy oscillating task.",
+  "specs": {
+    "voltage": "18V (ONE+ lithium-ion)",
+    "motor": "Brushed",
+    "opm": "10,000–20,000 OPM (variable speed dial)",
+    "oscillationAngle": "3 degrees",
+    "bladeSystem": "Hex-key bolt clamp with on-board Allen wrench storage",
+    "variableSpeed": "Variable speed dial",
+    "weight": "1.7 lbs (bare tool)",
+    "battery": "Compatible with all Ryobi 18V ONE+ batteries (sold separately)",
+    "warranty": "3-year limited manufacturer warranty"
+  },
+  "faq": [
+    {
+      "q": "Does the Ryobi PCL430B accept universal oscillating tool blades?",
+      "a": "The PCL430B uses a standard hex-bolt blade collar that accepts blades with the common multi-fit mounting hole pattern, which covers most aftermarket and universal oscillating accessories. It is not a Starlock-type system, so the physical blade retention is not as rigid as a clamp-style system, but it holds securely for normal cutting and sanding loads."
+    },
+    {
+      "q": "What is the main difference between the PCL430B and the pro-tier Milwaukee or DeWalt oscillating tools?",
+      "a": "Three primary differences: the PCL430B uses a brushed motor rather than a brushless one (less efficient, more bog under load, shorter service life); its minimum speed of 10,000 OPM is higher than competitors (less good for slow-speed finish work); and blade swaps require a hex key rather than a tool-free lever. For occasional home use these trade-offs are entirely acceptable at the price point."
+    },
+    {
+      "q": "Can I use the PCL430B for tile grout removal?",
+      "a": "Yes, with a carbide-grit blade the PCL430B removes grout. For a bathroom repair involving a few damaged tiles, the tool is adequate. For sustained large-area grout removal — a full shower surround or backsplash — the brushed motor heats up under continuous load and the 3-degree oscillation angle removes material more slowly than the Milwaukee 2836-20's 4.2 degrees. Consider stepping up to a brushless tool for any grout project measured in square feet."
+    },
+    {
+      "q": "How does the PCL430B's weight compare to other oscillating multi-tools?",
+      "a": "At 1.7 lbs bare, the PCL430B is the lightest tool in this comparison. Add a compact 1.5Ah ONE+ battery and working weight stays under 2.5 lbs — notably lighter than the Milwaukee (2.56 lbs bare) and especially lighter than the Makita XMT03Z (4.9 lbs with battery). For overhead work and detail sanding where arm fatigue matters, the PCL430B's low weight is a real advantage."
+    },
+    {
+      "q": "Is the Ryobi PCL430B a good first oscillating multi-tool?",
+      "a": "For a first-time buyer who already owns Ryobi 18V ONE+ batteries, yes — the near-zero marginal cost and adequate performance for light home renovation makes it an easy addition to the kit. For a first-time buyer on no platform who needs to purchase batteries separately, the total cost (tool plus battery) approaches the DeWalt DCS356B bare tool price, at which point the DeWalt's brushless motor and tool-free blade swap offer better long-term value."
+    }
+  ],
+  "body": "## The right tool at the right price\n\nThe Ryobi PCL430B exists at a fundamentally different price point than the Milwaukee 2836-20, DeWalt DCS356B, and Makita XMT03Z. At $49–$69 bare tool, it costs less than a quality set of oscillating blades for one of the pro-tier tools. That price defines what the PCL430B is and what it is not: a capable occasional-use oscillating multi-tool for homeowners who need to cut caulk, undercut door jambs, patch drywall, and sand corners — not a production tool for daily grout removal or sustained construction work.\n\nFor Ryobi ONE+ users who already own 18V batteries, the economic argument is stronger still. Adding an oscillating multi-tool to an existing ONE+ fleet at $49 requires no new infrastructure. The battery that charges your circular saw and powers your drill also runs the PCL430B.\n\n## What a brushed motor means in practice\n\nThe PCL430B uses a brushed motor, which is the most meaningful specification difference from the brushless competition. In light-duty cutting and sanding, the distinction is academic — the tool vibrates the blade, the blade removes material, and the task completes. Under sustained heavy load — extended grout removal, subfloor scraping, cutting through cement board — a brushed motor loses speed as the load increases, runs warmer, and reaches end-of-life sooner than an equivalent brushless design.\n\nFor a homeowner using the tool for two or three hours per year, motor longevity is not a concern. For a contractor using it several hours per week, the brushed motor's limitations become real factors. The PCL430B is correctly sized for its audience.\n\n## Speed range and control\n\nThe variable speed dial runs from 10,000 to 20,000 OPM — the same top end as the pro-tier tools, but a higher minimum than the 6,000 OPM floor on the Makita XMT03Z. In practical terms, the minimum speed of 10,000 OPM is appropriate for drywall sanding, light wood sanding, and caulk removal. It is too fast for precision slow-speed sanding on lacquered furniture or fine veneer, where you want 6,000–8,000 OPM to avoid burning through the finish.\n\nFor the PCL430B's target user — home renovation and maintenance tasks rather than furniture finishing — 10,000 OPM is the right starting point. Caulk removal around a tub works well at mid-speed; undercutting door jambs for new flooring works at mid-to-high speed. The dial turns smoothly and holds its position without drifting.\n\n## Blade system: on-board hex key, no frills\n\nThe PCL430B secures blades with a hex bolt and includes a small Allen wrench stored in a slot on the tool body. To swap a blade: retrieve the wrench, loosen the bolt, remove the blade, seat a new one, re-tighten, return the wrench. Total time is roughly 45–60 seconds. Compared to the DeWalt Quick-Change system (under 10 seconds) this is slow, but compared to losing the hex key and hunting through a tool bag, the on-board storage is a sensible solution for a $49 tool.\n\nThe blade mounting accepts multi-fit blades from most major brands. The mechanical grip is functional; very heavy loads can introduce slight blade movement in ways that a clamp-style Starlock system would prevent, but for standard cutting tasks the bolt clamp holds adequately.\n\n## Ergonomics and LED\n\nAt 1.7 lbs, the PCL430B is the lightest tool in this comparison by a meaningful margin. The slim barrel and low weight make overhead cuts — trimming door casings, reaching into upper cabinet corners — comfortable for extended periods. The single LED light at the blade collar is standard for the price tier and illuminates the immediate cut zone adequately.\n\nThe lock-on button that holds the trigger down for sustained use is a practical feature for long sanding sessions. No equivalent is standard on all competitors at higher prices.\n\n## Comparing value across the tier\n\nAgainst the **DeWalt DCS356B** at $140–$160, the Ryobi trades its brushed motor, slower blade swap, and narrower oscillation angle for an $80–$110 price difference. If you need the tool for more than occasional use, the DeWalt's brushless advantage justifies the gap. Against the **Makita XMT03Z**, the Ryobi is significantly cheaper with a higher minimum speed — less useful for finish sanding but otherwise covering the same task range. Against the **Milwaukee 2836-20**, the comparison is irrelevant for use cases — the Milwaukee is a professional production tool, the Ryobi is a homeowner convenience tool.\n\n## Verdict\n\nThe Ryobi PCL430B is exactly what the oscillating multi-tool category needs at the entry tier: a light, affordable, competent tool that extends the ONE+ battery platform into oscillating applications without a significant budget commitment. Its brushed motor, hex-key blade system, and higher minimum speed are appropriate trade-offs at the price. Buyers who already own ONE+ batteries and face occasional oscillating tool tasks have a straightforward choice here. Buyers who expect sustained heavy use should budget for a brushless alternative.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2836-20", "dewalt-dcs356b", "makita-xmt03z"]
+}

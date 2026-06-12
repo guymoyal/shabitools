@@ -1,0 +1,69 @@
+{
+  "slug": "ridgid-hd1600",
+  "title": "RIDGID HD1600 Review: 16-Gal Detachable Blower Wet/Dry Vac",
+  "brand": "ridgid",
+  "category": "shop-vacuums",
+  "model": "HD1600",
+  "rating": 4.6,
+  "priceRange": "$140–$160",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RIDGID-16-Gal-6-5-Peak-HP-NXT-Shop-Vacuum-Wet-Dry-Vac-with-Detachable-Blower-Filter-Locking-Hose-and-Accessories-HD1600-HD1600/304795082" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/dp/B07R271N9S" }
+  ],
+  "pros": [
+    "Detachable blower module turns the vac into a cordless leaf blower in seconds — genuinely useful for clearing shop floors and gutters",
+    "Locking Dual-Flex hose has 180-degree flex on both ends and locks positively to the inlet, eliminating the pull-off that plagues budget shop vacs",
+    "16-gallon drum handles a full renovation day's debris without a mid-session trip to the dumpster",
+    "RIDGID's lifetime warranty covers the vacuum itself with no time limit — a meaningful differentiator at this price tier",
+    "VF4000 general debris filter is replaceable and widely available at Home Depot, so consumable cost is low",
+    "Rear blower port on the drum lets you use the vacuum's motor to blow without removing the hose"
+  ],
+  "cons": [
+    "161 CFM airflow is adequate but trails the DeWalt DXV10P's 90-CFM-at-hose-tip figure in real-world suction at the nozzle when a long hose is attached",
+    "At 24.5 lbs the drum is manageable empty but carrying a full 16-gallon load is a two-handed job",
+    "The standard VF4000 filter is a general-debris cartridge — capturing fine drywall dust or wood flour requires upgrading to the RIDGID VF6000 HEPA or RIDGID HEPA cartridge"
+  ],
+  "bestFor": "Renovation contractors, serious DIYers, and garage-shop owners who want one machine that vacuums debris, picks up water, and blows leaves without buying a separate blower.",
+  "skipIf": "You primarily need fine-dust capture for woodworking or sanding — budget for the HEPA filter upgrade or step up to a dedicated dust extractor like the Festool CT 26.",
+  "specs": {
+    "capacity": "16 gallons",
+    "peakHP": "6.5 peak HP",
+    "airflow": "161 CFM",
+    "hose": "2-1/2 in. x 7 ft. Dual-Flex locking hose",
+    "cord": "20 ft.",
+    "filter": "VF4000 general-debris cartridge (included); HEPA upgrade sold separately",
+    "weight": "24.5 lbs (empty)",
+    "drainPort": "Bottom-mount drain port",
+    "warranty": "Lifetime warranty on vacuum"
+  },
+  "faq": [
+    {
+      "q": "Can the RIDGID HD1600 vacuum water?",
+      "a": "Yes — wet/dry capability is a core feature of the HD1600. Remove the filter before picking up standing water to prevent the cartridge from becoming waterlogged; the drum collects liquid directly. A float-ball shutoff inside the drum automatically stops suction when the drum reaches capacity, protecting the motor from ingesting water. After vacuuming, drain the drum through the bottom-mount drain port and reinstall the filter once it has dried."
+    },
+    {
+      "q": "What filter does the RIDGID HD1600 use?",
+      "a": "The HD1600 ships with RIDGID's VF4000 general-debris cartridge filter, rated for particles down to approximately 30 microns. For fine drywall dust or wood flour, upgrade to the RIDGID VF6000 HEPA cartridge (rated to 0.3 microns). Both filters are available at Home Depot and through the RIDGID store website. The Qwik-Lock collar makes filter swaps a tool-free 30-second job."
+    },
+    {
+      "q": "How does the detachable blower work on the HD1600?",
+      "a": "The blower module clips onto the motor housing and draws power from the same motor that drives the vacuum. Detach it from the drum, insert the included blower nozzle, and you have a cordless-style handheld blower — useful for clearing sawdust from bench surfaces, blowing leaves off a deck, or cleaning gutters. The blower nozzle is included in the box."
+    },
+    {
+      "q": "Is the RIDGID HD1600 the same as the HD1600B or HD1600C?",
+      "a": "The base HD1600 is the same core machine; the letter variants (HD1600A, HD1600B, HD1600C, HD1600D) are bundle configurations that add extras like a gutter kit, car-cleaning kit, dust bags, or a longer 20-ft hose. All use the same motor, drum, and locking hose connection. Buy the base HD1600 for the best price and add accessories as needed."
+    },
+    {
+      "q": "How does the RIDGID HD1600 compare to the Craftsman CMXEVBE17595?",
+      "a": "Both are 16-gallon, 6.5 peak HP vacs in roughly the same price range. The RIDGID distinguishes itself with the detachable blower, the locking Dual-Flex hose, and the lifetime warranty — Craftsman offers a 3-year warranty. Craftsman's drum includes a larger drain port and a muffler diffuser for quieter exhaust, which appeals to enclosed workshops. For most buyers the RIDGID's lifetime warranty and blower versatility tip the decision."
+    },
+    {
+      "q": "What accessories are compatible with the RIDGID HD1600?",
+      "a": "The HD1600 accepts all RIDGID 2-1/2 in. NXT accessories, including crevice tools, utility nozzles, floor tools, car nozzles, HEPA bags, and extension wands. RIDGID's store and Home Depot carry the full accessory line. Third-party 2-1/2 in. shop vac attachments from Shop-Vac and Workshop also fit."
+    }
+  ],
+  "body": "## What the RIDGID HD1600 actually does\n\nThe HD1600 is RIDGID's flagship 16-gallon NXT wet/dry vacuum, and the feature that sets it apart at its ~$150 street price is the detachable blower. The motor housing separates from the drum, clips onto a nozzle wand, and becomes a handheld blower — capable of clearing sawdust from bench tops, blowing leaves off a deck, or running gutter cleaning attachments. That 2-in-1 capability is not gimmicky; shop owners genuinely use both modes regularly, and the blower covers the main reason someone might buy a separate tool.\n\nBeyond the blower, the HD1600 is a solidly engineered large-capacity vacuum. The 2-1/2 in. Dual-Flex hose connects with a twist-lock that resists pull-off during heavy dragging — a small detail that becomes important when you are cleaning up construction debris and not looking at the connection every few seconds. The hose flexes 180 degrees at both ends, so routing it around corners does not kink flow. Standard shop vac hoses kink at the drum inlet or at the tool end; the Dual-Flex construction addresses both points.\n\n## Suction and filtration in practice\n\nAt 6.5 peak HP and 161 CFM the HD1600 generates enough suction to pull construction debris, drywall chunks, sawdust, and coarse wood chips through a 20-ft hose extension without stalling. The included VF4000 cartridge filter is a general-debris rating, adequate for chips and coarse dust. For fine materials — drywall sanding dust, router flour, or silica-bearing concrete dust — the filter is not the right tool without an upgrade. The RIDGID VF6000 HEPA cartridge (about $20 at Home Depot) is the correct swap for fine-dust work and uses the same Qwik-Lock collar.\n\nThe HD1600's float-ball shutoff valve is worth noting for wet pickup. When the drum fills to capacity during water vacuuming, a float ball rises and blocks the inlet before liquid can reach the motor — a basic but reliable protection mechanism. The bottom-mounted drain port makes emptying water a non-event compared to vacs that require tilting and pouring. Draining a full 16-gallon drum of water takes under a minute with the port positioned over a floor drain or bucket.\n\n## Accessory ecosystem and NXT compatibility\n\nThe HD1600 is part of RIDGID's NXT platform, and that matters practically. All RIDGID 2-1/2 in. NXT accessories — crevice tools, car nozzles, utility nozzles, extension wands, wet nozzle heads, floor tools, and gutter cleaning kits — connect with the same friction-fit that works across the line. Home Depot carries the full accessory catalog, and RIDGID's online store stocks replacement hoses, filters, and bags. Third-party 2-1/2 in. shop vac attachments from Workshop brand and generic sources also fit without adapters.\n\nThe accessory outlet on the HD1600 also handles RIDGID's car cleaning kits and the gutter cleaning attachments that mount to the blower wand — an example of the blower mode's practical range beyond simple debris dispersal.\n\n## Build quality and the lifetime warranty\n\nRIDGID's lifetime warranty is a genuine differentiator. The guarantee covers the vacuum itself indefinitely — not three years, not five years. For a tool that lives in a garage, gets dragged across concrete floors, and gets used from renovation to renovation over a decade, that warranty matters. Craftsman and DeWalt offer 3-year warranties on comparable machines. If the motor fails, RIDGID replaces it under the lifetime coverage — a meaningful commitment for a $150 tool.\n\nThe drum is heavy-gauge polyethylene with a reinforced rim. At 24.5 lbs the empty drum is manageable, though carrying a full 16-gallon load of wet drywall debris becomes a two-person lift. Four swiveling casters move the drum smoothly across workshop floors. The casters are robust enough to handle concrete and garage floor surfaces without loosening.\n\n## How it compares to other shop vacs in this group\n\nAgainst the **Craftsman CMXEVBE17595** — RIDGID's closest competitor at roughly the same price — the decision comes down to the detachable blower and lifetime warranty (RIDGID) versus a larger drain port and a muffler diffuser that quiets exhaust noise (Craftsman). Both are 16-gallon, 6.5-HP machines from major brands available at adjacent big-box stores. Most buyers who do not prioritize noise reduction will prefer the RIDGID for the blower flexibility and indefinite warranty.\n\nAgainst the **DeWalt DXV10P** — a 10-gallon machine at a higher street price — the comparison is capacity versus noise. The DXV10P is slightly lighter, runs a 2-stage motor that is meaningfully quieter, and uses a 20-ft cord like the RIDGID. But at 10 gallons it fills faster on large cleanup jobs and costs more per gallon of capacity. The RIDGID wins on cost-per-gallon and blower versatility; the DeWalt wins on noise level and compact footprint.\n\nAgainst the **Ryobi PCL735B** cordless — the RIDGID has a clear advantage in capacity, suction power, and price per gallon of capacity. The Ryobi's singular advantage is complete cord freedom, which matters in specific scenarios without nearby outlets.\n\n## Real-world scenarios where the HD1600 is the correct tool\n\nThe HD1600 is purpose-built for a specific profile of work: renovation debris, basement flooding, workshop floor cleanup, and seasonal outdoor blowing. Someone remodeling a bathroom — demo dust, wet grout, floor cleanup between tile cuts — uses all three modes of this machine in the same day. The lifetime warranty means that machine can be in service for fifteen years without cost anxiety.\n\nFor fine woodworking shops where filtration and noise are primary concerns, the RIDGID is not the right answer without the HEPA filter upgrade and some tolerance for motor noise. For those users, a dedicated dust extractor is worth the additional investment.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["craftsman-cmxevbe17595", "dewalt-dxv10p", "ryobi-pcl735b"]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "dewalt-dcs573b",
+  "title": "DeWalt DCS573B Review: 20V FLEXVOLT Advantage Circular Saw",
+  "brand": "dewalt",
+  "category": "circular-saws",
+  "model": "DCS573B",
+  "rating": 4.6,
+  "priceRange": "$230–$260",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Brushless-7-1-4-in-Sidewinder-Style-Circular-Saw-with-FLEXVOLT-ADVANTAGE-Tool-Only-DCS573B/313291307" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-FLEXVOLT-ADVANTAGE-Circular-DCS573B/dp/B08J8DZYT1" }
+  ],
+  "pros": [
+    "FLEXVOLT Advantage technology scales power output with the battery — 5,500 RPM paired with a DCB606 60V FLEXVOLT pack delivers noticeably more throughput on dense material than a standard 20V MAX pack alone",
+    "57-degree bevel capacity covers rafter and compound-angle cuts that 45-degree saws cannot reach, with solid detents at 22.5 and 45 degrees",
+    "Aluminum shoe is flat and rigid out of the box, which matters for tracking a straight line on long sheet-goods cuts without a fence",
+    "Electric blade brake stops rotation in about two seconds after the trigger releases — a genuine safety and workflow improvement over freewheeling saws",
+    "Integrated rafter hook is sturdy enough to hang the tool on a joist between cuts rather than setting it down on the deck"
+  ],
+  "cons": [
+    "8.2 lbs bare makes it heavier than the Milwaukee 2731-20 (7.5 lbs) — the difference is noticeable over a long overhead or vertical cut session",
+    "Bare-tool pricing around $249 is on the high end; if you do not already own 20V MAX or FLEXVOLT batteries, the entry cost to the system is significant",
+    "The supplied 24-tooth framing blade is adequate for rough cuts but leaves tearout on plywood faces — upgrading to a 40-tooth finishing blade is essentially mandatory for cabinet work"
+  ],
+  "bestFor": "DeWalt 20V MAX or FLEXVOLT users who want a full-size 7-1/4-inch saw with wide bevel range and the option to unlock extra power with a 60V FLEXVOLT pack.",
+  "skipIf": "You are not already in the DeWalt ecosystem and need a complete kit — the M18 FUEL 2731-20 offers comparable performance and a lighter body for similar money.",
+  "specs": {
+    "bladeSize": "7-1/4 in.",
+    "powerSource": "20V MAX / FLEXVOLT (battery sold separately)",
+    "motor": "Brushless with FLEXVOLT Advantage",
+    "noLoadSpeed": "5,500 RPM",
+    "bevelCapacity": "0–57 degrees (detents at 22.5° and 45°)",
+    "depthAtNinety": "2-9/16 in.",
+    "depthAtFortyFive": "2 in.",
+    "shoe": "Aluminum",
+    "weight": "8.2 lbs (tool only)",
+    "electricBrake": "Yes"
+  },
+  "faq": [
+    {
+      "q": "Does the DeWalt DCS573B work with 20V MAX batteries?",
+      "a": "Yes. The DCS573B runs on any DeWalt 20V MAX lithium-ion battery and also accepts 60V FLEXVOLT packs. When a FLEXVOLT battery is installed, the FLEXVOLT Advantage circuitry draws more current and delivers up to 77% more power than with a standard DCB205 2.0Ah 20V MAX pack, so runtime and cut speed both improve meaningfully."
+    },
+    {
+      "q": "What is the maximum bevel on the DCS573B?",
+      "a": "The DCS573B bevels to 57 degrees, which is wider than the 45-degree limit on many competing cordless saws. That extra range is useful for rafter cuts, roof framing, and compound-angle work on deck ledgers. Positive detents at 22.5 and 45 degrees make common angles fast to set."
+    },
+    {
+      "q": "How deep does the DCS573B cut at 90 degrees?",
+      "a": "Maximum cutting depth at 90 degrees is 2-9/16 inches, which clears standard 2x framing lumber (1-1/2 inches thick) with margin to spare. At 45 degrees the saw cuts 2 inches deep, enough for single-pass cuts through dimensional lumber at a bevel."
+    },
+    {
+      "q": "Is the DCS573B a sidewinder or worm-drive saw?",
+      "a": "The DCS573B is a sidewinder (inline-motor) design, which places the motor beside the blade and keeps overall weight lower than a worm-drive configuration. Sidewinders spin at higher blade speeds and are better suited for general crosscutting, plywood, and overhead work than worm-drives, which trade speed for torque and rip-cut balance."
+    },
+    {
+      "q": "What blade comes with the DCS573B?",
+      "a": "DeWalt includes a DWA171424 7-1/4-inch 24-tooth carbide framing blade. That tooth count is optimized for fast rips and crosscuts in dimensional lumber. For cabinet-grade plywood, OSB with a good face, or trim boards where visible edge quality matters, upgrading to a Diablo or Freud 40-tooth blade makes a clear difference."
+    }
+  ],
+  "body": "## Why the DeWalt DCS573B is worth a look\n\nDeWalt's DCS573B occupies a clear strategic position in the 20V MAX lineup: it is the 7-1/4-inch saw you buy when you want to stay in the DeWalt ecosystem and have the option to upgrade power later without replacing the tool. The FLEXVOLT Advantage platform means that plugging in a higher-capacity 60V FLEXVOLT battery — the DCB606 or DCB612 — routes more current to the brushless motor and produces measurably faster cuts through dense material. With a standard 20V MAX pack, the DCS573B behaves like any good 20V cordless saw; with a FLEXVOLT pack, cut speed and sustained power through long production runs improves significantly.\n\nThat flexibility is genuinely useful for contractors who already carry FLEXVOLT packs for the DCS577B worm-drive or the DCS374B band saw, and it gives the DCS573B an upgrade path that most cordless saws lack.\n\n## Cutting performance across materials\n\n**Dimensional lumber** is where the DCS573B is most comfortable. At 5,500 RPM with a 24-tooth framing blade, it rips through 2x10 SPF in one fluid stroke without the motor hunting for speed. The 2-9/16-inch cutting depth at 90 degrees handles double-stacked decking and notched rim joists in two passes, which is the practical measure of a 7-1/4-inch saw for framing work.\n\n**Plywood and sheet goods** go fine with the stock blade on rough cuts. For finish plywood where tearout matters — cabinet sides, stair risers — the 24-tooth framing blade leaves a ragged exit edge. Swap in a 40-tooth ATB blade and the DCS573B makes clean enough cuts for finish work without a track saw. The aluminum shoe stays flat under load, which is the prerequisite for accurate freehand cutting on large panels.\n\n**Pressure-treated lumber** and wet framing material respond well because the brushless motor maintains RPM under load rather than bogging. Extended rip cuts through green lumber are where cordless saws typically struggle most, and the FLEXVOLT Advantage scaling helps here — the 60V pack keeps blade speed more consistent through dense knots than the 20V pack does.\n\n## Build quality and ergonomics\n\nThe aluminum shoe is a standout. Stamped-steel shoes flex and warp; aluminum holds its reference plane and can be trued with a machinist's square if it ever shifts. The 57-degree bevel range is wider than the 45 or 50 degrees on most competitors and genuinely useful for hip-roof framing and some stair stringer cuts. Detents at 22.5 and 45 degrees click firmly — there is no ambiguity about whether the shoe is seated.\n\nThe integrated rafter hook folds out of the way when not needed and is strong enough to hold the tool on a 2x6 rafter or roof truss. That detail matters during layout work when you need both hands free but a surface to set the saw on is inconvenient.\n\nAt 8.2 lbs bare the DCS573B is not the lightest 7-1/4-inch cordless saw. The Milwaukee 2731-20 is 7.5 lbs bare, and over a long cutting session that 0.7-lb difference becomes perceptible in the forearm. Overhead cuts are where you feel the weight most clearly.\n\n## Battery ecosystem and runtime\n\nThe value proposition of the DCS573B depends substantially on which batteries you already own. A DCB205 5.0Ah 20V MAX pack delivers solid runtime for a day of residential framing — typically 100 to 120 crosscuts in 2x4 lumber per charge, according to DeWalt's published data. A DCB606 6.0Ah 60V FLEXVOLT pack increases both runtime and sustained cut speed, and if you already own one for another tool in the lineup, there is no additional cost to that upgrade.\n\nFor buyers entering the DeWalt ecosystem fresh, the DCS573B as a bare tool at around $249 requires adding at least a 20V MAX battery and charger, pushing total cost past $300. The Milwaukee 2731-20 and Ryobi PBLCS300B both offer competitive performance at lower entry points for new-to-the-platform buyers.\n\n## Safety features\n\nThe electric brake deserves mention. It stops blade rotation in roughly two seconds after the trigger releases, compared to five to eight seconds of freewheel on saws without a brake. Over a day of cuts, that adds up to more blade visibility before setting the tool down and meaningfully reduces the risk of setting a still-spinning blade onto a surface or against a hand.\n\n## Who this saw fits\n\nThe DCS573B is the obvious choice if you already own DeWalt 20V MAX or FLEXVOLT batteries and want a full-size 7-1/4-inch saw with a flat aluminum shoe, wide bevel range, and the electric brake. The FLEXVOLT Advantage upside is a genuine differentiator among 20V-class cordless saws.\n\nBuyers starting fresh who compare the DCS573B against the Milwaukee 2731-20 will find the Milwaukee lighter and comparably capable for around the same bare-tool price. The DeWalt wins on bevel range (57 vs 50 degrees) and the aluminum shoe; the Milwaukee wins on weight and arguably on platform breadth for contractors already carrying M18 packs.\n\nThe Ryobi PBLCS300B undercuts both on price and is the right answer for budget-conscious homeowners. The Skil 5280-01 at $70 is the corded reference point — no battery costs, unlimited runtime, and 5,300 RPM for under $75.\n\nFor a DeWalt loyalist, the DCS573B is one of the strongest 7-1/4-inch cordless saws available and well worth its price in the context of a complete FLEXVOLT system.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["milwaukee-2731-20", "skil-5280-01", "ryobi-pblcs300b"]
+}

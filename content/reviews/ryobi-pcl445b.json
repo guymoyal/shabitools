@@ -1,0 +1,67 @@
+{
+  "slug": "ryobi-pcl445b",
+  "title": "Ryobi PCL445B Review: Budget Cordless Angle Grinder",
+  "brand": "ryobi",
+  "category": "angle-grinders",
+  "model": "PCL445B",
+  "rating": 3.7,
+  "priceRange": "$55–$70 (bare tool)",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-4-1-2-in-Angle-Grinder-Tool-Only-PCL445B/318696913" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/RYOBI-PCL445B-Cordless-Angle-Grinder/dp/B0DQVRYQMJ" }
+  ],
+  "pros": [
+    "Plugs directly into the Ryobi ONE+ 18V platform — over 300 tools share this battery, so any existing ONE+ pack works immediately without additional investment",
+    "3-position adjustable side handle and tool-free guard adjustment suit multiple grip orientations without reaching for additional tools",
+    "On-board wrench storage means the disc-change wrench is always with the grinder, not at the bottom of a toolbox",
+    "At $55–$65 bare, the lowest entry price among major-brand cordless 4-1/2-inch grinders available at US retail"
+  ],
+  "cons": [
+    "9,000 RPM at 18V delivers meaningfully less cutting and grinding speed than the Milwaukee 2880-20's 8,500 RPM brushless motor — the gap is felt on harder materials and larger discs",
+    "Brushed motor design runs hotter and wears faster under extended heavy use than the brushless motors in the Milwaukee 2880-20; sustained aggressive grinding sessions will shorten motor life",
+    "Slide-type lock switch rather than a paddle switch — the tool stays running if released while under power, which is a passive safety concern compared to paddle-equipped competitors",
+    "At 6.18 lbs, heavier than both corded options in this category despite lacking a battery in the weight figure (adds more weight once a pack is installed)"
+  ],
+  "bestFor": "Ryobi ONE+ platform owners who want cordless angle grinder capability for occasional light tasks — cutting tile, trimming rebar, removing surface rust — without buying into a second battery system.",
+  "skipIf": "You are choosing a grinder as your primary metal-fabrication or construction tool, need a paddle switch for safety, or anticipate heavy sustained grinding — the Milwaukee 2880-20 or DeWalt DWE402 are significantly better equipped for those tasks.",
+  "specs": {
+    "battery": "18V ONE+ (any Ryobi 18V ONE+ battery; sold separately)",
+    "noLoadSpeed": "9,000 RPM",
+    "discSize": "4-1/2 in. (115 mm)",
+    "arbor": "5/8\"-11",
+    "switchType": "Slide switch with lock-on",
+    "sideHandlePositions": "3-position adjustable",
+    "weight": "6.18 lbs (bare tool)",
+    "warranty": "3-year limited"
+  },
+  "faq": [
+    {
+      "q": "What Ryobi batteries work with the PCL445B?",
+      "a": "Any Ryobi 18V ONE+ battery is compatible with the PCL445B — compact 1.5 Ah packs, standard 2.0 Ah and 4.0 Ah packs, and higher-capacity HP packs all fit the same connector. For grinding tasks, a 4.0 Ah pack or larger is worth using; smaller packs deplete quickly under the grinder's load. Ryobi frequently bundles the PCL445B with a 2.0 Ah battery and charger at Home Depot, which is a cost-effective entry point for new ONE+ buyers."
+    },
+    {
+      "q": "Is the Ryobi PCL445B safe to use?",
+      "a": "The PCL445B is safe when operated correctly with appropriate PPE: a full face shield, eye protection, hearing protection, and gloves. The tool uses a slide lock switch rather than a paddle switch, which means the grinder remains running if you release your grip while the switch is engaged. This is a meaningful difference from paddle-equipped grinders like the DeWalt DWE402 and Makita GA4534, which stop immediately when released. Always disengage the slide switch before setting the tool down, and never leave a spinning grinder unattended."
+    },
+    {
+      "q": "Can the PCL445B handle cutting rebar and metal conduit?",
+      "a": "Yes — a 4-1/2-inch thin cutoff wheel on the PCL445B's 5/8\"-11 arbor cuts rebar and conduit at 9,000 RPM. For occasional cuts, the brushed motor handles the task. Extended rebar-cutting sessions — ten or more cuts in quick succession — will heat the motor faster than a brushless tool; allowing brief cooling intervals is advisable. For heavy or frequent cutting, the Milwaukee 2880-20 or DeWalt DWE402 are better choices."
+    },
+    {
+      "q": "How does the Ryobi PCL445B compare to the Milwaukee 2880-20?",
+      "a": "The Milwaukee 2880-20 uses a brushless motor, offers electronic kickback detection, RAPIDSTOP braking, accepts 5-inch discs, and carries a 5-year warranty — at approximately four times the bare-tool price. The PCL445B has a brushed motor, no active kickback protection, no disc brake, and a 3-year warranty, but it costs significantly less and works on the widely owned Ryobi ONE+ battery platform. For a dedicated grinder purchased for regular work, the Milwaukee is the better tool. For a platform-compatible tool for occasional use, the PCL445B is the practical entry point."
+    },
+    {
+      "q": "Does the PCL445B work for tile cutting?",
+      "a": "Yes. A 4-1/2-inch dry-cut diamond blade rated for 9,000 RPM or higher fits the PCL445B's 5/8\"-11 arbor and cuts ceramic and porcelain tile effectively. The 9,000 RPM speed is sufficient for tile work. The 3-position side handle helps stabilize the tool during fitting cuts. Use dry-cut blades only — the PCL445B is not designed for wet cutting."
+    },
+    {
+      "q": "Is the Ryobi PCL445B worth buying if I don't own any Ryobi batteries?",
+      "a": "Probably not as a standalone purchase. The bare tool at $55–$65 requires a battery (a 2.0 Ah pack adds roughly $35–$40) and a charger ($25+) if you own none. Total entry cost approaches $110–$130, which overlaps with the DeWalt DWE402 corded at $95–$100 — a more capable and heavier-duty tool. The PCL445B's value is clear only when you already own ONE+ batteries; otherwise, the corded alternatives deliver better capability at the same or lower total cost."
+    }
+  ],
+  "body": "## Where the Ryobi PCL445B fits\n\nThe Ryobi PCL445B makes most sense in one specific context: you already own Ryobi ONE+ 18V batteries, and you want to add an angle grinder to the platform without investing in a second battery ecosystem or spending $200+ on a professional cordless grinder. Evaluated against that scenario, the PCL445B delivers reasonable capability for occasional light work at the lowest price a name-brand cordless grinder currently commands.\n\nEvaluated against its competitors without that constraint — including the DeWalt DWE402 corded and the Milwaukee 2880-20 cordless — its limitations are more visible. This is not a negative judgment on the tool so much as an accurate description of what it is designed to do and for whom.\n\n## Motor, speed, and what those numbers mean\n\nThe PCL445B runs a brushed motor at 9,000 RPM no-load. The brushed design is the most significant technical difference between the PCL445B and the Milwaukee 2880-20's brushless POWERSTATE motor at the same 18V platform. Brushed motors generate more heat under sustained load, wear faster over time, and are less efficient at converting battery energy to disc speed. For an occasional-use grinder, none of those characteristics matter in a three-year ownership window. For a daily professional tool, they accumulate into a real service and reliability gap.\n\nThe 9,000 RPM no-load speed is slower than the corded options in this comparison (11,000 RPM for both the DeWalt DWE402 and Makita GA4534) and comparable to the Milwaukee 2880-20's 8,500 RPM. The PCL445B's lower peripheral speed shows most clearly when cutting harder materials — thick ceramic tile, hardened steel, or dense stone — where the extra RPM of the corded grinders maintains cut progress that the Ryobi's motor labors to achieve.\n\n## Ergonomics and design choices\n\nAt 6.18 lbs bare, the PCL445B is the heaviest tool in this comparison — heavier than the 5.4-lb Milwaukee 2880-20 and significantly heavier than the 4.2-lb Makita GA4534. A battery adds further weight. For a brief cutting task, this is not a concern. For extended work sessions, the weight is the PCL445B's most practical disadvantage.\n\nThe 3-position side handle and tool-free guard adjustment are genuine positives. Three handle positions let you configure the grip for different working angles without a second thought, and tool-free guard adjustment means you can reposition between grinding and cutting orientations in the field without a wrench. The on-board disc wrench holder — a sleeve on the tool body — solves the perpetual problem of a lost flange wrench during accessory changes.\n\n## The switch type matters\n\nThe PCL445B uses a slide switch with lock-on rather than a paddle switch. This is a meaningful distinction that deserves direct attention. A paddle switch cuts power the moment you release your grip — the grinder stops spinning (or enters braking mode) as soon as your hand comes off the trigger. A slide lock switch holds the tool in the running state after you engage it; you must actively disengage it to stop the disc.\n\nFor users experienced with angle grinder technique, a slide switch is manageable with discipline: you disengage the switch before setting the tool down, and you never leave a running grinder unsupported. For users less familiar with the tool's behavior — which describes many buyers in the budget tool category — a paddle switch is a safer default behavior. The DeWalt DWE402 and Makita GA4534 both include paddle switches at comparable or lower prices. If switch safety is a priority in your purchase decision, that is an argument for either corded alternative.\n\n## Platform value: the ONE+ argument\n\nRyobi's ONE+ 18V system is the largest single battery platform by unit sales in the US, partly because it is sold exclusively through Home Depot and partly because Ryobi prices tools aggressively for entry-level buyers. If you own a Ryobi ONE+ drill, circular saw, or any other ONE+ tool, the battery and charger investment you have already made extends directly to the PCL445B. The incremental cost to add an angle grinder to an existing ONE+ collection is the bare tool price of $55–$65 — lower than any competitor.\n\nFor a buyer with no existing cordless tools, the calculus changes. A bare PCL445B plus a 2.0 Ah battery plus a charger totals $110–$130 from Home Depot. At that price, the DeWalt DWE402 corded at $95–$100 delivers more motor output, a paddle switch, and a longer warranty with no battery dependency. The ONE+ platform becomes the argument only once you own the batteries.\n\n## Ryobi PCL445B against the field\n\nThe PCL445B occupies the budget cordless position in this comparison. It does not compete with the Milwaukee 2880-20 on safety features, motor durability, or heavy-work capability. It does not compete with the DeWalt DWE402 on raw motor output or switch ergonomics. It competes on price and platform compatibility for ONE+ owners.\n\nFor the user it is designed for — a homeowner with ONE+ batteries who wants to add a grinder for the occasional tile cut, rust removal, or light fitting task — the PCL445B is adequate and honest about what it offers. The 3-year warranty is respectable. The tool-free guard and on-board wrench show that Ryobi thought through the everyday workflow. The brushed motor and slide switch are trade-offs made in service of the price point, not oversights.\n\n## Final assessment\n\nBuy the PCL445B if you own Ryobi ONE+ batteries and need a grinder for infrequent light tasks — tile cutting, occasional rust removal, light metal trimming. The platform compatibility makes it the lowest-cost entry to cordless angle grinding from a brand with national dealer support. Look elsewhere if you need a paddle switch for safety, sustained motor output for regular grinding, or a primary fabrication tool — the DeWalt DWE402 and Milwaukee 2880-20 are categorically more capable at their respective price points.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dwe402", "milwaukee-2880-20", "makita-ga4534"]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "bosch-gdx18v-1800cn",
+  "title": "Bosch GDX18V-1800CN Freak Review: One Tool, Two Chuck Sizes",
+  "brand": "bosch",
+  "category": "impact-drivers",
+  "model": "GDX18V-1800CN",
+  "rating": 4.4,
+  "priceRange": "$149–$169 (bare tool), $229–$299 (kit)",
+  "affiliate": [
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/Bosch-18-volt-1-4-in-1-2-in-Brushless-Cordless-Impact-Driver-Charger-Not-Included-GDX18V-1800B12/1003014226" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Bosch-GDX18V-1800CN-Brushless-Impact-Baretool/dp/B07N3CJSLP" }
+  ],
+  "pros": [
+    "Dual-chuck design accepts both 1/4-inch hex bits and 1/2-inch square-drive sockets natively — no adapter required for bolt-driving applications",
+    "1,800 in-lbs of maximum torque matches premium single-chuck rivals while also serving nut-running tasks plumbers and HVAC techs encounter daily",
+    "4,200 IPM is the highest impact rate in this comparison, delivering fast cycling in dense materials",
+    "Three-speed electronic control covers precision trim fastening through structural fastening in one tool",
+    "EC Brushless motor with Electronic Cell Protection runs cooler and extends both tool and battery life under sustained loads"
+  ],
+  "cons": [
+    "Longer 5.8-inch head compared to the Makita XDT16Z (4.6 in.) and DeWalt DCF887B (5.3 in.) — the dual-chuck design adds bulk",
+    "Bosch 18V AMPShare battery ecosystem is smaller than Makita LXT or DeWalt 20V MAX, limiting combo-kit options",
+    "At 2.5 lbs bare, heavier than both the Makita and DeWalt alternatives — the dual-chuck mechanism adds measurable weight",
+    "Connected-Ready Bluetooth requires a separate connectivity module (not included) to use with the Bosch Toolbox app"
+  ],
+  "bestFor": "Plumbers, HVAC technicians, and multi-trade contractors who drive both screws and bolts throughout the day and want to carry one impact tool rather than two.",
+  "skipIf": "Your work is purely screw-driving — a lighter, shorter single-chuck impact driver will outperform the Freak in tight spaces without the dual-chuck weight and length penalty.",
+  "specs": {
+    "voltage": "18V lithium-ion (AMPShare)",
+    "motor": "EC Brushless",
+    "maxTorque": "1,800 in-lbs",
+    "speedSettings": "3-speed: 0–1,300 / 0–2,000 / 0–2,800 RPM",
+    "impactRate": "0–4,200 IPM (maximum)",
+    "chuckSizes": "1/4 in. quick-change hex + 1/2 in. square drive",
+    "weightBareTool": "2.5 lbs (bare tool)",
+    "length": "5.8 in.",
+    "connectivity": "Connected-Ready (Bluetooth module sold separately)",
+    "warranty": "1-year full, 2-year limited (tool)"
+  },
+  "faq": [
+    {
+      "q": "How does the Freak's dual-chuck work — do you switch between hex and socket modes?",
+      "a": "The GDX18V-1800CN uses a combined chuck assembly: the inner portion is a standard 1/4-inch hex collet for impact-rated driver bits, while the outer sleeve is a 1/2-inch square drive for sockets. You do not need to swap components or use an adapter — insert a hex bit straight in, or slide a socket onto the square drive. Both are available simultaneously; you select whichever matches the fastener in front of you."
+    },
+    {
+      "q": "What is the AMPShare battery system and how broad is it?",
+      "a": "AMPShare is Bosch's 18V lithium-ion battery platform shared across Bosch Power Tools, Bosch Professional (blue tools), and several partner brands including Fein. The consumer-facing product lineup is smaller than Makita LXT or DeWalt 20V MAX, but the professional blue-line covers a full range including rotary hammers, circular saws, and demo tools. If you are buying into the 18V ecosystem specifically for home or light commercial use, the AMPShare lineup covers the core tools most users need."
+    },
+    {
+      "q": "Is the GDX18V-1800CN the same as the GDX18V-1800C?",
+      "a": "The GDX18V-1800CN is the bare-tool version (no battery or charger); the GDX18V-1800C is the same driver sold in various kit configurations with one or two batteries and a charger. The drivetrain, chuck assembly, and specifications are identical between all variants — only the packaging and included accessories differ."
+    },
+    {
+      "q": "Can the Freak replace a dedicated impact wrench for lug nuts?",
+      "a": "For passenger vehicle lug nuts (typically 80–100 ft-lbs of torque) the Freak's 1,800 in-lbs (150 ft-lbs) provides sufficient loosening torque on most properly torqued lugs, but it is not an ideal replacement for a dedicated impact wrench in a garage setting. The 1/2-inch square drive is the right interface for sockets, but a full-size impact wrench delivers two to four times more torque for stubborn or seized fasteners. Think of the Freak as a capable backup for occasional bolt-driving, not a primary shop tool."
+    },
+    {
+      "q": "Does the Freak work with standard Bosch impact driver bits?",
+      "a": "Yes — any 1/4-inch hex-shank bit, including standard Bosch ImpactTough and competitor impact-rated bits, seats directly in the inner hex collet. The Power Groove design on the collet provides additional bit retention security during high-IPM operation, which reduces the bit-drop incidents some users experience with standard collets at high impact rates."
+    },
+    {
+      "q": "How does the Freak's 4,200 IPM compare to 3,800 IPM on the Makita and DeWalt?",
+      "a": "The 400-IPM advantage translates to faster cycling speed, which is most noticeable in dense hardwood, structural lumber, and self-tapping metal screws where each impact must overcome significant material resistance. In soft woods and general construction, the difference is difficult to perceive in practice. The Freak's higher IPM combined with its 1,800 in-lbs makes it particularly effective in hardwood decking and heavy timber framing."
+    }
+  ],
+  "body": "## A Different Kind of Impact Driver\n\nBosch built the GDX18V-1800CN — universally called the Freak — around a premise that most impact driver makers ignore: a meaningful percentage of tradespeople need to drive both screws and bolts in the same session, and carrying two impact tools to do it is inefficient. The Freak's answer is a combined 1/4-inch hex and 1/2-inch square-drive chuck assembly that accepts standard driver bits directly and 1/2-inch sockets without an adapter. No attachment swap, no separate tool — you pick up the Freak, grab the right bit or socket for the fastener in front of you, and go.\n\nThat dual-chuck design is the Freak's defining feature, and evaluating it honestly requires acknowledging both what it accomplishes and what it costs. What it accomplishes: 1,800 in-lbs of torque across both interfaces, with 4,200 IPM making it the highest-impact-rate tool in this comparison. What it costs: a 5.8-inch head length (1.2 inches longer than the Makita XDT16Z), 2.5 lbs of bare-tool weight (heavier than the Makita and DeWalt), and a slightly higher price for a bare tool that cannot perform all the functions a dedicated impact wrench handles. The Freak is not two tools in one in the strict sense — it is one tool with a useful secondary capability.\n\n## Performance Analysis: Where 4,200 IPM Shows Up\n\nThe GDX18V-1800CN's 4,200 IPM maximum impact rate exceeds both the Makita XDT16Z (3,800 IPM) and the DeWalt DCF887B (3,800 IPM). In practice, that advantage is most visible in dense or high-resistance materials. Driving 3-inch structural screws through red oak deck boards or running 5/16-inch lag bolts into Douglas fir rim joists, the Freak's faster cycling maintains momentum better than lower-IPM drivers, which noticeably slow between blows in dense fiber. For softwood framing and standard deck screws, the difference versus the other 18V drivers here is modest.\n\nThe 1,800 in-lbs torque rating places the Freak 25 in-lbs below the DeWalt DCF887B (1,825 in-lbs) and 200 in-lbs above the Makita XDT16Z (1,600 in-lbs). Real-world differentiation at these close torque levels is negligible for most users — all three tools handle the same fasteners at the top of their capability ranges. The gap to the Ryobi PCL235B's 1,800 in-lbs looks identical on paper but the Freak's EC Brushless motor maintains that torque under sustained load while the Ryobi's output drops measurably during extended heavy-duty fastening.\n\n## The Dual-Chuck in Practice\n\nPlumbers and HVAC technicians who have evaluated the Freak consistently highlight two specific use scenarios where the dual-chuck pays for itself. First, running 1/2-inch nuts onto pipe flanges and valve bodies — a task that requires a socket and occurs frequently enough to justify carrying a separate impact wrench, but not frequently enough to justify pulling it from a bag for each fastener. Second, tightening conduit fittings and electrical box hardware with both hex-driver bits and socket-drive bolts in the same rough-in pass.\n\nFor electricians who never drive bolts, and for framers who live exclusively in the deck-screw world, the dual-chuck is dead weight — literally. The Freak's 5.8-inch length means it does not fit as comfortably as the Makita or DeWalt between studs on a framing job where head clearance is tight. Tradespeople should be honest with themselves about whether they actually encounter mixed fastener-and-bolt scenarios before paying the size and weight premium for the dual-chuck design.\n\n## Build Quality and Electronics\n\nBosch's EC Brushless motor is well-regarded for thermal management. The Electronic Cell Protection (ECP) system communicates with compatible AMPShare batteries to prevent overheating, over-discharge, and current overload — the motor and battery protect each other during sustained heavy loads. Owners who have run the Freak in high-volume commercial framing sessions report that it runs cooler than competing brushless drivers from the same era.\n\nThe three-speed control switch sits on top of the tool and operates with a satisfying positive click. Speed 1 (0–1,300 RPM / low IPM) covers precision fastening; Speed 2 handles general construction at 0–2,000 RPM; Speed 3 opens to full 0–2,800 RPM and 0–4,200 IPM. There is no precision no-hammer mode comparable to DeWalt's Speed 1 Precision Drive, so users who drive delicate trim screws alongside structural fasteners will find the Freak less capable at that specific task.\n\n## Value Context\n\nAt $159 for the bare tool, the Freak sits between the DeWalt DCF887B ($149) and the Makita XDT16Z ($195). Lowe's is the primary retail home for the Bosch tool lineup in the US, and the Freak frequently appears in promotional pricing. For the right user — one who will use the 1/2-inch socket drive regularly — the dual-chuck functionality represents excellent value. For a user who never drives bolts, the DCF887B at $149 delivers more torque in a shorter, lighter package.\n\nThe 4.4 rating reflects a tool that is exceptional for its intended audience but carries real trade-offs in size and weight that make it a secondary recommendation for buyers whose work is predominantly screw-driving.",
+  "related": ["makita-xdt16z", "dewalt-dcf887b", "ryobi-pcl235b"],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

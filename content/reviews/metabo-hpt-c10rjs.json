@@ -1,0 +1,72 @@
+{
+  "slug": "metabo-hpt-c10rjs",
+  "title": "Metabo HPT C10RJS Review: Best-in-Class Rip Capacity Tested",
+  "brand": "metabo-hpt",
+  "category": "table-saws",
+  "model": "C10RJS",
+  "rating": 4.2,
+  "priceRange": "$350–$420",
+  "affiliate": [
+    { "merchant": "Lowe's", "url": null, "campaignId": 0, "productUrl": "https://www.lowes.com/pd/Metabo-HPT-was-Hitachi-Power-Tools-10-in-Carbide-Tipped-Blade-15-Amp-Table-Saw/1001279880" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/Metabo-HPT-Jobsite-Capacity-C10RJS/dp/B086YHDYPW" }
+  ],
+  "pros": [
+    "35-inch rip capacity to the right of the blade is genuinely class-leading for a portable saw — handles full 4x8 sheet rips and wide panels in a single pass",
+    "3-1/8-inch depth of cut at 90 degrees accepts 4x4 posts in a single pass and handles virtually all solid wood thicknesses encountered in DIY and light professional work",
+    "Oversized 28-3/4-inch by 22-inch table surface with telescoping extension gives meaningful material support that compact saws lack",
+    "Soft start reduces inrush stress on the motor and circuit; electric brake stops the blade within seconds of releasing the trigger for safer blade changes",
+    "Fold-and-roll stand deploys quickly and rolls through rough terrain — more practical than basic leg stands that tip on uneven ground"
+  ],
+  "cons": [
+    "At 100 lbs with the stand, this saw requires two people to load into a truck — not a one-person portable saw in any real sense",
+    "Rack-and-pinion fence adjustment works but lacks the precision of Bosch's dial micro-adjustment; the fence can require re-checking after locking on narrower cuts",
+    "Miter gauge is basic stamped metal with limited angle stops — adequate for rough work but not a precision crosscutting tool"
+  ],
+  "bestFor": "Home-shop woodworkers and contractors with a fixed or semi-fixed setup who want 10-inch saw capability at a jobsite saw price — maximum rip capacity and cut depth without paying cabinet-saw prices.",
+  "skipIf": "You need to move the saw solo between truck and site regularly — the 100-lb weight with stand makes one-person transport genuinely impractical, and the DeWalt DWE7485 or Bosch GTS18V-08N are far more mobile.",
+  "specs": {
+    "bladeDiameter": "10 in. (40-tooth carbide blade included)",
+    "motor": "15 Amp, 120V corded",
+    "noLoadRPM": "4,500 RPM",
+    "ripCapacityRight": "35 in.",
+    "ripCapacityLeft": "22 in.",
+    "depthOfCut90": "3-1/8 in.",
+    "depthOfCut45": "2-1/4 in.",
+    "tableDimensions": "28-3/4 in. x 22 in. with telescoping extension",
+    "arbor": "5/8 in.",
+    "weight": "100 lbs (with fold-and-roll stand)",
+    "fenceSystem": "Rack-and-pinion adjustment with micro-adjust capability",
+    "standIncluded": "Yes — fold-and-roll stand with wheels",
+    "warranty": "2-year limited"
+  },
+  "faq": [
+    {
+      "q": "Can the Metabo HPT C10RJS cut a 4x4 post in a single pass?",
+      "a": "Yes. The 3-1/8-inch depth of cut at 90 degrees exceeds the 3.5-inch actual dimension of a nominal 4x4 post, so a full 4x4 passes through in a single cut without blade reset. This is a genuine functional difference from 8.25-inch saws like the DeWalt DWE7485 and Bosch GTS18V-08N, which require two passes to cut through 4x4 material."
+    },
+    {
+      "q": "Does the C10RJS accept dado blade stacks?",
+      "a": "Yes. The 5/8-inch arbor with adequate thread length accepts standard dado stack sets. Confirm the maximum dado width your specific stack occupies against the saw's arbor length before purchase — the C10RJS handles full-width stacks more comfortably than compact 8.25-inch saws. A sacrificial zero-clearance insert is recommended for clean dado cuts without tear-out on the underside of the workpiece."
+    },
+    {
+      "q": "How accurate is the fence on the Metabo HPT C10RJS?",
+      "a": "The rack-and-pinion fence is acceptably accurate for jobsite and DIY use — it locks parallel to the blade and resists the racking that affects stamped-steel fences. For precision cabinet work requiring consistent repeat dimensions to within a few thousandths, the fence benefits from a quick square-check after locking, particularly on narrower settings. It is a solid mid-tier fence, not a Biesemeyer-class precision system."
+    },
+    {
+      "q": "What does the soft start feature do on the C10RJS?",
+      "a": "Soft start gradually ramps the motor to full speed over about one second rather than hitting full RPM instantaneously at switch-on. This reduces the torque jolt that can twist a workpiece if it is in contact with the blade at startup, lowers inrush current stress on the motor windings, and is easier on the circuit breaker when the saw is used on a loaded 15-amp circuit alongside other tools."
+    },
+    {
+      "q": "Is the C10RJS too heavy for a single person to move?",
+      "a": "Realistically, yes — at 100 lbs with the fold-and-roll stand, loading the C10RJS into a truck or over a threshold is a two-person job. Rolling it across a flat shop floor or concrete pad is manageable solo. If you need a saw one person can handle alone from truck to site, the DeWalt DWE7485 at 46 lbs or the Bosch GTS18V-08N at 44 lbs are the appropriate choices."
+    },
+    {
+      "q": "Does the Metabo HPT C10RJS include a riving knife?",
+      "a": "Yes. The C10RJS includes a riving knife that mounts behind the blade and prevents the kerf from closing during a rip cut — the primary mechanical cause of kickback. The blade guard assembly and anti-kickback pawls are also included. As with all portable table saws, the guard assembly is removed for dado stack use, requiring extra attention to workpiece control and feed technique."
+    }
+  ],
+  "body": "## Why the C10RJS spec sheet demands attention\n\nTwo numbers define the Metabo HPT C10RJS's position in the portable table saw segment: 35 inches of rip capacity and a 100-lb total weight. The first number is the best among portable saws under $500. The second number is what you accept in exchange for it.\n\nFor a buyer who sets the saw up in a garage shop or deploys it to a fixed site location, those numbers add up to outstanding value. For someone who loads and unloads the saw solo on a daily basis, the weight makes this a two-person operation in all but name.\n\n## Rip capacity in real-world terms\n\nA 35-inch right rip and 22-inch left rip means the C10RJS rips a full 48-inch wide panel down the middle in a single pass — something no compact 8.25-inch saw can accomplish. It means cutting door panels, wide shelving, and stair risers without clamping an auxiliary fence to the table or making two passes. For a furniture builder, cabinetmaker, or anyone regularly working with wide boards and full sheet goods, this extra capacity is a daily operational advantage rather than a spec-sheet talking point.\n\nThe 10-inch blade delivers a 3-1/8-inch depth at 90 degrees — enough to cut nominal 4x4 posts in a single pass, handle 8/4 hardwood without a blade reset, and give clearance for thick stair stringers and decking stock that pushes an 8.25-inch saw beyond its limit. The 40-tooth carbide blade Metabo HPT includes as stock equipment produces a reasonable cut surface — not finish-quality, but notably better than the 24-tooth ripping blades that several competitors bundle at comparable prices.\n\n## Table surface and material support\n\nThe 28-3/4-by-22-inch table with telescoping extension is meaningfully larger than the compact saw alternatives. Ripping a 4x8 sheet on the DeWalt DWE7485 requires a roller stand or a second person to manage the trailing edge; the C10RJS's extended table keeps the sheet supported further into the cut before the trailing end drops. For a solo operator doing production sheet-good breakdown, that extended support reduces errors and is a real convenience benefit.\n\nThe table surface is cast aluminum — lighter than cast iron but adequate for workshop use and resistant to the corrosion that uncoated cast iron develops without regular maintenance. Cast aluminum will not hold a precision ground flat as durably as cast iron over a decade of thermal cycling and impacts, but this saw is designed for jobsite work rather than cabinet-shop precision, and the aluminum table is the correct tradeoff for the weight budget.\n\n## Motor, soft start, and electric brake\n\nThe 15-amp, 4,500 RPM motor with soft start and electric brake represents the most refined powertrain in this price tier. Soft start ramps the motor to operating speed gradually rather than hitting full RPM on contact — it reduces the torque jolt that can rotate a workpiece if it is touching the blade at switch-on, and it lowers inrush current that can trip a breaker on a loaded 15-amp circuit.\n\nThe electric brake — standard equipment on Metabo HPT saws and absent from both the DeWalt DWE7485 and Skil TS6307-00 at this price — stops the blade within a few seconds of releasing the trigger rather than letting it coast for 10–15 seconds. During blade changes, workpiece repositioning, and the end of a cut when you reach across the table, that faster stop is a safety advantage worth paying for.\n\n## Fence performance and its limits\n\nThe rack-and-pinion fence does what a good jobsite fence should: it locks parallel to the blade, reads accurately off the scale, and resists the racking that afflicts single-rail contact fences on budget saws. For repeated production rips at the same dimension, it is dependable. The gap versus the Bosch GTS18V-08N's dial micro-adjust fence shows up in precision finish-carpentry scenarios where you need to sneak up on a dimension in small increments — the C10RJS fence requires unlocking, repositioning, and relocking for each increment, while the Bosch lets you dial in changes without disturbing the lock.\n\nThe miter gauge is the C10RJS's weakest component: stamped metal with positive stops at standard angles but perceptible slot play under aggressive crosscut pressure. Anyone doing significant crosscutting will benefit from building a sled or buying an aftermarket gauge — this is true across the portable saw segment regardless of brand or price.\n\n## Weight and transport honesty\n\nThe fold-and-roll stand is well-designed — it deploys quickly, the wheels manage rough terrain, and the adjustable leveling foot accommodates uneven ground. But the combined 100-lb weight is a physical constraint that no stand design overcomes. Daily transport between truck and site is a two-person operation or requires mechanical assistance.\n\nFor a homeowner who installs the saw in the garage and leaves it there, or a contractor who establishes a site location for the duration of a project, the weight is operationally irrelevant. For a one-person mobile operation where the saw moves daily, this is a genuine disqualifier and the DeWalt DWE7485 or Bosch GTS18V-08N at under 46 lbs are the appropriate alternatives.\n\n## Competitive position\n\nThe C10RJS at $350–$420 delivers specs that corded competitors charge $600 or more for in contractor-class bodies. The 35-inch rip capacity, 3-1/8-inch depth, fold-and-roll stand, soft start, and electric brake as a standard package at this price is genuinely strong value for a fixed or semi-fixed setup. The real tradeoffs — fence precision below the Bosch, weight well above the DeWalt, warranty at two years shorter than the Skil's three — are real but do not compromise the value for a buyer whose priority is maximum cutting capacity in a workshop or job-site station.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["dewalt-dwe7485", "bosch-gts18v-08n", "skil-ts6307-00"]
+}

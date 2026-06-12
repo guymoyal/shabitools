@@ -1,0 +1,68 @@
+{
+  "slug": "dewalt-dcst972x1",
+  "title": "DeWalt DCST972X1 60V MAX Review: 17-Inch Pro Attachment Trimmer",
+  "brand": "dewalt",
+  "category": "string-trimmers",
+  "model": "DCST972X1",
+  "rating": 4.4,
+  "priceRange": "$299–$349",
+  "affiliate": [
+    { "merchant": "Home Depot", "url": null, "campaignId": 0, "productUrl": "https://www.homedepot.com/p/DEWALT-FLEXVOLT-60V-MAX-17-in-Cordless-Battery-Powered-Attachment-Capable-Trimmer-Kit-with-1-FLEXVOLT-3-Ah-Battery-Charger-DCST972X1/314266332" },
+    { "merchant": "Amazon", "url": null, "campaignId": 0, "productUrl": "https://www.amazon.com/DEWALT-DCST972X1-String-Trimmer-Yellow/dp/B08QVGYCDD" }
+  ],
+  "pros": [
+    "17-inch cutting swath — two inches wider than the EGO ST1521S — clears noticeably more ground per pass on large open lawn areas",
+    "DeWalt FLEXVOLT 60V MAX battery is dual-voltage: it operates as a 20V battery in any DeWalt 20V MAX tool, extending the value of a single pack across a massive tool ecosystem",
+    "Attachment-capable design accepts DeWalt Expand-It compatible heads, turning the powerhead into an edger, brush-cutter, or pole-pruner platform",
+    "High/low speed modes let you optimize for either maximum cutting power or extended battery runtime, a useful split lacking on many single-speed competitors",
+    "3-year limited warranty with 1-year free service and 90-day satisfaction guarantee is a strong professional-grade support commitment"
+  ],
+  "cons": [
+    "At approximately 13–15 lbs with battery the DCST972X1 is among the heaviest residential battery trimmers — arm fatigue becomes relevant over long sessions",
+    "At $349 for the kit it costs roughly $120 more than the EGO ST1521S and $190 more than the Ryobi RY40250 — premium not justified for purely residential trimming-only duty",
+    "The FLEXVOLT 9.0Ah battery that ships with some configurations is bulkier than the standard 3.0Ah cell; expect runtime well beyond residential needs but a heavier rear end"
+  ],
+  "bestFor": "DeWalt FLEXVOLT platform owners who need a professional-grade trimmer for a half-acre or larger property, want universal attachment capability for edger or brush-cutter heads, and already own 60V MAX or 20V MAX batteries.",
+  "skipIf": "You are buying a dedicated trimmer for a standard suburban lot with no plans to use attachment heads — the EGO ST1521S or Ryobi RY40250 deliver comparable trimming results for significantly less money.",
+  "specs": {
+    "voltage": "60V MAX FLEXVOLT lithium-ion (dual-voltage: 60V in 60V tools, 20V in 20V tools)",
+    "motor": "Brushless high-performance",
+    "cuttingSwath": "15 in. or 17 in. adjustable",
+    "lineDiameter": "0.080 in. dual line (compatible with 0.095 in.)",
+    "shaftType": "Straight shaft, attachment-capable",
+    "headType": "Bump-feed with quick-load spool",
+    "weight": "Approx. 13–15 lbs with battery",
+    "battery": "Kit includes one 60V MAX 3.0Ah FLEXVOLT battery + charger",
+    "warranty": "3-year limited; 1-year free service; 90-day satisfaction guarantee"
+  },
+  "faq": [
+    {
+      "q": "Can I use my DeWalt 20V MAX batteries in the DCST972X1?",
+      "a": "The DCST972X1 requires a 60V MAX FLEXVOLT battery — standard 20V MAX packs do not have sufficient voltage to run this tool. However, the FLEXVOLT batteries included with or purchased for this trimmer are dual-voltage: they output 60V in 60V tools and automatically drop to 20V in any DeWalt 20V MAX tool. So the battery you buy for this trimmer works in hundreds of DeWalt 20V drills, saws, and impact drivers."
+    },
+    {
+      "q": "What attachments fit the DeWalt DCST972X1?",
+      "a": "The DCST972X1 accepts DeWalt's Expand-It attachment ecosystem, which includes an edger, blower, hedge trimmer, and brush-cutter head. Universal Expand-It compatible attachments from other brands also mount to the powerhead coupler. Buying attachments instead of separate tools reduces both cost and storage space for multi-function yard maintenance."
+    },
+    {
+      "q": "How does the 17-inch swath compare to 15-inch trimmers?",
+      "a": "A 17-inch cutting swath covers 13 percent more width per pass than 15 inches. On a large lawn with long unobstructed runs along a fence or property border, that difference translates to roughly one fewer pass every 8 to 10 feet. Over a half-acre or larger property the time and effort savings are meaningful. On a small suburban yard with frequent directional changes, the wider swath offers little practical advantage and adds difficulty in tight spots."
+    },
+    {
+      "q": "Is the DCST972X1 too heavy for residential use?",
+      "a": "Weight depends on use duration. For a 15-to-20-minute trim of a standard quarter-acre yard, 13 to 15 lbs is manageable. For longer sessions on a large property, the weight compounds. Users who trim for 40 or more minutes continuously — often those with half-acre or larger lots, which is the correct market for this tool — should use the over-the-shoulder strap mount included in some kit configurations, or plan for brief rest breaks."
+    },
+    {
+      "q": "What is the battery runtime on the DCST972X1?",
+      "a": "With the 3.0Ah FLEXVOLT battery in the base kit, expect 35 to 50 minutes of mixed residential trimming. Reviews of the 9.0Ah kit configuration report runtime of 80 minutes or more before depletion. Runtime drops significantly when running the 17-inch swath at high speed through dense vegetation. The FLEXVOLT platform has several additional battery capacity options, from 2.0Ah to 12.0Ah, giving precise control over the runtime-versus-weight trade-off."
+    },
+    {
+      "q": "How does the DCST972X1 compare to the EGO ST1521S?",
+      "a": "The DeWalt costs approximately $120 more and covers a different use case. Its 17-inch swath, 60V FLEXVOLT dual-voltage battery, and attachment capability make it the better choice for large properties, attachment-dependent users, and owners already invested in the DeWalt 20V/60V ecosystem. The EGO's POWERLOAD head is more convenient for line changes, its 56V platform is fully adequate for residential trimming, and it weighs significantly less. For a standard suburban lot without attachment needs, the EGO ST1521S is the sharper buy."
+    }
+  ],
+  "body": "## Placing the DCST972X1 in context\n\nDeWalt's FLEXVOLT lineup occupies the professional and serious-homeowner tier of the cordless outdoor equipment market. The DCST972X1 string trimmer reflects that positioning: it brings a 17-inch cutting swath, a 60V brushless motor, and universal attachment capability to a market where most residential buyers spend between $150 and $230. At $349 for the kit, it asks buyers to justify the premium — and for the right buyer, the justification is clear.\n\n## FLEXVOLT battery system: the platform story\n\nThe single most valuable feature of the DCST972X1 may not be the trimmer itself — it may be the FLEXVOLT battery that comes with it. FLEXVOLT packs are electronically dual-voltage: install one in any DeWalt 60V MAX tool and it delivers 60 volts; slide the same battery into any DeWalt 20V MAX tool and it automatically outputs 20 volts.\n\nFor homeowners and professionals already on the DeWalt 20V MAX platform — one of the broadest cordless tool ecosystems in the US, spanning drills, circular saws, impact drivers, and over 250 tools — buying the DCST972X1 kit adds a 60V/20V battery that expands the utility of every tool in the garage. That multiplier makes the $349 kit price more palatable when you factor in the battery's cross-platform value.\n\n## Cutting performance and swath advantage\n\nThe 17-inch cutting swath is the widest in this comparison set. Against the EGO's 15-inch swath, two inches sounds modest, but across 100 feet of fence line that difference means roughly six fewer passes. On large suburban or rural properties — anything over half an acre — that efficiency compounds into a meaningfully shorter job.\n\nThe brushless 60V motor maintains high line tip speed through the full range of vegetation this trimmer is likely to encounter. At maximum swath and high-speed mode, the DCST972X1 moves through knee-high ornamental grasses and moderate brush without the motor load hesitation that lower-voltage platforms occasionally show. The variable trigger and high/low speed toggle let you run at high speed for open area clearing, then drop to low for fine edging work and extended runtime.\n\nLine management uses a bump-feed quick-load head with 0.080-inch dual line, compatible with up to 0.095-inch for heavier cutting duty. The quick-load mechanism is functional but not as instant as EGO's POWERLOAD button system. Replacement spools are widely available at hardware chains.\n\n## Attachment capability\n\nThe DCST972X1's attachment coupler turns the powerhead into a platform. DeWalt's Expand-It attachment system is compatible, as are third-party Universal Expand-It attachments. Available heads include an edger (for precise sidewalk and driveway lines), a hedge trimmer, and a brush cutter — the last of which extends the tool's capability beyond string trimming into clearing small woody growth up to about an inch in diameter.\n\nFor users who currently own or plan to buy a dedicated edger, the attachment route provides the same function at lower total cost and with one fewer tool to store. The trade-off versus buying a dedicated tool is the minor inconvenience of swapping heads between uses.\n\n## Weight and handling realities\n\nThe DCST972X1 is a substantial tool. At approximately 13 to 15 lbs with the battery, it outweighs the EGO ST1521S by roughly two pounds at the high end and outweighs the Ryobi RY40250 by four to six pounds. DeWalt designed this tool with a heavy-duty user in mind, and that user typically works larger properties where power trumps light weight.\n\nFor a 20-minute trim of a standard suburban yard, the weight difference is minor. For a 45-minute session on a large lot with extended heavy vegetation clearing, it is noticeable. Users with shoulder injuries or who trim exclusively for short periods are better served by the lighter EGO or Ryobi alternatives.\n\n## Line management and maintenance\n\nThe bump-feed quick-load head is efficient for a bump system: pre-wound spools drop in with the bump cap removed, and tapping the spinning head on the ground advances fresh line. Replacement 0.080-inch spools are stocked at every major hardware chain, which is a practical advantage over specialty systems. Upgrading to 0.095-inch line for tougher work requires no head changes — just swap the spool.\n\nDeWalt's high/low speed toggle adds genuine flexibility. Run low speed for precision edging work near flower beds and pavements where over-cut would damage plants or create uneven lines. Switch to high speed for open lawn runs and dense weed patches where maximum line tip speed matters most. That two-mode control also directly affects battery depletion rate: low mode extends the 3.0Ah battery's runtime from roughly 35 minutes to closer to 50 minutes under the same yard conditions.\n\n## Who this tool is actually for\n\nThe DCST972X1 competes most directly for the buyer who maintains a half-acre or larger property, values attachment versatility, owns DeWalt 20V MAX tools and can reuse the FLEXVOLT battery, or works professionally trimming multiple properties. Those buyers will find the 17-inch swath, sustained 60V power, and attachment ecosystem a genuine productivity advantage.\n\nFor a homeowner with a quarter-acre lot and no DeWalt battery inventory, paying $349 for trimming capability that a $229 EGO ST1521S duplicates for residential work does not make arithmetic sense. The DCST972X1 is a well-built, powerful trimmer — but it is priced and specified for a different use case than most suburban buyers face.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": ["ego-st1521s", "ryobi-ry40250", "craftsman-cmcst930p1"]
+}
