@@ -21,6 +21,27 @@ const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 /**
+ * Return true only when id is a safe relative sub-path (no traversal).
+ * Rules: every slash-separated segment must match /^[a-z0-9][a-z0-9._-]*$/i
+ * and must not be `.` or `..`. Absolute paths and backslashes are also rejected.
+ * @param {string} id
+ * @returns {boolean}
+ */
+function isSafeId(id) {
+  if (typeof id !== 'string') return false;
+  // Reject absolute paths (Unix or Windows) and backslashes
+  if (id.startsWith('/') || id.startsWith('\\') || id.includes('\\')) return false;
+  const segments = id.split('/');
+  if (segments.length === 0) return false;
+  const segRe = /^[a-z0-9][a-z0-9._-]*$/i;
+  for (const seg of segments) {
+    if (seg === '.' || seg === '..') return false;
+    if (!segRe.test(seg)) return false;
+  }
+  return true;
+}
+
+/**
  * Parse a manifest source string into { kind, value }.
  * @param {string} source
  * @returns {{ kind: 'url' | 'pexels'; value: string }}
@@ -100,7 +121,7 @@ async function processImage(sharp, id, source, outBase) {
     .toFile(largePath);
 
   // Process small variant (640px wide)
-  await sharp(buf)
+  const smInfo = await sharp(buf)
     .rotate()
     .resize({ width: 640, withoutEnlargement: true })
     .webp({ quality: 78 })
@@ -108,7 +129,7 @@ async function processImage(sharp, id, source, outBase) {
 
   return {
     skipped: false,
-    meta: { width: largeInfo.width, height: largeInfo.height, credit },
+    meta: { width: largeInfo.width, height: largeInfo.height, smWidth: smInfo.width, credit },
   };
 }
 
@@ -143,6 +164,11 @@ async function main() {
   let failed = 0;
 
   for (const id of pending) {
+    if (!isSafeId(id)) {
+      console.error(`[images] ✗ ${id}: unsafe id`);
+      failed++;
+      continue;
+    }
     try {
       const result = await processImage(sharp, id, manifest[id].source, PUBLIC_IMAGES_DIR);
       if (result.skipped) {
@@ -173,7 +199,7 @@ async function main() {
   if (failed > 0) process.exit(1);
 }
 
-module.exports = { parseSource, pendingIds };
+module.exports = { parseSource, pendingIds, isSafeId };
 
 if (require.main === module) {
   main().catch((err) => {

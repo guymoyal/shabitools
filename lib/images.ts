@@ -7,10 +7,11 @@ export interface SiteImageData {
   alt: string;
   width: number;
   height: number;
+  smWidth: number;
 }
 
 interface ManifestEntry { source: string; alt: string }
-interface MetaEntry { width: number; height: number; credit: string | null }
+interface MetaEntry { width: number; height: number; smWidth?: number; credit: string | null }
 export interface ImageIndex { manifest: Record<string, ManifestEntry>; meta: Record<string, MetaEntry> }
 
 const DEFAULT_BASE = path.join(process.cwd(), 'content');
@@ -36,12 +37,14 @@ export function imageFromIndex(idx: ImageIndex, id: string): SiteImageData | nul
   const m = idx.manifest[id];
   const d = idx.meta[id];
   if (!m || !d) return null;
+  const smWidth = d.smWidth ?? Math.min(640, d.width);
   return {
     src: `/images/${id}.webp`,
     srcSm: `/images/${id}-sm.webp`,
     alt: m.alt,
     width: d.width,
     height: d.height,
+    smWidth,
   };
 }
 

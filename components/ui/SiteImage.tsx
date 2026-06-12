@@ -12,12 +12,19 @@ export default function SiteImage({
   priority?: boolean;
 }) {
   if (!image) return null;
+  // When the source image is narrower than 640px both variants are the same
+  // width (sharp uses withoutEnlargement), so a srcSet would advertise a wrong
+  // 640w descriptor. Emit no srcSet in that case — a single src is correct.
+  const srcSet =
+    image.smWidth < image.width
+      ? `${image.srcSm} ${image.smWidth}w, ${image.src} ${image.width}w`
+      : undefined;
   return (
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={image.src}
-      srcSet={`${image.srcSm} 640w, ${image.src} ${image.width}w`}
-      sizes={sizes}
+      srcSet={srcSet}
+      sizes={srcSet ? sizes : undefined}
       width={image.width}
       height={image.height}
       alt={image.alt}
