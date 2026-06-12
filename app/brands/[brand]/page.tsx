@@ -17,7 +17,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { brand: string } }): Metadata {
   const brand = getBrand(params.brand);
-  if (!brand) return {};
+  if (!brand) notFound();
   const description = `${brand.name} power tools brand guide — ${brand.knownFor
     .slice(0, 3)
     .join(', ')}, and who should choose ${brand.name}.`;

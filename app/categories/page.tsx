@@ -5,6 +5,7 @@ import JsonLd from '@/components/seo/JsonLd';
 import { getCategories } from '@/lib/content';
 import { itemListJsonLd } from '@/lib/schema';
 import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { stripMarkdown } from '@/lib/text';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Tool Categories',
@@ -12,15 +13,6 @@ export const metadata: Metadata = pageMetadata({
     'Power tool category guides covering what each tool type does, how the variants differ, and the buying factors that matter most before you choose.',
   path: '/categories',
 });
-
-function stripMarkdown(md: string) {
-  return md
-    .replace(/^#{1,6}\s+.*$/gm, '')
-    .replace(/[*_`>#-]/g, '')
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
 
 export default function CategoriesPage() {
   const categories = getCategories();

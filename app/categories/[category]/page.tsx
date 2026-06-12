@@ -17,7 +17,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { category: string } }): Metadata {
   const category = getCategory(params.category);
-  if (!category) return {};
+  if (!category) notFound();
   const description = `${category.name} buying guide — what they do, how the variants differ, and the key factors to weigh before you buy.`;
   return pageMetadata({
     title: `${category.name} — Buying Guide`,
@@ -51,14 +51,17 @@ export default function CategoryPage({ params }: { params: { category: string } 
         Updated <time dateTime={category.dateModified}>{category.dateModified}</time>
       </div>
       <Prose markdown={category.description} />
-      <div className="mt-8 grid gap-4 sm:grid-cols-2">
-        {category.buyingFactors.map((f) => (
-          <div key={f.title} className="rounded-xl border border-stone-200 bg-white p-5">
-            <h3 className="font-bold text-stone-900">{f.title}</h3>
-            <p className="mt-2 text-sm leading-relaxed text-stone-600">{f.text}</p>
-          </div>
-        ))}
-      </div>
+      <section>
+        <h2 className="mt-10 text-2xl font-bold text-stone-900">What to look for</h2>
+        <div className="mt-8 grid gap-4 sm:grid-cols-2">
+          {category.buyingFactors.map((f) => (
+            <div key={f.title} className="rounded-xl border border-stone-200 bg-white p-5">
+              <h3 className="font-bold text-stone-900">{f.title}</h3>
+              <p className="mt-2 text-sm leading-relaxed text-stone-600">{f.text}</p>
+            </div>
+          ))}
+        </div>
+      </section>
       {reviews.length > 0 && (
         <section className="mt-12">
           <h2 className="text-2xl font-bold text-stone-900">{category.name} reviews</h2>

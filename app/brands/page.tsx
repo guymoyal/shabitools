@@ -5,6 +5,7 @@ import JsonLd from '@/components/seo/JsonLd';
 import { getBrands } from '@/lib/content';
 import { itemListJsonLd } from '@/lib/schema';
 import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { stripMarkdown } from '@/lib/text';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Power Tool Brands',
@@ -12,15 +13,6 @@ export const metadata: Metadata = pageMetadata({
     'Brand guides to the major US power tool makers — Makita, Bosch, and more — covering battery platforms, pro versus DIY positioning, and what each brand is known for.',
   path: '/brands',
 });
-
-function stripMarkdown(md: string) {
-  return md
-    .replace(/^#{1,6}\s+.*$/gm, '')
-    .replace(/[*_`>#-]/g, '')
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
 
 export default function BrandsPage() {
   const brands = getBrands();
