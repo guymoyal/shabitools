@@ -11,9 +11,11 @@ import SpecTable from '@/components/reviews/SpecTable';
 import VerdictBox from '@/components/reviews/VerdictBox';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
+import SiteImage from '@/components/ui/SiteImage';
 import { getReview, getReviews } from '@/lib/content';
+import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd, productReviewJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -28,12 +30,14 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
     title: review.title,
     description: `${review.title}: rated ${review.rating}/5. ${review.bestFor}`,
     path: `/reviews/${review.slug}`,
+    image: ogImage(getImage(`reviews/${review.slug}`)),
   });
 }
 
 export default function ReviewPage({ params }: { params: { slug: string } }) {
   const review = getReview(params.slug);
   if (!review) notFound();
+  const hero = getImage(`reviews/${review.slug}`);
   const crumbs = [
     { name: 'Home', href: '/' },
     { name: 'Reviews', href: '/reviews' },
@@ -58,12 +62,24 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
           Updated <time dateTime={review.dateModified}>{review.dateModified}</time>
         </span>
       </div>
-      <VerdictBox
-        rating={review.rating}
-        bestFor={review.bestFor}
-        skipIf={review.skipIf}
-        priceRange={review.priceRange}
-      />
+      <div className="mt-6 grid gap-6 sm:grid-cols-[1fr_auto]">
+        <VerdictBox
+          rating={review.rating}
+          bestFor={review.bestFor}
+          skipIf={review.skipIf}
+          priceRange={review.priceRange}
+        />
+        {hero && (
+          <div className="order-first sm:order-last sm:w-52 aspect-square overflow-hidden rounded-2xl bg-stone-100 shrink-0">
+            <SiteImage
+              image={hero}
+              priority
+              sizes="(max-width: 640px) 100vw, 208px"
+              className="h-full w-full object-cover"
+            />
+          </div>
+        )}
+      </div>
       <AffiliateCTA links={review.affiliate} productName={review.model} />
       <SpecTable specs={review.specs} />
       <ProsCons pros={review.pros} cons={review.cons} />

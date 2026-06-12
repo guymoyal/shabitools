@@ -8,9 +8,11 @@ import AffiliateCTA from '@/components/monetization/AffiliateCTA';
 import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
+import SiteImage from '@/components/ui/SiteImage';
 import { getCompare, getCompares, getReview } from '@/lib/content';
+import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -27,10 +29,12 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   if (!compare) return {};
   const description =
     compare.verdict.length > 150 ? `${compare.verdict.slice(0, 147).trimEnd()}...` : compare.verdict;
+  const imageA = getImage(`reviews/${compare.productA.reviewSlug}`);
   return pageMetadata({
     title: compare.title,
     description,
     path: `/compare/${compare.slug}`,
+    image: ogImage(imageA),
   });
 }
 
@@ -48,6 +52,8 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
       : getReview(
           compare.winner === 'a' ? compare.productA.reviewSlug : compare.productB.reviewSlug
         );
+  const imageA = getImage(`reviews/${compare.productA.reviewSlug}`);
+  const imageB = getImage(`reviews/${compare.productB.reviewSlug}`);
   return (
     <article className="mx-auto max-w-3xl px-4 py-10">
       <JsonLd
@@ -63,6 +69,24 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
       <div className="mt-3 text-sm text-stone-500">
         Updated <time dateTime={compare.dateModified}>{compare.dateModified}</time>
       </div>
+      {(imageA || imageB) && (
+        <div className="mt-6 grid grid-cols-2 gap-4">
+          {[{ image: imageA, name: compare.productA.name }, { image: imageB, name: compare.productB.name }].map(
+            ({ image, name }) => (
+              <div key={name} className="flex flex-col gap-2">
+                <div className="aspect-square overflow-hidden rounded-xl bg-stone-100">
+                  <SiteImage
+                    image={image}
+                    sizes="(max-width: 640px) 50vw, 320px"
+                    className="h-full w-full object-cover"
+                  />
+                </div>
+                <p className="text-center text-sm font-medium text-stone-700">{name}</p>
+              </div>
+            )
+          )}
+        </div>
+      )}
       <aside className="mt-8 rounded-2xl border-2 border-amber-300 bg-amber-50 p-6">
         <h2 className="text-xl font-bold text-stone-900">The short answer</h2>
         <p className="mt-2 leading-relaxed text-stone-700">{compare.verdict}</p>

@@ -7,9 +7,11 @@ import AdSlot from '@/components/monetization/AdSlot';
 import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
+import SiteImage from '@/components/ui/SiteImage';
 import { getGuide, getGuides } from '@/lib/content';
+import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -30,12 +32,14 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
     title: guide.title,
     description,
     path: `/guides/${guide.slug}`,
+    image: ogImage(getImage(`guides/${guide.slug}`)),
   });
 }
 
 export default function GuidePage({ params }: { params: { slug: string } }) {
   const guide = getGuide(params.slug);
   if (!guide) notFound();
+  const hero = getImage(`guides/${guide.slug}`);
   const crumbs = [
     { name: 'Home', href: '/' },
     { name: 'Guides', href: '/guides' },
@@ -57,6 +61,16 @@ export default function GuidePage({ params }: { params: { slug: string } }) {
         ]}
       />
       <Breadcrumbs items={crumbs} />
+      {hero && (
+        <div className="mt-4 aspect-[3/1] overflow-hidden rounded-2xl bg-stone-100">
+          <SiteImage
+            image={hero}
+            priority
+            sizes="(max-width: 768px) 100vw, 768px"
+            className="h-full w-full object-cover"
+          />
+        </div>
+      )}
       <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-stone-900 sm:text-4xl">
         {guide.title}
       </h1>

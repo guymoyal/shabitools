@@ -5,9 +5,11 @@ import Prose from '@/components/layout/Prose';
 import ReviewCard from '@/components/reviews/ReviewCard';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
+import SiteImage from '@/components/ui/SiteImage';
 import { getCategories, getCategory, getReviews } from '@/lib/content';
+import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -23,12 +25,14 @@ export function generateMetadata({ params }: { params: { category: string } }): 
     title: `${category.name} — Buying Guide`,
     description,
     path: `/categories/${category.slug}`,
+    image: ogImage(getImage(`categories/${category.slug}`)),
   });
 }
 
 export default function CategoryPage({ params }: { params: { category: string } }) {
   const category = getCategory(params.category);
   if (!category) notFound();
+  const hero = getImage(`categories/${category.slug}`);
   const crumbs = [
     { name: 'Home', href: '/' },
     { name: 'Categories', href: '/categories' },
@@ -50,6 +54,15 @@ export default function CategoryPage({ params }: { params: { category: string } 
       <div className="mt-3 text-sm text-stone-500">
         Updated <time dateTime={category.dateModified}>{category.dateModified}</time>
       </div>
+      {hero && (
+        <div className="mt-6 aspect-[3/1] overflow-hidden rounded-2xl bg-stone-100">
+          <SiteImage
+            image={hero}
+            sizes="(max-width: 768px) 100vw, 768px"
+            className="h-full w-full object-cover"
+          />
+        </div>
+      )}
       <Prose markdown={category.description} />
       <section>
         <h2 className="mt-10 text-2xl font-bold text-stone-900">What to look for</h2>

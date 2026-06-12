@@ -4,8 +4,12 @@ import PageHero from '@/components/layout/PageHero';
 import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import ProjectCard from '@/components/projects/ProjectCard';
 import ReviewCard from '@/components/reviews/ReviewCard';
+import SiteImage from '@/components/ui/SiteImage';
 import { getCategories, getGuides, getProjects, getReviews } from '@/lib/content';
-import { pageMetadata } from '@/lib/seo';
+import { getImage } from '@/lib/images';
+import { pageMetadata, ogImage } from '@/lib/seo';
+
+const heroImage = getImage('home/hero');
 
 export const metadata: Metadata = pageMetadata({
   title: 'shabitools — Honest Home & Power Tool Reviews',
@@ -13,6 +17,7 @@ export const metadata: Metadata = pageMetadata({
     'Independent reviews, head-to-head comparisons, and buying guides for Makita, DeWalt, Bosch, and Milwaukee power tools. Clear verdicts: buy it or skip it.',
   path: '',
   ogType: 'website',
+  image: ogImage(heroImage),
 });
 
 export default function HomePage() {
@@ -26,6 +31,16 @@ export default function HomePage() {
         title="Power tool reviews you can actually use"
         subtitle="We test the claims, compare the specs, and end every review with a straight answer: buy it, or skip it."
       >
+        {heroImage && (
+          <div className="mt-6 overflow-hidden rounded-2xl bg-stone-100 aspect-[16/5]">
+            <SiteImage
+              image={heroImage}
+              priority
+              sizes="(max-width: 1024px) 100vw, 1024px"
+              className="h-full w-full object-cover"
+            />
+          </div>
+        )}
         <div className="mt-6 flex flex-wrap gap-3">
           <Link
             href="/guides/best-cordless-drill-2026"

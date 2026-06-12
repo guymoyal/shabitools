@@ -13,7 +13,7 @@ import SiteImage from '@/components/ui/SiteImage';
 import { getProject, getProjects, resolveRelated } from '@/lib/content';
 import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd, howToJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -28,6 +28,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
     title: project.title,
     description: project.description,
     path: `/projects/${project.slug}`,
+    image: ogImage(getImage(`projects/${project.slug}`)),
   });
 }
 

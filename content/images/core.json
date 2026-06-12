@@ -1,19 +1,23 @@
 {
+  "home/hero": {
+    "source": "pexels:home workshop power tools workbench wall",
+    "alt": "Organized home workshop with power tools on a workbench"
+  },
   "reviews/makita-xfd131": {
-    "source": "pexels:Makita cordless drill driver 18V LXT on workbench",
-    "alt": "Makita XFD131 18V LXT cordless drill driver on a workshop workbench"
+    "source": "https://cdn.makitatools.com/apps/cms/img/xfd/057c4770-87b7-4fdf-8a16-9c42bd7ccc45_xfd131_k_500px.png",
+    "alt": "Makita XFD131 18V LXT Brushless Cordless 1/2-Inch Driver-Drill Kit"
   },
   "reviews/dewalt-dcd800": {
-    "source": "pexels:DeWalt cordless drill 20V compact driver on wood",
-    "alt": "DeWalt DCD800 20V MAX compact brushless drill driver with battery on lumber"
+    "source": "https://assets.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/WHITEBG/DCD800B_1_1680.webp",
+    "alt": "DeWalt DCD800B 20V MAX XR Brushless Cordless 1/2-Inch Drill/Driver"
   },
   "reviews/bosch-gsr18v-400": {
-    "source": "pexels:Bosch cordless drill 18V screwdriving wood framing",
-    "alt": "Bosch GSR18V-400 18V brushless cordless drill driving screws into wood framing"
+    "source": "https://www.boschtools.com/binary/ocsmedia/optimized/1434x828/o252584v945_cordlessdrilldriver18vAMPshareCORE18VGSR18V400B12boschkit.png",
+    "alt": "Bosch GSR18V-400B12 18V Brushless Cordless 1/2-Inch Drill/Driver Kit"
   },
   "reviews/milwaukee-2904": {
-    "source": "pexels:Milwaukee cordless hammer drill 18V M18 on concrete block",
-    "alt": "Milwaukee 2904-20 M18 FUEL cordless hammer drill on a concrete block surface"
+    "source": "https://www.milwaukeetool.com/--/web-images/sc/92189d4f48274ce79371584b87e05759?hash=8c18f40f97a0cf739200b816abc1c00e&lang=en",
+    "alt": "Milwaukee 2904-20 M18 FUEL 1/2-Inch Cordless Hammer Drill/Driver"
   },
   "guides/best-cordless-drill-2026": {
     "source": "pexels:cordless drills comparison lineup workshop bench tools",
