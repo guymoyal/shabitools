@@ -1,0 +1,109 @@
+{
+  "slug": "stain-a-deck",
+  "title": "How to Prep, Clean, and Stain a Wood Deck",
+  "description": "Restore a weathered wood deck in a weekend: clean, brighten, sand, and apply a semitransparent stain with a roller and brush for lasting protection.",
+  "category": "outdoor",
+  "difficulty": "intermediate",
+  "timeRequired": "2–3 days (including dry time)",
+  "timeRequiredIso": "PT48H",
+  "estCost": "$80–$200",
+  "toolsNeeded": [
+    {
+      "name": "Pressure washer",
+      "reviewSlug": "ryobi-ry142300"
+    },
+    {
+      "name": "Deck brush or scrub brush"
+    },
+    {
+      "name": "Bucket"
+    },
+    {
+      "name": "Garden sprayer or pump sprayer"
+    },
+    {
+      "name": "Paint roller with extension pole"
+    },
+    {
+      "name": "Paintbrushes (2–3 inch)"
+    },
+    {
+      "name": "Putty knife or scraper"
+    },
+    {
+      "name": "Orbital sander or hand sanding block"
+    }
+  ],
+  "materials": [
+    "Deck cleaner/stripper (oxalic acid based for brightening)",
+    "Deck stain (semitransparent, oil- or water-based)",
+    "Deck stain pad (for roller application)",
+    "Painter's tape",
+    "Drop cloths or plastic sheeting",
+    "Protective gear: gloves, safety glasses, respirator"
+  ],
+  "steps": [
+    {
+      "name": "Clear the deck and inspect for damage",
+      "text": "Remove all furniture, planters, grills, and other items from the deck. Sweep away leaves and debris. Inspect every board for rot, cracks, protruding nails, or loose fasteners. Replace any rotted boards before proceeding. Drive popped nails below the surface and countersink them with a nail set. Check railings and stairs for stability. Any repair work must be done on dry wood, so plan accordingly."
+    },
+    {
+      "name": "Clean the deck with a deck cleaner",
+      "text": "Wet the deck surface. Mix the deck cleaner (typically an oxalic acid brightener) according to label instructions in a garden sprayer. Apply evenly, working from higher areas to lower to avoid drips. Let it sit for 5–15 minutes as directed. Scrub stubborn areas with a stiff deck brush. Rinse thoroughly with a garden hose or pressure washer set to fan spray at 1200–1500 psi. Keep the nozzle moving to avoid gouging the wood. Allow the deck to dry for 24–48 hours until the moisture content is below 15%."
+    },
+    {
+      "name": "Sand the deck surface (if needed)",
+      "text": "If the deck is rough or has raised grain from previous stain, lightly sand with 80–100 grit sandpaper on a pole sander or orbital sander. Work in the direction of the grain. Pay extra attention to high-traffic areas and ends of boards. After sanding, sweep or blow off all dust. Sanding opens the wood pores and ensures good stain penetration. For new wood or previously unstained decks, sanding is optional but recommended for a smooth finish."
+    },
+    {
+      "name": "Mask adjacent surfaces",
+      "text": "Apply painter's tape along the house siding, brick, stone, or any adjacent surfaces that should not be stained. Cover plants and shrubs with plastic sheeting or drop cloths to protect them from overspray and drips. Remove or wrap light fixtures and outlet covers. Protect any glass or metal railings if they adjoin wood surfaces. This prep step saves cleanup time and prevents staining mistakes."
+    },
+    {
+      "name": "Stir and transfer the stain",
+      "text": "Stir the stain thoroughly with a stir stick; pigments can settle at the bottom. Do not shake the can, as that can introduce bubbles. Pour a manageable amount into a roller tray or a 5-gallon bucket for a roller and brush set. If using multiple cans, mix them together in a larger container to ensure color uniformity across the entire deck."
+    },
+    {
+      "name": "Apply the stain to the deck surface",
+      "text": "Start at the far end of the deck and work toward the exit so you don't walk over wet stain. Use a roller with an extension pole to apply stain in long, even strokes, working in 2–3 board sections. Maintain a wet edge to avoid lap marks. After rolling, lightly back-brush or back-roll with a brush or stain pad to work the stain into the grain and eliminate puddles. Avoid heavy application that pools; wipe off excess. For edges, corners, and between boards, use a 2–3 inch brush. Let the first coat dry per manufacturer instructions (usually 4–6 hours for water-based, 8–12 for oil-based). Apply a second coat if desired for deeper color."
+    },
+    {
+      "name": "Stain railings and stairs (optional / separate step)",
+      "text": "If your deck has railings, stain them separately using a brush. Work top-down: top rail, balusters, then bottom rail. For stairs, stain every other tread so you can still walk while the other treads dry. Apply light, even coats; heavy stain on vertical surfaces will drip. Wipe drips immediately with a rag. Allow railings to dry completely before reattaching any decor."
+    },
+    {
+      "name": "Let the stain cure and move furniture back",
+      "text": "Allow the stain to cure for at least 24–48 hours before light foot traffic, and 72+ hours before moving furniture back onto the deck. Check manufacturer recommendations. During this time, keep the deck dry and avoid sprinklers. Once cured, replace furniture with protective pads under legs to prevent scratches. Enjoy your refreshed deck."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I stain my deck?",
+      "a": "Typically every 2–3 years, depending on sun exposure and weather. Wood that shows graying, water beading failure, or cracking is overdue."
+    },
+    {
+      "q": "Can I stain over old stain?",
+      "a": "Only if the old stain is well-adhered and not peeling. Otherwise, you need to strip or clean thoroughly to bare wood, or the new stain will not bond properly."
+    },
+    {
+      "q": "What's the difference between transparent, semitransparent, and solid stain?",
+      "a": "Transparent shows wood grain but offers minimal UV protection. Semitransparent (recommended) provides color while allowing grain to show. Solid stain looks like paint and hides grain completely."
+    },
+    {
+      "q": "Should I use oil-based or water-based stain?",
+      "a": "Oil-based penetrates deeper and lasts longer, but takes longer to dry and has stronger fumes. Water-based dries quickly, cleans up with soap, and has low VOCs. Both work well; choose based on your time and sensitivity to odor."
+    },
+    {
+      "q": "How do I prevent lap marks when staining?",
+      "a": "Maintain a wet edge by working in small sections and always ending on a wet area. Avoid staining in direct hot sun. Back-brushing helps blend edges. If using a roller, keep it loaded and overlap strokes promptly."
+    }
+  ],
+  "body": "## Why Stain a Deck?\n\nA wood deck takes a beating: UV rays, rain, snow, mildew, and foot traffic all break down the protective finish and the wood itself. Staining a deck restores its color, protects against moisture and sun damage, and extends the life of the boards. Unlike paint, a semitransparent stain soaks into the wood grain, allowing the natural texture to show while adding a durable, breathable coating. This project is suitable for intermediate DIYers who own or can rent a pressure washer; it requires patience for drying between steps, but the result is a deck that looks new and resists cracking, graying, and warping.\n\n## Planning Your Deck Stain Project\n\nStart by checking the weather forecast. You need two consecutive days with no rain and temperatures between 50°F and 90°F (ideally 60–80°F). Stain applied in direct sun can dry too fast, causing lap marks; if you must stain in sun, work in small areas and keep a wet edge. For cleaning, do not use bleach unless the instructions say so — bleach can gray wood and harm surrounding vegetation. Choose an oxalic acid-based brightener that restores wood's natural color. Estimate the stain amount: most decks require 2–3 coats, and one gallon covers about 150–300 sq ft depending on wood porosity. For a 200 sq ft deck, plan on 2 gallons total.\n\n## Mistakes to Avoid\n\n- Skipping the cleaning step: dirt and previous finish will block stain penetration. Clean thoroughly and allow full dry time (moisture test with plastic wrap: tape a 12-inch square of plastic to the deck overnight; if moisture collects underneath, it's too wet).\n- Applying stain too thick: puddles cure as a sticky film that peels. Wipe off excess immediately.\n- Overlapping dry stain: always maintain a wet edge. Work in 2–3 board increments.\n- Staining in full sun: the stain flashes off quickly, leaving streaks. Shade the deck or work early/late.\n- Walking on wet stain: boot prints are permanent. Use boards or step on unsanded areas.\n- Using cheap brushes: synthetic bristles shed and leave marks. Use quality nylon/polyester brushes.\n\n## Machine and Tool Selection\n\nA pressure washer is the most efficient tool for cleaning a deck, but it must be used carefully to avoid damaging the wood. A gas or electric model with an adjustable spray tip and a maximum pressure of 1500 psi is ideal. The Ryobi RY142300 is a good choice for this task, offering a 2300 psi max but adjustable down to a gentle 1200 psi fan spray that cleans without gouging. For scrubbing, a stiff-bristle deck brush reaches into grain and cracks. For sanding, a random orbital sander with 80–100 grit discs saves time, but a pole sander works for larger areas. Good quality paintbrushes (2–3 inch angled sash brushes) allow precise cutting in along edges and between boards. Roller frames with a 3/8-inch nap cover and a stain pad make fast work of open areas.\n\n## Step-by-Step Application Tips\n\nWhen applying stain, work in manageable sections of about 2–3 boards wide and 4–6 feet long. This keeps the stain wet and workable. After rolling, immediately back-brush with a wide brush to work the stain into the wood and smooth out any lines. For water-based stain, work quickly as it dries faster; for oil-based, you have more open time. Always apply stain in the direction of the wood grain. If you need to stop mid-project, end at a natural break such as a board joint or the edge of a section to avoid lap marks.\n\n## Curing and Maintenance\n\nAfter the final coat, keep foot traffic off for at least 24 hours and heavy furniture for 72 hours. Check the deck for any bare spots or drips after 24 hours; you can touch them up with a small brush. To maintain the stain, sweep regularly and clean with a mild soap solution once a year. Reapply stain every two to three years, or when water no longer beads on the surface. A well-maintained deck can last decades with proper care.\n\n## Safety\n\nWear chemical-resistant gloves when handling deck cleaner and stain. Avoid skin contact; wash immediately if spilled. Use safety glasses when using a pressure washer — debris can kick back at high speed. Wear a respirator rated for organic vapors when applying oil-based stain, and ensure good ventilation. Protect eyes and skin from sanding dust; wear a dust mask. Keep cleaning products and stains away from children and pets. Cover plants and grass to prevent chemical damage. Follow all manufacturer safety instructions on product labels. Dispose of oil-soaked rags in a sealed metal container to prevent spontaneous combustion. Store leftover stain in a cool, dry place, tightly sealed.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "pressure-wash-a-driveway",
+    "replace-deck-boards",
+    "ryobi-ry142300"
+  ]
+}

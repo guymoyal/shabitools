@@ -1,0 +1,104 @@
+{
+  "slug": "fix-sticking-windows",
+  "title": "How to Free a Painted-Shut or Swollen Window (DIY Guide)",
+  "description": "Learn how to open painted-shut or humidity-swollen windows with a utility knife, heat gun, and sanding tips. Step-by-step restoration without damaging the frame.",
+  "category": "home-repair",
+  "difficulty": "intermediate",
+  "timeRequired": "2–4 hours per window",
+  "timeRequiredIso": "PT3H",
+  "estCost": "$15–$40",
+  "toolsNeeded": [
+    {
+      "name": "Utility knife"
+    },
+    {
+      "name": "Heat gun or hair dryer"
+    },
+    {
+      "name": "Paint scraper or putty knife"
+    },
+    {
+      "name": "Pry bar (small)"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Orbital sander or sanding block",
+      "reviewSlug": "makita-bo5041"
+    },
+    {
+      "name": "Wood chisel"
+    }
+  ],
+  "materials": [
+    "Razor blades or utility knife blades (pack of 10)",
+    "Lubricant spray (silicone- or paraffin-based)",
+    "80- and 120-grit sandpaper",
+    "Latex or acrylic caulk (for sealing after repairs)"
+  ],
+  "steps": [
+    {
+      "name": "Cut the paint seal along the sash edges",
+      "text": "Use a sharp utility knife to score the paint seal where the window sash meets the frame. Run the blade along the full perimeter on both the interior and exterior sides. Press firmly enough to cut through the paint film without gouging the wood. You may need to go over the line twice. For latex paint, a heat gun set on low can soften the paint, but be careful not to scorch the wood."
+    },
+    {
+      "name": "Break the bond with a putty knife or scraper",
+      "text": "Insert a thin putty knife or paint scraper between the sash and frame, tapping gently with a hammer to work it into the gap. Work your way around the window, levering the tool to separate the painted joint. Do not pry aggressively at one spot; move progressively to distribute the force. On painted-stuck windows, this step often frees the sash without further persuasion."
+    },
+    {
+      "name": "Tap the sash upward with a wood block",
+      "text": "Place a block of scrap wood against the bottom edge of the lower sash (inside the room) and tap it upward with a hammer. The wood block protects the paint and wood from hammer marks. Tap alternately on both sides, a few blows per side, until the sash starts to move. If the window does not budge, repeat the paint-cutting step or apply heat to soften thick paint layers."
+    },
+    {
+      "name": "Remove the sash if it is fully stuck or needs work",
+      "text": "If the window remains stuck despite repeated attempts, you may need to remove the sash. On most double-hung windows, pry off the interior stop trim with a small pry bar. Be careful not to break the wood; if it is painted, score the paint first. Once the stops are off, tilt the sash inward and lift it free. This allows you to work on the window off the frame."
+    },
+    {
+      "name": "Sand or plane swollen areas",
+      "text": "Inspect the sash edges and frame tracks for swollen or tight spots. For wood windows, sand the swollen areas with 80-grit sandpaper, working gradually until the sash slides freely. Keep sanding even; remove no more than 1/16 inch from any one side. For metal windows, use a metal file or emery cloth on burred edges. After sanding, finish with 120-grit to smooth the surface. Wipe off all dust."
+    },
+    {
+      "name": "Lubricate the tracks and hardware",
+      "text": "Apply a silicone- or paraffin-based lubricant to the window tracks and any pulleys or springs. Spray into the tracks and wipe excess. Work the window up and down several times to distribute the lubricant. Avoid oil-based lubricants on wood windows as they can stain the paint. For smooth operation, you should feel no binding."
+    },
+    {
+      "name": "Reinstall the sash and test operation",
+      "text": "Replace the sash by reversing the removal steps. For double-hung windows, insert the top sash first, then the bottom sash, then reattach the stop trim. Check that each sash moves freely through its full range. If binding occurs at a specific point, mark the spot and sand lightly. Seal the gap between the stop and frame with a thin bead of caulk to prevent air leaks."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I free a painted-shut window without damaging the paint?",
+      "a": "It is possible but difficult. Score the paint carefully with a sharp utility knife before prying. Use a thin putty knife to break the bond. If the paint is thick, a heat gun set on low can soften it without burning the paint. However, some paint chipping is almost inevitable, especially on older windows with multiple paint layers."
+    },
+    {
+      "q": "What should I do if the window is stuck due to swelling?",
+      "a": "Swollen windows are common in humid climates or after rain. The best approach is to sand the swollen areas of the sash and frame tracks. Use 80-grit sandpaper on a block to remove material evenly. For severe swelling, you may need to plane the sash edges with a wood plane. After sanding, seal the bare wood with primer and paint to prevent future moisture absorption."
+    },
+    {
+      "q": "How do I lubricate a window that sticks?",
+      "a": "Use a silicone-based spray lubricant or a paraffin-based wax stick. Apply a small amount to the tracks and any moving parts like pulleys and springs. Work the window up and down to spread the lubricant. Avoid oil-based lubricants as they attract dust and can stain wood. For wood windows, a dry lubricant like graphite powder is also effective."
+    },
+    {
+      "q": "Is it safe to use a heat gun on a painted window?",
+      "a": "Yes, if used carefully. Set the heat gun on low (around 300°F) and keep it moving to avoid scorching the wood or igniting paint. Do not use a heat gun on windows with lead-based paint (pre-1978). In that case, test the paint or use a chemical stripper instead. Always work in a well-ventilated area and keep a fire extinguisher nearby."
+    },
+    {
+      "q": "When should I call a professional instead of DIY?",
+      "a": "Call a professional if the window frame is rotted, the glass is cracked, or the window is painted shut with lead-based paint that you are not equipped to handle. Also, if the window is a large or heavy commercial style, or if it is part of a historic building with strict preservation rules, professional help is recommended."
+    },
+    {
+      "q": "Can I use a pry bar directly on the window sash?",
+      "a": "Never pry directly on the sash with a metal bar as it will dent and gouge the wood. Always place a scrap wood block between the pry bar and the sash. For prying off trim, use a small pry bar with a flat edge and lever against a wood shim to protect the wall or frame."
+    }
+  ],
+  "body": "## Why windows get stuck\n\nWindows that refuse to open are a common nuisance in older homes and in humid climates. The two culprits are paint that has bridged the gap between the sash and the frame, and wood that has swollen from moisture absorption. Both are fixable with hand tools and a little patience. This guide applies to standard double-hung wood windows, but the same techniques work for single-hung, sliding, and even some aluminum windows.\n\n## Planning your repair\n\nBefore picking up a tool, assess the situation. Check for visible paint bridging along the sash edges. Look for signs of swelling: tight spots when you try to move the sash, especially at the bottom or sides. If the window is painted shut, you will need a utility knife and possibly a heat gun. If it is swollen, plan on sanding or planing. If the frame is rotted, repair or replacement will be needed beyond the scope of this guide. Work on mild days when humidity is low—damp wood swells more and will resist movement. Also, remove any window locks or latches that might be holding the sash. Sometimes the lock itself is the obstruction.\n\n## Common mistakes to avoid\n\nThe biggest mistake is applying brute force. Prying or hammering without first cutting the paint seal can crack the glass or split the sash. Another common error is sanding too much: remove only what is necessary, then test frequently. Over-sanding creates gaps that lead to drafts. Third, do not use oil-based lubricants on wood windows—they attract dirt and can cause the wood to swell further. Finally, ignoring lead paint: if your home was built before 1978, test the paint before sanding or using heat. Lead paint dust is toxic; if present, use wet sanding and a HEPA vacuum, or call a pro.\n\n## Step-by-step instructions\n\nFollow the step-by-step instructions above to free your window. Each step builds on the previous one, from cutting paint to lubricating the tracks. If the window remains stuck after following all steps, you may need to remove the sash entirely for more aggressive sanding or planing. Always work patiently—a forced window often leads to broken glass or damaged frames. The key is to identify the specific problem first. For painted-shut windows, cutting the paint seal is usually enough. For swollen windows, sanding the tight spots is the solution. Sometimes a window is both painted and swollen, requiring both treatments. Be methodical and test the window after each step rather than trying everything at once.\n\n## Additional tips for stubborn windows\n\nIf the window still will not budge after cutting paint and sanding, consider checking the balance springs or weights. In double-hung windows, broken springs or disconnected sash cords can add friction that feels like sticking. If the window tilts in but is hard to lift, the springs may need adjustment or replacement. You can also check the weatherstripping: old, compressed, or sticky weatherstripping can bind the sash. Remove or replace it if necessary. For aluminum windows, check for bent tracks or debris in the channels. A vacuum crevice tool can clear out dirt that prevents smooth sliding.\n\n## Safety\n\nWear safety glasses when cutting paint, sanding, or prying to protect against flying debris. If using a heat gun, wear heat-resistant gloves and avoid contact with flammable materials. Test for lead paint with a home kit before sanding; if positive, follow EPA guidelines for safe handling. Keep children and pets away from the workspace. When using a utility knife, retract the blade when not in use and cut away from your body. For high windows, use a stable step stool or ladder, never furniture, and keep three points of contact. Ventilate the area when using any chemical strippers or spray lubricants.\n\n## Finishing up\n\nAfter freeing the window, take a moment to clean the tracks and sash with a damp cloth. Touch up any scratches or bare wood with primer and paint to protect against future moisture. Apply a thin bead of caulk around the interior stops to seal out drafts. With proper care, your window will open smoothly for years. If you plan to paint the window again, use a high-quality exterior paint and avoid applying thick coats that can bridge the gap. Regular maintenance, including periodic lubrication and cleaning, will prevent future sticking.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "dewalt-dcs356b",
+    "makita-bo5041",
+    "milwaukee-2836-20"
+  ]
+}

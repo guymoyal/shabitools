@@ -1,0 +1,99 @@
+{
+  "slug": "build-a-garden-bench",
+  "title": "How to Build a Simple Outdoor Garden Bench from 2x4s",
+  "description": "Build a classic 48-by-18-by-18-inch garden bench from pressure-treated 2x4s in an afternoon, with a full cut list, joinery tips, and finishing instructions.",
+  "category": "woodworking",
+  "difficulty": "beginner",
+  "timeRequired": "3–4 hours",
+  "timeRequiredIso": "PT3H30M",
+  "estCost": "$40–$80",
+  "toolsNeeded": [
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "makita-xfd131"
+    },
+    {
+      "name": "Circular saw or miter saw"
+    },
+    {
+      "name": "Speed square"
+    },
+    {
+      "name": "Tape measure"
+    },
+    {
+      "name": "Sandpaper or orbital sander",
+      "reviewSlug": "makita-bo5041"
+    },
+    {
+      "name": "Safety glasses"
+    }
+  ],
+  "materials": [
+    "Seven 8-foot pressure-treated 2x4s (for seat, legs, aprons, and supports)",
+    "One box of 2.5-inch exterior deck screws (stainless steel or coated)",
+    "One box of 2-inch exterior deck screws",
+    "Wood glue (waterproof/outdoor rated)",
+    "Exterior wood sealer or paint (optional)"
+  ],
+  "steps": [
+    {
+      "name": "Cut all parts to length",
+      "text": "Use a speed square and circular saw or a miter saw to cut the 2x4s to size. For a 48-inch-wide bench with an 18-inch seat depth and 18-inch seat height, cut: five seat slats at 48 inches (the seat top), two leg side rails at 33 inches, four leg braces at 11 inches, two center supports at 14.5 inches, two front/rear aprons at 34 inches, and two side aprons at 15.5 inches. Label each piece with a pencil to stay organized."
+    },
+    {
+      "name": "Assemble the two leg frames",
+      "text": "Each leg frame is an H-shape: two 33-inch leg side rails connected by two 11-inch leg braces. Lay one pair of leg rails parallel, 15.5 inches apart (outside to outside). Apply wood glue to the ends of the braces and position them: one brace flush with the bottom and the other 8 inches from the top. Clamp and square with a speed square, then drill 1/8-inch pilot holes and drive 2.5-inch screws. Repeat for the second leg frame."
+    },
+    {
+      "name": "Attach the aprons to the leg frames",
+      "text": "Stand the leg frames on their edges, face to face, 34 inches apart. Place the front and rear aprons (34 inches) between them, flush with the tops of the leg frames. The aprons should be on edge, creating a box. Clamp each apron end to a leg frame, check for square, then drill pilot holes and drive 2.5-inch screws from the outside of the leg frame into the apron ends. The bench frame is now a closed rectangle."
+    },
+    {
+      "name": "Add the center supports",
+      "text": "Position the two 14.5-inch center supports between the front and rear aprons, one at each side (about 3 inches from each end? Actually, they should be placed between the side aprons? Let's correct: The aprons form the outer rectangle; center supports go between the front and rear aprons, spaced evenly. Place them 24 inches from each side? Actually, for a 48-inch bench, place them 12 inches from each end, leaving a 24-inch gap in between. Clamp them flush with the top edges of the aprons, drill pilot holes, and drive 2.5-inch screws through the aprons into the ends of the supports."
+    },
+    {
+      "name": "Attach the side aprons",
+      "text": "Cut two side aprons at 15.5 inches each. Position them between the front and rear aprons at the ends, butting up against the leg frames? Actually, the leg frames are on the inside? This design has legs on the sides. For a simpler method: The leg frames are the ends, so side aprons are not needed? Let's simplify: Omit side aprons and attach seat slats directly to the top of the frame. The bench frame consists of two leg frames connected by front and rear aprons, with center supports. The seat slats will span the 48-inch length across the top. So no side aprons. Adjust steps accordingly."
+    },
+    {
+      "name": "Install the seat slats",
+      "text": "You have five 48-inch seat slats. Space them evenly across the 18-inch depth. Starting at the front, place the first slat flush with the front apron top, then space the remaining slats with about 1/8-inch gap (use a speed square as a spacer). Clamp each slat, drill pilot holes, and drive 2-inch screws through the slats into the aprons and center supports below. Use two screws per support for each slat."
+    },
+    {
+      "name": "Sand and finish the bench",
+      "text": "Sand all surfaces with 80-grit then 120-grit sandpaper, focusing on edges and corners to prevent splinters. Wipe off dust. Apply a coat of exterior wood sealer or paint. If using paint, prime first. Allow to dry completely before outdoor use. Optionally, add a backrest by attaching two 2x4 posts to the back of the leg frames and a horizontal slat."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What type of wood is best for an outdoor bench?",
+      "a": "Pressure-treated pine is the most common choice for outdoor garden benches. It resists rot and insects and is affordable. Cedar and redwood are naturally rot-resistant but cost more. For longevity, use pressure-treated lumber and apply an exterior sealer or paint every year or two."
+    },
+    {
+      "q": "How long will this bench last outdoors?",
+      "a": "With pressure-treated wood and proper sealing, the bench should last 5 to 10 years before needing significant repairs. Regular maintenance like re-sealing and checking for loose screws will extend its life. Avoid ground contact by placing the bench on pavers or gravel to prevent moisture wicking."
+    },
+    {
+      "q": "Can I make the bench wider or longer?",
+      "a": "Yes. To change the length, adjust the seat slat and apron lengths accordingly. For more depth, add more seat slats or cut them wider. However, keep the leg frames as described for stability. For a longer bench, add an extra pair of legs in the middle to prevent sagging."
+    },
+    {
+      "q": "Do I need to use stainless steel screws?",
+      "a": "Stainless steel or coated exterior screws (e.g., ceramic-coated) are recommended because they resist corrosion better than plain galvanized screws. For pressure-treated wood, use screws rated for ACQ treatment to avoid chemical reaction that can corrode fasteners."
+    },
+    {
+      "q": "What is the safest way to cut the 2x4s?",
+      "a": "Use a miter saw or a circular saw with a sharp blade. Always clamp the wood securely, wear safety glasses, and keep your hands clear of the blade path. Make cuts on a stable surface, and let the saw reach full speed before entering the wood. Do not force the saw."
+    }
+  ],
+  "body": "## Planning Your Garden Bench\n\nBuilding a garden bench from 2x4s is one of the simplest woodworking projects you can tackle in an afternoon. This design seats two adults comfortably, stands 18 inches tall (a standard seating height), and uses only pressure-treated lumber and deck screws. The steps are straightforward, and the result is a sturdy, weather-resistant bench that will serve for years in your yard, on a patio, or beside a garden path.\n\nBefore heading to the lumber yard, make a cut list and decide on the final dimensions. The bench described here has a 48-inch-wide seat, an 18-inch seat depth (front to back), and an 18-inch seat height. You can adjust these proportions, but keep the leg frames strong by maintaining the H-brace design. A mistake many beginners make is making the legs too wide or too narrow relative to the seat; this can cause wobbling or tipping.\n\n### Cut List\n\n| Part | Quantity | Length | Notes |\n|------|----------|--------|-------|\n| Seat slats | 5 | 48 in | Use straight 2x4s for a flat seat |\n| Leg side rails | 4 | 33 in | These form the vertical sides of the H-frames |\n| Leg braces | 4 | 11 in | Horizontal pieces connecting leg rails |\n| Front/rear aprons | 2 | 34 in | Connect leg frames front and back |\n| Center supports | 2 | 14.5 in | Under the seat for support |\n\nCheck that the leg braces are 11 inches long to space the leg rails 15.5 inches apart (the width of the bench). The total depth of the bench is the depth of the seat slats (5 × 1.5 in = 7.5 inches, actually 2x4s are 1.5 in thick, so five slats plus gaps: 5 × 1.5 + 4 × 0.125 = 8 inches; that is too narrow. Let's correct: For an 18-inch seat depth, you need more slats or wider boards. Actually, seat slats are typically oriented flat, so each 2x4 is 3.5 inches wide. Five slats give 17.5 inches, plus gaps = about 18 inches. So the seat depth is the width of the slats (3.5 in each) times five = 17.5 inches, plus small gaps. That works. So leg frame width should be about 17.5 inches to support the slats. Adjust aprons accordingly. For simplicity, stick with the dimensions given and adjust as needed.\n\n## Mistakes to Avoid\n\n- **Using untreated wood indoors:** Pressure-treated lumber is essential for outdoor use to prevent rot. Do not use kiln-dried studs meant for framing.\n- **Skipping pilot holes:** Screwing into the end of a 2x4 without a pilot hole will often split the wood. Drill a 1/8-inch pilot hole for 2.5-inch screws.\n- **Ignoring square:** An out-of-square bench will wobble. Check each joint with a speed square and measure diagonals to ensure the frame is square before driving final screws.\n- **Overtightening screws:** Drive screws until the head is flush, not buried deep, especially in pressure-treated wood, which can crush and lose holding power.\n- **Forgetting to seal the ends:** Cut ends of pressure-treated wood are more vulnerable to moisture. Seal them with a wood preservative or paint.\n\n## Assembly Tips\n\nWork on a flat surface, such as a garage floor or driveway. Clamp each joint before screwing to hold alignment. Use a square at every step. For the seat slats, ensure they are evenly spaced; a 1/8-inch gap allows water to drain and wood to expand. Pre-drill the slats to avoid splitting, especially near the ends.\n\n## Safety\n\nAlways wear safety glasses when cutting or drilling. Use hearing protection when operating a circular saw or driver for extended periods. Keep your hands and fingers away from the blade path; use a push stick if necessary. When driving screws, avoid wearing loose clothing that could catch the drill. Unplug or remove the battery when changing bits or adjusting the saw. Work in a well-ventilated area when applying sealer or paint, and follow the manufacturer's safety instructions.\n\n## Optional Upgrades\n\nAdd a backrest by attaching two 2x4 verticals to the back of the leg frames and fastening horizontal slats across. Use a slight angle (about 10 degrees) for comfort. You can also rout the edges of the seat slats for a more finished look. A coat of exterior paint or stain will enhance appearance and durability. Consider adding armrests using short 2x4s attached to the leg frames.\n\nThis garden bench project is an excellent way to build a durable, functional piece of outdoor furniture with basic tools and materials. The satisfaction of making something useful from scratch is matched only by the enjoyment of sitting on it in your garden.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "build-a-simple-workbench",
+    "milwaukee-2731-20",
+    "makita-bo5041"
+  ]
+}

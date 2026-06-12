@@ -1,0 +1,101 @@
+{
+  "slug": "build-a-bookshelf",
+  "title": "How to Build a Sturdy 5-Shelf Plywood Bookshelf",
+  "description": "Build a 72-inch-tall 5-shelf bookshelf from 3/4-inch plywood with dados and screws. Get a full cut list, assembly tips, and finishing advice.",
+  "category": "woodworking",
+  "difficulty": "intermediate",
+  "timeRequired": "4–6 hours",
+  "timeRequiredIso": "PT5H",
+  "estCost": "$60–$100",
+  "toolsNeeded": [
+    {
+      "name": "Circular saw or table saw"
+    },
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "dewalt-dcd800"
+    },
+    {
+      "name": "Countersink drill bit set"
+    },
+    {
+      "name": "Clamps (at least 4 bar clamps)"
+    },
+    {
+      "name": "Router with a 1/4-inch straight bit (optional for dado grooves)",
+      "reviewSlug": "bosch-1617evspk"
+    },
+    {
+      "name": "Tape measure"
+    },
+    {
+      "name": "Speed square"
+    },
+    {
+      "name": "Sanding block and 120-grit sandpaper"
+    }
+  ],
+  "materials": [
+    "Two 4x8 sheets of 3/4-inch plywood (birch or sanded pine)",
+    "1 1/4-inch wood screws (one box)",
+    "Wood glue",
+    "120-grit sandpaper",
+    "Finish of choice (paint, stain, or polyurethane)"
+  ],
+  "steps": [
+    {
+      "name": "Cut the plywood to size",
+      "text": "Using a circular saw with a straightedge guide or a table saw, cut the plywood into the following pieces: two sides at 72 x 11.25 inches; five shelves at 45 x 11.25 inches; one top at 47 x 11.25 inches; one bottom at 47 x 11.25 inches; a back panel cut from the second sheet measuring 71 x 47 inches (ripped to 47 inches wide). Label each piece with a pencil."
+    },
+    {
+      "name": "Cut dados for the shelves",
+      "text": "On the inside face of each side piece, mark the shelf positions: bottom shelf at 3 inches from the bottom, then shelves every 13.5 inches above that (leaving about 2 inches at the top). Use a router with a 1/4-inch straight bit to cut dados 3/8 inch deep and 3/4 inch wide (or make two passes). Alternatively, cut with a circular saw and chisel clean. The shelves will sit in these grooves for strength."
+    },
+    {
+      "name": "Assemble the side and shelf joints",
+      "text": "Apply wood glue into each dado on one side piece. Insert a shelf into each dado, making sure it sits flush. Place the other side piece over the shelves, aligning the dados. Clamp the assembly together. Check that the shelves are level and the sides are square. Drive 1 1/4-inch screws through the sides into the shelf edges every 6 inches, using pilot holes."
+    },
+    {
+      "name": "Add the top and bottom panels",
+      "text": "Glue and screw the top panel to the top edges of the sides, flush with the top. Similarly, attach the bottom panel to the bottom of the sides. The top and bottom should be flush with the sides. Use three screws per side on each panel. This step ties the assembly together and prevents racking."
+    },
+    {
+      "name": "Attach the back panel",
+      "text": "Lay the bookshelf face down on a clean surface. Apply glue to the back edges of all shelves, sides, top, and bottom. Place the back panel (71 x 47 inches) onto the frame, aligning it flush with the edges. Secure with 1 1/4-inch screws every 6 inches around the perimeter and across the shelves. The back panel adds immense rigidity."
+    },
+    {
+      "name": "Sand and finish",
+      "text": "Sand all edges and faces with 120-grit sandpaper, paying attention to corners. Wipe away dust. Apply paint, stain, or polyurethane according to the manufacturer's instructions. At least two coats are recommended for durability."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What thickness of plywood should I use?",
+      "a": "3/4-inch plywood is recommended for strength and sag resistance. Thinner plywood may bow under heavy loads. Baltic birch or sanded pine are good choices."
+    },
+    {
+      "q": "Can I build this without a router?",
+      "a": "Yes. Instead of dados, you can mount shelf supports using cleats (strips of wood) screwed to the sides. This is simpler and only requires a saw and drill. Cleats reduce shelf width slightly but are still strong."
+    },
+    {
+      "q": "How do I prevent the shelves from sagging?",
+      "a": "Using 3/4-inch plywood for shelves that span 45 inches is generally fine for books. If you plan to store heavy items, add a 2x2 edge band to the front or reduce shelf width. The dado joint also helps support the shelves."
+    },
+    {
+      "q": "What are common mistakes to avoid?",
+      "a": "Not cutting precise dados leads to wobbly shelves. Always measure and mark accurately. Also, failing to glue the back panel can cause the bookcase to rack. Use plenty of clamps during assembly to keep things square."
+    },
+    {
+      "q": "How do I make the bookshelf look more professional?",
+      "a": "Edge banding or iron-on veneer tape on the front edges of the plywood gives a finished appearance. Also, filling screw holes with wood filler before sanding and painting makes the fasteners invisible."
+    }
+  ],
+  "body": "## Overview\n\nThis project walks you through building a sturdy 5-shelf plywood bookshelf. The finished dimensions are 72 inches tall, 47 inches wide, and 12 inches deep (including the 3/4-inch side panels). The design uses dado joints for the shelves, which provides superior strength compared to simple butt joints, and a full back panel for rack resistance. This bookshelf is ideal for a living room, home office, or den, capable of holding a substantial collection of books and decor.\n\n## Planning\n\nBefore you begin, plan your shelf spacing. The dimensions given position shelves every 13.5 inches, which accommodates most standard-sized books. If you have specific items, adjust the spacing. Also decide on the finish: paint requires a good primer and high-quality latex or enamel; stain requires sanded plywood such as birch; polyurethane gives a clear, durable coat. Purchase your plywood from a home center and have them rip the sheets to width if possible to save time.\n\n## Cut List\n- **Sides (2):** 72 x 11.25 inches (from 1 sheet)\n- **Shelves (5):** 45 x 11.25 inches (from the same sheet, widthwise)\n- **Top and Bottom:** 47 x 11.25 inches (from offcuts)\n- **Back Panel:** 71 x 47 inches (from the second sheet)\n\nThis layout uses two sheets of 4x8, with careful planning to minimize waste. The shelves sit flush with the sides, so the overall depth is 12 inches (11.25 + 0.75).\n\n## Step-by-Step Instructions\n\n### Cutting the Plywood\nAccuracy at the saw is critical. Use a guide for rip cuts or a table saw with a sharp blade. Double-check measurements before cutting; plywood edges can splinter, so consider scoring the cut line with a utility knife. Label each piece immediately.\n\n### Cutting Dados\nDados are grooves cut across the side panels to accept the shelf ends. A router with a 1/4-inch straight bit and a straightedge guide makes clean, precise dados. Set the depth to 3/8 inch. Because the dado width must match the 3/4-inch plywood, make two passes. If you don't have a router, use a circular saw set to 3/8-inch depth, cutting multiple passes 1/16 inch apart, then clean up with a chisel. Always cut on the inside faces of the side panels.\n\n### Assembly\nApply glue into each dado, insert the shelf, then attach the second side. Clamps are essential to pull the joints tight. Use a speed square to verify squareness. Drive 1 1/4-inch wood screws through the side into each shelf end, countersinking the heads. Repeat for all five shelves. Next, attach the top and bottom panels, gluing and screwing them to the sides. The top and bottom should be flush with the sides.\n\n### Installing the Back Panel\nPlace the bookshelf face down. Apply glue to the back edges of the shelves and sides. Position the back panel, making sure it is flush with the edges. Secure with screws every 6 inches. The back panel is structural; it prevents the case from racking. Use enough screws to hold firmly.\n\n### Finishing\nSand all surfaces with 120-grit sandpaper. Sand edges to smooth any sharpness. Wipe away dust with a tack cloth. Apply your chosen finish according to the manufacturer's instructions. For painted bookshelves, prime first, then apply two coats of paint. For stain, use a pre-stain conditioner on plywood to avoid blotching. Let the finish cure fully before moving the bookshelf into place.\n\n## Common Mistakes to Avoid\n- **Incorrect dado depth or spacing:** Use a pencil mark on the router base or a stop block to maintain consistent depth. Measure from the bottom up, marking each shelf position.\n- **Skipping pilot holes:** Screwing into plywood edges without pilot holes can split the plywood. Always drill a 1/16-inch pilot hole for 1 1/4-inch screws.\n- **Rushing assembly without clamps:** Without clamps, joints may drift and the assembly may be out of square. Use at least four clamps to hold the case together as you drive screws.\n- **Forgetting the back panel:** The back panel is not optional; it provides essential rigidity. Omit it only if the bookshelf is against a wall and otherwise braced.\n\n## Safety\n\nWear safety glasses when cutting, routing, sanding, or driving screws. Hearing protection is recommended when using power saws and routers. Keep hands away from blades and bits; use push sticks when on a table saw. Make sure the workpiece is properly supported to avoid kickback. When sanding, use a dust mask to avoid inhaling fine dust. Work in a well-ventilated area, especially if applying finishes with strong fumes. Read and follow all tool manufacturer safety instructions.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "build-a-simple-workbench",
+    "dewalt-dcs573b",
+    "makita-bo5041"
+  ]
+}

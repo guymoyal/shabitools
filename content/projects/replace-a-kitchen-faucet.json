@@ -1,0 +1,102 @@
+{
+  "slug": "replace-a-kitchen-faucet",
+  "title": "How to Replace a Kitchen Faucet (Step-by-Step Guide)",
+  "description": "Replace an old kitchen faucet in about 2 hours: shut off water, disconnect supply lines, remove the old unit, install the new one, and leak-test.",
+  "category": "home-repair",
+  "difficulty": "intermediate",
+  "timeRequired": "1.5–2.5 hours",
+  "timeRequiredIso": "PT2H",
+  "estCost": "$40–$80",
+  "toolsNeeded": [
+    {
+      "name": "Adjustable wrench"
+    },
+    {
+      "name": "Basin wrench"
+    },
+    {
+      "name": "Bucket and towels"
+    },
+    {
+      "name": "Flashlight"
+    },
+    {
+      "name": "Plumber's putty"
+    },
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "milwaukee-2836-20"
+    }
+  ],
+  "materials": [
+    "New kitchen faucet (with mounting hardware and supply lines)",
+    "Plumber's tape (PTFE thread seal tape)",
+    "Plumber's putty or silicone caulk",
+    "Bucket",
+    "Towels or rags"
+  ],
+  "steps": [
+    {
+      "name": "Turn off water supply and disconnect supply lines",
+      "text": "Locate the shut-off valves under the sink (usually two: one for hot, one for cold). Turn both clockwise until they stop. Open the faucet handle to relieve pressure and confirm water has stopped. Place a bucket under the supply lines to catch residual water. Use an adjustable wrench to disconnect the supply lines from the shut-off valves; if they are corroded, a penetrating oil can help. Cap the open valves to prevent drips."
+    },
+    {
+      "name": "Disconnect the old faucet and remove it",
+      "text": "From under the sink, disconnect any quick-connect fittings or coupling nuts that attach the faucet's supply hoses to the stop valves. Use a basin wrench to loosen and remove the mounting nuts that hold the faucet to the sink deck. If the nuts are stuck, apply penetrating oil and let it sit. Lift the old faucet out from above; clean the sink deck of old putty, caulk, and debris."
+    },
+    {
+      "name": "Prepare the new faucet and install the deck plate (if any)",
+      "text": "Before setting the faucet in place, check whether your sink requires a deck plate (escutcheon) to cover unused holes. If so, apply a thin bead of plumber's putty or silicone around the underside of the plate and press it into position, aligning the center hole. Wipe away excess putty that squeezes out. Insert the faucet's supply hoses through the mounting hole and guide the rubber gasket or base plate into position."
+    },
+    {
+      "name": "Secure the faucet from underneath",
+      "text": "Under the sink, thread the mounting nuts onto the faucet shank(s) by hand until snug. Use a basin wrench to tighten them firmly—do not overtighten, or you may crack the sink deck. If your faucet uses a single large mounting nut, a deep socket on a ratchet may be easier. Check that the faucet body is aligned correctly (centered, straight) before fully cinching down."
+    },
+    {
+      "name": "Connect the supply lines",
+      "text": "Wrap plumber's tape clockwise around the threads of the shut-off valves (2–3 wraps). Attach the faucet's flexible supply hoses to the corresponding valves: hot to left, cold to right. Tighten the coupling nuts with an adjustable wrench until snug, then give an extra quarter-turn—do not overtighten. Double-check that the rubber washer inside each nut is seated correctly."
+    },
+    {
+      "name": "Turn on the water and check for leaks",
+      "text": "Open both shut-off valves slowly (counterclockwise). When you hear water flowing, open the faucet handle to let air escape and flush any debris. Close the faucet and inspect every connection (supply lines, mounting nuts, sprayer if present) with a dry paper towel. If you see any moisture, tighten the connection slightly. If a drip persists, disassemble, clean the threads, apply fresh tape, and retighten."
+    },
+    {
+      "name": "Test the faucet operation and final cleanup",
+      "text": "Operate the handle through its full range, checking for smooth movement and no binding. Test the sprayer (if equipped) and diverter. Let water run for 30 seconds, then check under the sink again for any slow drips. Wipe down the sink deck and faucet. Remove any plumber's putty residue with a damp cloth. Enjoy your leak-free, functional new faucet."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a basin wrench?",
+      "a": "A basin wrench makes it much easier to reach and turn the mounting nuts under a sink, especially in tight spaces. If you do not have one, you can try a long-shaft adjustable wrench or a socket with extensions, but a basin wrench is strongly recommended for most installations."
+    },
+    {
+      "q": "How do I remove a stuck faucet nut?",
+      "a": "Apply penetrating oil (like WD-40 or PB Blaster) to the nut and let it soak for 10–15 minutes. Use a basin wrench for better leverage. If the nut still won't budge, you can carefully cut it off using a hacksaw or oscillating multi-tool, being careful not to damage the sink."
+    },
+    {
+      "q": "What if my shut-off valves won't close?",
+      "a": "If the valves fail to stop water, you must shut off the main water supply to the house. Then replace the shut-off valves before proceeding with the faucet installation. This is a good time to upgrade to quarter-turn ball valves for reliability."
+    },
+    {
+      "q": "Should I use plumber's putty or silicone caulk for the deck plate?",
+      "a": "Both work. Plumber's putty is easy to apply and seal, but it can stain certain surfaces like granite or marble. For natural stone sinks, use clear silicone caulk instead. On stainless steel or cultured marble sinks, plumber's putty is fine."
+    },
+    {
+      "q": "How tight should the supply line connections be?",
+      "a": "Hand-tighten the coupling nuts, then give a quarter-turn with a wrench. Overtightening can damage the rubber washer and cause leaks. If it leaks, add a little more tape and re-seat the connection rather than using excessive force."
+    },
+    {
+      "q": "What should I do if the new faucet's holes don't align with the sink?",
+      "a": "Most kitchen sinks have standard 1-1/8-inch or 1-1/2-inch holes. If the new faucet requires a larger hole, you may need a hole saw to enlarge it carefully. If the holes are offset, a decorative deck plate can cover unused holes. Always measure before purchasing."
+    }
+  ],
+  "body": "## Planning Your Faucet Replacement\n\nReplacing a kitchen faucet is one of the most rewarding home-repair projects. You get an immediate cosmetic upgrade and often improved functionality, such as a pull-down sprayer or touchless operation. The job is squarely in the intermediate difficulty range because of the limited working space under a sink and the potential for stuck or corroded fittings. But with the right preparation, patience, and a few specialized tools, you can complete the swap in a couple of hours.\n\nBefore you start, verify the new faucet fits your sink configuration. Standard sinks have a single center hole or a three-hole setup (for a separate handle and sprayer). Measure the hole diameter and the center-to-center distance if you have a three-hole sink. Also check the under-sink clearance: you need enough room to reach the mounting nuts. A basin wrench is almost essential for this step.\n\n## Mistakes to Avoid\n\nThe most common mistake is failing to properly shut off the water. Always confirm the shut-off valves hold by turning on the faucet after closing them. If they leak, you'll need to shut off the main water supply. Another frequent error is forgetting to clean the sink deck before installing the new faucet. Old putty, caulk, or rust can prevent a good seal and cause leaks. Finally, overtightening supply line nuts or mounting nuts can crack the sink or damage washers. Use a steady hand and stop when you feel resistance.\n\n## Safety\n\n**Water and electricity**: Before working under the sink, unplug any electrical appliances (garbage disposal, dishwasher) that are under or near the sink area. Keep a bucket and towels handy to catch any water that may spill. Wear safety glasses when working with tools, especially if you need to cut a stuck nut. If you must shut off the main water valve, ensure you know where it is and how to operate it. After the install, operate the faucet with the sprayer directed into the sink before using it for dishes.\n\n## Tools Tip\n\nAn oscillating multi-tool is handy for cutting stubborn nuts or removing old caulk, but a basin wrench is still required for tightening. A rechargeable drill with a right-angle attachment can save time on mounting nuts if you have the right socket.\n\n## Final Checks\n\nAfter installation, run both hot and cold separately and together to check for leaks at every joint. Leave a dry paper towel under all connections overnight; if it stays dry, you are leak-free. A properly installed faucet should operate smoothly without wobble. Enjoy your updated kitchen!\n\n## Understanding Faucet Types\n\nBefore purchasing a replacement faucet, it helps to know the common types. A center-set faucet combines the spout and handles on a single base plate, ideal for three-hole sinks with 4-inch centers. A widespread faucet has separate pieces for spout and handles, fitting three-hole sinks with 8-inch or adjustable centers. Pull-down and pull-out faucets feature a spray head that retracts into the spout, popular for their flexibility. Touchless models use a sensor to start and stop the flow. Each type has specific mounting requirements, so read the manufacturer's specifications carefully.\n\n## Gathering Supplies\n\nBeyond the faucet itself, you'll need plumber's tape (PTFE tape) to seal threaded connections, plumber's putty or silicone caulk to seal the deck plate, a basin wrench, and an adjustable wrench. A flashlight is essential for seeing under the sink. Have a bucket, towels, and a spare rag ready for spills. Penetrating oil can help loosen stuck nuts. Some installations require a separate supply line if the new faucet's hoses are too short—measure your distance from shut-off to faucet before buying.\n\n## Checking for Hidden Issues\n\nInspect the shut-off valves while you have access. If they show signs of corrosion, leaking, or are stiff, consider replacing them before installing the new faucet. Older homes may have galvanized steel supply lines that should be upgraded to braided stainless steel hoses for flexibility and reliability. Also check the sink deck for cracks or damage; if the sink is compromised, install a deck plate or consider replacing the sink.\n\n## Step-by-Step Guidance\n\nWhile the seven steps above cover the core process, here is additional detail. When disconnecting the old faucet, you may encounter a sprayer hose that passes through the sink deck. Disconnect the sprayer from the faucet body before removing the faucet. Some modern faucets use quick-connect fittings—if so, simply press the release ring and pull apart. When installing the new faucet, ensure any rubber gasket is seated properly to prevent leaks. If your faucet includes a sprayer, feed its hose through the deck before tightening the mounting nut.\n\n## Final Thoughts\n\nReplacing a kitchen faucet is a manageable DIY project that can transform the look and function of your kitchen. By planning ahead, using the right tools, and taking your time, you can avoid common pitfalls and achieve a professional result. The sense of accomplishment when you turn on the water and see no drips is well worth the effort.\n",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "milwaukee-2836-20",
+    "makita-xfd131",
+    "fix-a-running-toilet"
+  ]
+}

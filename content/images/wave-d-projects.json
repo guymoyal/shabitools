@@ -1,0 +1,178 @@
+{
+  "projects/build-a-bookshelf": {
+    "source": "pexels:bookshelf wood diy",
+    "alt": "DIY project: a sturdy 5-shelf plywood bookshelf"
+  },
+  "projects/build-floating-shelves": {
+    "source": "pexels:floating shelves wall wood",
+    "alt": "DIY project: wall-mounted floating shelves with hidden brackets"
+  },
+  "projects/build-a-planter-box": {
+    "source": "pexels:wooden planter box garden",
+    "alt": "DIY project: a cedar planter box for a patio or deck"
+  },
+  "projects/build-a-garden-bench": {
+    "source": "pexels:garden bench wood outdoor",
+    "alt": "DIY project: a simple outdoor garden bench from 2x4s"
+  },
+  "projects/build-a-shoe-rack": {
+    "source": "pexels:shoe rack entryway wood",
+    "alt": "DIY project: an entryway shoe rack with two shelves"
+  },
+  "projects/build-a-coat-rack": {
+    "source": "pexels:coat rack wall wood",
+    "alt": "DIY project: a wall-mounted coat rack with a shelf"
+  },
+  "projects/make-picture-frames": {
+    "source": "pexels:picture frame making wood",
+    "alt": "DIY project: custom picture frames with mitered corners"
+  },
+  "projects/build-a-sandbox": {
+    "source": "pexels:sandbox backyard kids",
+    "alt": "DIY project: a backyard sandbox with seat rails"
+  },
+  "projects/build-a-dog-house": {
+    "source": "pexels:dog house wooden backyard",
+    "alt": "DIY project: an insulated outdoor dog house"
+  },
+  "projects/build-a-raised-garden-bed": {
+    "source": "pexels:raised garden bed vegetables",
+    "alt": "DIY project: a 4x8 raised garden bed from untreated lumber"
+  },
+  "projects/build-a-storage-chest": {
+    "source": "pexels:wooden storage chest",
+    "alt": "DIY project: a plywood storage chest with a hinged lid"
+  },
+  "projects/build-a-bird-house": {
+    "source": "pexels:birdhouse wooden garden",
+    "alt": "DIY project: a classic backyard birdhouse"
+  },
+  "projects/patch-drywall-holes": {
+    "source": "pexels:drywall repair patch wall",
+    "alt": "DIY project: patching small and medium drywall holes"
+  },
+  "projects/fix-a-squeaky-door": {
+    "source": "pexels:door hinge repair",
+    "alt": "DIY project: diagnosing and fixing squeaky door hinges"
+  },
+  "projects/replace-a-kitchen-faucet": {
+    "source": "pexels:kitchen faucet plumbing install",
+    "alt": "DIY project: removing an old kitchen faucet and installing a new one"
+  },
+  "projects/re-caulk-a-bathtub": {
+    "source": "pexels:bathtub caulking bathroom",
+    "alt": "DIY project: removing old caulk and applying a clean new bead"
+  },
+  "projects/fix-a-running-toilet": {
+    "source": "pexels:toilet repair plumbing",
+    "alt": "DIY project: diagnosing flapper, fill valve, and float problems"
+  },
+  "projects/patch-cracked-concrete": {
+    "source": "pexels:concrete crack repair",
+    "alt": "DIY project: repairing cracks in driveways and garage floors"
+  },
+  "projects/repair-a-leaky-pipe-under-sink": {
+    "source": "pexels:sink pipe plumbing repair",
+    "alt": "DIY project: fixing P-trap and supply line leaks under a sink"
+  },
+  "projects/replace-a-door-lock": {
+    "source": "pexels:door lock deadbolt install",
+    "alt": "DIY project: replacing a deadbolt and entry lockset"
+  },
+  "projects/fix-sticking-windows": {
+    "source": "pexels:window repair home",
+    "alt": "DIY project: freeing painted-shut and swollen windows"
+  },
+  "projects/repair-wood-rot-trim": {
+    "source": "pexels:wood rot trim repair",
+    "alt": "DIY project: cutting out and replacing rotted exterior trim"
+  },
+  "projects/replace-cabinet-hinges": {
+    "source": "pexels:cabinet hinge kitchen",
+    "alt": "DIY project: upgrading to soft-close cabinet hinges"
+  },
+  "projects/fix-squeaky-floorboards": {
+    "source": "pexels:wood floor repair",
+    "alt": "DIY project: locating and silencing squeaky floors"
+  },
+  "projects/install-a-ceiling-fan": {
+    "source": "pexels:ceiling fan installation",
+    "alt": "DIY project: replacing a light fixture with a ceiling fan"
+  },
+  "projects/install-a-smart-thermostat": {
+    "source": "pexels:smart thermostat wall",
+    "alt": "DIY project: replacing an old thermostat with a smart model"
+  },
+  "projects/install-wall-anchors-and-shelving": {
+    "source": "pexels:wall shelf drill install",
+    "alt": "DIY project: choosing the right anchors and hanging shelves that hold"
+  },
+  "projects/install-curtain-rods": {
+    "source": "pexels:curtain rod window install",
+    "alt": "DIY project: level, secure curtain rods on drywall and plaster"
+  },
+  "projects/mount-a-tv-on-the-wall": {
+    "source": "pexels:tv wall mount living room",
+    "alt": "DIY project: stud-mounted TV bracket with hidden cables"
+  },
+  "projects/install-a-ceiling-light-fixture": {
+    "source": "pexels:ceiling light fixture install",
+    "alt": "DIY project: swapping a dated ceiling light for a new fixture"
+  },
+  "projects/install-peel-and-stick-backsplash": {
+    "source": "pexels:kitchen backsplash tile",
+    "alt": "DIY project: a renter-friendly peel-and-stick tile backsplash"
+  },
+  "projects/install-a-storm-door": {
+    "source": "pexels:storm door entry install",
+    "alt": "DIY project: fitting and hanging a storm door"
+  },
+  "projects/install-closet-organizer": {
+    "source": "pexels:closet organizer shelves",
+    "alt": "DIY project: a wire or wood closet organizer system"
+  },
+  "projects/install-a-dimmer-switch": {
+    "source": "pexels:light switch dimmer electrical",
+    "alt": "DIY project: replacing a standard switch with a dimmer"
+  },
+  "projects/repair-a-wooden-fence": {
+    "source": "pexels:wooden fence repair backyard",
+    "alt": "DIY project: replacing fence pickets, rails, and a leaning post"
+  },
+  "projects/replace-deck-boards": {
+    "source": "pexels:deck boards replacement wood",
+    "alt": "DIY project: removing damaged deck boards and fitting new ones"
+  },
+  "projects/pressure-wash-a-driveway": {
+    "source": "pexels:pressure washing driveway",
+    "alt": "DIY project: safe, streak-free driveway and walkway cleaning"
+  },
+  "projects/clean-and-repair-gutters": {
+    "source": "pexels:gutter cleaning ladder house",
+    "alt": "DIY project: cleaning gutters and fixing sags and leaks"
+  },
+  "projects/build-a-fire-pit": {
+    "source": "pexels:fire pit backyard pavers",
+    "alt": "DIY project: a code-conscious paver fire pit"
+  },
+  "projects/lay-a-paver-walkway": {
+    "source": "pexels:paver walkway garden path",
+    "alt": "DIY project: a sand-set paver walkway that stays level"
+  },
+  "projects/stain-a-deck": {
+    "source": "pexels:deck staining wood",
+    "alt": "DIY project: prep, clean, and stain a wood deck"
+  },
+  "projects/build-a-compost-bin": {
+    "source": "pexels:compost bin garden wood",
+    "alt": "DIY project: a three-bay pallet or 2x4 compost bin"
+  },
+  "projects/seal-a-driveway": {
+    "source": "pexels:driveway sealing asphalt",
+    "alt": "DIY project: cleaning and sealing an asphalt driveway"
+  },
+  "projects/install-landscape-edging": {
+    "source": "pexels:landscape edging garden beds",
+    "alt": "DIY project: clean bed lines with metal or paver edging"
+  }
+}

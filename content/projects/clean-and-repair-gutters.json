@@ -1,0 +1,106 @@
+{
+  "slug": "clean-and-repair-gutters",
+  "title": "How to Clean and Repair Gutters: Fix Sags and Leaks",
+  "description": "Clean gutters and fix sags, leaks, and loose fasteners in a weekend. Step-by-step guidance for safer DIY gutter maintenance with realistic checks.",
+  "category": "outdoor",
+  "difficulty": "beginner",
+  "timeRequired": "4–6 hours",
+  "timeRequiredIso": "PT5H",
+  "estCost": "$40–$80",
+  "toolsNeeded": [
+    {
+      "name": "Leaf blower",
+      "reviewSlug": "ego-lb6504"
+    },
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "makita-xfd131"
+    },
+    {
+      "name": "Ladder (extension ladder, rated and tall enough)"
+    },
+    {
+      "name": "Gutter scoop or small plastic trowel"
+    },
+    {
+      "name": "Bucket or tarp"
+    },
+    {
+      "name": "Garden hose with spray nozzle"
+    },
+    {
+      "name": "Caulk gun"
+    },
+    {
+      "name": "Tin snips"
+    }
+  ],
+  "materials": [
+    "Gutter screws (stainless steel or coated, 2-inch to 3-inch)",
+    "Gutter sealant (polyurethane or butyl-based, caulk tube)",
+    "2-inch galvanized gutter hangers (replacement if needed)",
+    "Rubber gloves and safety glasses (not optional)",
+    "5-gallon bucket for debris",
+    "Mason's line or string level"
+  ],
+  "steps": [
+    {
+      "name": "Set up ladders safely and remove large debris",
+      "text": "Position an extension ladder on level ground at a 75-degree angle (roughly 1 foot out for every 4 feet up). Lock the ladder spreaders and have a spotter if possible. Climb up with a bucket or tarp and a gutter scoop. Remove leaves, twigs, and mud by hand or scoop, starting at a downspout and working away. Deposit debris into the bucket or onto a tarp laid below to keep clean-up quick. Do not rely solely on a leaf blower while on the ladder; the heavy wet debris needs to be scooped first."
+    },
+    {
+      "name": "Flush the gutters and downspouts with water",
+      "text": "After the bulk debris is out, use a garden hose with a spray nozzle to flush remaining grit and small particles toward the downspout. Check that water flows freely out at the bottom. If a downspout is blocked, use a plumber's auger or a blast from a hose at the top to clear it. Note any areas where water pools instead of draining—these indicate low spots or sags. Let the gutters dry before applying sealant."
+    },
+    {
+      "name": "Identify and fix sags by re-hanging gutters",
+      "text": "Sags appear as dips where water stands after a flush. Mark the low spots. Use a string level or mason's line stretched from the high end to the downspout end to establish a steady 1/4-inch drop per 10 feet. Drive a nail at the desired height at each end and run a chalk line. At each sag, remove the old hanger screw and reset the gutter so its bottom edge aligns with the string. Drive a new gutter screw or hanger into a rafter tail (must hit a rafter). Use a cordless drill with a 1/8-inch pilot bit to avoid splitting the fascia. Replace any missing or loose hangers with 2-inch galvanized hangers spaced every 24 to 36 inches."
+    },
+    {
+      "name": "Repair leaks at seams and corners",
+      "text": "Let the gutter dry fully, then inspect all seams where sections join and inside corners. Clean the area with a rag and rubbing alcohol if needed. Apply a generous bead of polyurethane gutter sealant over the seam from both inside and outside the gutter. Smooth the sealant with a wet finger or a small putty knife to ensure it bonds. For larger gaps (more than 1/8-inch), consider a patch of aluminum flashing cut to size and bedded in sealant, overlapping the seam by 2 inches on each side."
+    },
+    {
+      "name": "Repair small holes and cracks",
+      "text": "Tiny pinholed corrosion spots or nail holes can be sealed with a dab of gutter sealant. For holes up to 1/4-inch in diameter, clean the area, apply sealant, and press a small patch of fiberglass mesh tape into the bead, then cover with another layer of sealant. For larger holes, cut a patch from aluminum flashing at least 1 inch wider than the hole on all sides, round the corners, and glue it in place with sealant. Secure with pop rivets or small self-tapping screws if the patch is over 2 inches across."
+    },
+    {
+      "name": "Tighten loose fasteners and replace damaged hardware",
+      "text": "Walk the entire gutter run and check each hanger screw, spike, and strap. If a screw is corroded or spins freely, remove it and drive a new gutter screw an inch away, making sure to hit a rafter. For spike-and-ferrule systems, consider upgrading these to gutter screws (larger thread and a small flange that holds better). Any rusted or broken hanger should be replaced with a new galvanized or coated hanger matching the gutter profile (K-style or half-round). Pre-drill the hole in the fascia and drive the screw with a drill set to low speed to avoid stripping."
+    },
+    {
+      "name": "Test the repairs with a garden hose",
+      "text": "Once all sags are corrected and sealant is cured (follow the product instructions, typically 12 to 24 hours), run water through the gutters again. Observe from the ground and at each seam. Confirm that water flows toward the downspout without ponding or leaking. If a drip persists, dry the spot and re-apply sealant. This final test confirms the system is ready for the next rain."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should gutters be cleaned?",
+      "a": "In most areas, clean gutters twice a year: once in late spring after flowers drop and again in late fall after the leaves fall. Homes surrounded by large deciduous trees may need a third clean in mid-winter if leaves accumulate. Neglecting cleaning leads to clogs, overflow, and potential fascia rot."
+    },
+    {
+      "q": "Can I repair a leaking gutter seam without removing the gutter?",
+      "a": "Yes. Most gutter seams can be sealed on both the inside and outside while the gutter is still mounted. Clean the area thoroughly, let it dry, and apply a heavy bead of polyurethane sealant. For best adhesion, roughen the metal around the seam with sandpaper and wipe clean. If the seam is split open or has a large gap, the section may need replacement."
+    },
+    {
+      "q": "What is the proper slope for gutters?",
+      "a": "Gutters should slope a minimum of 1/4 inch for every 10 feet toward the downspout. This slope ensures water flows without ponding. Use a string level or a 4-foot level to check the pitch. If you observe standing water after flushing, the slope may be inadequate or there is a dip from a loose hanger."
+    },
+    {
+      "q": "How do I know if my gutters need replacement instead of repair?",
+      "a": "If the gutter has multiple rust-through holes larger than a quarter, or if sections are severely bent, pulled away from the fascia, or show widespread rot on the fascia board behind them, replacement may be more cost-effective. Gutters older than 20 years and made of thin galvanized steel are candidates for replacement."
+    },
+    {
+      "q": "Is it safe to clean gutters from a ladder alone?",
+      "a": "Working from a ladder alone is risky. Always use a properly placed extension ladder on stable ground, keep three points of contact, and consider hiring a spotter. For multi-story homes or if the roof pitch is steep, hire a professional with proper safety equipment. Avoid leaning or overreaching; move the ladder instead."
+    }
+  ],
+  "body": "## Why Regular Gutter Maintenance Matters\n\nClogged and sagging gutters are one of the fastest ways to damage your home's foundation, siding, and landscaping. When gutters fail to channel rainwater away, overflow saturates the soil next to the foundation, seeps into basements, and rots fascia boards. The good news is that most gutter problems—sags, minor leaks, loose fasteners—are straightforward repairs you can complete in a day with basic tools and materials.\n\nThis guide covers three things: cleaning the debris out, restoring proper slope by fixing sags, and sealing leaks at seams and holes. It assumes you are working on a single-story home with standard K-style aluminum gutters. The steps apply to both steel and vinyl gutters with small adjustments in fastener selection.\n\n## Planning Your Gutter Repair Day\n\nBefore you climb a ladder, do a ground-level inspection. Look for gutters that are visibly sagging or pulling away from the fascia, rust stains or drips beneath seams, and plants sprouting from debris. Note which downspouts appear blocked (check for water stains below them). Gather everything you need: a ladder tall enough that you do not overreach, a leaf blower for loose dry debris, a scoop for mud, a drill and bits, gutter screws, hangers, sealant, and a caulk gun. Estimate four to six hours for a typical 40-foot run with two downspouts.\n\nPick a dry day at least 24 hours after the last rain so the gutters have time to dry—sealant will not stick to wet surfaces. Avoid hot afternoons when sealant thins out and runs.\n\n### Slope Requirements\n\nGutters need a minimum slope of 1/4 inch per 10 feet toward the downspout. For a 40-foot run with one downspout, that means the high end should be 1 inch higher than the low end at the downspout. The slope is achieved by setting the hangers at gradually lower heights. Use a mason's line or string level to check and adjust.\n\n## Mistakes to Avoid\n\n- **Skipping the pilot hole**: When driving gutter screws into fascia, drilling a 1/8-inch pilot hole prevents the fascia from splitting and lets the screw seat fully. Split fascia can loosen the hanger and cause a sag.\n- **Using the wrong sealant**: Not all caulk is for gutters. Acrylic latex caulk will crack and leak. Use a polyurethane or butyl-based gutter sealant designed for exterior metal. It stays flexible and adheres through temperature swings.\n- **Over-tightening hangers**: Snug is enough. Over-driving can deform the gutter lip or strip the hole in the fascia, creating a new weak point.\n- **Ignoring downspouts**: Flushing only the gutter body leaves downspouts clogged. Water will pond above the blockage, inviting leaks and mosquitoes. Always clear downspouts as part of a full job.\n- **Overreaching on a ladder**: If you cannot comfortably reach the work area from a ladder centered in front of it, climb down and move the ladder. Overreaching is a leading cause of ladder falls.\n\n## Safety\n\nLadder work is the primary hazard in gutter cleaning. Use an extension ladder rated for your weight plus tools, and set it on firm, level ground with the feet dug in. Follow the 4-to-1 rule: for every 4 feet of height, the base should be 1 foot away from the wall. Lock the spreaders and never stand on the top two rungs. Keep your belt buckle between the rails—do not lean sideways. Wear non-slip boots and rubber gloves (wet gutters are slippery, and debris can harbor glass or sharp metal). Safety glasses are non-negotiable when using a drill or tin snips overhead. If the roof is steep or you are uncomfortable at height, hire a professional.\n\nRain or damp conditions make the ladder and roof treacherous—work only in dry weather.\n\n## Final Thoughts\n\nA clean, properly sloped, and leak-free gutter system protects your home from water damage that can cost thousands of dollars to fix. The time invested in cleaning and making small repairs pays back every time it rains. By following these steps, you not only save on repair bills but also get the satisfaction of knowing the job was done right and safely. Set a reminder to inspect gutters twice a year, and you will likely never face a major gutter emergency.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "ego-lb6504",
+    "makita-xfd131",
+    "repair-wood-rot-trim"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "fix-a-running-toilet",
+  "title": "How to Diagnose and Fix a Running Toilet: Flapper, Fill Valve, and Float Problems",
+  "description": "Stop the water waste: a step-by-step guide to diagnosing and repairing a running toilet by troubleshooting the flapper, fill valve, and float.",
+  "category": "home-repair",
+  "difficulty": "beginner",
+  "timeRequired": "30–60 minutes",
+  "timeRequiredIso": "PT45M",
+  "estCost": "$15–$40",
+  "toolsNeeded": [
+    {
+      "name": "Adjustable wrench or pliers"
+    },
+    {
+      "name": "Flathead and Phillips screwdrivers"
+    },
+    {
+      "name": "Bucket and sponge or towel"
+    },
+    {
+      "name": "Flashlight"
+    }
+  ],
+  "materials": [
+    "Replacement flapper (universal fit or toilet-specific)",
+    "Replacement fill valve (if needed)",
+    "Adjustable float (if replacing fill valve, often included)",
+    "Pipe thread tape (optional)"
+  ],
+  "steps": [
+    {
+      "name": "Identify the problem: flapper, fill valve, or float",
+      "text": "Remove the toilet tank lid and set it aside carefully. Listen for a hissing sound—this points to a leak around the flapper. If you hear water running and see the fill valve constantly running, the problem is likely the fill valve or float. Check if the flapper is sealing by pressing down on it; if the water stops, the flapper is worn or misaligned. If water continues to run into the overflow tube, the fill valve may need adjustment or replacement."
+    },
+    {
+      "name": "Shut off the water and flush to drain the tank",
+      "text": "Turn the shut-off valve clockwise (usually near the floor behind the toilet) to stop the water supply. Flush the toilet to empty the tank. Sponge out the remaining water at the bottom to expose the internal components. This step prevents water from spilling when you remove parts."
+    },
+    {
+      "name": "Replace the flapper if it's worn or leaking",
+      "text": "If the flapper is cracked, stiff, or not sealing, unclip it from the overflow tube and disconnect the chain. Install a new flapper of the same type. Adjust the chain so there is about 1/2 inch of slack when the flapper is closed—too tight prevents sealing, too loose causes flapping. Reattach the chain to the flush lever."
+    },
+    {
+      "name": "Replace the entire fill valve (including float) if needed",
+      "text": "If the fill valve is leaking or the float is waterlogged or misadjusted, remove the old fill valve by unscrewing the lock nut underneath the tank exterior. Install the new fill valve through the hole, ensuring the washer is in place. Tighten the lock nut snugly (hand-tight then 1/4 turn with wrench). Adjust the float to the recommended water level, usually about 1 inch below the overflow tube and marked on the valve. Trim the fill valve height if necessary using the instructions."
+    },
+    {
+      "name": "Replace the gasket under the flush valve (if tank-to-bowl leak)",
+      "text": "If water leaks from the tank to the bowl when the toilet is not flushing, the large rubber gasket (tank-to-bowl gasket) may be worn. This requires removing the tank from the bowl. Shut off water, flush, disconnect supply line, unscrew the tank bolts, lift the tank, and replace the gasket. Reinstall and tighten bolts evenly—hand-tight plus 1/4 turn, not overtightened to avoid cracking porcelain."
+    },
+    {
+      "name": "Replace a worn out flapper seat or flush valve (if needed)",
+      "text": "If the flapper seat (where the flapper sits) is rough or corroded, you may need to replace the entire flush valve assembly. This involves removing the tank and swapping the flush valve. However, often simply cleaning the seat with a cloth or using a universal flapper that adjusts to uneven surfaces can work. Only replace the flush valve if cleaning fails and the leak continues."
+    },
+    {
+      "name": "Replace the toilet fill valve if it's old or unreliable",
+      "text": "A faulty fill valve can cause ghost flushing or inconsistent water levels. Similar to step 4 but focusing on the valve itself. Modern universal fill valves (like Fluidmaster 400A) are easy to install with no special tools. Adjust the float to set water level as per manufacturer instructions."
+    },
+    {
+      "name": "Reassemble, leak-test, and adjust any components",
+      "text": "Turn on the shut-off valve and let the tank fill. Check for leaks at the fill valve base, around the bolts, and at the tank-to-bowl connection. Flush several times and listen for running water. Adjust the fill valve or float if the water level is too high (overflowing into the tube) or too low (weak flush). Tighten connections slightly if needed, but avoid overtightening plastic parts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why does my toilet keep running after I flush?",
+      "a": "The most common cause is a worn flapper that doesn't seal properly, allowing water to leak into the bowl. Other causes include a fill valve set too high (water overflows into the overflow tube), a faulty fill valve, or a misadjusted float. The hissing sound indicates a flapper leak, while continuous running suggests fill valve issues."
+    },
+    {
+      "q": "How do I stop my toilet from ghost flushing?",
+      "a": "Ghost flushing (random short flushes) is usually caused by a slow leak from the tank to the bowl. This can be due to a flapper that doesn't seal perfectly, a damaged flush valve seat, or a worn flapper seat. Replace the flapper first; if that doesn't work, clean the seat or replace the flush valve assembly."
+    },
+    {
+      "q": "Can I replace the fill valve without removing the tank?",
+      "a": "Yes, the fill valve can be replaced from inside the tank. Simply shut off the water, flush to empty, disconnect the supply line, unscrew the lock nut from under the tank (you may need to hold the valve from inside), and install the new valve from above. Tighten the lock nut securely."
+    },
+    {
+      "q": "What is the correct water level in the toilet tank?",
+      "a": "The water level should be about 1 inch below the top of the overflow tube. Most fill valves have a mark indicating the ideal level. If the level is too high, water runs into the overflow tube and causes running; too low results in a weak flush."
+    },
+    {
+      "q": "Do I need to use plumber's tape on the fill valve threads?",
+      "a": "Pipe thread tape (Teflon tape) is optional but can help seal the connection between the fill valve and the supply line if you have minor leaks. Wrap it clockwise around the threads (1-2 layers) before threading the nut. However, most new fill valves have rubber washers that seal without tape."
+    },
+    {
+      "q": "How often should I replace toilet parts?",
+      "a": "Flappers typically need replacement every 1-2 years, while fill valves can last 5-7 years. Hard water can accelerate wear. If you notice frequent adjustments or persistent leaks, it's time to replace the component. Always use parts compatible with your toilet model."
+    }
+  ],
+  "body": "## Introduction\n\nA running toilet is more than an annoyance—it wastes gallons of water every day and can silently increase your utility bill. Fortunately, diagnosing and fixing the problem is one of the simplest home-repair tasks a DIYer can tackle. This guide covers the three main culprits: the flapper, the fill valve, and the float. With a few common tools and under an hour, you can restore your toilet to quiet, efficient operation.\n\n## Planning Your Repair\n\nBefore buying parts, identify which component is failing. Turn off the water, flush to empty the tank, and observe each part. A worn flapper often shows cracks or feels stiff; a faulty fill valve may hiss or not shut off; a misadjusted float may keep the water level too high. Take your old flapper or fill valve to the hardware store to ensure you get the correct replacement. Universal parts fit most toilets, but some brands (e.g., Kohler, Toto) require specific models.\n\n**Common Parts and Estimated Costs (2026):**\n- Flapper: $5–$15\n- Fill valve (with float): $15–$30\n- Tank-to-bowl gasket: $5–$10\n- Flush valve assembly: $20–$40\n\n## Mistakes to Avoid\n\n- **Overtightening fill valve lock nuts** can crack the porcelain tank. Tighten by hand, then use a wrench for no more than half a turn.\n- **Leaving too much slack in the flapper chain** causes the flapper to not lift fully; too little slack prevents a seal. Aim for 1/2 inch of slack.\n- **Ignoring the overflow tube water level**—if the water is above the tube, it will continuously run. Adjust the float to lower the water.\n- **Using excessive force on plastic components**—plastic threads strip easily. Always hand-thread first.\n- **Forgetting to shut off the water** before removing parts—this leads to a mess.\n\n## Tools and Materials\n\n**Tools:** adjustable wrench or pliers, flathead and Phillips screwdrivers, bucket, sponge or towel, flashlight.\n**Materials:** replacement flapper (universal or specific), replacement fill valve (if needed), pipe thread tape optional.\n\n## Step-by-Step Diagnosis and Repair\n\n### 1. Identify the Problem\nListen for the sound of running water. A hissing sound indicates a leak near the flapper. If you hear constant water flow, the fill valve may not be shutting off. Confirm by pressing the flapper down—if the sound stops, the flapper is the issue. If water runs into the overflow tube, adjust the float or replace the fill valve.\n\n### 2. Shut Off Water and Drain\nTurn the shut-off valve clockwise (usually behind the toilet). Flush to empty the tank. Sponge out any remaining water to work dry.\n\n### 3. Replace the Flapper\nIf the flapper is worn, unclip it from the overflow tube and disconnect the chain. Install the new flapper, ensuring it covers the flush valve opening evenly. Reattach the chain with 1/2 inch slack.\n\n### 4. Adjust or Replace the Fill Valve\nIf the water level is too high or the valve is leaking, adjust the float—turn the adjustment screw or slide the float clip to lower the water. If the valve is faulty, replace it. Unscrew the lock nut under the tank, remove the old valve, and install the new one. Tighten the nut hand-tight then 1/4 turn with a wrench.\n\n### 5. Reassemble and Test\nTurn on the water and check for leaks. Flush and let the tank refill. Adjust the float as needed. If a leak persists at the tank-to-bowl connection, tighten the bolts evenly—do not overtighten.\n\n## Safety\n\nWhen working on a toilet, there is minimal safety risk, but keep these points in mind:\n- **Shut off water** before disconnecting any supply lines to avoid flooding.\n- **Use caution with porcelain**—it can crack if overtightened or dropped. Do not use excessive force.\n- **Wear gloves** when handling components that may have been in contact with waste water.\n- **Keep the area dry** to prevent slipping.\n- If you are unsure about a repair, consult a professional plumber.\n\n## Additional Tips for a Smooth Repair\n\nIf you have hard water, mineral deposits can accumulate on the flapper seat and flush valve, preventing a good seal. Use a vinegar-soaked cloth to dissolve deposits, or a pumice stone gently. Replacing the flapper and adjusting the float are the most common fixes for a running toilet. Always keep spare parts like a flapper and a fill valve on hand—they are inexpensive and can save a emergency trip to the store. Regularly inspect the chain for rust or damage and replace if corroded. A well-maintained toilet can run trouble-free for years.\n\n## Conclusion\n\nA running toilet is often a quick fix that saves water and money. With this guide, you can diagnose the problem and perform the repair yourself. Remember to check the flapper first—it's the most common cause. Keep spare parts on hand for future maintenance.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "replace-a-kitchen-faucet",
+    "re-caulk-a-bathtub",
+    "makita-xfd131"
+  ]
+}

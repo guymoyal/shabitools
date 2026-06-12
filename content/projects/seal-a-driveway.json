@@ -1,0 +1,106 @@
+{
+  "slug": "seal-a-driveway",
+  "title": "How to Clean and Seal an Asphalt Driveway",
+  "description": "Clean, patch, and seal a two-car asphalt driveway in a weekend with a pressure washer, crack filler, and sealer for a durable finish.",
+  "category": "outdoor",
+  "difficulty": "intermediate",
+  "timeRequired": "2 days (including drying time)",
+  "timeRequiredIso": "PT16H",
+  "estCost": "$40-$80",
+  "toolsNeeded": [
+    {
+      "name": "Pressure washer (3000+ PSI recommended)",
+      "reviewSlug": "ryobi-ry142300"
+    },
+    {
+      "name": "Push broom with stiff bristles"
+    },
+    {
+      "name": "Crack filler squeeze bottle or caulking gun"
+    },
+    {
+      "name": "Driveway sealer roller with extension handle"
+    },
+    {
+      "name": "Paint tray or 5-gallon bucket for sealer"
+    },
+    {
+      "name": "Garden hose with spray nozzle"
+    },
+    {
+      "name": "Safety glasses and rubber gloves"
+    }
+  ],
+  "materials": [
+    "Asphalt driveway sealer (check coverage for your area)",
+    "Asphalt crack filler (cold-applied, trowel-grade and squeeze-bottle)",
+    "Degreaser or dish soap (for oil stains)",
+    "Concrete patch (for large potholes, if needed)",
+    "Drop cloths (to protect adjacent surfaces)",
+    "Painter's tape"
+  ],
+  "steps": [
+    {
+      "name": "Clear the driveway and inspect the surface",
+      "text": "Remove all vehicles, debris, and weeds from the driveway. Sweep the entire surface with a stiff push broom to remove loose dirt and gravel. Inspect for cracks, potholes, and oil stains. Cracks wider than 1/4 inch and potholes need filler. Mark all problem areas with chalk for later repair."
+    },
+    {
+      "name": "Pressure wash the driveway",
+      "text": "Using a pressure washer with at least 3000 PSI, wash the entire driveway starting from the top and working downhill. Hold the nozzle about 6-8 inches from the surface to avoid etching the asphalt. For stubborn oil stains, pre-treat with degreaser and let sit for 10 minutes before washing. Allow the surface to dry completely — at least 24 hours, depending on weather."
+    },
+    {
+      "name": "Clean oil stains (if present)",
+      "text": "Apply a commercial oil stain remover or a mix of dish soap and water to any remaining oil stains. Scrub with a stiff brush and rinse with a hose. For deep-set stains, an absorbent powder (like kitty litter) can be spread and left overnight before sweeping away. Repeat until the stain is visibly faded — sealer will not hide heavy oil stains."
+    },
+    {
+      "name": "Fill cracks and patch potholes",
+      "text": "For narrow cracks, use a squeeze-bottle crack filler, pressing it deep into the crack and overfilling slightly. For wider cracks and potholes, use a trowel-grade cold patch asphalt filler. Compact the filler with a tamper or the back of a shovel. Level the patches so they sit slightly above the surface — they will settle as they cure. Follow the filler manufacturer's cure time before sealing."
+    },
+    {
+      "name": "Mask off adjacent surfaces",
+      "text": "Use painter's tape and drop cloths to protect concrete curbs, garage floors, lawn edges, and any decorative borders. Sealant is sticky and hard to remove once dry. Also tape over utility covers or drains. Protecting these surfaces now saves hours of cleanup later."
+    },
+    {
+      "name": "Mix and apply the sealer",
+      "text": "Stir the driveway sealer thoroughly, especially if it is a coal tar or asphalt-based emulsion. If the sealer requires dilution, follow the label exactly — do not add extra water. Pour the sealer into a wide paint tray or a 5-gallon bucket. Use a roller with an extension handle to apply in even strokes, working in 3- to 4-foot wide sections from the top of the driveway downward. Apply a thin, uniform coat — about 15-20 mils thick. Avoid puddles or thick spots that will never dry properly."
+    },
+    {
+      "name": "Allow first coat to dry and apply second coat (if needed)",
+      "text": "Let the first coat dry according to the manufacturer's instructions — typically 12 to 24 hours. Check the coverage: if the asphalt still looks grey or blotchy, apply a second coat using the same technique. Two thin coats are always better than one thick one. Drying times depend on temperature and humidity: warm, dry weather is ideal, with no rain forecast for at least 24 hours."
+    },
+    {
+      "name": "Remove tape and cure the sealant",
+      "text": "Once the final coat is dry to the touch, carefully peel away the painter's tape and remove drop cloths. Keep the driveway off-limits to vehicles and foot traffic for the full cure time specified by the sealer — usually 48 to 72 hours. Longer is better in cooler weather. Light rain after 24 hours is usually okay, but avoid puddles."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I seal my asphalt driveway?",
+      "a": "Asphalt driveways should be resealed every 2 to 5 years, depending on climate, sun exposure, and traffic. In harsh winter areas with freeze-thaw cycles, more frequent sealing (every 2 years) is recommended. A simple test: sprinkle water on the driveway; if it beads up, the seal is still good; if it soaks in quickly, it is time to seal."
+    },
+    {
+      "q": "Can I seal a driveway in cool weather?",
+      "a": "The ideal application temperature is between 50°F and 85°F (10°C–30°C). Below 50°F, sealant thickens and may not cure properly. Above 85°F, it dries too fast and can bubble or blister. Check the weather forecast for at least 48 hours of dry, mild weather before starting. Avoid sealing just before a rainstorm."
+    },
+    {
+      "q": "How much sealer do I need for a typical two-car driveway?",
+      "a": "A standard two-car driveway is about 400 to 600 square feet. A 5-gallon bucket of sealer typically covers 150 to 250 square feet per coat, so you will need two to three buckets for two coats. Always buy a little extra for touch-ups. Read the label for exact coverage rates — they vary by product."
+    },
+    {
+      "q": "Do I need to fill every hairline crack?",
+      "a": "Hairline cracks (1/8 inch or less) do not require separate filler if you are using a thick, rubberized sealer, which will fill them during application. Wider cracks should be filled to prevent water intrusion and weed growth. Use a pourable crack filler for best results."
+    },
+    {
+      "q": "Can I seal over old sealant that is peeling?",
+      "a": "No. Old, peeling sealant must be removed before reapplication, or the new coat will also peel. Use a pressure washer or a scraper to remove loose flakes. If the old sealant is well-adhered and only faded, you can seal over it after a thorough cleaning. Test an inconspicuous area first."
+    }
+  ],
+  "body": "## Planning Your Driveway Sealing Project\nSealing an asphalt driveway is one of the most cost-effective ways to protect your home's curb appeal and extend the life of the pavement. Over time, UV rays, water, road salt, and vehicle fluids break down the asphalt binder, causing the surface to become brittle, crack, and fade. A fresh coat of sealant fills small cracks, blocks water penetration, and restores that rich, black finish. This project is best tackled over a long weekend — plan for one day of cleaning and prep, one day for filling cracks, and one day for applying sealer, plus drying time between coats.\n\nBegin by evaluating the condition of your driveway. Lightly worn surfaces with small hairline cracks are ideal candidates for sealing. If you have large potholes, major alligator cracking, or areas where the asphalt has sunk or heaved, structural repair may be needed first. For most homeowners, a standard two-car driveway (roughly 20 feet wide by 30 feet long) requires about 500 square feet of coverage. Buy a commercial-grade coal tar or asphalt emulsion sealer — avoid cheap water-based products that may not last through two winters.\n\n## Mistakes to Avoid\nMany first-timers skip thorough cleaning and end up with sealer that peels within months. Pressure washing is essential: remove all dirt, oil, and old flaking sealant. Do not apply sealer if rain is forecast within 48 hours — water spots ruin the finish. Another common error is applying the sealant too thickly. Thick coats take days to dry and may remain tacky, trapping dirt. Always apply two thin coats rather than one thick one. Also, avoid sealing during extreme temperatures. If the surface is too hot, the sealant bubbles; if too cold, it never cures. Finally, do not rush the drying time after the final coat. Keep vehicles and pets off the driveway for at least 48 hours, and ideally 72 hours in cooler conditions. Driving on a partially cured sealant will leave tire impressions that are permanent.\n\n## Safety\nSealants and crack fillers contain chemicals that can irritate skin, eyes, and lungs. Always work in a well-ventilated area — outdoors is fine, but avoid enclosed spaces like garages. Wear rubber gloves, safety glasses, and long pants and sleeves. If you are using a coal tar-based sealer, consider a respirator rated for organic vapors. Keep children and pets away from the work area until the sealer is fully cured. Dispose of any rags or applicators used with sealant according to local hazardous waste regulations — do not throw them in the trash wet, as they may auto-ignite. Pressure washers are powerful; never point the spray at people or pets, and wear sturdy boots to avoid slipping on wet pavement.\n\n## Step-by-Step Instructions\nThe steps below assume a clean, average-condition driveway. Adjust the time for drying and curing based on your climate and the specific products you buy. Always follow the manufacturer's instructions on the sealer and filler labels — they are tested for that specific product.\n\n### 1. Clear and Inspect\nRemove all vehicles, furniture, potted plants, and toys. Sweep thoroughly. Mark cracks and stains with chalk. If you have weeds growing through cracks, pull them and apply a weed killer a few days before sealing to prevent regrowth. Do not skip this step — weeds will push through fresh sealer.\n\n### 2. Pressure Wash\nUse a pressure washer with at least 3000 PSI and a 25-degree nozzle. Work in overlapping passes from the high side of the driveway down. Keep the nozzle moving to avoid etching. For oil stains, apply degreaser and scrub with a stiff broom before rinsing. Let the surface dry completely — this takes at least 24 hours in good weather. In humid conditions, allow 48 hours. The surface should look light grey when dry; if it still seems damp, wait longer.\n\n### 3. Treat Oil Stains\nIf after pressure washing you see dark stains, treat them with a commercial oil stain remover or a paste of cat litter and dish soap. Scrub, let sit, then rinse. Repeat if needed. Do not apply sealant over an oil stain — the sealer will not bond and the stain will bleed through.\n\n### 4. Fill Cracks and Potholes\nFor cracks up to 1/2 inch wide, use a rubberized crack filler in a squeeze bottle. Force the nozzle deep into the crack and fill until it overflows slightly. Use a putty knife to level the excess. For potholes or wide cracks, fill with cold patch asphalt compound, tamp it down firmly, and allow to cure per the label — usually 24 to 48 hours. The filler must be fully hard before sealing.\n\n### 5. Mask and Protect\nApply painter's tape to concrete curbs, garage floor edges, and any decorative borders. Lay drop cloths over grass, plants, and walkways adjacent to the driveway. Sealant drips are difficult to clean, and they kill grass. Also tape over any drainage grates or utility covers.\n\n### 6. Apply First Coat of Sealer\nMix the sealer thoroughly with a stirring stick or drill mixer. Do not thin unless the product instructions say so. Pour sealer into a roller tray or bucket. Use a thick-nap roller designed for rough surfaces, attached to an extension handle. Start at the top of the driveway and roll the sealer in a thin, even layer. Work in sections about 3–4 feet wide, overlapping each pass slightly. Use a squeegee or a wide brush to get into edges and corners. Avoid puddles — they will not dry correctly and may peel. The goal is a uniform coat that covers the grey without being thick enough to hide the surface texture.\n\n### 7. Let Dry and Apply Second Coat\nAllow the first coat to dry for 12 to 24 hours, or as directed. The sealer should be dry to the touch and not sticky. If the color looks blotchy, proceed with a second coat. Apply the second coat the same way, perpendicular to the first for best coverage. Two thin coats last longer than one thick coat.\n\n### 8. Remove Tape and Cure\nPeel off the tape and drop cloths while the second coat is still slightly tacky — this avoids pulling up dried sealant. Now comes the hardest part: leaving the driveway alone. No foot traffic, pets, or vehicles for at least 48 hours. In cooler weather, wait 72 hours. If it rains during the curing period, check for water spots after the surface dries — they often disappear on their own.\n\n## Final Check\nAfter the sealant has fully cured, inspect the driveway for any missed spots or thin areas. A properly sealed driveway should have a uniform, matte black appearance. Drive slowly and avoid sharp turns for the first week to prevent tire marks. With annual cleaning and touch-ups, a good seal job can last three to five years before reapplying.\n\nBy taking the time to do the prep work — cleaning thoroughly, filling cracks, and applying sealer in proper conditions — you will extend the life of your driveway and keep it looking great for years. This is a project that any motivated DIYer can complete in a weekend, and the payoff in curb appeal and protection is well worth the effort.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "pressure-wash-a-driveway",
+    "patch-cracked-concrete",
+    "ryobi-ry142300"
+  ]
+}

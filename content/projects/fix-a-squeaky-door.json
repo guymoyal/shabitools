@@ -1,0 +1,94 @@
+{
+  "slug": "fix-a-squeaky-door",
+  "title": "How to Diagnose and Fix a Squeaky Door Hinge (Step-by-Step)",
+  "description": "Stop that annoying door squeak for good. Learn to identify the cause—lubrication, loose screws, or hinge wear—and fix it in under an hour with common tools.",
+  "category": "home-repair",
+  "difficulty": "beginner",
+  "timeRequired": "30–60 minutes",
+  "timeRequiredIso": "PT45M",
+  "estCost": "$5–$15",
+  "toolsNeeded": [
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "makita-xfd131"
+    },
+    {
+      "name": "Phillips head screwdriver (or bit for your drill)"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Utility knife or putty knife"
+    },
+    {
+      "name": "Pencil"
+    }
+  ],
+  "materials": [
+    "Silicone spray lubricant or white lithium grease (aerosol can)",
+    "3-inch wood screws (for replacing loose hinge screws)",
+    "Wooden toothpicks or thin dowels (for repairing stripped screw holes)",
+    "Wood glue (if using toothpicks)"
+  ],
+  "steps": [
+    {
+      "name": "Identify the source of the squeak",
+      "text": "Open and close the door slowly while listening closely. Often the squeak comes from the hinge pin rubbing against the barrel, or from the hinge leaf rubbing against the door or frame. Have a helper move the door while you put a finger on each hinge—you may feel vibration. Also check if the door is rubbing on the frame, which sounds different and requires a different fix (often planing the door edge)."
+    },
+    {
+      "name": "Tighten loose hinge screws",
+      "text": "Loose screws are a common cause of noise. Using a screwdriver or drill with a Phillips bit, tighten every screw on both the door-side and frame-side hinge leaves. Do not overtighten or you'll strip the wood. If a screw spins freely without tightening, the hole is stripped. Remove that screw, dip a few toothpicks in wood glue, insert them into the hole, break them off flush, then drive the screw back in. Let the glue dry at least an hour before stressing the joint."
+    },
+    {
+      "name": "Lubricate the hinge pin and barrel",
+      "text": "If tightening screws didn't stop the squeak, the pin needs lubrication. Spray a small amount of silicone spray or white lithium grease into the top of each hinge barrel (where the pin enters). Open and close the door several times to work lubricant down the barrel. Wipe away excess with a rag to prevent drips. Avoid using WD-40 as a long-term lubricant; it dries out quickly. For stubborn squeaks, remove the hinge pin entirely by tapping it upward with a hammer and nail, apply lubricant to the pin, then reinsert."
+    },
+    {
+      "name": "Inspect for hinge binding or misalignment",
+      "text": "If lubrication doesn't help, the hinge leaves may be binding against each other or the door may be sagging. Check that the gap between door and frame is even on all sides. If the hinge is too tight, the hinge leaf may be rubbing—try loosening the frame-side screws slightly, or place a thin cardboard shim behind the hinge leaf on the frame or door. For a sagging door, remove the door or support it, then adjust the hinges by adding shims behind the leaves."
+    },
+    {
+      "name": "Replace worn or damaged hinges",
+      "text": "If a hinge is bent, cracked, or heavily worn, no amount of lubrication will fix it permanently. Remove the old hinge by unscrewing it. Take the old hinge to a hardware store to match size and shape—most interior doors use standard 3.5-inch hinges. Install the new hinge using the original screw holes; if those are stripped, use longer 3-inch screws that bite into the framing behind the door frame. Use a level to keep the hinge height consistent."
+    },
+    {
+      "name": "Test and adjust",
+      "text": "After any fix, open and close the door fully several times. Listen for remaining squeaks and check that the door latches smoothly. If the door binds on the frame, you may need to plane or sand the edge slightly. If a hinge screw keeps loosening, try a longer screw or reinforce the hole with a dowel and glue. Finally, wipe all lubricant residue from the door and jamb surfaces."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best lubricant for squeaky door hinges?",
+      "a": "Silicone spray or white lithium grease are top choices. They are long-lasting and won't attract dust like oil-based lubricants. Avoid WD-40 for permanent fixes; it works short-term but evaporates and can leave a sticky residue."
+    },
+    {
+      "q": "Can I fix a squeaky door without removing the hinge pin?",
+      "a": "Yes. Spray lubricant into the gap at the top of the hinge barrel where the pin enters, then work the door open and closed to distribute it. For tough squeaks, removing the pin allows better access."
+    },
+    {
+      "q": "Why does my door squeak after I already oiled it?",
+      "a": "The squeak may not be from the hinge pin—it could be a loose screw, a hinge leaf rubbing on the frame, or the door edge dragging on the jamb. Check each hinge screw and look for signs of rubbing on the frame."
+    },
+    {
+      "q": "How long does hinge lubricant last?",
+      "a": "A good silicone or lithium grease application can last a year or more. Dust and humidity can reduce lifespan. Reapply if the squeak returns."
+    },
+    {
+      "q": "What if the hinge screw holes are stripped?",
+      "a": "Fill the hole with wooden toothpicks coated in wood glue, then re-drive the screw. For a more permanent fix, use a thin dowel and glue, or replace the screw with a longer 3-inch one that reaches into the framing."
+    },
+    {
+      "q": "When should I replace a hinge instead of repairing it?",
+      "a": "Replace if the hinge is bent, cracked, or has loose barrel parts. Also replace if the hinge is a different size than the others or if paint buildup prevents smooth movement."
+    }
+  ],
+  "body": "## Diagnosing the Squeak\n\nA squeaky door hinge is one of the most common household annoyances, but it is also one of the easiest to fix. The first step is identifying the exact source of the noise. Open and close the door slowly with a helper. Listen for a high-pitched squeak that comes from the hinge itself, versus a scraping sound that indicates the door is rubbing the frame. Place your hand on the hinge barrel while moving the door; vibration often pinpoints which hinge is the culprit. Usually, the squeak comes from the hinge pin rubbing against the inside of the barrel, or from a hinge leaf scraping against the door or frame.\n\nBefore reaching for lubricant, check all hinge screws. Loose screws are a top cause of squeaks because they allow movement. Use a screwdriver or drill with a Phillips bit to tighten every screw snugly. Do not overtighten—stripping the hole is worse than leaving it a hair loose. If any screw spins freely, the hole is stripped. This is especially common on interior doors where the screws are short. The temporary fix is to insert toothpicks coated in wood glue into the hole, break them off flush, and then reinsert the screw. The permanent fix involves using a longer 3-inch screw that reaches into the door frame studs.\n\n## Lubrication Techniques\n\nIf tightening screws doesn't stop the squeak, lubrication is the next step. For hinge pins, use silicone spray or white lithium grease. Spray a small amount into the top of the hinge barrel where the pin is visible. Work the door open and closed a few times to let the lubricant work down. Wipe off any excess to avoid drips. For a more thorough job, remove the hinge pin by tapping it upward from the bottom with a hammer and a nail or screwdriver. Pull the pin out, apply lubricant to its length, reinsert, and then open/close the door a few times. This is especially effective for older hinges where the pin is tight.\n\nDo not use WD-40 as a long-term lubricant. It is primarily a solvent and displaces water, but it dries out quickly, leaving a gummy residue that can attract dust and worsen the problem. If you have used WD-40 already, clean the hinge with a degreaser before applying proper lubricant.\n\n## Addressing Hinge Binding and Misalignment\n\nSometimes the hinge leaves themselves are binding. This can happen if the hinge screws are too tight, forcing the leaves to press together. Try loosening the frame-side screws by half a turn—this often relieves binding. If the door is misaligned (sagging or rubbing), you may need to shim the hinge. Place a thin piece of cardboard behind the hinge leaf on the frame or door to tilt the door slightly. A sagging door often needs the top hinge shimmed or a longer screw in the top hinge hole to pull it back.\n\nCheck the gap between the door and the jamb. It should be even (about 1/8 inch) all around. If the gap is too tight on one side, the door may need to be planed or sanded. For significant misalignment, consider removing the door and adjusting the hinges—or replacing them if they are badly worn.\n\n## Replacing Worn Hinges\n\nIf a hinge is bent, cracked, or the barrel is excessively worn, replacement is the only lasting solution. Standard interior door hinges are 3.5 inches by 3.5 inches, but measure your existing hinge before buying. Remove the old hinge by unscrewing all screws. Use the new hinge as a template to mark new screw holes if needed—but often you can reuse the existing holes. If the old holes are stripped, use longer 3-inch screws that will bite into the door frame's structural lumber. Install the new hinge using a level to keep it straight.\n\n## Mistakes to Avoid\n\nOne common mistake is assuming all squeaks are the hinge pin. Always check screws first—tightening them is free and quick. Another is overlubricating; too much lubricant drips on floors and attracts dirt. A couple of sprays are sufficient. On painted hinges, avoid spraying near fresh paint as silicone can cause fisheyes. Finally, do not force a door that is severely misaligned—you may damage the hinges or frame. It’s often simpler to adjust with shims or a longer screw than to force the door closed.\n\n## Safety\n\nWear safety glasses when hammering or using a drill to avoid flying debris. When removing hinge pins, tap gently to avoid bending the pin or the hinge barrel. If using a drill to drive screws, use a clutch setting to prevent stripping. Be careful not to pinch fingers between the door and frame when adjusting. If you need to remove the door, have a helper support its weight, or use a door jack. Keep lubricant away from children and pets, and clean up any spills immediately to prevent slipping.\n\n## Final Thoughts\n\nFixing a squeaky door requires patience, not skill. The entire process rarely takes more than 30–45 minutes, and the materials cost under $15. Regular maintenance—tightening screws and lubricating hinges once a year—will keep doors quiet. If you have multiple squeaky doors, check all hinges in your home; many may need the same simple fix. With a small investment of time, you can eliminate an everyday annoyance and restore peace to your home.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "makita-xfd131",
+    "dewalt-dcf887b",
+    "replace-a-door-lock"
+  ]
+}

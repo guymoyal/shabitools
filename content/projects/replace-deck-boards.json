@@ -1,0 +1,116 @@
+{
+  "slug": "replace-deck-boards",
+  "title": "How to Replace Damaged Deck Boards and Install New Ones",
+  "description": "Remove rotten or cracked deck boards and fit new pressure-treated lumber in a weekend with proper spacing, hidden fasteners, and trim planning.",
+  "category": "outdoor",
+  "difficulty": "intermediate",
+  "timeRequired": "6–10 hours",
+  "timeRequiredIso": "PT8H",
+  "estCost": "$40–$80",
+  "toolsNeeded": [
+    {
+      "name": "Reciprocating saw",
+      "reviewSlug": "milwaukee-2722-20"
+    },
+    {
+      "name": "Cordless circular saw",
+      "reviewSlug": "dewalt-dcs573b"
+    },
+    {
+      "name": "Cordless drill/driver"
+    },
+    {
+      "name": "Pry bar (flat bar)"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Tape measure"
+    },
+    {
+      "name": "Speed square"
+    },
+    {
+      "name": "Chalk line"
+    },
+    {
+      "name": "Level"
+    },
+    {
+      "name": "Safety glasses and work gloves"
+    }
+  ],
+  "materials": [
+    "Pressure-treated 5/4×6 or 2×6 deck boards (calculate lineal footage based on deck area)",
+    "Hidden deck fasteners (screw-based clips or camo system) or 2.5-inch exterior wood screws",
+    "Deck screws (3-inch for framing connections if needed)",
+    "Wood preservative or stain",
+    "Painter's tape or pencil for layout",
+    "Saw blades (demo blade for reciprocating saw, finish blade for circular saw)"
+  ],
+  "steps": [
+    {
+      "name": "Assess damage and plan the replacement",
+      "text": "Inspect every deck board for rot, splits, cupping, or soft spots. Use a screwdriver to probe suspicious areas — if it sinks in easily, the board is compromised. Map out which boards to replace by labeling them with painter's tape. Measure their lengths and note the spacing at the ends. Pressure-treated lumber should be replaced with matching material: 5/4×6 (actually 1 inch thick by 5.5 inches wide) is standard for decking. Calculate needed lineal footage by multiplying the number of boards by their length, then add 10% for waste and trimming."
+    },
+    {
+      "name": "Remove the damaged boards",
+      "text": "Set your reciprocating saw with a demo blade to cut through any screws or nails holding the damaged board. Cut the board into manageable sections, then use a pry bar and hammer to lift each section free from the joists. Work carefully to avoid damaging adjacent good boards. If the fasteners are stubborn, cut them flush with the joist top. Remove all remaining fasteners and debris so the joist surface is clean for the new board. You can leave old fasteners if they are fully sunk and not protruding."
+    },
+    {
+      "name": "Check the joists and repair as needed",
+      "text": "With the old boards removed, inspect the exposed joists for rot or damage. Probe with a screwdriver along the top edge and near any old fastener holes. If a joist is rotted, you must sister a new joist alongside or replace the section. Scarf in a treated 2×6 or 2×8 with 3-inch structural screws and construction adhesive. Minor surface rot can be sanded away and treated with a wood preservative. Ensure the joists are level and evenly spaced (usually 16 inches on center)."
+    },
+    {
+      "name": "Measure and cut the new boards to length",
+      "text": "Measure the exact span of each replacement board — do not rely on old dimensions, as decks settle and space unevenly. Cut each board slightly shorter than the measured distance (about 1/2 inch less) to leave a 1/4-inch gap at each end for drainage. Use a circular saw with a fine-tooth blade for clean cuts. For a square end, mark with a speed square and cut along the line. If the deck edge is angled, use a miter saw or make a bevel cut. Always cut pressure-treated wood outdoors due to the chemical dust."
+    },
+    {
+      "name": "Dry-fit, mark spacing, and apply hidden fasteners or screws",
+      "text": "Lay the new board in place on the joists to check the fit. It should sit without force and have uniform gaps along the edges. Mark the joist centers on the board edge for screw placement. For hidden fasteners (such as Camo or deck clip systems), position the clips according to manufacturer instructions, typically at each joist crossing. If using face screws, pre-drill pilot holes to prevent splitting. Space the board 1/8 inch from the previous board using a spacing tool or a nail. At the ends, leave a 1/4-inch gap to the ledger or rim joist."
+    },
+    {
+      "name": "Secure the new board to the joists",
+      "text": "If using hidden fasteners, drive the screws through the clips into the joist at the marked locations. Ensure the fastener head sits flush with the clip surface. For face screws, countersink the heads about 1/8 inch below the surface and drive them straight. Stagger screws along each joist to avoid splitting. Work from one end of the board to the other, checking that the board stays aligned with the spacing gauge. For the first and last boards on each edge, you may need to face-screw them since clips cannot reach the outer edge."
+    },
+    {
+      "name": "Trim ends flush and cut for posts or obstacles",
+      "text": "After the board is fastened, check if the ends extend beyond the deck frame. Use a circular saw to cut them flush with the rim joist. For posts or railings, measure and mark the board for a notch or a butt joint. Cut a notch with a jigsaw or by making multiple circular saw passes. Use a sharp chisel to clean out the notch corners. Where the board passes under a railing baluster, you may need to cut around it — leave a 1/8-inch gap for expansion."
+    },
+    {
+      "name": "Repeat for each board and finish with a final check",
+      "text": "Install the remaining replacement boards one at a time, following the same sequence: measure, cut, dry-fit, space, fasten, and trim. Periodically check that the boards are parallel and the gaps are consistent. After all boards are installed, go over the entire area to ensure no fasteners are proud, no splinters are raised, and all edges are smooth. Sand any rough spots. Apply a water-repellent preservative or stain if desired, following the manufacturer's drying time. Clean up all debris and used fasteners."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know if a deck board needs replacing?",
+      "a": "Look for deep splits, extensive cupping, soft spots that yield to a screwdriver, or areas where the board has pulled away from the joist. If more than a third of the board is compromised, replace it. Surface checks (small cracks) are cosmetic and not structural."
+    },
+    {
+      "q": "Can I replace just one board, or should I do a section?",
+      "a": "You can replace a single damaged board. Cut it out and fit a new one to the same length. However, if adjacent boards are also in poor condition, replacing them together gives a more uniform look and allows you to realign spacing."
+    },
+    {
+      "q": "What's the best gap between deck boards?",
+      "a": "For pressure-treated lumber, space boards 1/8 to 1/4 inch apart for drainage and expansion. Use a 16d nail as a spacer. At the ends, leave a 1/4-inch gap to the frame to prevent moisture trapping."
+    },
+    {
+      "q": "Do I need to use hidden fasteners?",
+      "a": "Hidden fasteners give a clean, screw-free surface and reduce the chance of rust stains. They are not required — face screws are fine if countersunk. Hidden systems cost more but are worth it for appearance on visible decks."
+    },
+    {
+      "q": "How long should the new boards acclimate?",
+      "a": "Stack pressure-treated boards in the shade near the deck for at least 48 hours to adjust to the local moisture content. Keep them off the ground and spaced apart. This minimizes shrinkage and warping after installation."
+    }
+  ],
+  "body": "## Planning the replacement\n\nReplacing deck boards is a straightforward project that can restore a tired or unsafe deck in a weekend. The key is to work systematically: identify every compromised board, remove it without damaging surrounding structure, and use the same thickness and width lumber for a flush final surface. Pressure-treated 5/4×6 (actual 1×5.5 inches) is the standard, but some older decks use 2×6. Match the existing material to avoid height differences.\n\nBefore starting, confirm the joist spacing — typically 16 inches on center. This determines where you will screw or clip the new boards. Gather all tools and materials in advance: a reciprocating saw with a demolition blade for cutting old fasteners, a circular saw for clean crosscuts, a drill/driver for installation, and a pry bar for lifting old boards. Buy 10% extra lineal footage beyond your measurements to account for waste and trimming around obstacles.\n\n## Mistakes to avoid\n\n- **Relying on the old board as a template for length.** Decks settle and frames shift, so measure the gap precisely where the new board will sit. Cut 1/2 inch shorter than the span to allow 1/4-inch end gaps.\n- **Forcing boards into place.** If a board is tight, trim it rather than force it. A forced board will buckle or push adjacent boards out of alignment.\n- **Skipping the joist inspection.** A rotted joist under a new board is a hidden liability. Probe around old fastener holes and replace or sister any compromised joists.\n- **Overtightening fasteners.** Screws can snap if driven too hard, and overtightening hidden clips can warp the board. Drive until firm but not stressed.\n- **Using green lumber immediately.** Pressure-treated lumber can shrink significantly, which can cause gaps to widen later. Acclimating the wood for a couple of days minimizes this.\n\n## Board selection and preparation\n\nWhen buying replacement boards, choose straight, knot-free pieces from the top of the lumber pile. Avoid boards with large cracks or wane (missing wood on the edge). Pressure-treated lumber is graded by retention level; for decking, use 0.40 retention (above ground) or 0.60 retention (ground contact) if the deck is low. Store the boards flat and stickered with spacers between layers for airflow. If you cannot acclimate for 48 hours, at least let the boards rest overnight before cutting.\n\n## Fastening methods\n\nThere are two common ways to fasten deck boards: face screwing and hidden fasteners. Face screwing is cheaper and simpler — just drive 2.5-inch exterior-grade screws through the board into each joist. Countersink the heads about 1/8 inch below the surface. Stagger the screws in a zigzag pattern along each joist to avoid splitting the wood. Use a minimum of two screws per joist crossing. For hidden fasteners, you install clips or brackets between the boards that grip the groove on each side. These require a router or special bit to create a groove on the board edge, but the result is a clean surface with no visible fasteners. Whichever method you choose, ensure the fasteners are rated for pressure-treated lumber, which often requires stainless steel or triple-coated screws to resist corrosion.\n\n## Cuts around obstacles\n\nDeck boards often need to fit around posts, railings, or stair stringers. The neatest approach is to cut the board to butt against the obstacle or notch it to wrap around. For a post that sits on the deck surface, mark the board for a notch: measure the post's width and depth, then mark a rectangle on the end of the board. Cut along the marks with a jigsaw or by making multiple passes with a circular saw. Clean the corners with a sharp chisel. Leave a 1/8-inch gap between the board and the post for expansion. If the post is through the deck (goes through the boards), you will need to cut two halves of the board to meet around the post. Make a straight rip cut down the center of the board, then notch each half so they wrap around the post with a small gap.\n\n## Staining and sealing\n\nOnce all new boards are installed, you can choose to seal or stain the deck. Wait about two weeks for pressure-treated wood to dry sufficiently (moisture content below 15%). Test by sprinkling water on the surface — if it beads up, the wood is still too wet; if it absorbs, you can apply sealer. Clean the deck thoroughly with a deck cleaner and pressure washer (gentle setting) to remove dirt and mill glaze. Apply a high-quality water-repellent waterproofing sealant or a solid stain with a roller or sprayer. Work in sections, keeping a wet edge to avoid lap marks. Allow the first coat to dry for 24 hours, then apply a second coat for best protection. Regular maintenance every one to two years will prolong the life of the deck.\n\n## Safety\n\nWear safety glasses and heavy gloves throughout. Cutting pressure-treated wood produces fine dust containing chemical preservatives — always cut outdoors, wear a dust mask, and wash hands and clothes separately afterward. Use the reciprocating saw with both hands in a controlled stance; the blade can grab and kick. Keep the circular saw's blade guard functioning and never force the saw through a cut. When prying boards, watch for flying debris and maintain stable footing. Dispose of rotted wood and old fasteners properly; do not burn treated wood, as the smoke is toxic. Ensure all power tools are disconnected when changing blades or bits.\n\n## Final thoughts\n\nReplacing deck boards is one of the most rewarding DIY projects — the results are immediate visible improvement, and the deck becomes safer for everyday use. Take your time on the prep work, measure twice, cut once, and do not rush the fastening step. A well-installed board will last for many years, especially if sealed and maintained. With the right tools and careful attention to detail, you can transform a worn deck into a beautiful outdoor living space.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "milwaukee-2722-20",
+    "dewalt-dcs573b",
+    "stain-a-deck"
+  ]
+}

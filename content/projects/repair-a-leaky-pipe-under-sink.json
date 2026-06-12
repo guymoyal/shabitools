@@ -1,0 +1,94 @@
+{
+  "slug": "repair-a-leaky-pipe-under-sink",
+  "title": "How to Fix a Leaky P-Trap and Supply Line Under a Sink",
+  "description": "Diagnose and repair common leaks under a sink: tighten slip nuts, replace a damaged P-trap, swap supply lines, and leak-test — in under 2 hours.",
+  "category": "home-repair",
+  "difficulty": "beginner",
+  "timeRequired": "1–2 hours",
+  "timeRequiredIso": "PT2H",
+  "estCost": "$15–$40",
+  "toolsNeeded": [
+    {
+      "name": "Adjustable wrench"
+    },
+    {
+      "name": "Bucket or basin"
+    },
+    {
+      "name": "Slip-joint pliers"
+    },
+    {
+      "name": "Pipe wrench (if needed)"
+    },
+    {
+      "name": "Flashlight or work light"
+    }
+  ],
+  "materials": [
+    "Replacement P-trap kit (1.5-inch PVC or ABS, matching your existing pipe)",
+    "Replacement supply lines (braided stainless steel, correct length and fitting type)",
+    "Plumber's tape (PTFE thread seal tape)",
+    "Plumber's putty (if resealing the drain flange)",
+    "Clean rag or towel"
+  ],
+  "steps": [
+    {
+      "name": "Identify the leak source",
+      "text": "Clear out the under-sink cabinet and place a bucket under the trap. Dry all pipes and fittings with a rag, then turn the water on briefly to see where the leak originates. A leak may come from a loose slip nut, a cracked trap, a corroded supply line, or a worn compression ring. Run both hot and cold water while watching. Use a flashlight to check for drips on the trap bend, the wall pipe connection, the shutoff valve, and the supply line nut."
+    },
+    {
+      "name": "Shut off the water and relieve pressure",
+      "text": "Turn the shutoff valves for hot and cold under the sink clockwise until they stop. Then open the faucet to drain any remaining water in the lines. Place an extra towel under the valves to catch drips. If the shutoff valves do not hold or you need to replace them, shut off the main water supply to the house."
+    },
+    {
+      "name": "Disassemble the P-trap",
+      "text": "Loosen the two large slip nuts at each end of the trap bend using slip-joint pliers or your hand. They are typically plastic and can be overtightened, so be careful not to crack them. Slide the nuts away from the joint and pull the trap off. Empty the trap into the bucket and clean out any debris inside. Inspect the slip nuts and washers for damage or deformation. If the trap is corroded, cracked, or heavily mineralized, replace it entirely."
+    },
+    {
+      "name": "Repair or replace the P-trap",
+      "text": "If the trap is reusable, clean the slip joint washers and reassemble hand-tight plus a quarter turn with pliers. For a new trap, check the inlet pipe length: the tailpiece from the sink strainer should extend into the trap by about 1 to 1.5 inches. If too short, add a tailpiece extension. Dry-fit all parts to confirm alignment, then tighten the slip nuts snugly—do not overtighten, as plastic threads strip easily."
+    },
+    {
+      "name": "Replace the supply lines (if leaking)",
+      "text": "Use an adjustable wrench to loosen the nut connecting the supply line to the shutoff valve. Then loosen the nut at the faucet tailpiece. Remove the old line. Wrap the threads on the shutoff valve and faucet tailpiece with three layers of plumber's tape in a clockwise direction. Install the new braided stainless steel line, hand-tightening the nuts, then give them a quarter turn with a wrench. Do not overtighten—braided lines seal with a rubber gasket."
+    },
+    {
+      "name": "Replace shutoff valves (if needed)",
+      "text": "If the shutoff valve leaks or is stuck, shut off the main water supply. Open the faucet to drain. Use a pipe wrench to remove the old valve from the copper stub-out. Clean the pipe end with sandcloth. Apply plumber's tape to the threads of the new quarter-turn valve and install it hand-tight plus one full turn with a wrench. Turn the main water back on and check for leaks before proceeding."
+    },
+    {
+      "name": "Reassemble and test",
+      "text": "Reconnect the P-trap and tighten all slip nuts. Turn the shutoff valves on slowly, then open the faucet. Let water run for a full minute while inspecting every joint—trap nuts, valve connections, supply line fittings. Dry any moisture left from assembly and watch for new drips. If a joint seeps, tighten gently. If it still leaks, disassemble, check the washer or o-ring, and reassemble."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know if I need to replace the P-trap or just tighten it?",
+      "a": "First, try tightening the slip nuts gently. If the leak stops, you only needed a snug. If it continues, inspect the trap for cracks, corrosion, or a warped washer. Plastic traps can crack from overtightening or age; metal traps corrode. Replace the trap if it shows any damage or if the slip nut threads are stripped."
+    },
+    {
+      "q": "What size P-trap do I need?",
+      "a": "Standard kitchen sink drains use a 1.5-inch P-trap. Bathroom sinks typically use 1.25-inch, but many modern setups also use 1.5-inch. Measure the diameter of your existing trap or tailpiece to be sure. Match the material (PVC or ABS) to your existing pipes—mixing types can cause compatibility issues with cement or adapters."
+    },
+    {
+      "q": "Can I use plumber's tape on slip nut threads?",
+      "a": "No, plumber's tape is for threaded pipe connections like those on shutoff valves and supply lines. Slip nuts use a compression washer or o-ring to seal, not the threads. Applying tape to slip nut threads can prevent the nut from tightening fully and cause leaks. Instead, ensure the washer is clean and properly seated."
+    },
+    {
+      "q": "Why does my supply line leak at the valve even after tightening?",
+      "a": "This is often because the old compression ring or ferrule is damaged, or the nut was overtightened and cracked. If the valve has a compression fitting, you may need to replace the ferrule or use a new supply line with a rubber gasket that seals on the valve body. Also check that the valve threads are clean and that plumber's tape was applied correctly."
+    },
+    {
+      "q": "How do I remove a stuck slip nut?",
+      "a": "Apply penetrating oil (like WD-40) to the threads and let it sit for 10 minutes. Use a pair of slip-joint pliers with a clean grip. If the nut is plastic and badly stuck, you may need to cut the trap with a hacksaw and replace it. For metal nuts, a pipe wrench can provide extra leverage, but be careful not to damage the pipe."
+    }
+  ],
+  "body": "## Overview\n\nA drip under the sink is one of the most common household plumbing problems. The leak usually comes from either the P-trap (the curved pipe that holds water to block sewer gases) or the supply lines that carry hot and cold water to the faucet. The good news is that both repairs are straightforward, require only basic tools, and can be completed in under two hours. This guide walks you through diagnosing the source, disassembling the fittings, replacing damaged parts, and testing your work so you can avoid costly plumber callouts.\n\n## Planning Your Repair\n\nBefore buying parts, take a moment to inspect your existing setup. Look under the sink with a flashlight and identify the type of piping: PVC (white plastic), ABS (black plastic), or metal (chrome-plated brass or copper). The P-trap is usually 1.5 inches in diameter for a kitchen sink or 1.25 inches for a bathroom sink. Measure the outer diameter of the pipe to confirm. Supply lines come in standard lengths (12, 20, 30 inches) and have different end fittings (compression, pipe thread, or quick-connect). Write down the type and length you need. If your shutoff valves are old or hard to turn, consider replacing them at the same time—they are inexpensive and prevent future leaks.\n\n## Mistakes to Avoid\n\nOne of the most common mistakes is overtightening plastic nuts. Slip nuts only need to be snug; cranking them can crack the nut or distort the washer, causing a leak. Another error is mixing plumber's tape with slip joint washers—tape belongs on threaded connections only. If your trap leaks after reassembly, check that the washer is oriented correctly (the beveled side faces the nut) and that the pipe is fully seated in the fitting. When replacing supply lines, avoid using a wrench on the valve body; always grip the valve's flat wrench flats to prevent twisting the pipe. Finally, do not skip the leak test: run water for a full minute and wipe all joints dry, then watch for any new moisture.\n\n## Safety\n\nBefore working on any plumbing, shut off the water supply. If the shutoff valves under the sink do not work or leak when turned, shut off the main water valve for the house (usually located near the water meter or where the main line enters the house). Open the faucet to relieve pressure and drain the lines. Place a bucket under the trap to catch residual water. Wear rubber gloves if handling old pipes that may contain mineral deposits or bacteria. Never use excessive force on plastic fittings; they can shatter and cause injury. If you encounter stubborn nuts, apply penetrating oil rather than using a cheater bar. When testing, keep the cabinet door open and have towels ready in case of unexpected spray. If you smell natural gas or if the leak is on a gas line, stop immediately and call a professional.\n\n## Step-by-Step Instructions\n\n### Step 1: Identify the leak source\nClear the cabinet and dry everything. Turn on the water and look for drips. Common locations: the slip nuts connecting the trap to the tailpiece and wall pipe, the bottom of the trap where sediment may have eroded it, the compression nut on the shutoff valve, and where the supply line attaches to the faucet. If you see water on the cabinet floor, trace it upward to find the origin.\n\n### Step 2: Shut off the water\nTurn both shutoff valves clockwise until they stop. If they are stuck or leak when turned, use the main shutoff. Open the faucet to drain the lines. Place towels under the valves to catch drips.\n\n### Step 3: Disassemble the P-trap\nPosition a bucket under the trap. Hand-loosen the slip nuts on both ends of the trap bend; if stuck, use slip-joint pliers with a gentle grip. Slide the trap off and empty it into the bucket. Clean the inside of the trap and inspect the washers. Hardened or flattened washers should be replaced.\n\n### Step 4: Repair or replace the P-trap\nIf the trap is in good condition, reassemble it with the existing parts. If replacing, dry-fit the new trap to ensure the tailpiece reaches into the trap bend by at least one inch. Cut the tailpiece with a hacksaw if needed. Tighten the slip nuts hand-tight plus a quarter turn with pliers. Do not overtighten.\n\n### Step 5: Replace the supply lines (if leaking)\nUse an adjustable wrench to disconnect the old supply lines from the shutoff valves and the faucet tailpieces. Clean the threads on the valves and tailpieces. Apply three wraps of plumber's tape clockwise. Install the new braided stainless steel lines, hand-tightening the nuts, then a quarter turn with a wrench. No tape is needed on the braided line's cone washer.\n\n### Step 6: Replace shutoff valves (if needed)\nShut off the main water supply. Remove the old valve with a pipe wrench. Clean the pipe end with emery cloth. Apply plumber's tape and install the new quarter-turn valve. Tighten with a wrench one full turn past hand-tight. Turn the main water on and check for leaks.\n\n### Step 7: Reassemble and test\nReconnect the trap and tighten all slip nuts. Turn the shutoff valves on slowly. Open the faucet and let water run for one minute. Inspect every joint for leaks. If you see a drip at a slip nut, tighten gently. If a supply line nut leaks, tighten a quarter turn. If the leak persists, disassemble and check the washer or o-ring for damage. Once no leaks appear, dry everything and replace the items under the sink.\n\n## Final Checks\n\nAfter the repair, leave the cabinet door open for a few hours to air out any moisture. Check again the next morning—sometimes a slow leak takes time to show. If all is dry, you have successfully fixed the leak and saved the cost of a service call. Regularly inspect your under-sink plumbing every few months for signs of corrosion or loose fittings; early detection prevents water damage to your cabinet and floor.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "replace-a-kitchen-faucet",
+    "fix-a-running-toilet",
+    "milwaukee-2836-20"
+  ]
+}

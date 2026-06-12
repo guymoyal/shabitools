@@ -1,0 +1,101 @@
+{
+  "slug": "repair-a-wooden-fence",
+  "title": "How to Repair a Wooden Fence: Replace Pickets, Rails & a Leaning Post",
+  "description": "Step-by-step guide to replace damaged fence pickets, sagging rails, and a leaning post. Restore strength and appearance in a weekend.",
+  "category": "outdoor",
+  "difficulty": "intermediate",
+  "timeRequired": "6–8 hours",
+  "timeRequiredIso": "PT7H",
+  "estCost": "$80–$150",
+  "toolsNeeded": [
+    {
+      "name": "Cordless drill driver",
+      "reviewSlug": "makita-xfd131"
+    },
+    {
+      "name": "Circular saw or reciprocating saw",
+      "reviewSlug": "milwaukee-2722-20"
+    },
+    {
+      "name": "Level"
+    },
+    {
+      "name": "Tape measure"
+    },
+    {
+      "name": "Shovel or post hole digger"
+    },
+    {
+      "name": "Hammer",
+      "reviewSlug": "dewalt-dcs573b"
+    }
+  ],
+  "materials": [
+    "Pressure-treated 4x4 posts (one 8-ft for the leaning post, plus any additional needed)",
+    "Pressure-treated 2x4 rails (as needed for length of damaged sections)",
+    "Fence pickets (standard dog-eared, quantity to match gaps)",
+    "Exterior wood screws (3-inch for rails to posts, 1.5-inch for pickets)",
+    "Post mix concrete (one 50-lb bag per post replacement)",
+    "Gravel (for drainage at post base)"
+  ],
+  "steps": [
+    {
+      "name": "Assess the damage and plan the repair",
+      "text": "Walk the fence line and identify all compromised sections. Mark the leaning post and count how many pickets and rails need replacement. Note whether adjacent posts are sound—if they are rotted at ground level, plan to replace those too. Measure the post spacing (typically 6 or 8 feet) and purchase pressure-treated lumber to match the original dimensions. Buy extra pickets for waste and future repairs."
+    },
+    {
+      "name": "Remove old pickets and rails from the damaged section",
+      "text": "Use a reciprocating saw or hammer to pry off pickets attached to the leaning post and the rails. Work carefully to avoid damaging nearby sound pickets if you plan to reuse them. Remove all nails or screws. If rails are nailed, pull the nails from the post side. With the area cleared, you can see how the rails were attached (to the side of the post or butted between posts) which guides the new installation."
+    },
+    {
+      "name": "Remove the old leaning post",
+      "text": "Dig around the base of the leaning post with a shovel or post hole digger. If the post is set in concrete, you may need to break the concrete with a sledgehammer or loosen the soil around it. Rock the post back and forth to free it, then lift it out. Clear the hole of debris, keeping it roughly 12 inches in diameter and at least 2 feet deep (below frost line if applicable). Add a few inches of gravel for drainage."
+    },
+    {
+      "name": "Set and concrete the new post",
+      "text": "Place the new 4x4 pressure-treated post in the hole. Use a level to plumb it in both directions, propping it temporarily with stakes. Mix fast-setting post concrete in a wheelbarrow or bucket per manufacturer's instructions and shovel it into the hole, occasionally tamping to remove air pockets. Slope the top of the concrete away from the post for drainage. Check plumb again and adjust within the first 10 minutes. Allow concrete to set according to package directions (usually 24–48 hours before applying full load)."
+    },
+    {
+      "name": "Install new rails",
+      "text": "Cut replacement 2x4 rails to length—typically the span between posts. For standard fence sections, attach rails flat (2-inch side against pickets) to the face of the posts using 3-inch exterior screws, two per post end. Use a level to ensure each rail is horizontal. If the original rails were set between posts (notched), notch the ends of new rails using a circular saw and chisel, then fasten through the post. Install top and bottom rails at the same heights as adjacent good sections."
+    },
+    {
+      "name": "Attach new pickets",
+      "text": "Starting from one post, position the first picket plumb and flush with the outer edge of the post. Use a level to keep it vertical. Drive 1.5-inch exterior screws through the picket into each rail—two per rail. Use a scrap piece of picket as a spacer to maintain consistent gap (typically 1/8 to 1/4 inch). Continue across the section, checking plumb every few pickets. For a uniform look, the tops should align; use a string line or level across the tops."
+    },
+    {
+      "name": "Reattach saved pickets and final adjustments",
+      "text": "If you removed any undamaged pickets earlier, reattach them using new screws. Check that all pickets are secure and none are loose. Inspect joints for gaps and add screws where needed. Trim any picket tops that are uneven using a circular saw with a guide. Finally, apply a wood preservative or stain to the new lumber to match the existing fence—all pressure-treated wood will weather to gray if left untreated, but sealing extends life."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How deep should I set fence posts?",
+      "a": "For a standard 6-foot fence, set posts at least 2 feet deep in the ground, or 1/3 the post height above ground. In colder climates, dig below the frost line to prevent frost heave. Adding 4–6 inches of gravel at the bottom aids drainage and prolongs post life."
+    },
+    {
+      "q": "Should I use nails or screws for fence pickets?",
+      "a": "Screws are better for longevity. Nails can loosen over time due to wood movement and wind. Exterior-grade deck screws (coated or stainless steel) resist corrosion and hold pickets securely, making future removal easier if repairs are needed."
+    },
+    {
+      "q": "Can I repair a leaning post without removing it?",
+      "a": "If the post is sound above ground but the base has shifted, you can try bracing it with a concrete mender or installing an adjacent “sister” post. However, it's often more reliable to replace the post entirely, as a leaning post usually indicates rot or inadequate concrete at the base."
+    },
+    {
+      "q": "How do I match the color of new pressure-treated wood with old fence?",
+      "a": "New pressure-treated wood is often greenish; it will weather to a natural gray over time, similar to older wood. To accelerate blending, apply a wood stain or a bleaching agent. Cleaning the old fence with a pressure washer also helps unify the look. Allow new wood to dry a few weeks before staining."
+    },
+    {
+      "q": "What's the easiest way to remove old pickets without damage?",
+      "a": "Use a reciprocating saw with a demolition blade to cut through nails or screws. Alternatively, a pry bar and hammer can work, but may split the wood. If you plan to reuse pickets, cut the fasteners rather than prying against the wood."
+    }
+  ],
+  "body": "## Planning Your Fence Repair\n\nBefore buying materials or pulling nails, do a thorough inspection of the entire fence line. Walk slowly along the fence on both sides, looking for rot at the base of each post (poke with a screwdriver to confirm), loose or broken rails, cracked or missing pickets, and any sections that lean. Measure the spacing between posts (standard is 6 or 8 feet) and note how rails are attached—whether they are nailed to the face of the post or fit into notches. Make a sketch or take photos for reference.\n\nDetermine how many linear feet of rail and how many pickets you need. A typical 6-foot fence section with 6-foot post spacing uses two 6-foot rails and about 15 pickets (assuming 5.5-inch-wide pickets with a 1/4-inch gap). You'll likely be replacing only a portion, so measure exactly. Pressure-treated lumber from a local home center is suitable; buy it a few days in advance and let it acclimate to your yard's humidity—this minimizes warping after installation.\n\n## Choosing Materials\n\nFor posts, use ground-contact-rated pressure-treated 4x4s. For rails, standard 2x4 pressure-treated lumber is adequate. Pickets come in various styles; dog-eared (with two rounded top corners) are common and easy to align. Use exterior-rated screws: coated deck screws or stainless steel for best corrosion resistance. 3-inch screws for post-to-rail connections, 1.5-inch screws for picket-to-rail. A package of 5-6 pounds of each is a good start.\n\nFor concrete, a fast-setting post mix (like Quikrete) requires no mixing—just pour dry into the hole and add water. Add a few inches of gravel at the bottom of the hole to promote drainage and prolong the post's life.\n\n## Tools and Prep\n\nYou'll need: cordless drill/driver with bits, circular saw or reciprocating saw (for cutting rails and removing old fasteners), level, tape measure, shovel or post hole digger, hammer, safety glasses, work gloves. A string line or mason's line helps align tops and gaps. A workpiece to use as a spacer (scrap picket) keeps gaps consistent.\n\n## Removing the Leaning Post\n\nThe leaning post is typically the worst offender. Dig around it with a shovel or post hole digger. If set in concrete, break up the concrete with a heavy sledgehammer or use a digging bar. Sometimes you can rock the post back and forth to loosen the soil. If the post is rotted at the base, it may snap off; in that case, dig out the stump as best you can. Clear the hole to at least 12 inches wide and 24-30 inches deep.\n\n## Setting the New Post\n\nPlace a few inches of gravel in the hole. Position the new 4x4 post, use a level to plumb it on two adjacent sides, and temporarily brace it with wooden stakes and screws. Mix post-setting concrete per instructions (or pour dry and add water) and fill the hole, tamping to eliminate voids. Slope the top away from the post for drainage. Re-check plumb and adjust within 10 minutes. Allow concrete to cure as directed—often 24-48 hours before attaching rails. If you set the post too high or low, correct height now: the top should align with other posts or be cut to height later.\n\n## Installing Rails\n\nOnce the post concrete has set, cut new rails to span between the two sound posts (or from the new post to an adjacent sound post). For face-mounting, hold the rail flush against the post side at the correct height (typically mid-height of the picket and near the top and bottom). Use a long level to ensure the rail is horizontal, then drive 3-inch screws through the rail into the post—two per post end. If the original fence used notched rails, you'll need to notch the ends of the new rails. Mark the notch depth (usually 1.5 inches) and width of the post, cut multiple passes with a circular saw, and chisel out the waste. Then drop the rail into the notch and screw through the post face into the rail.\n\n## Installing Pickets\n\nAttach the first picket flush with the outside of the end post. Use a level to get it plumb, then drive two 1.5-inch screws at each rail location. For the next picket, use a spacer (e.g., a scrap of furring strip or another picket) to maintain a uniform gap of about 1/8 to 1/4 inch. Continue across the section, checking plumb every few pickets and aligning the tops. For longer runs, use a string line as a top guide. If the ground slopes, you may need to step pickets down; cut each picket bottom to match the slope.\n\n## Finishing Touches\n\nIf you removed undamaged pickets, reattach them with new screws. Check all screws are driven flush and pickets are secure. Trim any uneven tops with a circular saw and a straightedge guide. Finally, apply a wood preservative or stain to all new lumber. Pressure-treated wood weathers to gray if left untreated, but a clear or semi-transparent stain will extend the life and unify the color with the older wood. Let the new wood dry for a few weeks before sealing.\n\n## Safety\n\nWear safety glasses when cutting, drilling, or using a hammer. Hearing protection is recommended for power saws. Use gloves when handling pressure-treated lumber (the preservative can irritate skin). When digging, watch for buried utility lines—call 811 before you dig. Follow manufacturer instructions for concrete mix; avoid skin contact with wet concrete. Use proper lifting technique when handling heavy posts and bags of concrete. Keep children and pets away from the work area.\n\n## Mistakes to Avoid\n\n1. **Setting posts too shallow** – leads to leaning and frost heave. Always dig below frost line and set in concrete.\n2. **Not allowing concrete to cure fully** – attaching rails too soon can shift the post. Wait at least 24 hours.\n3. **Overdriving screws** – can strip the head or weaken the board. Drive until snug, then stop.\n4. **Skipping the gravel base** – water pooling around wood accelerates rot.\n5. **Mixing new wood with old without sealing** – color mismatch is obvious; stain new wood to match.\n\nWith these steps, your fence repair will be sturdy and long-lasting, restoring both function and curb appeal in a weekend.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "dewalt-dcs573b",
+    "milwaukee-2722-20",
+    "makita-xfd131"
+  ]
+}

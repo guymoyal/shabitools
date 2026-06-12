@@ -1,0 +1,115 @@
+{
+  "slug": "repair-wood-rot-trim",
+  "title": "How to Cut Out and Replace Rotted Exterior Wood Trim",
+  "description": "DIY guide to safely removing rotted exterior trim, cutting new wood to fit, priming, painting, and sealing against future moisture damage.",
+  "category": "home-repair",
+  "difficulty": "intermediate",
+  "timeRequired": "4–6 hours",
+  "timeRequiredIso": "PT5H",
+  "estCost": "$40–$80",
+  "toolsNeeded": [
+    {
+      "name": "Oscillating multi-tool",
+      "reviewSlug": "milwaukee-2836-20"
+    },
+    {
+      "name": "Jigsaw",
+      "reviewSlug": "bosch-js365"
+    },
+    {
+      "name": "Palm sander",
+      "reviewSlug": "dewalt-dwe6411k"
+    },
+    {
+      "name": "Utility knife"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Pry bar"
+    },
+    {
+      "name": "Putty knife"
+    },
+    {
+      "name": "Caulk gun"
+    },
+    {
+      "name": "Paintbrush"
+    }
+  ],
+  "materials": [
+    "Primed exterior-grade pine or cedar board (same dimensions as existing trim)",
+    "Exterior wood filler",
+    "Exterior primer and paint (matching existing finish)",
+    "Exterior-grade caulk (paintable)",
+    "Galvanized or stainless steel finish nails (1.5-2 inch)",
+    "Wood preservative (optional, for cut ends)",
+    "Sandpaper (80- and 120-grit)"
+  ],
+  "steps": [
+    {
+      "name": "Assess the damage and identify the rot source",
+      "text": "Probe the rotted trim with a screwdriver; if it sinks in easily, the wood is compromised. Mark a cut line at least 6 inches past any visible rot or softness into sound wood. Determine what caused the rot—missing caulk, cracked paint, leaking gutter, or improper flashing—and fix that source first or the new wood will rot too."
+    },
+    {
+      "name": "Remove the rotted section",
+      "text": "Use a utility knife to score the paint along your cut line and through any caulk joints. With an oscillating multi-tool fitted with a wood blade, cut through the trim along your marked line. Use a pry bar and hammer to gently remove the rotted piece, being careful not to damage the siding or underlying sheathing. Remove any remaining nails."
+    },
+    {
+      "name": "Inspect and prepare the substrate",
+      "text": "Check the sheathing and framing behind the removed trim for rot. If the sheathing is soft, cut it out and patch with a piece of exterior-grade plywood. Treat all exposed wood with a wood preservative. Let it dry per the manufacturer's instructions."
+    },
+    {
+      "name": "Measure and cut the replacement piece",
+      "text": "Measure the opening precisely, accounting for any angles or mitered corners. Transfer measurements to the primed board. Use a jigsaw with a fine-tooth blade for curved or notched cuts; for straight cuts, a circular saw is faster. Cut the replacement piece, then test-fit it. Sand edges smooth and ease the sharp corners."
+    },
+    {
+      "name": "Prime and paint the replacement piece",
+      "text": "Apply a coat of exterior primer to all sides and cut edges of the new wood, especially the end grain. Let dry. Apply two coats of exterior paint, lightly sanding between coats with 120-grit sandpaper. Allow the final coat to cure before installation (check paint instructions)."
+    },
+    {
+      "name": "Install the new trim",
+      "text": "Apply a bead of exterior caulk to the back edge of the trim and press it into place. Secure with galvanized finish nails every 12 inches, driving them slightly below the surface with a nail set. Wipe away excess caulk. Fill nail holes with exterior wood filler and let dry."
+    },
+    {
+      "name": "Caulk seams and paint the final coat",
+      "text": "Caulk all seams between the new trim and siding, as well as any butt joints. With a putty knife, smooth the caulk and remove excess. Let dry. Lightly sand the repair area and apply a final coat of paint over the filled nail holes, caulked seams, and the entire replaced section to blend it in."
+    },
+    {
+      "name": "Inspect and maintain",
+      "text": "Check the repair area annually for cracked caulk or peeling paint. Keep the paint fresh, and ensure gutters and downspouts direct water away from the trim. Promptly fix any new signs of moisture intrusion to prevent repeated rot."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know if I need to replace the trim or just patch it?",
+      "a": "If the rotted area is larger than a few inches or if the wood is soft and crumbly, replacement is more durable than filler. Patching is only viable for small, localized damage where the surrounding wood is solid and dry."
+    },
+    {
+      "q": "Can I use pressure-treated lumber for exterior trim?",
+      "a": "Pressure-treated lumber is rot-resistant but often prone to warping and checking, and it doesn't take paint as well as primed pine or cedar. For painted trim, primed pine or cedar is the standard choice. If you must use treated wood, let it dry thoroughly before priming and painting."
+    },
+    {
+      "q": "What is the best way to cut a perfect angle on trim?",
+      "a": "For a mitered corner, use a miter saw set to 45 degrees. For compound angles, a coping saw or jigsaw can be used. Always measure twice and cut test pieces from scrap before cutting the final board."
+    },
+    {
+      "q": "Why is my new trim already showing signs of rot after one year?",
+      "a": "This usually means the root cause was not fixed. Check for leaking gutters, missing caulk, or improper flashing above the trim. Also ensure that the bottom of the trim is not sitting directly on a surface that traps moisture; a 1/4-inch gap at the bottom, left open or caulked with a proper weep, can help drainage."
+    },
+    {
+      "q": "Do I need to remove all the old paint before painting new trim?",
+      "a": "No, but scrape off any loose or peeling paint on adjacent areas. The new trim should be primed and painted before installation, then a final coat applied to blend. For best adhesion, lightly sand the existing painted surface before applying the final coat."
+    }
+  ],
+  "body": "## Planning Your Repair\n\nExterior wood trim is constantly exposed to rain, sun, and temperature swings. Over time, moisture inevitably finds its way through cracked paint or failed caulk and begins to rot the wood from the inside. A small bubble in the paint can hide a pocket of soft, punky wood that has already lost its structural integrity. The key to a lasting repair is not just cutting out the bad wood but understanding why it rotted in the first place. If you simply patch in a new piece without addressing the source of moisture, the new trim will fail just as fast.\n\nStart your planning by inspecting the area on a dry day. Look above and around the rotted section for signs of water entry: a missing drip edge, a gutter that overflows, a poorly sealed window flange, or even a crack in the siding above. Also check the bottom of the trim—if it sits directly on a porch floor or concrete step with no gap, water can wick up into the end grain. Solving the moisture issue first will save you from repeating this project annually.\n\n### How much to cut out\n\nIt is tempting to cut only the visibly rotten wood, but rot often extends farther than the soft spot. Use a screwdriver to probe the wood; anywhere the tip sinks in more than 1/8 inch should be removed. Mark your cut line at least 6 to 8 inches past the last sign of softness into solid, dry wood. This ensures you are fastening into sound material and gives the repair a stable perimeter. If the rot runs the full length of a board or more than half the width, consider replacing the entire piece rather than splicing in a short section.\n\n### Choosing replacement wood\n\nFor painted exterior trim, primed pine and cedar are the most common and reliable choices. Primed pine is affordable, readily available, and takes paint well. Cedar is naturally rot-resistant but more expensive and softer; it can be left natural or painted. Avoid untreated standard pine or spruce—they will rot again quickly. Pressure-treated lumber can be used but is harder to paint and may warp. Whatever you pick, buy a board that is straight and free of large knots. Knots can bleed resin through paint if not sealed with a shellac-based primer.\n\n## Mistakes to Avoid\n\n**Skipping the primer on cut ends.** End grain soaks up moisture like a straw. Always prime all cut faces—especially the bottom end that will be exposed to splash-back—with a high-quality exterior primer. Some pros dip the ends in primer or wood preservative before installation.\n\n**Nailing too close to the edge.** Nails placed within 1/2 inch of the wood edge can split the trim, especially near the end. Predrill pilot holes for nails that are near the edge, and use a nail set to sink them slightly below the surface.\n\n**Caulking the bottom gap shut.** If the replacement trim meets a horizontal surface like a step or deck, leave a 1/8- to 1/4-inch gap at the bottom and do not caulk it. That gap is a weep point to let any water that gets behind the trim drain out. Caulking it traps moisture inside and guarantees rot.\n\n**Using the wrong fastener.** Exterior nails must be galvanized or stainless steel. Plain steel nails will rust and cause black streaks on the paint. For areas near salt water or in very humid climates, stainless steel is worth the extra cost.\n\n**Painting only the face.** The hidden sides and edges of the trim must be primed and usually painted as well. If any bare wood is left exposed behind the trim, it will absorb moisture from the wall cavity and rot from the back side.\n\n## Step-by-Step Installation Details\n\nAfter the damaged section is removed and the substrate is checked and treated, cut the new board to size. If the original trim has decorative profiles, match them as closely as possible. Simple flat or beveled trim is easiest; for ornate millwork, you may need a router table or a custom knife. In many cases, the most practical approach is to use a plain primed board that matches the thickness and width and then add a small cove or ogee molding to replicate the look.\n\nDry-fit the replacement piece. It should slide into the opening with a 1/8-inch gap on each side for caulk or expansion. If it binds, sand or cut it slightly. Once the fit is right, prime and paint the board on all sides. Allow the paint to cure according to the manufacturer's instructions—typically 24 hours. This pre-finishing step is critical because after installation you cannot paint the back side.\n\nApply a continuous bead of exterior caulk to the back of the trim, then press it into place. The caulk acts as a moisture barrier and also holds the trim while you nail. Space galvanized finish nails every 12 to 16 inches, staggered vertically. Drive each nail just below the surface with a nail set. Fill the nail holes with exterior wood filler, let it dry, and sand smooth.\n\nFinally, caulk every seam between the new trim and the siding or adjacent trim. Use a quality paintable silicone or acrylic latex caulk. Smooth the bead with a wet finger or a caulk tool, and wipe away excess immediately. Let the caulk dry, then apply one final coat of paint over the filled nail holes, the caulk, and the entire replaced section to blend the sheen and color.\n\n## Safety\n\nWear safety glasses when cutting, prying, or nailing. Dust from old paint may contain lead if the house was built before 1978; wear a respirator and follow lead-safe work practices if lead paint is suspected. An oscillating multi-tool and jigsaw produce fine dust and noise—use hearing protection and a dust mask. When working on a ladder, ensure it is on stable ground and maintain three points of contact. Keep the work area clear of tripping hazards. Use sharp blades; a dull blade can bind and kick back, or cause you to push harder and lose control. If you are using a utility knife, retract the blade when not in use. Never reach into the cut path of a powered tool. Unplug or remove the battery before changing blades.\n\n## Long-Term Maintenance\n\nThe best repair is only as good as the maintenance that follows. Inspect the repair area every spring and fall. Look for cracked or peeling paint, and touch it up immediately. Re-caulk any seams where the caulk has pulled away. Keep gutters and downspouts clear and directed away from the house. If the trim is near a roof line, check the step flashing and ensure it overlaps the trim correctly. With proper care, a well-executed repair should last 10 to 15 years or more.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "milwaukee-2836-20",
+    "bosch-js365",
+    "dewalt-dwe6411k"
+  ]
+}
