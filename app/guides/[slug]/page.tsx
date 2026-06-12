@@ -1,0 +1,76 @@
+import type { Metadata } from 'next';
+import { notFound } from 'next/navigation';
+import RankedPickCard from '@/components/guides/RankedPickCard';
+import Breadcrumbs from '@/components/layout/Breadcrumbs';
+import Prose from '@/components/layout/Prose';
+import AdSlot from '@/components/monetization/AdSlot';
+import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
+import FAQSection from '@/components/seo/FAQSection';
+import JsonLd from '@/components/seo/JsonLd';
+import { getGuide, getGuides } from '@/lib/content';
+import { breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from '@/lib/schema';
+import { pageMetadata, SITE_URL } from '@/lib/seo';
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return getGuides().map((g) => ({ slug: g.slug }));
+}
+
+function shortTitle(title: string) {
+  return title.replace(/\s*\(2026\)\s*$/, '').trim();
+}
+
+export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
+  const guide = getGuide(params.slug);
+  if (!guide) return {};
+  const description =
+    guide.intro.length > 150 ? `${guide.intro.slice(0, 147).trimEnd()}...` : guide.intro;
+  return pageMetadata({
+    title: guide.title,
+    description,
+    path: `/guides/${guide.slug}`,
+  });
+}
+
+export default function GuidePage({ params }: { params: { slug: string } }) {
+  const guide = getGuide(params.slug);
+  if (!guide) notFound();
+  const crumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Guides', href: '/guides' },
+    { name: shortTitle(guide.title), href: `/guides/${guide.slug}` },
+  ];
+  return (
+    <article className="mx-auto max-w-3xl px-4 py-10">
+      <JsonLd
+        data={[
+          itemListJsonLd(
+            guide.title,
+            guide.picks.map((p) => ({
+              name: p.name,
+              url: `${SITE_URL}/guides/${guide.slug}`,
+            }))
+          ),
+          faqJsonLd(guide.faq),
+          breadcrumbJsonLd(crumbs.map((c) => ({ name: c.name, url: `${SITE_URL}${c.href}` }))),
+        ]}
+      />
+      <Breadcrumbs items={crumbs} />
+      <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-stone-900 sm:text-4xl">
+        {guide.title}
+      </h1>
+      <div className="mt-3 text-sm text-stone-500">
+        Updated <time dateTime={guide.dateModified}>{guide.dateModified}</time>
+      </div>
+      <p className="mt-4 text-lg leading-relaxed text-stone-700">{guide.intro}</p>
+      {guide.picks.map((p) => (
+        <RankedPickCard key={p.rank} pick={p} />
+      ))}
+      <Prose markdown={guide.body} />
+      <AdSlot slot="0000000000" />
+      <FAQSection faq={guide.faq} />
+      <WhereToBuyStrip />
+    </article>
+  );
+}

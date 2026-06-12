@@ -1,0 +1,50 @@
+import Link from 'next/link';
+import { SmartCtaButton } from '@/components/monetization/SmartCtaButton';
+import type { GuidePick } from '@/types/guide';
+
+export default function RankedPickCard({ pick }: { pick: GuidePick }) {
+  return (
+    <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
+      <div className="flex flex-wrap items-center gap-3">
+        <span className="flex h-9 w-9 items-center justify-center rounded-full bg-stone-900 font-bold text-white">
+          {pick.rank}
+        </span>
+        <span className="rounded-full bg-amber-100 px-3 py-1 text-sm font-semibold text-amber-800">
+          {pick.awardLabel}
+        </span>
+      </div>
+      <h3 className="mt-3 text-xl font-bold text-stone-900">{pick.name}</h3>
+      <p className="mt-2 leading-relaxed text-stone-700">{pick.summary}</p>
+      <div className="mt-4 grid gap-2 text-sm sm:grid-cols-2">
+        <ul className="space-y-1">
+          {pick.pros.map((p) => (
+            <li key={p} className="text-green-800">✓ {p}</li>
+          ))}
+        </ul>
+        <ul className="space-y-1">
+          {pick.cons.map((c) => (
+            <li key={c} className="text-red-800">✗ {c}</li>
+          ))}
+        </ul>
+      </div>
+      <div className="mt-5 flex flex-wrap items-center gap-4">
+        {pick.affiliate?.url && (
+          <SmartCtaButton
+            href={pick.affiliate.url}
+            className="inline-block rounded-xl bg-amber-600 px-5 py-2.5 font-semibold text-white hover:bg-amber-700"
+          >
+            Check price at {pick.affiliate.merchant}
+          </SmartCtaButton>
+        )}
+        {pick.reviewSlug && (
+          <Link href={`/reviews/${pick.reviewSlug}`} className="font-medium text-amber-700 underline">
+            Read our full review →
+          </Link>
+        )}
+      </div>
+      {pick.affiliate?.url && (
+        <p className="mt-2 text-xs text-stone-500">We may earn a commission from this link.</p>
+      )}
+    </section>
+  );
+}
