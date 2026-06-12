@@ -1,0 +1,55 @@
+{
+  "slug": "circular-saws",
+  "name": "Circular Saws",
+  "description": "Circular saws are handheld power saws that use a spinning toothed blade to rip lumber, crosscut sheet goods, and cut roofing, decking, and framing materials faster and more accurately than any handsaw. The spinning blade and adjustable base plate, called the shoe, make these saws the backbone of residential construction and large-scale DIY work alike — a tool that turns an hour of handsaw work into a two-minute operation.\n\n## Blade size and what it determines\n\nThe single most important specification on a circular saw is blade diameter, because it determines how deep the saw can cut. The two dominant sizes in North America are **6-1/2 inch** and **7-1/4 inch**. A 7-1/4-inch saw cuts roughly 2-1/2 inches deep at 90 degrees and about 1-7/8 inches at 45 degrees — enough to slice through standard 2x framing lumber in a single pass at any angle. A 6-1/2-inch saw cuts roughly 2-1/4 inches at 90 degrees, which handles dimensional lumber and plywood adequately and in a lighter, more maneuverable package. Larger specialty sizes — 8-1/4 and 10-1/4 inch — exist for heavy timber framing and are almost exclusively found on corded professional tools.\n\n## Sidewinder versus worm-drive\n\nCircular saws come in two mechanical configurations. **Sidewinder** (inline) saws mount the motor directly beside the blade; they are lighter (typically 7–10 lbs), spin at higher blade speeds (5,200–5,800 RPM), and are the dominant design everywhere outside the Pacific Coast. **Worm-drive** saws use a right-angle gear set that mounts the motor behind the blade, shifting weight toward the rear handle. Worm-drives run at lower blade speed (4,200–4,500 RPM) but produce more torque, handle long rip cuts through wet or dense lumber better, and are strongly preferred by West Coast framing crews. Makita, DeWalt, Milwaukee, Bosch, and Skil all make quality sidewinders; Skil and Skilsaw dominate worm-drive, with DeWalt and Makita offering hybrid designs.\n\n## Cordless versus corded\n\nModern 18V cordless circular saws — particularly brushless models from Makita, Milwaukee, and DeWalt — are capable enough for most framing and sheet-good tasks, making them the practical choice for anyone already in an 18V ecosystem. Corded saws (12–15 amp) deliver consistent power regardless of battery state, which matters for continuous production framing or cutting through dense, wet material. For occasional cuts and portability, cordless is the better fit; for all-day production work, corded remains the more economical and reliable choice.",
+  "buyingFactors": [
+    {
+      "title": "Blade diameter and cutting depth",
+      "text": "Blade size determines maximum cut depth: a 7-1/4-inch saw cuts through 2x lumber at any angle with clearance, while a 6-1/2-inch model is lighter and sufficient for sheet goods and single-pass dimensional lumber cuts. Most buyers buying a first or only circular saw should choose 7-1/4-inch for versatility. The 6-1/2-inch class suits finish carpenters and DIYers who primarily cut plywood and thin stock and value the reduced weight and easier handling."
+    },
+    {
+      "title": "Corded amperage versus cordless battery voltage",
+      "text": "Corded circular saws run at 12–15 amps; a 15-amp motor delivers uninterrupted full power through long production cuts and dense wet lumber without battery fatigue. Cordless 18V brushless saws rival corded performance for most DIY and light trade cuts and add portability, but run time is finite — typically 80–120 cuts through 2x dimensional lumber per charge. If you are already in an 18V platform (Makita, Milwaukee, DeWalt, Bosch), a cordless saw makes sense; for dedicated production framing, corded is still the workhorse."
+    },
+    {
+      "title": "Sidewinder versus worm-drive geometry",
+      "text": "Sidewinder saws are lighter, faster (5,200–5,800 RPM), and easier to handle for plywood and crosscutting. Worm-drive saws mount the motor behind the blade, shifting weight for better balance during long rip cuts, and deliver more torque at lower blade speeds (4,200–4,500 RPM). Worm-drives are preferred for heavy framing, especially in wet or dense lumber. For most homeowners and general DIYers, a sidewinder is the practical choice; worm-drive is a deliberate professional preference, not a general upgrade."
+    },
+    {
+      "title": "Bevel capacity and shoe quality",
+      "text": "A quality circular saw bevels to at least 45 degrees for compound miters and rafter cuts; premium saws bevel to 56–57 degrees for broader angle range. The shoe (base plate) should be flat, rigid, and adjustable with a positive detent at common angles (22.5, 45 degrees). Magnesium shoes are the lightest and most accurate; stamped-steel shoes on budget saws flex under load, degrading cut accuracy. A sight-line notch or LED laser guide aids tracking on long freehand cuts."
+    },
+    {
+      "title": "Price tiers and blade quality",
+      "text": "Entry-level circular saws run $60–$120 (corded) or $100–$180 (cordless with battery). Mid-range prosumer tools — Milwaukee M18 FUEL, DeWalt DCS573, Makita XSH10 — range $200–$320 as bare tools and offer brushless motors, magnesium shoes, and electronic blade-brake. The blade included with most saws is adequate for initial cuts but not optimal; upgrading to a premium 40-tooth framing blade ($20–$40) from Freud, Diablo, or Makita immediately improves cut quality and longevity."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What size circular saw blade do I need?",
+      "a": "A 7-1/4-inch blade is the standard for most residential construction and general DIY work — it cuts through 2x framing lumber at any angle and handles plywood and OSB in a single pass. A 6-1/2-inch blade is lighter and sufficient for sheet goods and thin dimensional lumber, making it a good choice for finish work and lighter-duty tasks. Buy 7-1/4-inch if you will do any framing or structural cutting; 6-1/2-inch if you primarily cut sheet goods and want a lighter tool."
+    },
+    {
+      "q": "Can a circular saw replace a miter saw?",
+      "a": "A circular saw can make the same cuts as a miter saw — crosscuts, bevel cuts, compound angles — but not as consistently or quickly. A miter saw is faster for repetitive identical crosscuts and inherently more repeatable because the workpiece is fixed. A circular saw is more portable and can cut sheet goods and long boards that would never fit on a miter saw table. Many builders use both: the circular saw for rough framing and sheet work, the miter saw for trim, molding, and repetitive framing cuts."
+    },
+    {
+      "q": "How do I prevent a circular saw from binding or kickback?",
+      "a": "Kickback occurs when the blade pinches in a cut, typically because the wood closes on the blade as a cut progresses without adequate support. Always support both sides of a cut near the cut line, use a rip fence or guide for long cuts, and let the saw reach full speed before entering the material. Sharp blades with the correct tooth count for the material reduce binding significantly; a dull blade requires more force, generates more heat, and is more likely to bind."
+    },
+    {
+      "q": "What is the difference between a framing blade and a finishing blade?",
+      "a": "Framing blades typically have 24 teeth, cut aggressively and quickly, and leave a rougher edge — appropriate for dimensional lumber, OSB sheathing, and rough carpentry. Finishing blades carry 40–60 teeth, cut more slowly, and leave a cleaner edge with less tearout — appropriate for plywood faces, trim boards, and any cut where the edge will be visible. Using a 24-tooth blade on finish plywood causes significant splintering; using a 60-tooth blade on framing lumber wastes time without a quality benefit."
+    },
+    {
+      "q": "Should I buy a corded or cordless circular saw?",
+      "a": "Buy cordless if portability matters, if you are already invested in an 18V battery platform, or if you use a circular saw intermittently for DIY projects. Buy corded if you will use the saw continuously for hours at a time — production framing, roofing, decking installation — since a 15-amp corded saw delivers full power indefinitely without the cost of additional battery packs. Modern brushless cordless saws from Makita, Milwaukee, and DeWalt are competitive with corded saws for most non-production tasks."
+    },
+    {
+      "q": "How deep can a circular saw cut?",
+      "a": "A standard 7-1/4-inch circular saw cuts approximately 2-1/2 inches deep at 90 degrees and about 1-7/8 inches at a 45-degree bevel — sufficient for standard 2x dimensional lumber (which measures 1-1/2 inches thick) in a single pass. A 6-1/2-inch saw cuts roughly 2-1/4 inches at 90 degrees. For cutting through double-stacked lumber or timber, a second pass from the opposite face or a larger-diameter saw is required."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

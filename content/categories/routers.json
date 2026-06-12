@@ -1,0 +1,51 @@
+{
+  "slug": "routers",
+  "name": "Routers",
+  "description": "Wood routers spin a sharpened bit at high speed — typically 10,000 to 25,000 RPM — to cut, profile, and shape wood with a precision that no other handheld power tool approaches. The same basic mechanism trims laminate flush to a countertop edge, cuts joinery like dovetails and box joints with a template, rounds over the edges of a tabletop, carves mortises for door hardware, and follows a pattern to duplicate shapes repeatedly. Routing is the primary production method for decorative edge profiles, recessed panels, and sign lettering in woodworking.\n\n## Fixed base versus plunge base\n\nThe most important structural choice is between a fixed base and a plunge base. A **fixed base** router holds the bit at a set depth throughout the cut; you set depth before turning on the tool and lock it there. Fixed base routers are lighter, more compact, and easier to control for edge profiling and flush trimming because the base rides flat on the workpiece. A **plunge base** router rides on spring-loaded columns that let you lower the spinning bit into the middle of a workpiece, make the cut, and retract the bit at the end — the correct approach for mortises, stopped dadoes, and any cut that does not begin at an edge.\n\nMost professional woodworkers own both. The practical solution for buyers starting out is a combination kit: manufacturers like DeWalt, Bosch, and Makita sell a single motor that drops into interchangeable fixed and plunge base housings, giving you both capabilities from one tool. These combo kits typically cost $150 to $250 and represent the best overall value for serious woodworkers.\n\n## Horsepower and bit shanks\n\nRouter motors run from 1-3/4 HP in compact trim routers to 3-1/4 HP in full-size production routers. For furniture and cabinet work with 1/2-inch-shank bits, a motor in the 2-to-2-1/4 HP range is the appropriate baseline. Larger bits — raised panel cutters, large roundovers, large cove bits — demand 2-1/4 HP or more to maintain consistent speed under load. Most routers accept both 1/4-inch and 1/2-inch shank bits via collet adapters, though 1/2-inch shanks are stiffer, safer at speed, and preferred for larger bits.\n\n## Trim routers\n\nTrim routers (also called laminate trimmers) are compact 1-HP-class tools designed to flush-trim laminate, round over edges, and do light routing in confined spaces. Makita RT0701C and Bosch PR20EVS are widely regarded as the standard references in this class. They are lightweight enough to run one-handed, accept 1/4-inch-shank bits, and cost $80 to $130 — an excellent entry point for buyers whose primary needs are edge work and laminate trimming rather than full furniture joinery.\n\n## Safety and setup\n\nRouting demands sharp bits, appropriate feed direction (feeding against the bit's rotation for climb-cut awareness), and firm workpiece securing. Carbide-tipped bits stay sharp significantly longer than high-speed-steel bits and are the standard for any serious work. Taking multiple shallow passes rather than one deep pass reduces tear-out, reduces motor load, and improves edge quality.",
+  "buyingFactors": [
+    {
+      "title": "Fixed base, plunge base, or combination kit",
+      "text": "Fixed base routers are the right first choice for edge profiling, laminate trimming, and template routing because the base sits stable on the workpiece. Plunge base routers enable mortises, stopped grooves, and mid-panel cuts that must start and end away from an edge. Combination kits from DeWalt, Bosch, and Makita provide a single motor that switches between both base types for $150–$250, giving full versatility without buying two separate tools."
+    },
+    {
+      "title": "Motor horsepower and speed control",
+      "text": "A 2-to-2-1/4 HP router at variable speeds from 10,000 to 25,000 RPM handles the full range of woodworking tasks. Small trim routers run 1 HP and accept only 1/4-inch shank bits, which limits bit selection but saves weight for one-handed laminate work. Variable speed is essential: large-diameter bits require lower RPM for safe operation, while small flush-trim bits run better at full speed. Most quality mid-range routers from Makita and DeWalt include electronic feedback to maintain speed under load."
+    },
+    {
+      "title": "Collet size and bit shank compatibility",
+      "text": "Routers with 1/2-inch collets accept both 1/2-inch and 1/4-inch shank bits via included adapters and give you access to the full range of professional bit profiles. One-half-inch shank bits run with less vibration and deflection than 1/4-inch shanks, which matters with large raised panel or cove bits spinning at high RPM. Trim routers accept only 1/4-inch shanks, which limits them to smaller profiles but is appropriate for their intended lightweight edge-work role."
+    },
+    {
+      "title": "Depth adjustment mechanism and micro-adjust",
+      "text": "Precise depth control determines cut quality. Full-size routers use a rack-and-pinion or screw-thread mechanism on the base column; look for a micro-adjustment feature that allows repeatable depth changes in 1/64-inch increments without locking and unlocking the full base. Plunge routers should have a depth stop with multiple turret positions so you can rout a profile in multiple pre-set passes without resetting the stop between each pass."
+    },
+    {
+      "title": "Price tiers from trim routers to full-size kits",
+      "text": "Trim routers from Bosch, Makita, and Ridgid run $80–$130 and are the right entry point for laminate trimming and light edge work. Mid-range fixed-base or plunge routers with 2 HP motors run $120–$180. Full combo kits with both bases and a 2-to-2-1/4 HP motor from DeWalt or Makita cost $150–$250. Professional 3-HP routers for production furniture work and raised-panel cabinet doors run $200–$350 for the motor alone."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between a trim router and a full-size router?",
+      "a": "A trim router (or laminate trimmer) is a compact 1-HP-class tool designed for one-handed edge profiling, laminate trimming, and light template work using 1/4-inch shank bits. A full-size router runs 2 to 3-1/4 HP, accepts both 1/4-inch and 1/2-inch shank bits, and handles the full range of furniture joinery, raised-panel profiles, and deep mortise work. Trim routers are the right starting point for homeowners doing countertop and finish work; full-size routers suit furniture makers and cabinet builders."
+    },
+    {
+      "q": "Do I need a router table?",
+      "a": "A router table improves safety and accuracy for edge profiling and repetitive cuts by holding the tool stationary while you feed the workpiece. It is genuinely useful for raised-panel doors, consistent edge profiles on multiple pieces, and feeding narrow stock safely. However, most handheld routing tasks — flush trimming, mortising, template routing — work perfectly fine with the router handheld and the workpiece clamped down. A router table is a worthwhile addition but not a requirement for general woodworking."
+    },
+    {
+      "q": "What router bit should I start with?",
+      "a": "A straight (mortising) bit, a flush-trim bit, and a roundover bit in 1/4-inch or 3/8-inch radius cover the tasks most woodworkers encounter first. Carbide-tipped bits from Freud, Amana, or Whiteside outlast high-speed-steel bits substantially and are the standard for anyone who uses a router regularly. Avoid buying large sets of mixed-quality bits — three sharp carbide bits outperform twenty dull budget ones."
+    },
+    {
+      "q": "Which direction should I feed a router?",
+      "a": "Feed the router against the direction of bit rotation: for a handheld router moving along the outside edge of a workpiece, move left to right when facing the edge. This conventional feed direction pulls the bit into the wood and gives you control. Climb cutting — feeding with the bit's rotation — removes material faster but can grab and pull the router suddenly, and is only appropriate for taking a very light final pass to clean up tearout on difficult grain."
+    },
+    {
+      "q": "Are cordless routers worth buying?",
+      "a": "Cordless routers on 18V or 20V-class platforms from DeWalt and Makita perform comparably to corded models for trim routing, edge profiling, and shorter sessions. The limitation is sustained heavy routing — large raised-panel bits or repeated deep passes drain a 5.0 Ah battery in under 30 minutes. For a job site without outlet access or for moving freely around a large workpiece, cordless is genuinely useful. For shop work at a router table or long production runs, a corded motor is more practical."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

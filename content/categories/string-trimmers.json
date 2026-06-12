@@ -1,0 +1,51 @@
+{
+  "slug": "string-trimmers",
+  "name": "String Trimmers",
+  "description": "String trimmers — also called weed eaters or weed whackers — cut grass and light vegetation along edges, fences, and tree bases where a lawn mower cannot reach. A monofilament nylon line spins at high speed and cuts by impact; the line feeds automatically (bump feed) or continuously (auto-feed) as it wears down. The result is clean grass lines along driveways, sidewalks, and garden beds that define a well-maintained yard.\n\n## Gas, battery, or corded electric\n\nPower source is the central decision in string trimmer buying. **Gas trimmers** run on two-cycle or four-cycle engines, provide unlimited runtime, and deliver the highest power for heavy brush and tall weeds. Two-cycle models require a gasoline-oil premix; four-cycle models run straight gasoline and are quieter and cleaner. Brands like Honda, Husqvarna, and Stihl dominate the gas category with engines that start reliably and sustain high line speed through thick vegetation. Gas trimmers produce exhaust emissions and are louder than electric alternatives.\n\n**Battery-powered trimmers** on 40V and 56V-class platforms — EGO, Ryobi 40V, Greenworks, and Makita XGT — now match gas performance for residential lawns and are the fastest-growing segment of the category. EGO Power+ and Ryobi 40V are particularly strong in battery outdoor power equipment, with EGO's 56V ARC lithium platform offering industry-leading battery capacity and runtime that rivals gas for typical suburban lots. Battery trimmers produce zero exhaust, start instantly, and are significantly quieter than gas.\n\n**Corded electric trimmers** at 6-to-7 amps eliminate battery concerns and cost less than battery alternatives, but the cord limits range to roughly 100 feet from an outlet and creates trip hazards. They suit small, flat yards near outlet access.\n\n## Line diameter and cutting width\n\nLine diameter determines what you can cut. **0.065-inch line** handles fine grass edges and light weeds — the standard for corded and entry-level battery trimmers. **0.080-inch line** is the most common all-purpose diameter for residential battery and mid-range gas trimmers, handling normal lawn grasses and moderate weeds well. **0.095-inch and 0.105-inch line** suits heavier gas trimmers cutting thick weeds and brush. Cutting swath width typically ranges from 12 to 15 inches on battery models and 15 to 18 inches on gas trimmers — wider cuts fewer passes on large areas.\n\n## Straight shaft versus curved shaft\n\nStraight-shaft trimmers reach farther under shrubs and decks, accept brushcutter blade and edger attachments, and are the professional standard. Curved-shaft trimmers are lighter, better balanced for shorter users, and work well for simple edging around a small lawn but cannot accept most attachments. Multi-attachment heads on platforms from EGO, Ryobi, and Husqvarna let a single powerhead drive trimmers, edgers, blowers, and hedge trimmers from one battery.",
+  "buyingFactors": [
+    {
+      "title": "Power source: gas, battery, or corded electric",
+      "text": "Gas trimmers from Honda, Husqvarna, and Stihl deliver the highest power and unlimited runtime for large properties and heavy brush. Battery trimmers on EGO 56V, Ryobi 40V, or Makita XGT platforms match gas performance on residential lots and offer significant noise and emissions advantages. Corded electric models cost the least and work fine for small yards near an outlet. Match power source to lot size, vegetation type, and whether you already own batteries in a platform."
+    },
+    {
+      "title": "Cutting swath and line diameter",
+      "text": "Wider cutting swaths mean fewer passes over large areas: 12-to-13 inches suits compact yards, 15 inches is the standard mid-range, and 16-to-18 inches covers large properties faster. Line diameter determines vegetation-handling ability: 0.065 inch for fine grass edges, 0.080 inch for general residential use, and 0.095-plus inch for thick weeds and brush. Match line diameter to the vegetation you actually cut — oversized line on a low-power motor reduces efficiency."
+    },
+    {
+      "title": "Shaft style and attachment compatibility",
+      "text": "Straight-shaft trimmers access farther under obstacles and accept brushcutter blade attachments for saplings and heavy brush. Curved-shaft models feel lighter and better balanced for general residential edging. Multi-attachment-capable powerheads from EGO, Ryobi, Husqvarna, and Stihl KombiSystem let you swap trimmer, edger, cultivator, and hedge trimmer heads onto a single battery-powered motor, which reduces per-tool cost for buyers who need multiple yard tools."
+    },
+    {
+      "title": "Line feed system and head design",
+      "text": "Bump-feed heads advance line when you tap the head on the ground, requiring occasional manual taps during use. Auto-feed heads advance line automatically as it wears. Easier line reloading — either a pre-wound replacement spool or a simple wind-in design — reduces the frustrating mid-session pauses that plague poorly designed heads. EGO and Ryobi have both improved spool reload significantly in recent platform generations."
+    },
+    {
+      "title": "Price tiers and battery ecosystem value",
+      "text": "Corded electric trimmers from Ryobi and Black+Decker start at $40–$60. Entry battery trimmers on Ryobi ONE+ or 40V platforms run $80–$130 with a 2.0 Ah battery. Mid-range EGO 56V trimmers with a 2.5 Ah battery cost $150–$180. Premium EGO or Makita XGT models with larger 5.0 Ah batteries and brushless motors run $200–$260. Gas trimmers from Husqvarna and Stihl at comparable performance levels cost $200–$350. Battery ecosystem value grows if you pair the trimmer with a blower on the same platform."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What string trimmer line diameter should I use for my lawn?",
+      "a": "For a typical suburban lawn with grass edges and occasional weeds, 0.080-inch line diameter is the right choice — it balances cutting ability against motor load for most residential battery and mid-range gas trimmers. Thinner 0.065-inch line suits fine grass on corded or low-power battery trimmers. Upgrade to 0.095-inch or larger only if you regularly cut thick weeds, overgrown areas, or tough ornamental grasses where lighter line breaks too often."
+    },
+    {
+      "q": "Are battery string trimmers as powerful as gas?",
+      "a": "On residential lots with normal lawn grass and moderate weeds, modern 40V and 56V battery trimmers from EGO and Ryobi match gas performance in real-world use. EGO's 56V ARC lithium platform in particular is frequently cited as gas-equivalent for suburban properties. Gas maintains an advantage in sustained heavy vegetation cutting on large acreage where battery runtime runs out before the job finishes. For a typical quarter-acre to half-acre lot, battery is adequate and significantly more convenient."
+    },
+    {
+      "q": "What is the difference between a bump-feed and auto-feed trimmer?",
+      "a": "A bump-feed head advances trimmer line when you tap the spinning head on the ground, which you do when the line wears short. Auto-feed heads use a mechanical or centrifugal mechanism to advance line automatically as it wears. Auto-feed eliminates manual tapping but can advance too much line on some models, wasting line. Bump-feed gives you more control over line consumption. Both work well when properly maintained; quality of line loading matters more than feed type."
+    },
+    {
+      "q": "How long does a battery trimmer run on one charge?",
+      "a": "Runtime depends heavily on battery capacity, motor load, and line diameter. An EGO 56V trimmer with a 2.5 Ah battery handles roughly 30 to 45 minutes of normal residential trimming. A 5.0 Ah battery nearly doubles that to 60 to 80 minutes, covering most quarter-acre lawns in one charge. Ryobi 40V models with a 4.0 Ah pack similarly run 40 to 60 minutes. Dense weeds and larger line diameters drain batteries significantly faster than grass edging does."
+    },
+    {
+      "q": "Can a string trimmer replace an edger?",
+      "a": "A string trimmer can create edges along sidewalks and driveways when operated vertically — tilting the head 90 degrees so the line cuts a vertical line at the pavement edge. The technique works but requires practice and produces slightly less precise lines than a dedicated edger. Straight-shaft trimmers are much easier to edge with than curved-shaft models. Multi-tool platforms from EGO, Ryobi, and Husqvarna offer dedicated edger attachments that snap onto the trimmer powerhead for clean, consistent edges."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

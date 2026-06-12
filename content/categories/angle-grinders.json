@@ -1,0 +1,51 @@
+{
+  "slug": "angle-grinders",
+  "name": "Angle Grinders",
+  "description": "Angle grinders are high-speed rotary tools that mount abrasive or cutting discs to grind, cut, shape, and polish metal, masonry, tile, and concrete. The tool's defining characteristic is a right-angle gear head that lets a spinning disc attack material at a shallow working angle — which is why it is irreplaceable for cutting rebar, grinding weld seams, shaping stone, and removing rust or paint at scale. No other handheld power tool combines that level of material-removal aggression with flexibility across disc types.\n\n## Disc size and motor power\n\nThe two most common disc sizes in the US market are **4-1/2 inches and 5 inches**, covering the vast majority of DIY and light trade work. A 4-1/2-inch grinder running a 7-amp corded motor or an 18V/20V-class battery can handle grinding welds, cutting tile, and removing scale from structural steel. Larger 6-inch and 7-inch grinders deliver more material removal and suit heavy fabrication, but they are heavier and require two hands for safe control. Corded models typically run from 6 to 15 amps; cordless models on 18V platforms such as DeWalt 20V MAX, Milwaukee M18, and Makita LXT approach corded performance in most real-world cutting and grinding tasks.\n\n## Safety and disc selection\n\nDisc type determines what the grinder can do. Grinding discs remove material from metal surfaces. Cutting wheels — thinner and more brittle — slice through metal and masonry. Flap discs blend and finish welds. Diamond blades cut tile and concrete. Never exceed the disc's rated RPM, and always match the wheel's arbor bore to the spindle. A paddle switch or no-volt release switch adds a meaningful safety margin when a binding disc causes kickback.\n\n## Cordless versus corded\n\nCorded grinders deliver unlimited runtime at full power and suit sustained heavy grinding. Cordless grinders on Makita LXT, Milwaukee M18, or DeWalt 20V MAX platforms remove the tripping hazard of an extension cord and work well away from outlets, though sustained aggressive material removal drains a 5.0 Ah pack in under 20 minutes. Ryobi ONE+ and Craftsman V20 platforms also offer budget-friendly cordless options for lighter tasks.\n\n## Who should own one\n\nAny fabricator, welder, tile setter, or serious DIYer working with metal or masonry will reach for an angle grinder constantly. Homeowners who occasionally cut rebar for a concrete project, clean up rusted pipe, or cut ceramic tile find even a budget corded model earns its place. The angle grinder is not a precision tool — it is a brute-force material-removal machine — and respecting that defines how safely and productively you use it.",
+  "buyingFactors": [
+    {
+      "title": "Disc size and power class",
+      "text": "Choose disc size based on the work, not convenience. A 4-1/2-inch grinder on a 6-to-9 amp corded motor covers nearly all DIY metal and tile work and is easier to control. A 5-inch disc adds surface area for faster stock removal on structural work. Stepping up to a 7-inch grinder delivers more torque for heavy fabrication but weighs significantly more and demands experienced two-handed technique to manage kickback safely."
+    },
+    {
+      "title": "Corded amps versus cordless voltage",
+      "text": "Corded grinders in the 7-to-9 amp range sustain full power indefinitely and cost less. Cordless grinders on 18V or 20V-class platforms — DeWalt 20V MAX, Makita LXT, Milwaukee M18 — provide freedom from cords and outlet proximity. Cordless is ideal for site work and outdoor tasks; corded is better for sustained shop grinding sessions. Both perform comparably on cutting and light grinding; sustained heavy stock removal still favors corded."
+    },
+    {
+      "title": "Guard, spindle lock, and wheel change speed",
+      "text": "A tool-free guard adjustment lets you reposition the protective shield without a wrench, which matters when switching between grinding and cutting orientations. A two-position or tool-free spindle lock speeds disc swaps. Look for a slim gear head profile that improves access in tight corners. These ergonomic details separate tools built for frequent disc changes from basic budget models."
+    },
+    {
+      "title": "Switch type and kickback protection",
+      "text": "Angle grinders can kick back violently if a disc binds or shatters. A paddle switch that shuts off the moment you release it is meaningfully safer than a slide-on lock switch, which keeps the tool running if you drop it. Premium models from Makita, DeWalt, and Milwaukee add electronic kickback detection that cuts power within milliseconds of a sudden binding event — a feature worth paying for in metal-cutting applications."
+    },
+    {
+      "title": "Price tiers and what they buy",
+      "text": "Budget corded grinders from Ryobi, Craftsman, or off-brand sources run $30–$60 and are adequate for occasional light use. Mid-range corded and entry-level cordless models from DeWalt, Makita, and Bosch cost $80–$150 and add brushless motors, better vibration damping, and electronic overload protection. Professional-grade cordless grinders with kickback control and high-capacity battery compatibility run $150–$250 bare (without battery)."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What size angle grinder do most DIYers need?",
+      "a": "A 4-1/2-inch angle grinder covers nearly all DIY and light trade tasks, including cutting tile, grinding welds, removing rust, and cutting rebar or pipe. It is lighter and easier to control than a 5- or 7-inch grinder, costs less, and uses the widest variety of commodity discs available at hardware stores. Step up to a 5-inch model only if you regularly remove significant material from structural steel or concrete."
+    },
+    {
+      "q": "Can I cut wood with an angle grinder?",
+      "a": "No — angle grinders should not be fitted with wood-cutting blades. The combination of high RPM, unpredictable kickback, and blade geometry makes wood cutting with a grinder extremely dangerous. Use a circular saw, jigsaw, or reciprocating saw for wood. Angle grinders are designed for metal, masonry, tile, and similar hard, non-fibrous materials."
+    },
+    {
+      "q": "Is a cordless angle grinder as powerful as a corded one?",
+      "a": "Modern 18V and 20V-class cordless grinders from DeWalt, Milwaukee, and Makita match corded performance for typical cutting and grinding tasks. The practical difference is runtime: a 5.0 Ah pack supports roughly 15–20 minutes of aggressive material removal before needing a charge. Corded grinders sustain full power indefinitely, which makes them preferable for extended shop grinding sessions."
+    },
+    {
+      "q": "What is the difference between a grinding disc and a cutting wheel?",
+      "a": "A grinding disc is thick (typically 1/4-inch) and designed to remove surface material from metal by abrasion — shaping welds, cleaning rust, or beveling edges. A cutting wheel is thin (typically 1/16 inch) and designed to slice through material in a narrow kerf. Using a thin cutting wheel for grinding, or grinding sideways with a cutting wheel, can shatter the disc and cause serious injury."
+    },
+    {
+      "q": "Do I need a variable-speed angle grinder?",
+      "a": "Variable speed is valuable if you use your grinder with multiple disc types. Grinding and cutting discs run best at full speed, but polishing pads, wire wheels, and some flap discs require lower RPM to avoid excessive heat and disc wear. If you only grind and cut metal, a single-speed grinder is simpler and less expensive. Variable speed becomes a genuine upgrade if you also polish or work with delicate stone."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

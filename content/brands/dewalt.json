@@ -1,0 +1,39 @@
+{
+  "slug": "dewalt",
+  "name": "DeWalt",
+  "description": "DeWalt traces its roots to December 1924, when Raymond E. DeWalt invented the radial arm saw and founded the DeWalt Products Company in Leola, Pennsylvania. After passing through several corporate owners — including American Machine & Foundry and Black & Decker — the brand was fully absorbed into Stanley Black & Decker when Stanley Works and Black & Decker merged in 2010. Today DeWalt is headquartered in Towson, Maryland, and operates as one of Stanley Black & Decker's flagship tool brands sold through virtually every major US retailer.\n\n## The 20V MAX and FLEXVOLT Ecosystem\n\nDeWalt's cordless strategy in the US is built around the 20V MAX platform, which spans well over 250 tools and is the most widely distributed professional cordless system in North American hardware stores. The 20V MAX system is notable for its accessibility: a single battery type works across drills, circular saws, jigsaws, oscillating multi-tools, outdoor equipment, and a broad range of specialty trade tools. For high-demand applications, DeWalt offers FLEXVOLT batteries that shift internally between 20V and 60V depending on the tool — FLEXVOLT batteries are backward-compatible with all 20V MAX tools while unlocking significantly more power in FLEXVOLT-rated tools like large-diameter saws and cordless handheld blowers. The newer POWERSTACK batteries use pouch-cell technology to deliver a more compact, lighter pack with higher power output, adding a third tier of battery innovation on the same 20V interface.\n\n## US Market Position\n\nDeWalt competes directly with Milwaukee at the professional tier of the US market. Its yellow-and-black branding is ubiquitous on construction sites, and the brand has historically been strong among framing carpenters, electricians, and general construction trades. DeWalt tools are available everywhere from The Home Depot and Lowe's to industrial distributors, which gives buyers the easiest access to replacement batteries, chargers, and accessories of almost any brand. The sheer volume of DeWalt users on jobsites means compatibility is rarely a concern when sharing batteries or chargers across a crew.\n\n## What DeWalt Does Well — and Where It Falls Short\n\nDeWalt's primary strengths are ecosystem scale, retail availability, and a consistently competitive price-to-performance ratio across its XR brushless sub-line. The 20V MAX XR drills and impact drivers are proven performers that routinely appear at or near the top of head-to-head comparisons with comparable Milwaukee and Makita tools. The FLEXVOLT platform is a genuine engineering achievement for buyers who want a single battery to cover both light-duty and heavy-duty work. On the other side of the ledger, Milwaukee's M18 FUEL tools have consistently matched or outpaced DeWalt in peak torque tests, and Milwaukee's jobsite warranty has historically been a point of differentiation. Buyers who want the absolute deepest catalog for a single voltage, or who do heavy structural work where every foot-pound matters, should compare the two platforms directly before committing.",
+  "founded": "1924",
+  "headquarters": "Towson, Maryland, USA",
+  "knownFor": [
+    "20V MAX cordless platform spanning 250+ tools",
+    "FLEXVOLT 20V/60V dual-voltage battery technology",
+    "POWERSTACK compact pouch-cell batteries",
+    "Wide retail availability at Home Depot, Lowe's, and industrial distributors",
+    "Strong presence in framing, electrical, and general construction trades",
+    "Part of Stanley Black & Decker, the world's largest tool company"
+  ],
+  "faq": [
+    {
+      "q": "Who owns DeWalt?",
+      "a": "DeWalt is owned by Stanley Black & Decker, the world's largest tool company, which was formed by the merger of Stanley Works and Black & Decker in 2010. DeWalt is headquartered in Towson, Maryland, and operates as one of Stanley Black & Decker's primary professional tool brands."
+    },
+    {
+      "q": "Are DeWalt 20V MAX and FLEXVOLT batteries compatible?",
+      "a": "Yes, FLEXVOLT batteries are backward-compatible with all 20V MAX tools. A FLEXVOLT battery will run any 20V MAX tool at 20V and automatically shift to 60V when inserted into a FLEXVOLT-rated tool. Standard 20V MAX batteries, however, cannot be used in tools that require FLEXVOLT-only power levels."
+    },
+    {
+      "q": "Is DeWalt a professional or DIY brand?",
+      "a": "DeWalt is a professional-grade brand that is also widely purchased by serious homeowners. It is common on framing, electrical, and general construction jobsites. Its tools are sold through both professional industrial distributors and mainstream retailers like Home Depot and Lowe's, making it accessible to a broad audience."
+    },
+    {
+      "q": "How does DeWalt compare to Milwaukee Tool?",
+      "a": "Both brands compete at the professional tier. DeWalt's advantage is ecosystem scale and near-universal retail availability — the 20V MAX platform is one of the most widely distributed cordless systems in North America. Milwaukee's M18 FUEL tools have generally matched or exceeded DeWalt on peak torque in comparable categories, and Milwaukee invests heavily in jobsite-specific accessories and trade solutions. The right choice depends on which platform your crew is already on and which specific tools matter most to your trade."
+    },
+    {
+      "q": "When was DeWalt founded?",
+      "a": "DeWalt was founded in December 1924 by Raymond E. DeWalt in Leola, Pennsylvania, after he invented the radial arm saw. The company grew through multiple acquisitions before becoming a brand of Stanley Black & Decker, where it remains headquartered in Towson, Maryland."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

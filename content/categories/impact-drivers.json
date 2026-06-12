@@ -1,0 +1,55 @@
+{
+  "slug": "impact-drivers",
+  "name": "Impact Drivers",
+  "description": "Impact drivers are compact, high-torque fastening tools that use a rotational hammering mechanism — concussive bursts of force delivered through a 1/4-inch hex collet — to drive screws, lag bolts, and structural fasteners with far less wrist strain than a standard drill/driver. Where a drill/driver applies continuous rotational torque until it stalls or strips a fastener, an impact driver's internal anvil-and-hammer assembly delivers repeated rotational blows at roughly 3,000 impacts per minute, multiplying effective torque dramatically without transmitting kickback to the operator's hand.\n\n## What impact drivers are built for\n\nThe defining application is repetitive, heavy-duty fastening: decking screws driven by the dozen, lag bolts into ledger boards, timber screws through structural lumber, self-drilling metal screws in light steel framing, and long cabinet-assembly screws. On 18V platforms, impact drivers routinely deliver 1,500 to over 2,000 inch-pounds of maximum torque — two to four times what a comparably sized drill/driver produces. Milwaukee's M18 FUEL lineup, DeWalt's 20V MAX XR series, Makita's 18V LXT models, and Bosch's 18V PROFACTOR tools all sit in this range. Budget 18V options from Ryobi and similar brands typically land between 1,200 and 1,500 in-lbs, which is sufficient for most homeowner tasks.\n\nWhat impact drivers are not built for is precision drilling. The 1/4-inch hex collet accepts only hex-shank bits; round-shank twist bits and spade bits require an adapter, and the hammering action makes clean, straight holes difficult. For drilling operations, a dedicated drill/driver remains the right tool. Many buyers find that owning both an impact driver and a drill/driver — available as combo kits from every major brand at $200–$350 for the pair — gives them the best of both worlds.\n\n## 12V versus 18V\n\nCompact 12V impact drivers, such as the Milwaukee M12 FUEL and DeWalt XTREME 12V series, deliver 1,000–1,200 in-lbs of torque and weigh under two pounds with a battery. They excel at cabinet installation, finish carpentry, and any application where tool-head length is constrained. Full-size 18V/20V models offer more power and longer run time, making them the default choice for framing, decking, and structural work.",
+  "buyingFactors": [
+    {
+      "title": "Battery platform and voltage",
+      "text": "Impact drivers are platform tools: the 18V or 12V battery you buy with your first driver locks you into one brand's ecosystem. Makita LXT, Milwaukee M18, DeWalt 20V MAX, and Bosch 18V each have broad tool lineups sharing one pack. Choose the platform that covers the other tools on your list — circular saw, reciprocating saw, flashlight — rather than optimizing the driver purchase in isolation. Starter kits with two batteries typically run $150–$250."
+    },
+    {
+      "title": "Brushless motor versus brushed",
+      "text": "Brushless impact drivers dominate the professional and prosumer tiers because they run cooler, extract more runtime per charge, and self-regulate power delivery to match the load. A brushless 18V impact driver can realistically drive 300–400 long deck screws per charge; a comparably priced brushed model manages significantly fewer. For occasional weekend work, brushed tools at $60–$100 are adequate; for any regular fastening, the brushless premium at $130–$200 is worthwhile."
+    },
+    {
+      "title": "Peak torque and impact rate",
+      "text": "Maximum torque in inch-pounds tells you how much force the tool can apply to a stubborn fastener; impact rate (IPM) tells you how fast those blows arrive. For most DIY work — deck screws, furniture assembly, general construction — 1,400–1,600 in-lbs is sufficient. Structural applications like 3/8-inch lag bolts into LVL beams benefit from 1,800–2,000+ in-lbs. Higher IPM figures (2,800–3,200) improve performance in dense hardwood but can strip smaller fasteners if the driver lacks variable-speed or multi-mode control."
+    },
+    {
+      "title": "Multi-mode and precision drive settings",
+      "text": "Better impact drivers include two or three speed/mode settings that alter both RPM and IPM, letting you slow down for delicate trim screws and open up for structural fastening. Milwaukee's M18 FUEL Gen 4 and DeWalt's XR line offer four-mode operation with a dedicated precision-drive setting that eliminates hammering at low torque — useful for self-tapping screws in sheet metal or finishing screws in trim where overdriving is a real risk."
+    },
+    {
+      "title": "Weight, balance, and bit retention",
+      "text": "Impact drivers range from about 1.8 lbs (12V compact) to 3.4 lbs with an 18V pack. Head length matters for tight spots — shorter tools fit between studs and into cabinets where longer models bind. Look for a one-sleeve bit-change collet that locks and releases with one hand rather than requiring two-hand operation. Ergonomic grip shape reduces fatigue on repetitive fastening days; a rubberized overmold handle absorbs some of the vibration signature."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can an impact driver drill holes?",
+      "a": "An impact driver can drill holes, but it is not the ideal tool for the job. The 1/4-inch hex collet accepts hex-shank twist bits and spade bits, and the hammering action can actually help in some materials, but precise, clean holes are harder to achieve than with a dedicated drill/driver. For occasional spot drilling alongside heavy fastening, a hex-shank drill bit works acceptably; for regular drilling, keep a drill/driver in the kit."
+    },
+    {
+      "q": "What is the difference between an impact driver and an impact wrench?",
+      "a": "An impact driver uses a 1/4-inch hex collet and is optimized for screws and hex-shank bits, while an impact wrench uses a square drive (typically 3/8-inch or 1/2-inch) and is designed for hex nuts and bolts. Impact wrenches deliver far more torque — often 250–600 ft-lbs — making them the right tool for lug nuts, large bolts, and automotive work. An impact driver is a fastening and screw-driving tool; an impact wrench is a nut-running tool."
+    },
+    {
+      "q": "How much torque do I need in an impact driver?",
+      "a": "For most DIY tasks — deck screws, cabinet hardware, furniture assembly, general construction — 1,400 to 1,600 inch-pounds of peak torque is sufficient. Structural applications such as 5/16-inch or 3/8-inch lag bolts into ledger boards or rim joists benefit from 1,800 to 2,000+ in-lbs. The gap between budget and premium tools is often run time and motor longevity rather than raw torque, since even entry-level 18V models usually have enough torque for most homeowner jobs."
+    },
+    {
+      "q": "Do impact drivers strip screws?",
+      "a": "Impact drivers can strip screw heads, particularly at high speed and IPM settings in soft materials or with smaller fasteners, but modern multi-mode drivers reduce this risk significantly. Using the precision-drive or lowest-speed setting for finish screws and switching to full power only for structural fastening is the correct technique. Quality bits — preferably impact-rated with a torsion zone — also reduce stripping by flexing slightly under the hammering force rather than cracking."
+    },
+    {
+      "q": "Is a combo kit (drill + impact driver) worth it versus buying separately?",
+      "a": "A combo kit is almost always the better value for anyone starting a cordless tool collection. Two-tool kits from Makita, DeWalt, Milwaukee, and Bosch typically include two batteries, a charger, and both tools for $200–$350 — often $50–$100 less than purchasing the same tools and batteries separately. The shared battery system means every additional pack you buy extends the runtime of both tools simultaneously."
+    },
+    {
+      "q": "Can I use regular drill bits in an impact driver?",
+      "a": "You can use hex-shank drill bits in an impact driver without any adapter; they seat directly in the 1/4-inch collet. Round-shank bits — the standard shank on most twist drill bits and spade bits — require a universal hex-shank adapter, which adds a small amount of runout and is not ideal for precision work. For regular drilling, switching to a proper drill/driver is the cleaner solution."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

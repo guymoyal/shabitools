@@ -1,0 +1,39 @@
+{
+  "slug": "milwaukee",
+  "name": "Milwaukee",
+  "description": "Milwaukee Electric Tool Corporation was founded in 1924 in Milwaukee, Wisconsin — the same year DeWalt was established — by a group that initially formed around A.H. Peterson's electric tool venture. The company relocated to Brookfield, Wisconsin in 1965, where it remains headquartered today. After changing hands several times over the decades, Milwaukee was acquired in 2005 by Techtronic Industries (TTI), a Hong Kong-based manufacturer that also owns Ryobi and AEG. Under TTI's ownership, Milwaukee has undergone a dramatic transformation from a solid but mid-tier brand into the dominant force at the professional end of the US cordless tool market.\n\n## The M18 and M12 FUEL Platforms\n\nMilwaukee's US cordless identity revolves around two voltage families. The M18 system runs every tool from compact drills and impact drivers through heavy-duty rotary hammers, circular saws, and large outdoor power equipment — all sharing the same 18V battery interface. Within M18, the FUEL sub-line adds Milwaukee's trio of proprietary technologies: the POWERSTATE brushless motor, REDLITHIUM battery packs, and REDLINK PLUS onboard intelligence, delivering the highest torque and runtime numbers in the M18 catalog. The M12 system mirrors the same philosophy at 12V, covering over 150 tools for trades where compactness matters — electricians, plumbers, and HVAC technicians value M12 tools for working in tight panels and confined spaces. Both platforms run distinct battery interfaces and are not cross-compatible with each other, so buyers typically build their fleet around one voltage or deliberately invest in both for different tasks.\n\n## US Market Position\n\nMilwaukee sits firmly at the professional tier and has become the brand of choice on many construction and trades jobsites in North America. It is particularly strong among electricians, plumbers, pipefitters, and concrete trades, and the company invests heavily in tools designed around specific trade workflows — ratchets, cable cutters, press tools, and inspection cameras appear alongside the core drills and saws. Milwaukee's MX FUEL system extends the platform concept into heavy equipment such as large-diameter core drills and cut-off saws that replace gas-powered tools on commercial jobsites.\n\n## What Milwaukee Does Well — and Where It Falls Short\n\nMilwaukee's primary strength is raw performance: the M18 FUEL line consistently delivers class-leading torque and runtime in head-to-head comparisons, and the depth of trade-specific accessories is unmatched among battery platform brands. The M12 system is the benchmark for compact professional cordless tools. The trade-off is price — Milwaukee M18 FUEL kits typically carry a premium over comparable DeWalt or Makita options, and the catalog's breadth can make battery investment steep when building out a complete fleet. Buyers who primarily do light home improvement and do not need maximum power on every job may find better value in DeWalt's more price-accessible 20V MAX lineup or Ryobi's consumer-oriented ecosystem.",
+  "founded": "1924",
+  "headquarters": "Brookfield, Wisconsin, USA",
+  "knownFor": [
+    "M18 FUEL cordless platform with class-leading torque",
+    "M12 compact cordless system for trades in tight spaces",
+    "POWERSTATE brushless motors, REDLITHIUM batteries, REDLINK PLUS intelligence",
+    "Deep trade-specific tool and accessory catalog",
+    "MX FUEL system for heavy commercial equipment",
+    "Part of Techtronic Industries (TTI)"
+  ],
+  "faq": [
+    {
+      "q": "Who owns Milwaukee Tool?",
+      "a": "Milwaukee Tool is owned by Techtronic Industries (TTI), a Hong Kong-based company that also owns the Ryobi and AEG brands. TTI acquired Milwaukee in 2005 for $626.6 million. Milwaukee is headquartered in Brookfield, Wisconsin, and operates as an independent brand with its own engineering and product development teams."
+    },
+    {
+      "q": "What is the difference between Milwaukee M18 and M18 FUEL?",
+      "a": "M18 FUEL is Milwaukee's top-tier brushless sub-line featuring the POWERSTATE brushless motor, REDLITHIUM battery packs, and REDLINK PLUS intelligence for maximum power and runtime. Standard M18 tools use brushed motors and are priced lower. Both run the same M18 batteries interchangeably, so you can mix them in one fleet — FUEL tools just deliver significantly higher performance."
+    },
+    {
+      "q": "Are Milwaukee M12 and M18 batteries interchangeable?",
+      "a": "No, M12 and M18 batteries use different interfaces and are not cross-compatible. M12 tools require M12 packs, and M18 tools require M18 packs. Many professionals own both systems — M18 for power-intensive work and M12 for compact tasks in confined spaces — but they must maintain separate battery inventories for each."
+    },
+    {
+      "q": "Is Milwaukee Tool worth the premium price?",
+      "a": "For professional tradespeople who use tools daily, Milwaukee M18 FUEL frequently justifies the higher cost through class-leading torque, runtime, and a deep catalog of trade-specific tools. For homeowners or occasional users, the premium is harder to justify — brands like DeWalt and Makita offer strong performance at lower kit prices. The value case for Milwaukee is strongest when you need maximum output and are building a trade-focused fleet."
+    },
+    {
+      "q": "Where is Milwaukee Tool headquartered?",
+      "a": "Milwaukee Tool is headquartered in Brookfield, Wisconsin, where the company has been based since relocating from Milwaukee in 1965. Despite the name, the brand does not operate out of the city of Milwaukee itself. Its parent company, TTI, is headquartered in Hong Kong."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

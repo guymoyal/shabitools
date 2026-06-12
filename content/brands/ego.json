@@ -1,0 +1,39 @@
+{
+  "slug": "ego",
+  "name": "EGO",
+  "description": "EGO POWER+ is a cordless outdoor power equipment brand launched in 2014, after approximately a decade of development by its parent company Chervon. Chervon was founded in 1993 and established its power tool manufacturing operations in Nanjing, China in 1994. The EGO brand was created specifically to challenge the performance assumptions about battery-powered outdoor equipment — at a time when most cordless lawn tools were seen as underpowered alternatives to gas, EGO positioned its 56V ARC Lithium platform as capable of matching gas equipment on cutting performance and runtime for residential and prosumer applications. That positioning proved accurate enough to build a strong reputation in a short time, and EGO is now widely recognized as the benchmark brand for premium residential cordless outdoor power equipment in the US.\n\n## The 56V ARC Lithium Platform\n\nEvery EGO tool runs on the 56V ARC Lithium battery system, which is EGO's core technology differentiator. The 56V nominal voltage is substantially higher than the 18V or 20V platforms used by most cordless indoor power tools, delivering the sustained power needed for lawn mowers, zero-turn riders, snow blowers, pressure washers, and chainsaws without requiring gas or an extension cord. ARC Lithium refers to EGO's cell chemistry and battery management approach, which is designed for high discharge rates with thermal stability during heavy sustained loads. All EGO batteries share the same interface across the product line — a 56V pack purchased for a lawn mower will power an EGO string trimmer, leaf blower, or chainsaw — which simplifies ownership significantly. The platform has expanded to include commercial-grade tools under the EGO COMMERCIAL umbrella for landscaping professionals.\n\n## US Market Position\n\nEGO competes at the premium end of the residential outdoor power equipment market — priced above Ryobi, Craftsman, and Black+Decker cordless outdoor tools, and positioned as a direct performance alternative to gas equipment from brands like Honda and Husqvarna. The brand sells through Lowe's and Home Depot as well as specialty outdoor power equipment dealers. EGO's robot lawn mower and zero-turn rider products signal an intent to move upmarket into product categories that traditional power tool brands have not addressed, reinforcing the brand's focus on outdoor equipment exclusively. Unlike Chervon's Skil brand, EGO does not make indoor power tools — the brand's entire identity and engineering focus is outdoor.\n\n## What EGO Does Well — and Where It Falls Short\n\nEGO's central promise — that a 56V cordless mower can match or approach the cutting performance of a gas walk-behind on a typical suburban lawn — holds up well under most residential conditions. The battery capacity available in higher-Ah packs allows extended runtime that makes a single charge sufficient for many yards. The shared 56V platform means that investing in multiple EGO tools is more efficient than buying into separate battery systems. The limitations are equally clear: EGO is an outdoor-only brand with no indoor power tools, so it cannot serve as a one-system solution for buyers who want a single battery to cover both their circular saw and their lawn mower. The premium price is a real barrier — EGO mowers and snow blowers carry higher upfront costs than comparable gas units, and the economics only favor cordless if you value the fuel savings, lower maintenance, and quiet operation over a multi-year ownership period.",
+  "founded": "2014",
+  "headquarters": "Naperville, Illinois, USA (Chervon North America); parent Chervon headquartered in Nanjing, China",
+  "knownFor": [
+    "56V ARC Lithium cordless platform for outdoor power equipment",
+    "Gas-comparable performance for residential lawn mowers and snow blowers",
+    "Single battery platform covering mowers, trimmers, blowers, and chainsaws",
+    "Premium-tier residential and prosumer outdoor tools",
+    "EGO COMMERCIAL line for professional landscapers",
+    "Owned by Chervon, which also owns Skil and SKILSAW"
+  ],
+  "faq": [
+    {
+      "q": "Is EGO a good brand for lawn mowers?",
+      "a": "EGO is widely regarded as the benchmark for premium residential cordless lawn mowers. Its 56V ARC Lithium platform delivers sustained cutting power that performs well on typical suburban lawns, and the shared battery system means a pack from one EGO tool can power the full product range. For buyers who want to eliminate gas, oil changes, and engine maintenance, EGO is the most recognized premium option."
+    },
+    {
+      "q": "Who makes EGO tools?",
+      "a": "EGO POWER+ is made by Chervon, a power tool manufacturer headquartered in Nanjing, China, with North American operations run out of Naperville, Illinois. Chervon created the EGO brand specifically for premium cordless outdoor power equipment and launched it in 2014. Chervon also owns the Skil and SKILSAW brands, though those brands address different markets and use separate battery systems."
+    },
+    {
+      "q": "Are EGO batteries compatible with other brands?",
+      "a": "No. EGO's 56V ARC Lithium batteries are proprietary to the EGO system and are not compatible with tools from Milwaukee, DeWalt, Makita, Ryobi, or Chervon's own Skil brand. Within the EGO ecosystem, however, all 56V batteries are cross-compatible — one battery works across every EGO mower, trimmer, blower, chainsaw, and snow blower model."
+    },
+    {
+      "q": "Does EGO make indoor power tools?",
+      "a": "No. EGO is exclusively an outdoor power equipment brand — all of its products are designed for lawn and garden tasks. If you need a single battery system that covers both indoor power tools (drills, saws) and outdoor equipment, you would need to look at brands like DeWalt, Milwaukee, or Makita, which offer both categories on their 18V or 20V platforms. EGO's 56V system does not extend to indoor tools."
+    },
+    {
+      "q": "How does EGO compare to gas lawn equipment?",
+      "a": "For typical residential lawns, EGO's top-tier mowers deliver cutting performance comparable to mid-range gas walk-behinds, with no fuel costs, no engine oil changes, and significantly quieter operation. Tradeoffs include higher upfront purchase prices and the need to recharge rather than refuel for larger properties. For very large lots or sustained commercial use, gas or propane equipment generally still has the edge in runtime flexibility."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "ryobi",
+  "name": "Ryobi",
+  "description": "Ryobi was established in December 1943 as Ryobi Seisakusho Co., Ltd. in Hiroshima, Japan — originally a die-casting manufacturer, not a tool company. The company did not enter power tools until 1968, eventually growing into a major Japanese tool brand. In 2000, Techtronic Industries (TTI) acquired the rights to the Ryobi brand for power tools sold in North America, Europe, and Australia for $95 million, while the original Japanese parent company retained the name for other product categories. US Ryobi power tools are designed and marketed by TTI, which has built a large operational footprint in Anderson, South Carolina — a campus that produces over 430,000 outdoor power units annually and serves as TTI's primary US Ryobi hub.\n\n## The ONE+ 18V Platform\n\nRyobi's defining product strategy in the US is the ONE+ 18V system, which offers one of the broadest single-voltage cordless ecosystems available to consumers: over 260 tools sharing a single battery interface, from drills and circular saws through leaf blowers, string trimmers, pressure washers, and even inflatable pool pumps. The sheer variety is the system's central selling point. A homeowner who buys into ONE+ can realistically cover almost every power-tool need around the house without ever switching battery platforms. Ryobi also sells a 40V range for outdoor equipment that needs more sustained power for heavier lawn and garden work, though the 40V batteries do not cross-charge with the 18V ONE+ system.\n\n## US Market Position\n\nRyobi is the preeminent value-tier power tool brand in the US and is sold exclusively through The Home Depot. It targets homeowners and occasional DIYers who want cordless convenience and a wide tool selection without paying professional-grade prices. Ryobi kits are priced to make battery-platform entry easy — starter kits frequently appear at price points that undercut comparable Craftsman or Black+Decker bundles — and the range of ONE+ tools available means buyers rarely hit the limits of the ecosystem for typical household tasks. The brand has no meaningful jobsite professional presence and is not marketed at tradespeople.\n\n## Strengths, and the Honest Trade-offs\n\nRyobi's unmatched strength is breadth at an accessible price. For a homeowner who genuinely wants a cordless air compressor, a brad nailer, a shop vac, a circular saw, and a string trimmer all on one battery, Ryobi is often the most affordable path to that goal. Build quality on ONE+ tools is generally adequate for light-to-moderate residential use. The limitations become clear under sustained heavy loads or in jobsite conditions: Ryobi motors and battery packs are not engineered for the duty cycles that professionals demand, and runtime on lower-capacity packs can be short on power-hungry tasks. Buyers who do regular demanding work — framing, heavy cutting, repeated fastening on large projects — will encounter the platform's ceiling and should look at DeWalt or Milwaukee instead.",
+  "founded": "1943",
+  "headquarters": "Hiroshima, Japan (US operations: Anderson, South Carolina)",
+  "knownFor": [
+    "ONE+ 18V cordless platform with 260+ compatible tools",
+    "Exclusive retail availability through The Home Depot",
+    "Value-tier pricing for homeowners and DIYers",
+    "Broad coverage including outdoor power equipment and specialty tools",
+    "40V system for heavier lawn and garden applications",
+    "Part of Techtronic Industries (TTI)"
+  ],
+  "faq": [
+    {
+      "q": "Is Ryobi a professional brand?",
+      "a": "No, Ryobi is a consumer and DIY brand, not a professional one. It is designed for homeowners and occasional users who want broad tool variety at accessible prices. Tradespeople and professionals who need tools to perform under daily, heavy-duty conditions typically choose Milwaukee, DeWalt, or Makita instead."
+    },
+    {
+      "q": "Are Ryobi and Milwaukee batteries compatible?",
+      "a": "No, Ryobi and Milwaukee batteries are not compatible. Both brands are owned by TTI, but they use different battery interfaces deliberately — Ryobi targets the consumer market with 18V ONE+ batteries, while Milwaukee targets professionals with M18 packs. The two systems cannot share batteries or chargers."
+    },
+    {
+      "q": "Where are Ryobi tools sold?",
+      "a": "In the US, Ryobi power tools are sold exclusively through The Home Depot, both in stores and online. TTI has an exclusive retail partnership with Home Depot for the Ryobi brand. Ryobi outdoor power equipment may have broader distribution, but for corded and cordless power tools, Home Depot is the sole US retailer."
+    },
+    {
+      "q": "Who owns Ryobi?",
+      "a": "The Ryobi power tool brand for North America, Europe, and Australia is owned and operated by Techtronic Industries (TTI), which acquired those rights in 2000. The original Ryobi Limited in Japan still exists as a separate company making die-cast products and other goods, but it has no connection to the US power tool line."
+    },
+    {
+      "q": "How many tools are in the Ryobi ONE+ 18V system?",
+      "a": "The Ryobi ONE+ 18V system includes over 260 compatible tools, making it one of the largest single-voltage cordless ecosystems available to consumers. The lineup spans power tools, outdoor equipment, and specialty items like pressure washers, shop vacs, and inflatable pumps, all sharing the same 18V battery and charger."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

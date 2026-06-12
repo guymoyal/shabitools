@@ -1,0 +1,30 @@
+{
+  "categories/impact-drivers": {
+    "source": "pexels:impact driver driving deck screws lumber",
+    "alt": "Cordless impact driver driving screws into deck lumber on a construction site"
+  },
+  "categories/circular-saws": {
+    "source": "pexels:circular saw cutting plywood sheet workshop",
+    "alt": "Circular saw cutting a sheet of plywood on a workshop workbench"
+  },
+  "categories/miter-saws": {
+    "source": "pexels:miter saw cutting trim molding carpenter workshop",
+    "alt": "Compound miter saw crosscutting a length of wood trim molding in a carpentry workshop"
+  },
+  "categories/table-saws": {
+    "source": "pexels:table saw ripping lumber woodworking shop",
+    "alt": "Table saw ripping a board of dimensional lumber in a home woodworking shop"
+  },
+  "categories/jigsaws": {
+    "source": "pexels:jigsaw cutting curved wood countertop",
+    "alt": "Jigsaw cutting a curved profile in a wooden countertop panel"
+  },
+  "categories/reciprocating-saws": {
+    "source": "pexels:reciprocating saw demolition cutting wall framing",
+    "alt": "Reciprocating saw cutting through framing lumber during a home renovation demolition"
+  },
+  "categories/sanders": {
+    "source": "pexels:random orbit sander smoothing wood surface furniture",
+    "alt": "Random-orbit sander smoothing the surface of a hardwood furniture panel in a workshop"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "skil",
+  "name": "Skil",
+  "description": "Skil has a legitimate claim to one of the most consequential inventions in tool history. In the early 1920s, inventor Edmond Michel developed one of the first portable electric handsaws, inspired by watching workers cut sugar cane in Louisiana. Michel and Joseph W. Sullivan founded the Michel Electric Handsaw Company in 1924, and by 1926 Sullivan had renamed the enterprise Skilsaw, Inc. — introducing the brand name that would become synonymous with circular saws for generations of American builders. The original Model 77 worm-drive saw, released in 1937, is still sold today as SKILSAW and remains one of the most recognized circular saws in professional carpentry. The Skil brand — distinct from the SKILSAW brand — went through multiple corporate owners, including Bosch, before Chervon acquired it in 2017. Chervon, a Nanjing, China–based power tool manufacturer, now owns both the Skil and SKILSAW brands, along with EGO.\n\n## The PWRCORE Battery Platform\n\nUnder Chervon's ownership, Skil has been repositioned as a value-tier cordless brand for homeowners and DIYers with a renewed focus on the US market. The current Skil cordless lineup runs on the PWRCORE 20 (20V) platform, which shares batteries across Skil's cordless drill-drivers, circular saws, reciprocating saws, and lawn tools. Skil has also introduced the PWRCORE 40 (40V) line for outdoor power equipment. The systems are not cross-compatible with each other, and neither shares batteries with the SKILSAW professional line or with EGO's 56V system — all three run on separate battery interfaces despite sharing corporate ownership under Chervon.\n\n## US Market Position\n\nSkil sits at the budget-to-value end of the US cordless market. It targets first-time power tool buyers and apartment or small-home owners who need basic cordless capability without a large investment. Kit prices are among the lowest available for a name-brand cordless system, and the PWRCORE 20 platform covers the core tools most buyers need for light DIY. Skil's retail presence spans Home Depot, Lowe's, and online channels, giving it broader distribution than some competitors in its price tier.\n\n## What Skil Does Well — and Where It Falls Short\n\nSkil's primary advantage is price-of-entry: a PWRCORE 20 drill-and-driver combo kit can be one of the least expensive name-brand entry points to cordless tools. For occasional, light-duty tasks — hanging pictures, assembling furniture, occasional cutting — the tools perform adequately. The SKILSAW brand within the Chervon family carries a separate, more serious reputation for worm-drive and sidewinder saws popular with professional framers and carpenters, and those tools should not be confused with the consumer Skil line. For buyers who expect to grow into a deeper tool ecosystem, a more sustained workload, or genuinely heavy cutting and fastening tasks, the Skil PWRCORE platform has real limitations in both battery capacity and motor power relative to DeWalt, Milwaukee, or even RIDGID.",
+  "founded": "1924",
+  "headquarters": "Naperville, Illinois, USA (Chervon North America); parent Chervon headquartered in Nanjing, China",
+  "knownFor": [
+    "Pioneered the portable circular saw — the original Skilsaw (1920s)",
+    "PWRCORE 20 cordless platform for value-tier homeowner tools",
+    "Budget-friendly entry point to cordless power tools",
+    "Wide retail distribution at Home Depot and Lowe's",
+    "Owned by Chervon, which also owns SKILSAW and EGO",
+    "SKILSAW brand (separate from Skil) for professional worm-drive saws"
+  ],
+  "faq": [
+    {
+      "q": "Did Skil really invent the circular saw?",
+      "a": "Skil's founders built the machine that defined the category. Edmond Michel developed an early portable electric handsaw around 1923, and the company he co-founded with Joseph W. Sullivan in 1924 — renamed Skilsaw, Inc. in 1926 — turned it into the portable circular saw that carpenters adopted nationwide. The Skilsaw name became so widely used that many tradespeople still call any circular saw a 'Skilsaw,' regardless of brand."
+    },
+    {
+      "q": "Is Skil the same as SKILSAW?",
+      "a": "They share the same corporate parent — Chervon — but Skil and SKILSAW are marketed as separate brands. Skil is the consumer-focused cordless and corded line aimed at homeowners and DIYers. SKILSAW is a professional brand known for worm-drive and sidewinder circular saws used by framers and carpenters. Their batteries and tools are not cross-compatible."
+    },
+    {
+      "q": "Who owns Skil now?",
+      "a": "Skil is owned by Chervon, a power tool manufacturer headquartered in Nanjing, China, which acquired the Skil brand from Bosch Power Tools in 2017. Chervon also owns the SKILSAW and EGO brands. Skil's North American operations are run through Chervon North America."
+    },
+    {
+      "q": "Are Skil and EGO batteries compatible?",
+      "a": "No. Despite both being owned by Chervon, Skil PWRCORE 20 (20V) and EGO 56V ARC Lithium batteries use different interfaces and are not cross-compatible. Chervon deliberately positions the brands for different markets — Skil for budget indoor power tools and EGO for premium outdoor power equipment — with separate battery systems for each."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

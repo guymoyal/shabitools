@@ -1,0 +1,55 @@
+{
+  "slug": "sanders",
+  "name": "Sanders",
+  "description": "Sanders are power tools that move abrasive material against a workpiece surface to remove material, smooth rough stock, blend joints, strip finishes, and prepare surfaces for paint or stain. The category spans several distinct tool types, each optimized for a different surface geometry and task — and matching the right sander to the work is as important as grit selection or technique. Understanding the five main sander types prevents both buying the wrong tool and expecting more than a sander can deliver.\n\n## Random-orbit sanders: the default choice\n\nRandom-orbit sanders move a round disc pad in a simultaneous spinning and elliptical orbit, producing a scratch pattern that distributes evenly in all directions rather than following wood grain. This random pattern eliminates the parallel scratch marks that straight-line sanders leave and makes the random-orbit sander the most versatile finishing tool in the category. Most DIY buyers start here. Five-inch hook-and-loop pads are the standard across Bosch, DeWalt, Makita, Milwaukee, Ridgid, and Ryobi models; paper is cheap and swaps in seconds.\n\n## Belt sanders: fast material removal\n\nBelt sanders are aggressive, flat-surface tools that remove material quickly by running a continuous abrasive loop between two rollers. A 3x21-inch or 3x18-inch belt sander can flatten a rough tabletop, strip old finish from a hardwood floor section, or level a glue-up rapidly — tasks that would require many passes with a random-orbit sander. The trade-off is aggressiveness: belt sanders are harder to control on thin stock and require careful technique to avoid gouging across grain. Makita, DeWalt, Milwaukee, and Porter-Cable all make capable belt sanders in the $80–$200 range.\n\n## Detail and mouse sanders\n\nTriangular delta sanders — called detail or mouse sanders — use a pointed pad to reach into corners, inside cabinet door frames, window sash details, and furniture legs that round or belt sanders cannot access. The oscillating triangular pad accepts cut-to-fit sandpaper or proprietary hook-and-loop sheets. Bosch's detail sander line and the Black+Decker Mouse are the dominant consumer-tier options at $30–$80.\n\n## Orbital sheet sanders\n\nOrbital sheet sanders (also called palm sanders or quarter-sheet sanders) use a rectangular vibrating pad accepting standard cut sandpaper sheets rather than round discs. They produce straight-line vibration rather than the random pattern of a random-orbit tool, which means parallel scratch marks are possible if used against grain — but they are inexpensive, use cheap cut-to-fit paper, and excel on flat surfaces like furniture panels, door faces, and cabinet boxes where the rectangular pad fits efficiently.\n\n## Drywall sanders\n\nLong-handle drywall sanders use a round oscillating head on an extendable pole to sand drywall compound flat after taping, reaching ceilings and high walls without a ladder. Built-in dust collection via shop-vac connection is critical in this application; drywall dust is ultra-fine and a serious respiratory hazard.",
+  "buyingFactors": [
+    {
+      "title": "Sander type matched to the surface geometry",
+      "text": "Buying the wrong sander type is more costly than buying a cheaper version of the right type. A random-orbit sander handles flat and slightly curved surfaces for general finishing. A belt sander removes stock fast from large flat areas. A detail sander reaches inside corners and tight profiles. A drywall sander covers large flat walls efficiently. Start by identifying the specific surface geometry and task — paint stripping on a flat tabletop, corner sanding in trim work, or broad wall preparation — then choose the sander type, not the reverse."
+    },
+    {
+      "title": "Orbit diameter and OPM on random-orbit sanders",
+      "text": "Random-orbit sanders vary in orbit diameter (the eccentric offset) and orbits per minute (OPM). A larger orbit diameter — 3/32-inch versus 1/8-inch eccentric — removes material faster but leaves a coarser scratch pattern; a smaller eccentric produces a finer scratch at the cost of removal speed. OPM ranges from 6,000 to 12,000; higher OPM finishes faster but also increases the risk of swirl marks in wood if you linger too long. Variable-speed models in the 8,000–12,000 OPM range let you optimize for both removal and finish quality."
+    },
+    {
+      "title": "Dust collection: integrated bag versus vacuum hookup",
+      "text": "Dust collection is not optional — fine sanding dust is a respiratory hazard and obscures the surface making it impossible to judge progress. Better random-orbit sanders include a multi-hole pad (8-hole is the most compatible with aftermarket paper) and a dedicated port that connects to a shop vacuum. Integrated dust bags capture 30–50% of dust and fill quickly; shop-vac hookup captures 70–90% and is far superior in practice. Check that paper pad holes align with the sander pad holes for effective suction through the abrasive."
+    },
+    {
+      "title": "Corded versus cordless and price tiers",
+      "text": "Corded random-orbit sanders run $40–$120 and provide consistent power without battery cost overhead — the right choice if sanding is an occasional activity and the tool lives at a fixed workstation. Cordless 18V random-orbit sanders from Milwaukee M18, DeWalt 20V, and Makita 18V cost $60–$130 as bare tools and make sense for anyone already in those platforms who values mobility around a project or working away from outlets. Budget tools from Ryobi and Ridgid at $40–$70 are adequate for infrequent homeowner sanding; premium variable-speed models from Festool (at $200–$300+) represent the professional finishing tier."
+    },
+    {
+      "title": "Pad size, paper compatibility, and hook-and-loop versus PSA",
+      "text": "Five-inch round pads dominate the random-orbit market and offer the best aftermarket paper selection; 6-inch pads exist but limit paper availability. Hook-and-loop (Velcro-style) backing lets you swap grits in seconds and reuse paper that still has life; pressure-sensitive adhesive (PSA) paper is cheaper but slower to change and not reusable once removed. For a belt sander, verify that standard belt sizes (3x18, 3x21 inch) are available from multiple manufacturers to avoid being locked into premium-priced OEM belts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What type of sander is best for wood finishing?",
+      "a": "A random-orbit sander is the best all-purpose choice for wood finishing — furniture, cabinets, doors, floors, and trim — because its elliptical orbit pattern eliminates directional scratch marks that show through stain or clear finishes. For large flat surfaces needing rapid stock removal before finish sanding, a belt sander followed by a random-orbit to remove belt marks is a standard professional sequence. Detail sanders handle corners and profiles that the round pad cannot reach."
+    },
+    {
+      "q": "What grit sandpaper should I start with?",
+      "a": "Start with the coarsest grit that accomplishes the task without unnecessary over-sanding. For bare wood preparation before stain or paint, 80–100 grit removes mill marks and rough spots; 120 grit levels and blends; 150–180 grit is the standard final bare-wood pass before finish application. For between-coat finish sanding, 220–320 grit scuffs the surface for adhesion without cutting through. Stripping old paint or removing deep scratches starts at 60–80 grit. Progress through grits sequentially — skipping grits leaves coarser scratches that finer paper cannot efficiently remove."
+    },
+    {
+      "q": "Why am I getting swirl marks from my random-orbit sander?",
+      "a": "Swirl marks from a random-orbit sander are caused by moving the tool too quickly across the surface (not allowing the random orbit to fully randomize the scratch direction), pressing too hard (which slows the pad and creates circular tracks), or using worn sandpaper that cuts unevenly. Move the sander slowly — about 1 inch per second — with light to moderate downward pressure, and let the weight of the tool do most of the work. Finishing with 180-grit hand sanding along the grain removes any remaining swirls before applying finish."
+    },
+    {
+      "q": "Can I use a belt sander on hardwood floors?",
+      "a": "A belt sander can sand hardwood floors, but floor sanding is typically done with a purpose-built drum sander or floor edger rather than a handheld belt sander. A handheld belt sander is useful for small areas, repairs, and edge work where a drum sander cannot reach, but controlling cut depth and maintaining a flat surface across a full room with a handheld tool is difficult and risks creating waves and uneven areas that are visible under the finish. For a full floor refinish, renting a drum sander is the practical approach."
+    },
+    {
+      "q": "How do I sand inside corners?",
+      "a": "Sanding inside corners — where two surfaces meet at 90 degrees — requires a pointed detail sander, folded sandpaper worked by hand, or a sanding sponge cut to fit. Round random-orbit pads cannot reach into corners; rectangular pad sheet sanders can get closer but still leave the corner itself unsanded. The triangular detail sander pad, often called a mouse pad, is the dedicated solution and the correct tool to own alongside a random-orbit sander for furniture and trim finishing where inside corners are common."
+    },
+    {
+      "q": "What is the difference between a random-orbit sander and an orbital sheet sander?",
+      "a": "A random-orbit sander moves in a combined spinning and elliptical path, producing a scratch pattern with no predominant direction — making it safe to use across and against grain without visible marks. An orbital sheet sander (palm sander) vibrates in a circular but not truly random pattern, which can leave light circular marks if used across grain. Random-orbit sanders produce a higher-quality scratch for wood finishing; sheet sanders are inexpensive and efficient on flat surfaces where the marks will be painted over and the rectangular pad utilizes standard cut sandpaper sheets economically."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

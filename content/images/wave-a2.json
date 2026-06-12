@@ -1,0 +1,30 @@
+{
+  "categories/angle-grinders": {
+    "source": "pexels:angle grinder cutting metal sparks workshop",
+    "alt": "An angle grinder cutting through steel with sparks flying in a workshop"
+  },
+  "categories/leaf-blowers": {
+    "source": "pexels:leaf blower clearing autumn leaves driveway",
+    "alt": "A cordless leaf blower clearing a pile of autumn leaves from a residential driveway"
+  },
+  "categories/oscillating-multi-tools": {
+    "source": "pexels:oscillating multi-tool flush cutting door jamb",
+    "alt": "An oscillating multi-tool undercutting a door jamb for new flooring installation"
+  },
+  "categories/pressure-washers": {
+    "source": "pexels:pressure washer cleaning concrete driveway surface",
+    "alt": "A gas pressure washer blasting dirt and grime from a concrete driveway"
+  },
+  "categories/routers": {
+    "source": "pexels:wood router edge profiling workbench woodworking",
+    "alt": "A handheld wood router cutting a decorative edge profile on a hardwood board"
+  },
+  "categories/shop-vacuums": {
+    "source": "pexels:shop vacuum cleaning sawdust workshop floor",
+    "alt": "A shop vacuum collecting sawdust on a workshop floor next to a workbench"
+  },
+  "categories/string-trimmers": {
+    "source": "pexels:battery string trimmer lawn edging sidewalk",
+    "alt": "A battery-powered string trimmer cutting a crisp edge along a concrete sidewalk"
+  }
+}

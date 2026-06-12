@@ -1,0 +1,51 @@
+{
+  "slug": "leaf-blowers",
+  "name": "Leaf Blowers",
+  "description": "Leaf blowers move air at controlled velocity to clear leaves, grass clippings, and light debris from lawns, driveways, gutters, and hard surfaces. Performance is measured by two numbers that work together: **CFM (cubic feet per minute)**, which describes the volume of air moved and determines the ability to lift and move piles of leaves; and **MPH (miles per hour)**, which describes air velocity at the nozzle and determines the ability to dislodge wet, matted, or heavy debris. Effective clearing requires both — high MPH with low CFM produces a narrow stream that moves debris in a thin line; high CFM with moderate MPH moves large leaf piles efficiently.\n\n## Gas versus battery versus corded\n\nGas handheld blowers produce 400 to 600 CFM at 150 to 200 MPH and are the highest-output option for large properties with heavy debris loads. Backpack gas blowers from Husqvarna, Stihl, and Echo scale to 600 to 900 CFM for commercial landscape work. Two-cycle gas blowers require premixed fuel; four-cycle models run cleaner but are heavier.\n\nBattery blowers on 40V and 56V-class platforms have transformed the residential category. EGO Power+ 56V handheld models reach 480 to 650 CFM, overlapping gas performance for suburban yard sizes. Ryobi 40V delivers a similar range at lower cost and integrates well with their 40V trimmer and mower ecosystem. Makita XGT 40V-max blowers and Milwaukee M18 blowers are strong in the cordless segment for users already in those battery ecosystems. Greenworks Pro 80V occupies the high-output end of cordless with performance approaching backpack gas.\n\nCorded electric blowers at 6 to 12 amps produce 200 to 400 CFM, cost $30 to $70, and suit small patios, decks, and garage floors near an outlet.\n\n## Handheld versus backpack\n\nHandheld blowers weigh 4 to 8 pounds and are appropriate for lots up to about a half acre. Backpack blowers distribute a heavier power unit across your shoulders with a handheld tube, reducing arm fatigue for large properties or commercial work. Gas backpack blowers weigh 18 to 25 pounds total but allow sustained high-output work; battery backpack models from EGO and Ryobi 40V reduce that fatigue further without emissions.\n\n## Vacuum and mulching modes\n\nMany blowers include a vacuum tube and impeller that converts the blower into a leaf vacuum, mulching leaves at ratios of roughly 10:1 by volume before depositing them in an attached bag. This mode suits compact properties where bagging reduces trip frequency; on large lawns it is slow compared to blowing leaves to a collection point. Tube conversion takes 30 to 60 seconds on most models.",
+  "buyingFactors": [
+    {
+      "title": "CFM and MPH: matching output to yard size",
+      "text": "For a small to mid-size suburban lot with standard leaf fall, a battery blower producing 350 to 500 CFM at 90 to 130 MPH handles normal clearing tasks efficiently. Large properties with heavy debris, wet leaves, or gravel driveways benefit from 500-plus CFM at 140-plus MPH. Backpack gas blowers clearing 600 to 900 CFM suit professional landscape work across multiple properties. Matching output to actual yard size avoids overspending on performance you do not need."
+    },
+    {
+      "title": "Power source and battery platform integration",
+      "text": "EGO 56V and Ryobi 40V are the strongest battery outdoor power equipment platforms for homeowners, with wide product lines covering blowers, trimmers, mowers, and hedge trimmers on shared batteries. If you already own a Ryobi 40V trimmer, a Ryobi 40V blower adds maximum battery flexibility at the lowest incremental cost. Gas remains the best choice for large acreage and commercial use where battery capacity cannot keep pace with the workload."
+    },
+    {
+      "title": "Variable speed control and turbo boost",
+      "text": "Variable speed triggers or dials let you run at reduced airflow for sweeping grass clippings off a deck without scattering mulch from beds, and at full output for moving wet leaves on the lawn. A turbo or boost button that delivers a short burst of maximum CFM is useful for dislodging stubborn debris without running at full power continuously, which extends battery life on cordless models. Both features are standard on mid- and upper-range models."
+    },
+    {
+      "title": "Noise levels and local ordinances",
+      "text": "Gas blowers typically produce 70 to 80 dB at the operator and are subject to noise ordinances in many municipalities that restrict use on weekday mornings and evenings. Battery blowers run 55 to 65 dB — roughly the equivalent of a normal conversation — and avoid most noise complaints. Corded electric models fall in a similar range. If your neighborhood or city limits blower hours, the noise and emissions profile of a battery model is a practical advantage beyond environmental preference."
+    },
+    {
+      "title": "Price tiers from corded to commercial gas",
+      "text": "Corded electric blowers from Toro or Black+Decker run $30–$70. Entry battery blowers on Ryobi ONE+ or 40V run $80–$130 with a 2.0 Ah battery. Mid-range EGO 56V and Ryobi 40V models with larger batteries cost $150–$200. Premium EGO or Greenworks 80V blowers with backpack-level output run $200–$300. Gas handheld blowers from Husqvarna and Echo run $150–$250; professional gas backpack blowers cost $350–$600."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many CFM do I need in a leaf blower for a typical suburban yard?",
+      "a": "A blower producing 350 to 500 CFM handles a typical quarter-acre to half-acre suburban lot with standard leaf fall efficiently. Below 300 CFM, you will struggle to move large dry leaf piles quickly. Above 600 CFM is overkill for most residential lots and adds unnecessary weight and cost. For wet, matted leaves on large properties, prioritize both CFM and MPH together — 450-plus CFM at 120-plus MPH moves heavy debris without the limitations of a high-MPH, low-CFM design."
+    },
+    {
+      "q": "Is an EGO or Ryobi leaf blower as good as a gas blower?",
+      "a": "For suburban lots under a half acre, yes. EGO's 56V handheld blowers reach 480 to 650 CFM — performance that overlaps mid-tier gas models — while starting instantly, producing no exhaust, and running significantly quieter. Ryobi 40V blowers are slightly below EGO's peak output but perform well for standard residential use. Gas maintains a meaningful advantage for large acreage properties, commercial landscaping, or sustained all-day work where battery swapping becomes impractical."
+    },
+    {
+      "q": "What is the difference between a handheld and backpack leaf blower?",
+      "a": "A handheld blower holds the motor and fan in the same unit you grip, typically weighing 4 to 8 pounds. A backpack blower mounts the motor and battery or fuel on a frame you wear on your back, with a separate wand and trigger. Backpack models move more air — gas backpacks reach 600 to 900 CFM — and reduce arm fatigue on large properties by shifting weight to your torso. Handheld models suit residential lots up to about half an acre; backpack models are better for larger properties and commercial work."
+    },
+    {
+      "q": "Can I use a leaf blower to clean gutters?",
+      "a": "Yes, with a gutter attachment kit. Curved nozzle extensions or flexible gutter tubes direct airflow along the gutter channel from ground level or from a ladder. This works well on light, dry leaf debris. Wet or packed debris may need manual clearing first. Most major blower brands sell gutter attachment kits separately for $15 to $30 that fit their standard nozzle diameter."
+    },
+    {
+      "q": "Are leaf blower vacuum modes worth using?",
+      "a": "The vacuum-mulching mode is practical for small areas where bagging leaves is preferable to raking, such as tight garden beds or small patios. Mulching ratios of roughly 10:1 reduce the number of bag dumps significantly. However, for clearing a full lawn, blowing leaves into a pile and collecting them is faster than vacuuming. The mode adds versatility for users with compact yards; on larger properties it is rarely the most efficient approach."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

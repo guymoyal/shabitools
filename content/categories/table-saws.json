@@ -1,0 +1,55 @@
+{
+  "slug": "table-saws",
+  "name": "Table Saws",
+  "description": "Table saws are stationary or semi-portable power saws in which a circular blade protrudes through a flat table surface, allowing the workpiece to be fed across the table into the blade rather than the saw into the workpiece. This inverted arrangement is what makes table saws the most productive, most versatile, and — in skilled hands — most accurate wood-cutting machines in a workshop. Ripping lumber to width, resawing thick stock, making dadoes, cutting sheet goods to dimension, and producing clean, repeatable crosscuts with a sled are all tasks that a table saw executes faster and more accurately than any handheld alternative.\n\n## Table saw types\n\nFour categories define the market. A **portable jobsite table saw** is built on a folding stand, weighs 45–75 lbs, and uses a direct-drive 15-amp motor that delivers adequate power for 2x lumber rips and plywood. Models from DeWalt (DWE7485, DWE7491RS), Bosch (GTS1041A), and Milwaukee (M18 FUEL cordless) dominate this tier at $400–$900. A **contractor table saw** is heavier, sits on a wheeled open base, and offers a larger table surface and better fence system for $600–$1,200. A **hybrid table saw** combines contractor-saw portability with cabinet-saw refinements — enclosed base, better dust collection, cast-iron wings — for $800–$2,000. A **cabinet table saw** is the professional standard: 3–5 horsepower, cast-iron table, precision fence, and induction motor, running $2,000–$6,000+. Hobbyist and serious DIY buyers typically choose between portable jobsite and hybrid saws.\n\n## Rip capacity and fence quality\n\nRip capacity — the distance from the blade to the fence at maximum setting — determines the widest workpiece you can rip. Most portable saws offer 24–30 inches of rip capacity, sufficient for ripping sheet goods up to 30 inches wide and all standard dimensional lumber. Fence accuracy is at least as important as rip capacity: a fence that racks or drifts produces tapered cuts even with a sharp blade. The Biesemeyer-style T-square fence design — used or licensed by DeWalt, Delta, and others — is the recognized benchmark for parallel-to-blade accuracy and lock repeatability.\n\n## Safety considerations\n\nTable saws cause more workshop injuries than any other stationary power tool. Modern safety features include riving knives (which follow the blade and prevent the kerf from closing on the blade, the primary kickback cause), blade guards, and anti-kickback pawls. Newer SawStop and Bosch REAXX technology use electrical sensing to detect contact with skin and retract the blade in milliseconds; SawStop cabinet saws are the standard in many professional shops where the $2,000–$4,000 price premium is offset by injury prevention.",
+  "buyingFactors": [
+    {
+      "title": "Table saw type and intended use",
+      "text": "Portable jobsite saws at $400–$900 handle most DIY and home workshop tasks — sheet good breakdown, ripping lumber, basic dado work — and move between locations. Hybrid saws at $800–$2,000 add table size, fence accuracy, and motor power suitable for all-day shop use. Cabinet saws at $2,000–$6,000+ are the professional standard with 3–5 HP motors and cast-iron mass for demanding production work. Match the saw to your actual use case: a $1,500 hybrid saw is overkill for occasional plywood cutting but a significant underinvestment for a serious woodworking shop."
+    },
+    {
+      "title": "Rip capacity and fence system accuracy",
+      "text": "Rip capacity determines the widest workpiece you can cut parallel to the blade: 24 inches accommodates most sheet-good rips; 30–32 inches gives clearance for full-width plywood rips without a second pass. More important than raw capacity is fence system quality — a rack-free fence that locks parallel to the blade on both left and right rail simultaneously. Biesemeyer-style T-square fences on DeWalt and better contractor saws are the benchmark; the basic stamped fences on budget tools flex under load and require frequent adjustment."
+    },
+    {
+      "title": "Blade diameter, arbor, and motor power",
+      "text": "Standard 10-inch blades dominate the market, fitting both portable and cabinet saws. Most portable saws run a 15-amp motor producing approximately 1.5–2 HP at the blade — adequate for ripping dry dimensional lumber and 3/4-inch plywood but underpowered for dense hardwood at full depth. Hybrid and cabinet saws with 1.75–5 HP induction motors sustain full power through demanding cuts. Dado stack compatibility (requiring a 5/8-inch arbor and adequate arbor length) is essential if dado joinery is on your work list."
+    },
+    {
+      "title": "Safety features: riving knife, guards, and blade-brake technology",
+      "text": "A riving knife — a curved plate mounted behind the blade that moves with blade-height adjustments — is the most important kickback-prevention feature and should be present on any saw you consider. Anti-kickback pawls and blade guards reduce but do not eliminate risk. SawStop's flesh-sensing technology stops the blade within 5 milliseconds of skin contact and is available on contractor ($1,700), professional ($3,000+), and industrial cabinet saws. Bosch's now-discontinued REAXX system used a similar principle; SawStop is the current market standard for active-injury-prevention technology."
+    },
+    {
+      "title": "Portability, footprint, and stand system",
+      "text": "Portable jobsite saws weigh 45–75 lbs with folding stands and fit in a pickup bed for transport to job sites. Most include a dedicated folding stand with wheels that deploys in seconds. Hybrid saws on wheeled bases weigh 200–350 lbs and move within a shop but do not transport easily. Cabinet saws are permanent installations at 400–700+ lbs. Measure your available shop floor space before purchasing — a 10-inch cabinet saw needs at least 4 feet of outfeed clearance plus side clearance for long rips, often requiring 8x12 feet of dedicated floor space minimum."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a table saw necessary for woodworking, or can I use a circular saw instead?",
+      "a": "A table saw is not strictly necessary, but it is the most efficient and accurate way to rip lumber and break down sheet goods repeatedly. A circular saw with a straight-edge guide produces equivalent cuts but requires more setup time per cut, is less repeatable for production work, and cannot easily produce dadoes or rabbets. For occasional sheet-good cutting, a quality circular saw and guide system is a reasonable substitute. For regular ripping of lumber or production woodworking with dadoes and joinery, a table saw pays for itself quickly in time and accuracy."
+    },
+    {
+      "q": "What size table saw blade should I use?",
+      "a": "Standard 10-inch blades are the correct choice for virtually all table saws sold at the DIY and prosumer level. Blade tooth count should match the operation: 24-tooth flat-top or combination blades for ripping lumber, 40–50-tooth combination blades for general shop use, and 60-80-tooth blades for clean crosscuts and plywood face veneers. Dado stack sets — two outer blades and a set of chippers — require a saw with sufficient arbor length and a sacrificial zero-clearance insert to work cleanly."
+    },
+    {
+      "q": "What causes table saw kickback and how do I prevent it?",
+      "a": "Kickback occurs when the blade catches the trailing edge of a workpiece — most often because the kerf closes on the blade (wood spring), the fence is not parallel to the blade, or the operator lifts the workpiece off the table during a cut. Prevention relies on three practices: use a riving knife or splitter behind the blade at all times, keep the fence precisely parallel to the blade, and stand to the side of the blade's path rather than directly behind it. Anti-kickback pawls help but are a secondary defense; the riving knife is primary."
+    },
+    {
+      "q": "Can I cut sheet goods on a table saw?",
+      "a": "Yes — ripping plywood and sheet goods to width is one of the table saw's primary use cases. A 30-inch rip capacity with a accurate fence handles most full-sheet rips. The practical challenge is supporting a 4x8 sheet through the blade, which typically requires outfeed support — a roller stand, outfeed table, or a second person. A track saw or circular saw with a guide is actually more practical for initial rough breakdown of large sheets before moving to the table saw for precision rips."
+    },
+    {
+      "q": "How important is a dado blade capability for my table saw?",
+      "a": "Dado capability matters significantly if you plan to cut dadoes, rabbets, or box joints — the foundation of case and box construction in woodworking. Making dadoes without a dado stack requires multiple passes with a standard blade, which is slower and less clean. To use dado stacks, your saw needs a 5/8-inch arbor, sufficient arbor thread length (check specs — some portable saws do not accommodate full-width dado stacks), and a dado throat insert. If joinery is on your agenda, confirm dado compatibility before purchasing."
+    },
+    {
+      "q": "Should I buy a SawStop table saw?",
+      "a": "SawStop saws are worth serious consideration if you work with children nearby, have mobility or attention limitations, or work in a professional setting where OSHA liability or insurance costs justify the premium. The flesh-detection system stops the blade in under 5 milliseconds on skin contact, typically causing a minor nick rather than a serious laceration. SawStop contractor saws start around $1,700; professional cabinet saws run $3,000–$4,000. The cartridge replacement cost after activation is $75–$100. For a cautious hobbyist or small shop owner, the peace-of-mind value is real."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

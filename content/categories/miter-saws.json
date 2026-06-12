@@ -1,0 +1,55 @@
+{
+  "slug": "miter-saws",
+  "name": "Miter Saws",
+  "description": "Miter saws — also called chop saws or compound miter saws — are bench-mounted power saws in which a circular blade pivots down onto a workpiece clamped against a fixed fence. The design delivers something no handheld saw can reliably replicate: fast, repeatable crosscuts at precise angles with essentially zero setup between cuts. That repeatability is what makes miter saws the defining tool for trim work, door and window casing, crown molding, stair treads, and any framing task requiring identical repeated cuts.\n\n## Types of miter saws\n\nThe category divides into three configurations. A **basic miter saw** rotates the blade left and right (miter angle) but does not tilt; it handles simple crosscuts and miters for door casing and basic framing. A **compound miter saw** adds bevel tilt — typically 45 degrees in one direction — allowing compound cuts for crown molding and angled trim. A **sliding compound miter saw** adds a sliding rail system that extends the blade's crosscut capacity from roughly 6 inches (non-sliding) to 12–16 inches, making it capable of crosscutting wide boards, 6x lumber, and large crown profiles. Most serious DIYers and all trim carpenters choose a sliding compound model.\n\n## Blade size\n\nThe two standard sizes are **10 inch** and **12 inch**. A 10-inch sliding compound miter saw typically crosscuts boards up to 10–12 inches wide and handles all standard dimensional lumber and molding profiles. A 12-inch saw adds crosscut capacity and slices through wider stock — 4x12 timbers, wide crown runs — but weighs significantly more (typically 48–65 lbs versus 28–45 lbs for a 10-inch) and costs $100–$200 more. For a workshop that moves or a general-purpose home shop, 10 inch is the practical choice; dedicated trim carpenters and timber framers benefit from 12 inch.\n\n## Brand landscape\n\nDewalt's DWS779 and DWS780 sliding miter saws are among the most widely used in North American jobsite trim work. Makita's LS1019L uses a linear rail system that keeps the head compact for shop use. Milwaukee's M18 FUEL 10-inch sliding miter saw brings cordless convenience to the category. Bosch's Axial-Glide system offers a rear-pivot design that eliminates the need for clearance behind the saw. Ryobi offers capable 10-inch sliding models at $250–$350 that suit homeowners and light DIY users.",
+  "buyingFactors": [
+    {
+      "title": "Sliding versus non-sliding crosscut capacity",
+      "text": "Non-sliding compound miter saws crosscut boards up to about 6–8 inches wide, which covers base molding, door casing, and 2x6 lumber. Sliding compound saws extend that to 10–14 inches, accommodating wide baseboards, crown profiles, and 6x8 timbers. Most buyers doing any trim work should choose a sliding model; the sliding rail adds $80–$150 to the price but dramatically expands what the saw can cut without having to flip the workpiece."
+    },
+    {
+      "title": "Bevel range and dual-bevel convenience",
+      "text": "Single-bevel saws tilt the blade in one direction only, requiring you to flip crown molding or casing to cut opposing compound angles. Dual-bevel saws tilt left and right (typically 45–48 degrees each direction), letting you dial in opposing compound miters without repositioning the workpiece. For crown molding installation and detailed trim work, dual-bevel saves significant time and reduces cutting errors. DeWalt DWS780 and Makita LS1019L are dual-bevel; expect to pay $80–$150 more than single-bevel equivalents."
+    },
+    {
+      "title": "Blade size: 10-inch versus 12-inch",
+      "text": "A 10-inch miter saw handles virtually all trim work, standard dimensional lumber, and most finish applications while weighing 28–45 lbs — portable enough to move between rooms or job sites. A 12-inch model adds crosscut width and thickness capacity for wide crown, large timbers, and heavy framing stock but weighs 48–65 lbs and typically costs $100–$250 more. Choose 10 inch for versatility and portability; upgrade to 12 inch only if you regularly cut material that exceeds the 10-inch saw's capacity."
+    },
+    {
+      "title": "Dust collection and workspace cleanliness",
+      "text": "Miter saws generate large volumes of fine dust directly at face level when operating; effective dust collection matters both for workspace cleanliness and respiratory health. Better saws achieve 75–85% dust capture with a good shop vacuum connected to the integrated port; lower-quality collection systems capture 40–60%, leaving a significant residue. Look for a rear-exhaust dust bag and a dedicated 1-1/4-inch or 2-1/2-inch vacuum port; sealed guard designs that channel chips rearward rather than ejecting them laterally also improve capture."
+    },
+    {
+      "title": "Price tiers and motor power",
+      "text": "Entry-level 10-inch sliding compound miter saws from Ryobi and Ridgid run $250–$380 and are capable for homeowner trim and framing work. Mid-range professional tools — DeWalt DWS779, Makita LS1016, Bosch GCM12SD — range $400–$650 and offer better fence systems, more precise detents, and improved dust collection. Premium cordless options like the Milwaukee M18 FUEL or Makita 36V add $500–$800 as bare tools. A 15-amp corded saw provides consistent power for all-day production use without battery management overhead."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between a miter saw and a compound miter saw?",
+      "a": "A basic miter saw only rotates the blade left and right to cut miter angles; it cannot tilt the blade for bevel cuts. A compound miter saw adds blade tilt, allowing you to cut compound angles — simultaneously mitered and beveled — essential for crown molding, angled trim, and stair rail work. Almost every miter saw sold today is at least a compound model, making the distinction increasingly academic; the more relevant choice is between single-bevel and dual-bevel compound designs."
+    },
+    {
+      "q": "Do I need a sliding miter saw?",
+      "a": "You need a sliding miter saw if you cut boards wider than about 6 inches — wide baseboards, large crown molding profiles, 4x6 or 6x6 lumber, or any stock that exceeds the non-sliding saw's crosscut capacity. For cutting standard door casing, small base molding, and dimensional lumber up to 2x6, a non-sliding compound miter saw is sufficient and cheaper. Most serious trim carpenters and woodworkers choose sliding models for their flexibility; homeowners doing occasional work can get by with a non-sliding compound saw."
+    },
+    {
+      "q": "What blade count should I use on a miter saw for trim work?",
+      "a": "For trim and molding, use a 60- to 80-tooth blade — more teeth produce a smoother cut with less tearout on hardwood and MDF profiles. A 24-tooth framing blade cuts fast but leaves a rough edge unacceptable for finish work. Many miter saw packages include a 32- or 40-tooth general-purpose blade, which is a reasonable middle ground; upgrading to a Freud or Diablo 60-tooth fine-finishing blade ($30–$60) is one of the highest-impact, lowest-cost improvements you can make to cut quality."
+    },
+    {
+      "q": "How accurate are miter saw detents, and can I cut between them?",
+      "a": "Factory detent plates on quality miter saws are accurate to within 0.1–0.2 degrees at common angles (0, 15, 22.5, 31.6, 45 degrees), which is sufficient for trim work. You can lock the saw at any angle between detents using the miter lock knob; however, repeating an off-detent angle precisely requires careful reading of the scale or a digital angle gauge. Saws with stainless-steel detent plates and positive-stop feel — such as the DeWalt DWS780 — hold settings better than saws with stamped aluminum plates."
+    },
+    {
+      "q": "Can a miter saw cut crown molding?",
+      "a": "A compound miter saw cuts crown molding using one of two methods: flat (molding laid flat on the table with compound angle settings) or nested (molding held against the fence at its installed spring angle). Nested cutting is simpler but requires a saw with enough fence height to support the profile; flat cutting allows for more repeatable settings on a dual-bevel saw. Crown molding cuts are among the most error-prone operations in finish carpentry — precise angle calculation and test cuts in scrap material before committing to finish pieces are essential regardless of method."
+    },
+    {
+      "q": "How portable is a miter saw?",
+      "a": "Portability varies widely. Compact 10-inch miter saws weigh 28–38 lbs and can be carried by one person and moved room to room or to a jobsite relatively easily. Full-size 12-inch sliding models weigh 48–65 lbs, typically requiring two people to move safely and a dedicated stand or workstation for stability. Purpose-built miter saw stands with folding legs and mounting brackets — available from DeWalt, Bosch, and Ridgid for $100–$200 — make single-person transport and rapid setup much more practical."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

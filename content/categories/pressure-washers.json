@@ -1,0 +1,51 @@
+{
+  "slug": "pressure-washers",
+  "name": "Pressure Washers",
+  "description": "Pressure washers force water through a narrow nozzle at high velocity to blast dirt, mold, mildew, grease, and paint from surfaces that would take hours to clean by hand. Performance is defined by two specs used together: **PSI (pounds per square inch)**, which measures the force of the water stream and determines cleaning aggression; and **GPM (gallons per minute)**, which measures water volume and determines how quickly you rinse a cleaned area. Multiplying the two gives **cleaning units (CU = PSI × GPM)** — a single number that lets you compare machines across different PSI/GPM combinations.\n\n## Electric versus gas pressure washer tiers\n\n**Electric pressure washers** are the right choice for most homeowners. Entry-level corded electric models in the **1,700-to-2,000 PSI range at 1.2-to-1.5 GPM** handle patio furniture, vehicle washing, composite decking, siding, and light mold removal on concrete. Mid-range electric washers in the **2,000-to-2,300 PSI range at 1.5-to-2.0 GPM** tackle concrete driveways, wood decks, and fences more effectively. Brands like Sun Joe, Greenworks, Karcher, and DeWalt offer strong electric options across these tiers. Electric washers require only an outlet and a garden hose, start instantly, need no oil or fuel, and weigh significantly less than gas models.\n\n**Gas pressure washers** are the correct choice for professional contractors, large property owners, and heavy-duty cleaning tasks. Light residential gas models start at **2,800-to-3,300 PSI at 2.3-to-3.0 GPM** — enough to strip paint from wood, clean oil from concrete, and pressure-wash a long driveway in a reasonable time. Heavy commercial gas machines reach **4,000-plus PSI at 4.0-plus GPM** for industrial surfaces and professional paint stripping. Simpson, Generac, Ryobi, and Honda-powered models dominate the residential gas segment. Gas washers require seasonal maintenance including oil changes, fuel stabilizer, and winterization.\n\n## Nozzle selection\n\nNozzle color codes a spray angle: the **red 0-degree** nozzle concentrates full pressure in a pinpoint stream for the most aggressive cleaning — and also the greatest risk of surface damage. The **yellow 15-degree** nozzle strips paint and cleans hard concrete. The **green 25-degree** nozzle is the general-purpose tip for most cleaning tasks. The **white 40-degree** nozzle spreads pressure for rinsing and sensitive surfaces. The **black soap nozzle** at 65 degrees reduces pressure to apply detergent safely. Never use a 0-degree nozzle on wood, siding, or vehicle surfaces.\n\n## Hot water versus cold water\n\nMost residential pressure washers use cold water. Hot-water pressure washers heat water to 180-to-200°F, which dramatically improves grease, oil, and biological contamination removal. Hot-water units cost $1,500 to $5,000 and are designed for commercial use — auto detailing shops, restaurant equipment cleaning, and farm equipment. Residential buyers do not need hot water; detergent injection (available on most quality electric and gas washers) handles the tasks where heat would otherwise help.",
+  "buyingFactors": [
+    {
+      "title": "PSI and GPM: sizing to the task",
+      "text": "Electric washers at 1,700-to-2,300 PSI and 1.2-to-2.0 GPM handle all standard residential cleaning — vehicles, patio furniture, decks, siding, and lightly stained concrete. Gas models at 2,800-to-3,300 PSI and 2.3-to-3.0 GPM are appropriate for stripping paint, cleaning heavily stained driveways, and professional frequency of use. Oversizing PSI risks surface damage on wood and composite materials; undersizing means repeated slow passes that waste time. Match the cleaning unit total (PSI × GPM) to the job."
+    },
+    {
+      "title": "Electric versus gas: convenience versus power",
+      "text": "Electric pressure washers start instantly, require no fuel or oil maintenance, and weigh 20 to 35 pounds — practical for pulling out of a garage and using one-handed. Gas washers deliver substantially more force for stripping, heavy concrete, and extended commercial use but require seasonal maintenance, produce exhaust, and weigh 50 to 70 pounds. For homeowners cleaning a driveway and patio a few times a year, electric is the more practical choice; for contractors or large-property owners, gas is worth the maintenance overhead."
+    },
+    {
+      "title": "Nozzle variety and detergent injection",
+      "text": "A full set of color-coded nozzles — 0, 15, 25, 40-degree, and soap — is the minimum acceptable. Quick-connect fittings that swap nozzles in seconds are standard on quality machines and are far preferable to threaded fittings that require stopping and wrenching. Built-in downstream detergent injection, where soap is drawn into the water stream at reduced pressure, lets you apply cleaner, dwell, and rinse in one session without carrying a separate sprayer. Check that nozzle fittings are 1/4-inch quick-connect — the industry standard for interchangeable aftermarket tips."
+    },
+    {
+      "title": "Hose length, reel, and cord management",
+      "text": "A 25-foot high-pressure hose is the minimum practical length for reaching around a car or across a driveway without moving the machine constantly. Thirty-five to fifty-foot hoses cover most residential driveways and decks in one setup. Hose reels — built-in or accessory — significantly reduce the tangling and frustration of a flat hose. For electric models, also check the power cord length: a 35-foot cord avoids daisy-chaining extension cords on most residential setups."
+    },
+    {
+      "title": "Price tiers across electric and gas categories",
+      "text": "Entry electric washers from Sun Joe and Ryobi at 1,700 to 1,900 PSI run $100–$150. Mid-range electric models from Karcher, Greenworks, and DeWalt at 2,000 to 2,300 PSI run $150–$250. Gas washers at 2,800 to 3,000 PSI from Simpson and Ryobi start at $300–$400. Professional gas machines at 3,500-plus PSI with Honda GX engines cost $500–$800. Hot-water commercial units are $1,500 and above — outside the residential buyer's scope."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What PSI pressure washer do I need for a concrete driveway?",
+      "a": "For light surface dirt and mild staining on a residential concrete driveway, a 2,000-to-2,300 PSI electric washer with 1.5-to-2.0 GPM is sufficient with a 25-degree nozzle. For heavy oil stains, embedded mold, or paint removal, a gas washer at 2,800-to-3,000 PSI at 2.5-plus GPM reduces the number of passes required. A surface cleaner attachment — a spinning dual-nozzle disc — dramatically speeds concrete driveway cleaning at any PSI level compared to a single-wand approach."
+    },
+    {
+      "q": "Can I use a gas pressure washer on a wood deck?",
+      "a": "Yes, but with care: use a 25-degree or 40-degree nozzle, keep the nozzle moving, and maintain 12 to 18 inches of standoff distance to avoid raising wood grain or cutting into soft wood fibers. Never use a 0-degree or 15-degree nozzle on wood. Start at a greater distance and move closer only as needed. Always spray parallel to the grain direction. A wood-safe deck cleaner detergent applied first reduces the pressure required."
+    },
+    {
+      "q": "How much PSI is safe for washing a car?",
+      "a": "For safe vehicle washing, stay below 2,000 PSI and use a 40-degree white nozzle at 12-to-18 inches of standoff. Many detailers use 1,200 to 1,500 PSI specifically to avoid paint damage. High-pressure 0-degree and 15-degree nozzles can strip clear coat, force water into seals, and damage rubber trim. Electric washers in the 1,600-to-1,800 PSI range with a wide nozzle are the safer choice for regular vehicle washing compared to most gas models."
+    },
+    {
+      "q": "Do I need a hot-water pressure washer?",
+      "a": "Residential buyers almost never need a hot-water pressure washer. Hot water (180-to-200°F) significantly improves grease and oil removal — it is essential for commercial kitchen equipment, auto shop floors, and farm machinery. For residential driveways, siding, decks, and vehicles, a cold-water washer with a downstream detergent injection system handles all typical tasks. Hot-water units cost $1,500 to $5,000 and are commercial-grade machines; they are not appropriate tools for homeowner use."
+    },
+    {
+      "q": "How do I prevent my pressure washer from freezing in winter?",
+      "a": "Winterize a pressure washer before storage in freezing temperatures by running pump protector (antifreeze solution) through the pump until it exits the nozzle, then disconnecting and draining the water supply hose and high-pressure hose. For gas models, add fuel stabilizer and run the engine briefly to distribute it through the carburetor. Store the unit indoors above freezing. Water left in the pump can freeze, expand, and crack the pump housing — the most common cause of pressure washer pump failure."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

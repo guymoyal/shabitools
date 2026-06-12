@@ -1,0 +1,39 @@
+{
+  "slug": "metabo-hpt",
+  "name": "Metabo HPT",
+  "description": "Metabo HPT is the North American name for what was formerly Hitachi Power Tools. The underlying company — now called Koki Holdings Co., Ltd. — traces its origins to Hitachi Koki Co., Ltd., a power tool manufacturer that had been selling tools in the US under the Hitachi Power Tools name for decades. In March 2017, investment firm KKR acquired Hitachi Koki from Hitachi, Ltd., and in June 2018 the company was renamed Koki Holdings. Rather than continuing under the Hitachi name in North America — which was no longer available for ongoing use — the brand was relaunched as Metabo HPT in 2018. The \"HPT\" suffix was added specifically to distinguish it from the German brand Metabo, which Hitachi Koki had purchased in 2015 but which operates as a separate brand with its own identity and distribution.\n\n## The MultiVolt Battery Platform\n\nMetabo HPT's primary technical differentiator in the US is the MultiVolt battery system. MultiVolt batteries operate at 18V when inserted into standard 18V tools, and at 36V when inserted into MultiVolt-rated tools — all using the same physical battery pack. This dual-voltage design allows a single battery investment to serve both compact jobsite tools and high-demand applications such as large-format circular saws, miter saws, and reciprocating saws. Buyers who choose Metabo HPT for its professional-tier tools get the engineering and manufacturing lineage of Hitachi's decades of tool production, repackaged under a new brand. Legacy Hitachi 18V tools and batteries are fully compatible with Metabo HPT's 18V ecosystem, which is meaningful for contractors who already own Hitachi equipment.\n\n## US Market Position\n\nMetabo HPT occupies a professional-value tier in the US — priced below Milwaukee and DeWalt but positioned above purely consumer brands. It targets professional tradespeople and serious contractors who want performance comparable to the top-tier brands without paying top-tier kit prices. The brand has a particularly strong reputation in framing nailers, finish nailers, and pneumatic tools, which were genuine Hitachi strengths before the rebrand. In the cordless segment, MultiVolt tools compete credibly in head-to-head performance comparisons with Milwaukee M18 FUEL and DeWalt XR tools, often at lower kit prices.\n\n## The Case For (and Against) Metabo HPT\n\nThe brand's clearest strengths are engineering depth, MultiVolt's genuine flexibility, a strong nailer lineup, and a price point that often undercuts the leading brands for comparable tools. Contractors who are cost-conscious and technically informed frequently choose Metabo HPT as a high-value alternative to Milwaukee or DeWalt. The main limitation is brand recognition and retail presence: Metabo HPT does not have the name equity of the two dominant brands, its retail footprint is smaller, and the rebrand from Hitachi has meant a period of building consumer trust from a reset baseline. Buyers who prioritize peer recommendation and brand familiarity on the jobsite may find the lower profile a practical disadvantage even if the tools perform admirably.",
+  "founded": "1948",
+  "headquarters": "Braselton, Georgia, USA (Metabo HPT North America); parent Koki Holdings headquartered in Tokyo, Japan",
+  "knownFor": [
+    "MultiVolt battery system operating at both 18V and 36V",
+    "Formerly Hitachi Power Tools, rebranded as Metabo HPT in 2018",
+    "Professional-value pricing below Milwaukee and DeWalt",
+    "Legacy compatibility with Hitachi 18V tools and batteries",
+    "Strong framing and finish nailer lineup",
+    "Owned by Koki Holdings (formerly Hitachi Koki), backed by KKR"
+  ],
+  "faq": [
+    {
+      "q": "Are Metabo HPT and Metabo the same company?",
+      "a": "No, they are separate brands. Metabo HPT is the North American power tool brand owned by Koki Holdings (the former Hitachi Koki). The German brand Metabo — full name Metabowerke GmbH — is also owned by Koki Holdings after being acquired in 2015, but it operates as a separate brand with its own product lines and distribution network. The HPT suffix was added precisely to distinguish the two in markets where both names could cause confusion."
+    },
+    {
+      "q": "What happened to Hitachi Power Tools?",
+      "a": "Hitachi Power Tools was the US brand for Hitachi Koki Co., Ltd. In 2017, investment firm KKR acquired Hitachi Koki from Hitachi, Ltd. The company was renamed Koki Holdings in 2018, and because it could no longer use the Hitachi trademark for consumer tools, the brand was relaunched in North America as Metabo HPT. The tools, engineering, and manufacturing are the same — only the name changed."
+    },
+    {
+      "q": "Are Hitachi and Metabo HPT batteries compatible?",
+      "a": "Yes. Metabo HPT maintains full compatibility with legacy Hitachi 18V tools and batteries. If you own older Hitachi 18V tools, they will accept Metabo HPT 18V batteries and vice versa. This backward compatibility was a deliberate design choice to protect the investment of existing Hitachi tool owners through the rebrand."
+    },
+    {
+      "q": "What is the Metabo HPT MultiVolt system?",
+      "a": "MultiVolt is Metabo HPT's dual-voltage battery technology. A MultiVolt battery pack automatically delivers 18V in standard 18V tools and shifts to 36V when used in MultiVolt-rated tools — without any manual switching. This allows one battery to cover both compact cordless tools and high-demand tools like large circular saws and miter saws, reducing the number of battery systems a contractor needs to maintain."
+    },
+    {
+      "q": "Is Metabo HPT a good brand?",
+      "a": "Metabo HPT tools are well-regarded by professionals who know the brand, particularly for nailers and MultiVolt cordless tools that offer strong performance at competitive prices. The engineering lineage from Hitachi is a genuine asset. The main challenge is lower brand recognition compared to Milwaukee and DeWalt, which can make battery sharing and crew compatibility harder on jobsites where other brands dominate."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

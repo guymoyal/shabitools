@@ -1,0 +1,51 @@
+{
+  "slug": "shop-vacuums",
+  "name": "Shop Vacuums",
+  "description": "Shop vacuums — also called wet/dry vacuums — are industrial-duty suction machines built to handle debris, liquids, and fine dust that would destroy a household vacuum. Unlike home vacuums that clog on sawdust and fail immediately on water, shop vacs use a large-diameter hose, a waterproof drum, and a replaceable filter system designed for workshop and job site abuse. They are the most universally useful shop cleanup tool for anyone who cuts, sands, grinds, or works with power tools on a regular basis.\n\n## Capacity tiers and typical uses\n\nShop vac capacity is measured in gallons, and the right size depends on how you use it. **2-to-4 gallon** models are compact and portable, designed to connect directly to a sander or circular saw as a tool-mounted dust extractor; they fill quickly and suit targeted tool dust collection rather than floor cleanup. **5-to-6 gallon** models are the DIY sweet spot — large enough for a shop session cleanup, small enough to carry with one hand. **8-to-12 gallon** models handle extended cleanup sessions between emptying and are the right choice for renovation debris, drywall dust, and wet spills from flooded basements. **14-to-16 gallon** large-capacity models suit professional contractors who generate continuous debris on job sites.\n\n## Horsepower and suction performance\n\nShop vac motors are rated in peak horsepower (peak HP), which is a marketing-inflated figure measured under stall conditions rather than actual running load. A more useful measure is sealed suction in inches of water lift. Real-world suction performance at the hose tip under running load — approximately 50 to 80 CFM in good mid-range models — determines how effectively the machine pulls debris through a long hose and attachments. Ridgid, DeWalt, and Craftsman shop vacs in the 5-to-6 gallon class with 3-to-5 peak HP deliver adequate suction for most shop and renovation tasks; chasing a higher HP rating beyond that yields diminishing real-world returns.\n\n## Dust collection and fine filter standards\n\nStandard shop vac filters capture debris to approximately 30 microns. For fine drywall dust, sanding dust, and wood flour — which are hazardous below 10 microns — a HEPA filter or a cartridge filter rated to filter 1 micron is the correct upgrade. Many shop vacs come with foam sleeve filters adequate for coarse debris but not fine dust; replacement cartridge filters (sold separately) are the practical upgrade for woodworking and drywall work.\n\n## Tool-triggered outlets and noise\n\nPremium shop vacs include an auto-clean filter mechanism and an accessory power outlet that triggers the vacuum when a connected power tool starts. This feature, present on Festool CT series extractors and emulated on DeWalt and Ridgid auto-trigger models, automates dust capture without reaching for a switch. Noise levels vary from approximately 70 dB on quiet models to over 85 dB on high-power units — relevant for enclosed garage shops where sustained cleanup sessions are common.",
+  "buyingFactors": [
+    {
+      "title": "Tank capacity for your cleanup pattern",
+      "text": "Match tank size to how you work: a 2-to-4 gallon compact vac is ideal for connecting directly to a sander or saw as a tool-side dust extractor that you empty often. A 5-to-6 gallon model handles a typical shop session without mid-session emptying. An 8-to-12 gallon tank suits renovation work, drywall debris, and wet basement flooding events. Larger tanks are heavier when full — a 10-gallon drum full of drywall mud weighs over 30 lbs — so match capacity to how far you carry the machine."
+    },
+    {
+      "title": "Filter rating for fine dust capture",
+      "text": "The included foam or paper filter on most budget shop vacs catches coarse chips adequately but passes fine wood flour and drywall dust back into the air. For woodworking or sanding, upgrade to a cartridge filter rated to 1 micron, or a HEPA-rated filter that captures particles down to 0.3 microns. Ridgid, Craftsman, and DeWalt all sell compatible aftermarket filters. Fine dust is the health concern, not the visible chips — match filter rating to the finest material you generate."
+    },
+    {
+      "title": "Hose diameter, length, and tool-port compatibility",
+      "text": "Standard shop vac hoses use 1-1/4-inch or 2-1/2-inch diameter fittings. The larger 2-1/2-inch hose moves more volume and clogs less on chip debris; the smaller 1-1/4-inch hose is often required for dust ports on sanders, circular saws, and routers. Many shop vacs include a reducer fitting. If you plan to connect directly to power tools, verify the hose size and included adapters before buying, or budget for aftermarket adapters from Rockler or Woodcraft."
+    },
+    {
+      "title": "Auto-start outlets and filter cleaning",
+      "text": "Higher-end shop vacs include an auto-start power outlet that turns the vacuum on when a connected tool draws current, eliminating the need to switch on the vac separately. An auto-clean filter feature pulses the filter to knock accumulated dust free during operation, maintaining suction without manual filter cleaning mid-session. These features, standard on Festool and Bosch dust extractors and available on Ridgid's Pro series, are worth the premium for serious woodworking applications."
+    },
+    {
+      "title": "Price tiers from budget to professional",
+      "text": "Entry-level 5-to-6 gallon shop vacs from Craftsman, Ridgid, and Shop-Vac run $50–$80 and cover basic cleanup adequately. Mid-range models with cartridge filters, auto-start outlets, and better hose quality cost $100–$160. Professional dust extractors from Festool CT series or Bosch GAS series cost $300–$600 and deliver HEPA filtration, whisper-quiet operation, and accessory compatibility for professional finishing and sanding work."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I use a shop vacuum to collect drywall dust?",
+      "a": "Yes, but only with the correct filter. The standard foam or paper filters included with most shop vacs pass fine drywall dust particles back into the air. A cartridge filter rated to 1 micron, or a HEPA filter, is required to capture the fine particles that make drywall dust a respiratory hazard. Upgrade the filter before using your shop vac for drywall sanding; the filter swap is inexpensive and the health protection is meaningful."
+    },
+    {
+      "q": "What is the difference between a shop vac and a dust extractor?",
+      "a": "A shop vacuum is a general-purpose wet/dry machine that cleans floors, picks up liquids, and handles coarse debris with moderate filtration. A dust extractor is a purpose-built unit with HEPA filtration, quieter operation, auto-start outlets, and hose ports precisely sized for power tool dust ports. Dust extractors from Festool and Bosch cost significantly more but are the correct choice when you are generating fine wood dust or hazardous silica dust and need to capture it at the source."
+    },
+    {
+      "q": "How often should I empty and clean my shop vacuum?",
+      "a": "Empty the drum when it reaches roughly two-thirds capacity — a completely full drum reduces suction and can cause the motor to overheat. Clean or replace the filter whenever you notice a significant drop in suction; a clogged filter is the most common cause of poor pickup. Tap cartridge filters clean on a trash can rim between uses, and replace paper bag filters each session for fine dust work."
+    },
+    {
+      "q": "Can a shop vac pick up water?",
+      "a": "Yes — wet/dry capability is a defining feature of shop vacuums. Remove the filter before vacuuming standing water to prevent filter damage and clogging; the drum captures liquid directly. Models with a float-ball shutoff valve automatically stop suction when the drum reaches full capacity to prevent water from entering the motor. After vacuuming water, drain the drum and allow the interior to dry before reinstalling the filter."
+    },
+    {
+      "q": "Is a higher peak horsepower rating better?",
+      "a": "Peak HP is a stall-load marketing figure that overstates real-world performance. More meaningful specs are sealed suction (inches of water lift) and airflow (CFM) at the hose tip under running load. A 5-gallon Ridgid or Craftsman vac rated at 3.5 to 5 peak HP and delivering 50 to 80 CFM at the hose handles virtually all DIY cleanup tasks. Beyond that range, suction improvements are marginal and the extra HP mostly produces extra noise."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}

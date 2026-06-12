@@ -1,0 +1,55 @@
+{
+  "slug": "jigsaws",
+  "name": "Jigsaws",
+  "description": "No other portable saw matches a jigsaw for curves, circles, cutouts, and irregular shapes: its short, narrow reciprocating blade lets it trace lines that no circular blade can produce. The blade moves up and down through an opening in the base plate, and by steering the tool along a marked line the operator can navigate tight arcs, cut out sink and appliance openings in countertops, produce scroll-work profiles in thin stock, and notch lumber around irregular obstacles. This curve-cutting capability is what makes the jigsaw irreplaceable — it occupies a specific niche that circular saws, miter saws, and reciprocating saws cannot fill.\n\n## Where jigsaws excel\n\nThe primary applications are curves and enclosed cuts. Cutting the sink opening in a kitchen countertop, notching around a door casing when installing flooring, cutting arcs for decorative shelving, trimming laminate and thin sheet stock, and cutting round holes for electrical boxes are all jobs where the jigsaw is the correct and often only practical tool. With the right blade, a quality jigsaw also makes respectable straight cuts in plywood and dimensional lumber, though it is slower and less accurate for long straight work than a circular saw or track saw.\n\n## Orbital versus straight action\n\nMost modern jigsaws offer selectable orbital action — an elliptical blade path that swings the blade forward into the cut on the upstroke, then back on the downstroke. Higher orbital settings (typically 1 through 4) cut faster but more aggressively, leaving a rougher edge; zero orbital or straight-line mode cuts more slowly but delivers the cleanest edge and the tightest curves. For rough cuts in lumber or OSB, use high orbital; for clean cuts in plywood or laminate, reduce orbital or disable it entirely.\n\n## Blade selection\n\nJigsaw blades are the variable that most determines cut quality, and they are inexpensive enough that matching blade to material is always worthwhile. Wood-cutting T-shank blades (the industry standard fitting, compatible with Bosch, Milwaukee, DeWalt, Makita, and most other brands) range from 6 TPI (coarse, fast) for rough lumber to 20 TPI (fine) for clean plywood cuts. Bi-metal blades cut metal, PVC, and composite materials. Reverse-tooth (down-cutting) blades minimize tearout on finished surfaces by cutting on the downstroke. Bosch, Milwaukee, DeWalt, and Makita all sell quality T-shank blades; Bosch's T-shank system originated the modern standard.\n\n## Corded versus cordless and power\n\nCorded jigsaws run at 5–7 amps and maintain consistent speed through thick or dense material. Cordless 18V models from Milwaukee, DeWalt, and Makita perform comparably to corded tools for most cutting tasks and add portability. Key specs to compare are strokes per minute (typically 500–3,100 SPM) and stroke length (typically 3/4–1 inch) — longer stroke and higher SPM produce faster material removal. Variable speed is standard on any quality model and essential for matching cutting speed to blade and material.",
+  "buyingFactors": [
+    {
+      "title": "Orbital action settings and cut quality",
+      "text": "Orbital action — the elliptical forward-and-back blade sweep — is the primary performance variable on a jigsaw. Four-setting orbital models give you the broadest range: maximum orbital for fast rough cuts in lumber and minimum or zero orbital for clean curves in plywood or laminate. Budget jigsaws offer fewer orbital settings or fixed orbital action, limiting their versatility. Any jigsaw used for finish work — countertop cutouts, flooring notches, visible curved cuts — should offer zero-orbital straight-line mode for maximum edge quality."
+    },
+    {
+      "title": "Corded amperage versus cordless battery platform",
+      "text": "Corded jigsaws deliver 5–7 amps of consistent power — enough to sustain full cutting speed through 2-inch hardwood, stacked plywood, or fiber-cement without the tool bogging down. Cordless 18V brushless jigsaws from Milwaukee M18 FUEL, DeWalt 20V XR, and Makita 18V LXT perform comparably for most workloads and add jobsite portability. If you are already in an 18V platform with other tools, the cordless jigsaw is the convenient default; for dedicated all-day cutting without battery logistics, corded remains the lower-complexity option."
+    },
+    {
+      "title": "Stroke per minute range and stroke length",
+      "text": "Strokes per minute (SPM) determines cutting speed: 500–3,100 SPM variable-speed range covers everything from slow-controlled curves in delicate stock to fast rough cuts in dimensional lumber. Stroke length — the distance the blade travels per stroke, typically 3/4 to 1 inch — affects how aggressively the saw removes material; longer stroke means faster cutting in the same material. Premium Bosch and Milwaukee models advertise 1-inch stroke versus the 3/4-inch common on budget tools, a measurable difference in cutting speed on thick stock."
+    },
+    {
+      "title": "Blade clamping system and tool-free blade change",
+      "text": "T-shank blades are the industry standard — they fit Bosch, Milwaukee, DeWalt, Makita, Ryobi, and virtually every other modern jigsaw — and are available in every specialty profile from every major blade manufacturer. Older U-shank saws are obsolete and limit your blade selection. The blade-change mechanism should allow tool-free swaps with one hand; the best systems (Bosch's SDS-style lever, Milwaukee's lever release) allow blade changes without touching the hot blade. Avoid jigsaws requiring a hex key or Allen wrench for blade changes — slow and inconvenient in production use."
+    },
+    {
+      "title": "Base plate material, bevel range, and visibility",
+      "text": "The jigsaw's base plate (shoe) determines stability on the workpiece and bevel cut capability; most quality saws bevel 0–45 degrees left and right for undercut and angle work. Cast-aluminum or stamped-steel shoes with anti-scratch pads protect finished surfaces; thin plastic shoes flex under load and mar surfaces. Visibility of the cut line varies significantly between models — a clear sight-line notch or LED work light directly ahead of the blade dramatically reduces tracking errors on curved cuts, where you cannot use a fence or guide."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What can a jigsaw cut that other saws cannot?",
+      "a": "A jigsaw is the only common handheld power saw that cuts curves, circles, and irregular shapes, and the only saw that can make plunge cuts and inside cutouts without requiring an edge start. Sink cutouts in countertops, circular holes in drywall or plywood, curved decorative profiles, scroll-work arcs, and notches around door casings or pipe penetrations are all tasks where the jigsaw has no direct competition among portable power saws. Straight cutting is where other saws outperform it."
+    },
+    {
+      "q": "What jigsaw blade should I use for plywood?",
+      "a": "For clean cuts in plywood with minimal tearout on the face, use a fine-tooth (20 TPI) blade — either a standard wood-cutting blade with zero orbital action, or a reverse-tooth (down-cutting) blade that cuts on the downstroke. The reverse-tooth design keeps tearout on the underside of the sheet rather than the visible face, which is the correct approach when the top surface will be finished or visible. Tape the cut line with painter's tape before cutting to further reduce splintering."
+    },
+    {
+      "q": "How do I cut a straight line with a jigsaw?",
+      "a": "Straight cuts are not a jigsaw's strength, but a straight-edge fence — either the saw's included rip fence or a clamped straight board — makes acceptably straight rips possible. Clamp the straight-edge guide parallel to the cut line at the correct offset from the blade, then ride the shoe against the guide through the cut. Using zero orbital mode and a fine-tooth blade improves edge quality. For long, precise straight cuts, a circular saw with a guide or a track saw produces superior results in less time."
+    },
+    {
+      "q": "Can a jigsaw replace a circular saw?",
+      "a": "A jigsaw cannot practically replace a circular saw for most applications. Circular saws rip lumber and sheet goods faster, more accurately, and with better edge quality on straight cuts. Jigsaws cut curves and inside cutouts that circular saws cannot make, and they handle thin, fragile, or irregular material more gently. The two tools are complementary rather than interchangeable; a workshop benefit from owning both. If forced to choose one, the circular saw handles a broader range of construction tasks, while the jigsaw handles a more specialized set of finishing and shaping operations."
+    },
+    {
+      "q": "What thickness can a jigsaw cut?",
+      "a": "Most standard jigsaws cut wood up to 4–6 inches thick using long specialty blades, though cut quality and speed degrade significantly in material thicker than 2 inches. Manufacturers typically rate cutting capacity at 3–5 inches for softwood, 2–3 inches for hardwood. For metal, rated capacity is typically 1/4 to 3/8 inch for mild steel with a bi-metal blade. The practical limit for clean curves is lower than the maximum capacity — tight-radius curved cuts in 2-inch stock require a longer clearance blade and slow feed rate."
+    },
+    {
+      "q": "Do I need a jigsaw if I already have a circular saw?",
+      "a": "Yes, for curve cutting and inside cutouts you do. A circular saw cannot cut curves, make plunge cuts into the middle of a panel, or navigate tight-radius profiles. If your work ever includes countertop sink cutouts, flooring notches, curved shelf profiles, or irregular shapes, a jigsaw is necessary. Entry-level corded jigsaws from Ryobi, Black+Decker, and Bosch cost $40–$80 and handle occasional homeowner curve-cutting tasks; a cordless model from your existing battery platform typically runs $80–$160 as a bare tool."
+    }
+  ],
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12"
+}
