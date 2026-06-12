@@ -1,0 +1,133 @@
+{
+  "slug": "best-sander-2026",
+  "title": "The Best Sanders of 2026",
+  "category": "sanders",
+  "intro": "The best sander for most people in 2026 is the Makita BO5041 — a corded 5-inch random orbital with a wide 4,000–12,000 OPM speed range, an 8-hole dust collection system, and a 3.0-amp motor that handles bare wood, painted surfaces, and pre-finish smoothing equally well. Cordless users on DeWalt 20V MAX should go straight to the DCW210B; detail and edge work calls for the DeWalt DWE6411K quarter-sheet palm sander; and budget buyers who want a capable corded 5-inch disc for less money will find what they need in the Ryobi RS290G.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best overall",
+      "name": "Makita BO5041 5-In Corded Variable-Speed ROS",
+      "reviewSlug": "makita-bo5041",
+      "summary": "The BO5041 wins the top spot by delivering a combination no other corded 5-inch sander in this guide matches: a 4,000–12,000 OPM range that starts slow enough for delicate veneers and reaches fast enough for rapid stock removal, a 1/8-inch eccentric orbit that blends swirl marks efficiently, and a proven 3.0-amp motor that runs cool over extended sessions. The through-the-pad 8-hole dust system with vacuum adapter and bag keeps the work surface clean. The trade-off is weight — at 3.1 lbs it is the heaviest of the four — but for a parked shop tool or sustained flat-panel work that is rarely a concern.",
+      "pros": [
+        "4,000–12,000 OPM variable speed covers delicate finishing and aggressive removal",
+        "1/8-inch eccentric orbit blends and eliminates swirl marks effectively",
+        "Through-the-pad 8-hole dust system with vacuum adapter and dust bag included",
+        "3.0-amp motor runs cool during extended finishing sessions"
+      ],
+      "cons": [
+        "3.1 lbs is the heaviest sander here — noticeable on vertical or overhead surfaces",
+        "1-year limited warranty is shorter than the 3-year coverage DeWalt and Ryobi offer"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Makita-3-Amp-5-in-Corded-Variable-Speed-Random-Orbital-Sander-with-Dust-Bag-BO5041/205671780"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best cordless",
+      "name": "DeWalt DCW210B 20V MAX XR Cordless 5-In ROS",
+      "reviewSlug": "dewalt-dcw210b",
+      "summary": "The DCW210B brings the random orbital category into the 20V MAX ecosystem without the typical cordless compromise. At 1.9 lbs bare it is the lightest sander in this guide, which matters most for door faces, cabinet sides, and furniture surfaces where you work long sessions without a fixed posture. Its 8,000–12,000 OPM variable range covers finish prep and final passes well. The locking dust bag is one-handed to remove and reseat, and the dust port connects directly to DeWalt's DWV vacuums. The only real limit is the sanding disc — it uses a 5-inch 8-hole hook-and-loop pad, the same consumables as the corded Makita.",
+      "pros": [
+        "1.9 lbs bare — the lightest sander in this guide, ideal for large surface areas",
+        "Brushless motor with 8,000–12,000 OPM handles finish sanding and scuff-sanding",
+        "One-handed locking dust bag and direct port for DWV010/DWV012 vacuums",
+        "Runs on the entire DeWalt 20V MAX battery lineup"
+      ],
+      "cons": [
+        "Battery not included — adds to the effective purchase price",
+        "8,000–12,000 OPM range starts higher than the Makita's 4,000 OPM minimum"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-5-in-Random-Orbital-Sander-Tool-Only-DCW210B/305585327"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best for detail work",
+      "name": "DeWalt DWE6411K 1/4-Sheet Palm Sander",
+      "reviewSlug": "dewalt-dwe6411k",
+      "summary": "Random orbital sanders cannot reach corners, trim profiles, or the flat face of raised-panel door edges without overstepping their pads. The DWE6411K is the answer for those situations — a 1/4-sheet palm sander that fits standard cut sheet paper, runs at a fixed 14,000 OPM, and weighs 2.8 lbs with a compact form that fits in one hand. The locking dust port accepts standard vacuum hoses, the DWV shop vacuums, and a universal adapter. For a woodworker who already owns a 5-inch ROS for flat panels, the DWE6411K handles the edges, corners, and tight profiles the orbital cannot.",
+      "pros": [
+        "Uses standard 1/4-sheet sandpaper cut from any roll — no specialty discs required",
+        "14,000 OPM single speed covers finish sanding and edge prep",
+        "Compact palm form fits corners and edge profiles the round orbital pad cannot reach",
+        "Locking dust port compatible with DWV vacuums and universal adapter"
+      ],
+      "cons": [
+        "Fixed single speed — no adjustment for delicate surfaces",
+        "2.3-amp corded only — no cordless option in this model line"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-2-3-Amp-Corded-1-4-Sheet-Palm-Grip-Sander-Kit-with-Contractor-Bag-DWE6411K/206036869"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best budget",
+      "name": "Ryobi RS290G 5-In Corded Random Orbital Sander",
+      "reviewSlug": "ryobi-rs290g",
+      "summary": "The RS290G delivers a functional 5-inch random orbital at the lowest price in this guide. Its 2.6-amp motor runs at a fixed 12,500 OPM — fast enough for effective stock removal and finish prep — and the hook-and-loop 5-inch pad accepts the same consumable discs as the premium tools. A dust bag is included. The limitations are real: single speed eliminates any adjustment for delicate surfaces, the dust port is not directly compatible with standard vacuum hoses without an adapter, and at 3.5 lbs it is the heaviest corded tool here. For a homeowner who sands infrequently or wants a second sander without spending on a premium brand, the value is straightforward.",
+      "pros": [
+        "Lowest price of any reviewed sander in this guide",
+        "2.6-amp motor at 12,500 OPM handles flat-panel prep and finish sanding",
+        "Uses standard 5-inch hook-and-loop discs available everywhere",
+        "Includes a dust bag at no extra cost"
+      ],
+      "cons": [
+        "Single speed only — no adjustment for delicate veneers or finishes",
+        "Dust port requires an adapter for standard vacuum hoses",
+        "3.5 lbs is the heaviest corded sander here"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-2-6-Amp-Corded-5-in-Random-Orbital-Sander-RS290G/205105594"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best sander in 2026?",
+      "a": "For most users the Makita BO5041 is the strongest all-around choice — its wide 4,000–12,000 OPM speed range, 1/8-inch orbit, and thorough dust system cover raw wood, painted surfaces, and final finish prep. DeWalt 20V MAX owners get more value from the cordless DCW210B. For edge and corner work that a round pad cannot reach, the DeWalt DWE6411K quarter-sheet sander complements any 5-inch ROS. The Ryobi RS290G covers basic needs at the lowest cost."
+    },
+    {
+      "q": "What is the difference between a random orbital sander and a palm sander?",
+      "a": "A random orbital sander uses a round disc that moves in small random circles, which prevents repeating scratch patterns and leaves a much smoother finish on flat surfaces. A palm sander (also called a sheet sander or finish sander) uses a rectangular pad that vibrates back and forth, making it better at reaching corners, edges, and profiles that a round pad cannot follow. Most woodworkers eventually use both types for different parts of a project."
+    },
+    {
+      "q": "What grit sandpaper should I use?",
+      "a": "Start with 80 or 100 grit for heavy stock removal or stripping old finish. Move to 120 or 150 grit for general smoothing. Finish with 180 or 220 grit before applying stain or topcoat. Going directly to fine grit on rough wood skips steps without saving time — the coarser grits remove material faster and the finer ones refine the surface. On painted surfaces, 120 grit is usually the starting point for scuffing before recoating."
+    },
+    {
+      "q": "Does variable speed matter on a sander?",
+      "a": "Variable speed matters most on delicate materials and finishing tasks. Starting a sander on high speed against a raw veneer face or a freshly applied sealer coat can cause swirl marks or tear the surface before it stabilizes. The Makita BO5041's 4,000 OPM minimum is low enough to ease into soft or delicate material. The DeWalt DCW210B starts at 8,000 OPM, which is still effective but less gentle. Fixed-speed tools like the Ryobi RS290G are fine for general-purpose work where material sensitivity is not a factor."
+    },
+    {
+      "q": "How important is dust collection on a sander?",
+      "a": "Sanding generates fine particles that settle on the work surface, obscure your view of progress, and pose a respiratory hazard. All four sanders here include some form of dust collection — the Makita and DeWalt DCW210B support direct vacuum connections that capture the most dust at the source. Connecting to a shop vacuum with a HEPA filter is the most effective setup. The dust bag included with each tool is adequate for occasional use but fills faster and captures less total volume than a vacuum does."
+    }
+  ],
+  "body": "## Matching the sander to the surface\n\nA sander looks like one category of tool but actually splits into distinct jobs the moment you set it on a surface. A 5-inch random orbital removes stock, blends, and finishes flat panels efficiently. A quarter-sheet palm sander reaches the corners and edge profiles the round disc overruns. The right choice depends on the work, not brand preference or price.\n\nAll four tools in this guide use corded or battery power — no pneumatic options — and all four use hook-and-loop pad attachment for fast disc changes. The Makita BO5041, DeWalt DCW210B, and Ryobi RS290G are 5-inch random orbitals. The DeWalt DWE6411K is a 1/4-sheet palm sander included because no 5-inch ROS adequately replaces it on the work it is designed for.\n\n## What separates these sanders\n\n**Speed range** is the most consequential spec. The Makita's 4,000–12,000 OPM range spans rough-to-fine across one dial, which is why it leads this guide. The DeWalt DCW210B runs 8,000–12,000 OPM — narrower but adequate for finish prep and scuffing. The Ryobi runs at a fixed 12,500 OPM with no adjustment. Fixed speed is not a flaw for general work, but it removes the option to ease the tool onto a sensitive surface.\n\n**Orbit diameter** defines how aggressively the pad blends. The Makita's 1/8-inch eccentric throw is the standard for fine finishing — it removes material without leaving deep swirl marks. Larger-orbit sanders remove faster but leave coarser patterns. The Ryobi and DeWalt DCW210B use standard orbits appropriate for their price class.\n\n**Dust collection** separates a clean sanding session from a mess. The Makita and DeWalt DCW210B both offer through-the-pad 8-hole systems with vacuum port connections that pair with workshop vacuums. The Ryobi uses a bag and a port that needs an adapter for standard hoses. For a home shop without a dedicated sanding station, any of these with a vacuum connection will keep the air cleaner than the bag alone.\n\n**Weight** compounds over long sessions. The DeWalt DCW210B's 1.9-lb bare weight is exceptional — half the Ryobi's 3.5 lbs. On a door face or a large tabletop, the difference shows up as less fatigue and more even pressure.\n\n## Best overall: Makita BO5041\n\nThe BO5041's 4,000–12,000 OPM range makes it the most versatile sander in the guide. Starting at 4,000 OPM is slow enough to settle the pad on a veneer face or ease into a newly applied sanding sealer without burning through the surface. Dialing to 12,000 OPM removes material quickly on rough lumber or restores a stripped cabinet face. The 1/8-inch eccentric orbit blends scratch patterns in parallel with the direction of grain, which reduces visible swirl after staining.\n\nThe vacuum port adapter and included dust bag are equally useful depending on the setup. Paired with a shop vacuum it is the best dust-capture option in the guide. The 3.0-amp motor runs cool for extended sessions. The 3.1-lb weight is heavier than the cordless DeWalt, but on flat surfaces with the tool resting on the work, it is not a meaningful distinction.\n\n## Best cordless: DeWalt DCW210B\n\nThe DCW210B demonstrates that cordless sanders are not a compromise when the motor and battery system are right. At 1.9 lbs bare it is significantly lighter than any corded tool here, which matters for sustained overhead sanding on cabinet soffits, bookcase sides, and stair risers where posture is constrained. The brushless motor maintains consistent OPM under load, which prevents the slowing-down-under-pressure problem common in older cordless sanders.\n\nThe 8,000–12,000 OPM range is narrower than the Makita but covers everything from scuffing between coats to finish prep on bare wood. For 20V MAX owners, the practical cost of the bare tool is low — add an existing battery and a charger you probably already own. For someone starting fresh, it makes less sense to buy the battery, charger, and sander separately when the Makita BO5041 kit delivers similar capability at a lower all-in cost.\n\n## Best for detail work: DeWalt DWE6411K\n\nA random orbital sander has a fundamental limitation: its round pad cannot reach right into corners, follow along a door-panel bead, or sand the flat portion of a raised panel frame edge without the pad crossing over onto adjacent surfaces. The DWE6411K uses a rectangular pad that fits against a 90-degree corner, along a narrow stile, or across the face of a door rail. Standard cut sheet sandpaper attaches via a wire-fastener system — no specialty discs needed, just paper cut from a standard sheet.\n\n14,000 OPM at a single speed is efficient for scuffing between coats, flattening pencil lines, and removing raised grain after the first wash coat. At 2.8 lbs with a 2.3-amp corded motor, it is light enough to hold against a vertical surface for extended periods. Most woodworkers who finish furniture, cabinets, or interior millwork reach for this sander multiple times per project.\n\n## Best budget: Ryobi RS290G\n\nThe RS290G removes the barriers to entry for a 5-inch random orbital sander. Its 2.6-amp motor runs a fixed 12,500 OPM, which is fast enough for effective material removal and finish prep on flat panels. The 5-inch hook-and-loop pad accepts the same sandpaper discs sold everywhere — no proprietary consumables. A dust bag is included.\n\nThe fixed speed is the main limitation. You cannot dial it back for delicate materials or slow-start on a fresh finish. The dust port adapter situation is inconvenient if you want to connect a shop vacuum. For occasional home use — sanding furniture before painting, smoothing drywall patches, or prepping a deck railing — the limitations are rarely encountered, and the savings are real.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "makita-bo5041",
+    "dewalt-dcw210b",
+    "dewalt-dwe6411k",
+    "ryobi-rs290g",
+    "best-sander-for-furniture-refinishing"
+  ]
+}

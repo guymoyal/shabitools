@@ -1,0 +1,142 @@
+{
+  "slug": "best-budget-string-trimmers",
+  "title": "Best Budget String Trimmers of 2026",
+  "category": "string-trimmers",
+  "intro": "The best budget string trimmer for most people in 2026 is the Craftsman CMCST930P1 — a lightweight 20V brushless kit at around $130 with a 5.0Ah battery that handles small yards without fatigue. For more power and attachment versatility, the Ryobi RY40250 offers Expand-It compatibility and a larger 4.0Ah battery for $159.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best overall budget",
+      "name": "Craftsman CMCST930P1 V20 Brushless Trimmer",
+      "reviewSlug": "craftsman-cmcst930p1",
+      "summary": "The CMCST930P1 is the lightest trimmer in this guide at 6.8 lbs with a 5.0Ah battery, offering up to 75 minutes of runtime on light work. Its brushless RP motor provides more efficiency than entry-level brushed models, and the V20 platform shares batteries with over 130 Craftsman and compatible DeWalt/Black+Decker tools. The 13-inch maximum swath is narrower than rivals, but for a small yard under 5,000 sq ft it is comfortable and effective at a price that undercuts everything here.",
+      "pros": [
+        "Lightest trimmer in the group at 6.8 lbs with battery — genuine all-day comfort",
+        "Kit includes a 5.0Ah battery, larger than many competitors' included packs",
+        "Brushless RP motor outperforms brushed entry models",
+        "V20 platform cross-compatible with DeWalt 20V MAX, Black+Decker, and Stanley tools"
+      ],
+      "cons": [
+        "20V nominal voltage trails 40V and 56V rivals on dense weeds and tall grass",
+        "13-inch max swath means more passes per row on open lawn areas",
+        "Auto line advance may overfeed on steep angles, wasting line"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/CRAFTSMAN-Brushless-RP-20-volt-Max-13-in-Straight-Cordless-String-Trimmer-Battery-Charger-Included/5013829397"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best value with attachments",
+      "name": "Ryobi RY40250 40V Expand-It Trimmer",
+      "reviewSlug": "ryobi-ry40250",
+      "summary": "The RY40250 combines a 40V brushless motor, a generous 4.0Ah battery, and Ryobi's Expand-It attachment system for $159. At 8.92 lbs with battery it is about 3 lbs lighter than the EGO ST1521S, and the 4.0Ah pack provides 40–60 minutes of runtime — more than the EGO's included 2.5Ah battery. The Reel Easy+ bump-feed head accepts pre-wound spools for quick reloading. It occasionally bogs in very dense, wet grass where 56V platforms maintain speed better, but for routine suburban maintenance it is an outstanding value.",
+      "pros": [
+        "Kit ships with a 4.0Ah battery — 60% more capacity than the EGO ST1521S's included pack",
+        "Expand-It attachment system for edger, hedge trimmer, cultivator, and more",
+        "At 8.92 lbs with battery, it is noticeably lighter than the EGO ST1521S",
+        "Street price of $159 is among the lowest in the 40V brushless class"
+      ],
+      "cons": [
+        "40V motor bogs in dense, wet grass where 56V rivals sustain speed",
+        "Bump-feed requires manual tapping; auto-advance can overfeed at some angles",
+        "13-inch minimum swath is narrow for larger open areas"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-40-Volt-Lithium-Ion-Cordless-Attachment-Capable-String-Trimmer-with-4-0-Ah-Battery-and-Charger-Included-RY40250/307663070"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best lightweight for small yards",
+      "name": "EGO Power+ ST1521S 56V String Trimmer",
+      "reviewSlug": "ego-st1521s",
+      "summary": "Though not typically a budget pick, the EGO ST1521S at $229 delivers gas-like 56V cutting performance and the POWERLOAD auto-winding head that eliminates manual line reloading. Its 15-inch swath and 0.095-inch twisted line handle moderate weeds with ease, and the carbon fiber shaft comes with a lifetime warranty. The trade-offs are weight: 11.97 lbs with the 2.5Ah battery is heavier than other picks here, and the kit's 2.5Ah battery offers only 30–40 minutes of runtime. For buyers who want top-tier performance on a budget, it edges into the conversation when durability and line-loading convenience matter more than upfront cost.",
+      "pros": [
+        "POWERLOAD head winds line automatically in seconds — eliminates manual spool reloading",
+        "56V ARC Lithium brushless motor sustains line speed through moderate weeds better than 40V rivals",
+        "Carbon fiber straight shaft with lifetime warranty (registration required)",
+        "5-year tool warranty is the longest in the segment"
+      ],
+      "cons": [
+        "At 11.97 lbs with battery, it is the heaviest trimmer in this budget guide",
+        "POWERLOAD cartridge spools cost more than generic bump-feed spools",
+        "Bump-feed fallback still required when line is very short"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/EGO-15-in-56V-Lith-Ion-Cordless-Electric-Powerload-Carbon-Fiber-Shaft-String-Trimmer-2-5Ah-Battery-and-Charger-Included-ST1521S/303419976"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best for pro-grade power on a budget",
+      "name": "DeWalt DCST972X1 60V MAX Trimmer",
+      "reviewSlug": "dewalt-dcst972x1",
+      "summary": "At $349, the DCST972X1 is the most expensive pick here, but it is included for budget-minded buyers who already own DeWalt 20V/60V batteries and need professional-grade performance. Its 17-inch cutting swath is the widest among the group, the 60V motor powers through dense vegetation, and the attachment-capable design accepts Expand-It heads. The FLEXVOLT battery is dual-voltage, working in any DeWalt 20V MAX tool. Weight is high at 13–15 lbs, but for large properties and users who value attachment versatility, it can be a cost-effective upgrade over buying separate tools.",
+      "pros": [
+        "17-inch cutting swath — the widest in this guide — clears more ground per pass",
+        "FLEXVOLT 60V battery also works as a 20V battery in DeWalt 20V MAX tools",
+        "Attachment-capable for edger, brush-cutter, and pole-pruner heads",
+        "High/low speed modes optimize power or runtime"
+      ],
+      "cons": [
+        "At $349, it costs $120 more than the EGO ST1521S and $190 more than the Ryobi RY40250",
+        "Weighs approximately 13–15 lbs with battery — heavy for long sessions",
+        "Standard 3.0Ah battery offers 35–50 minutes in mixed use"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-FLEXVOLT-60V-MAX-17-in-Cordless-Battery-Powered-Attachment-Capable-Trimmer-Kit-with-1-FLEXVOLT-3-Ah-Battery-Charger-DCST972X1/314266332"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best budget string trimmer overall?",
+      "a": "For most people, the Craftsman CMCST930P1 is the best budget pick. At around $130 with a 5.0Ah battery, it is the lightest trimmer in this guide at 6.8 lbs, uses a brushless motor for efficiency, and shares batteries with over 130 Craftsman and compatible DeWalt/Black+Decker tools. Its 20V voltage is adequate for small to medium yards with routine trimming."
+    },
+    {
+      "q": "Is 20V enough power for a string trimmer?",
+      "a": "For a well-maintained small yard under 5,000 sq ft, 20V brushless like the Craftsman CMCST930P1 is sufficient. The trade-off is that 20V trimmers have narrower cutting swaths (11–13 inches) and may slow in dense weeds. For larger yards or tougher vegetation, a 40V or 56V trimmer like the Ryobi RY40250 or EGO ST1521S offers better sustained performance."
+    },
+    {
+      "q": "What attachments can I use with the Ryobi RY40250?",
+      "a": "The Ryobi RY40250 uses the Expand-It universal attachment system. Compatible attachments include an edger, cultivator, blower, and hedge trimmer head. Universal Expand-It attachments from other brands also fit. This allows you to add tools without buying separate batteries."
+    },
+    {
+      "q": "How long does the battery last on these budget trimmers?",
+      "a": "Runtime varies by usage. The Craftsman CMCST930P1 with its 5.0Ah battery offers up to 75 minutes on low speed, or 40–55 minutes on mixed use. The Ryobi RY40250's 4.0Ah battery provides 40–60 minutes. The EGO ST1521S's 2.5Ah battery gives 30–40 minutes, and the DeWalt DCST972X1's 3.0Ah battery delivers 35–50 minutes. Larger batteries are available for extended runtime."
+    },
+    {
+      "q": "Should I get a bump-feed or auto-load trimmer head?",
+      "a": "Bump-feed heads (like on the Ryobi RY40250 and DeWalt DCST972X1) require tapping the head on the ground to advance line, which is simple and reliable. Auto-load systems (EGO's POWERLOAD) wind line automatically with a button press, making reloading much faster but costing more for replacement cartridges. For budget buyers, bump-feed is perfectly adequate and less expensive to maintain."
+    },
+    {
+      "q": "Can I use my existing 20V drill batteries in the Craftsman trimmer?",
+      "a": "Yes, if you own DeWalt 20V MAX, Black+Decker, or Stanley 20V batteries, they are physically and electrically compatible with the Craftsman V20 CMCST930P1. This cross-compatibility is a major advantage if you already have batteries from those brands."
+    },
+    {
+      "q": "Is the EGO ST1521S worth the extra cost over the Ryobi RY40250?",
+      "a": "The EGO ST1521S costs about $70 more but offers a 56V motor for better performance in thick vegetation, the POWERLOAD auto-winding head for effortless line changes, a carbon fiber shaft with lifetime warranty, and a 5-year tool warranty. If your yard has dense weeds or you value convenience highly, the extra cost is justified. For routine trimming on a standard lot, the Ryobi is a better value."
+    }
+  ],
+  "body": "## How we picked\n\nThis guide ranks four string trimmers for budget buyers — shoppers who want capable trimming without spending over $350. The picks are re-ranked for value: the most affordable and best-suited for small-to-medium yards sit at the top, while higher-priced options with professional features are ranked lower but still included for buyers who can stretch their budget for specific advantages.\n\nWe analyzed published specifications, kit contents, battery platform ecosystems, and owner-reported experiences. Every claim is drawn from manufacturer data and verified retail configurations. We did not conduct lab testing; the rankings reflect analytical assessment of specs and real-world fit for budget-conscious homeowners.\n\nThe four picks span a range from $130 to $349, representing the most cost-effective models from Craftsman, Ryobi, EGO, and DeWalt. The order prioritizes value for money for a buyer with a standard suburban lot under half an acre.\n\n## What matters in a budget string trimmer\n\nWhen trimming costs, four factors decide which tool is right for you.\n\n**Battery platform and voltage.** Budget buyers should choose a platform that matches their existing battery ecosystem if they own one. Voltage determines power: 20V trimmers (Craftsman) are light and cheap but limited in tough vegetation; 40V (Ryobi) and 56V (EGO) offer better sustained speed; 60V (DeWalt) provides professional-grade performance at a higher price.\n\n**Weight and ergonomics.** For a typical 20–30 minute session, weight is important. The Craftsman CMCST930P1 at 6.8 lbs is easiest to handle; the Ryobi RY40250 at 8.92 lbs is still manageable; the EGO ST1521S at 11.97 lbs can cause fatigue over longer sessions. Heavier trimmers often include shoulder straps.\n\n**Cutting performance and swath width.** A wider swath clears more ground per pass. Budget trimmers range from 13 inches (Craftsman) to 17 inches (DeWalt). For small yards, a 13–15 inch swath is sufficient; for larger lots, a wider swath saves time.\n\n**Attachment capability.** Expand-It systems (Ryobi, DeWalt) allow the powerhead to accept edger, brush-cutter, and other attachments, spreading battery cost across multiple tools. Craftsman and EGO in this roundup do not offer attachment support, but the EGO's multi-head platform is available separately.\n\n## 1. Best overall budget: Craftsman CMCST930P1\n\nThe Craftsman CMCST930P1 takes the top spot because it delivers the essentials at the lowest price. At $130 with a 5.0Ah battery, it is the lightest trimmer here (6.8 lbs), uses a brushless RP motor for efficiency, and connects to the massive V20 platform that shares batteries with DeWalt 20V MAX, Black+Decker, and Stanley tools.\n\nThe 20V voltage is the limitation: it cuts moderately but will slow in dense weeds or tall ornamental grasses. The 13-inch maximum swath is narrower than all other picks, meaning more passes per row. The auto line advance feed can overfeed on steep angles, wasting line. However, for a regularly maintained small yard under 5,000 sq ft, this trimmer is comfortable and effective. The 5.0Ah battery provides 40–55 minutes of mixed use — enough to cover most suburban lots in one charge.\n\nFor buyers who want the absolute lowest entry cost and already own compatible batteries, this is the clear choice.\n\n## 2. Best value with attachments: Ryobi RY40250\n\nThe Ryobi RY40250 steps up to 40V for $159, offering noticeably better performance in moderate weeds than the Craftsman. It ships with a 4.0Ah battery that provides 40–60 minutes of runtime — 60% more capacity than the EGO ST1521S's included 2.5Ah pack. At 8.92 lbs it is three pounds lighter than the EGO, reducing fatigue.\n\nThe Expand-It attachment system is the standout feature at this price. Adding an edger or hedge trimmer head costs far less than buying separate battery tools. The Reel Easy+ bump-feed head accepts pre-wound spools for quick reloading. It uses 0.080-inch dual line, with a 13–15 inch adjustable swath.\n\nThe 40V motor occasionally bogs in very dense, wet grass where 56V platforms maintain speed. The bump-feed requires manual tapping, and the auto-advance can overfeed at some angles. For routine residential maintenance, these are minor drawbacks. The Ryobi is the best value for homeowners who want 40V power and the ability to expand their tool set without buying new batteries.\n\n## 3. Best lightweight for small yards: EGO ST1521S\n\nThe EGO ST1521S at $229 is not a traditional budget pick, but it is included for buyers who prioritize performance and convenience over absolute lowest cost. Its 56V motor sustains line tip speed through moderate weeds better than any 40V or 20V rival in this guide. The POWERLOAD head winds line automatically in seconds — a genuine time-saver that eliminates the most frustrating part of trimmer ownership.\n\nThe carbon fiber shaft comes with a lifetime warranty (registration required), and the tool carries a 5-year warranty — the longest here. The 15-inch swath and 0.095-inch twisted line handle typical suburban vegetation decisively.\n\nThe trade-offs are weight: 11.97 lbs with the 2.5Ah battery, which can fatigue users over long sessions. The included battery provides only 30–40 minutes, so upgrading to a 5.0Ah pack adds another $100. The POWERLOAD cartridges cost more than generic spools.\n\nFor budget-conscious buyers who value durability and effortless line loading, the EGO is worth the stretch. It is ranked third because its higher cost and weight reduce its value-for-money appeal compared to the Craftsman and Ryobi.\n\n## 4. Best for pro-grade power on a budget: DeWalt DCST972X1\n\nThe DeWalt DCST972X1 at $349 is the outlier here — a professional-grade 60V trimmer that appears in a budget guide because it can be a smart buy for those already on the DeWalt platform. Its 17-inch swath is the widest, the 60V brushless motor powers through dense vegetation with ease, and the attachment capability accepts edger, brush-cutter, and other heads.\n\nThe FLEXVOLT battery is dual-voltage: it works as a 60V pack in this trimmer and as a 20V pack in any DeWalt 20V MAX tool. That versatility adds significant value if you own many DeWalt tools. The high/low speed modes let you optimize power or runtime.\n\nThe downsides are weight (13–15 lbs) and price. The 3.0Ah battery offers only 35–50 minutes in mixed use. At $349, it is $120 more than the EGO and $190 more than the Ryobi.\n\nFor a budget buyer who already has DeWalt 20V batteries and needs a heavy-duty trimmer for a large property, the DCST972X1 provides long-term value by avoiding redundant battery purchases. For everyone else, the lower-ranked picks are better financial fits.\n\n## How to read these rankings\n\nThe ranks are ordered by overall value for a typical budget buyer — someone who wants the most capable trimmer for the least money for a standard suburban yard. The Craftsman is first because it covers the basics at the lowest price. The Ryobi is second for those who want more power and attachment flexibility. The EGO and DeWalt follow for buyers with specific needs that justify their higher costs.\n\nIf you own batteries from any of these platforms, start with the trimmer that matches your packs — platform compatibility can save you more than the price difference between models.\n\n## A note on analysis\n\nThis guide is an analytical buying guide that synthesizes published specifications, US kit configurations, warranty terms, and owner-reported trends. We have not conducted controlled lab testing. All claims are based on the information available from manufacturers and confirmed through retail channels. The goal is to help you find the best value trimmer for your yard and budget.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "craftsman-cmcst930p1",
+    "dewalt-dcst972x1",
+    "ego-st1521s"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "best-budget-impact-drivers",
+  "title": "Best Budget Impact Drivers of 2026",
+  "category": "impact-drivers",
+  "intro": "For budget buyers, the Ryobi PCL235B kit at $99 is the cheapest entry into cordless impact driving, backed by the broad ONE+ platform. If you can stretch a little, the DeWalt DCF887B bare tool offers the most torque (1,825 in-lbs) at $149. The Makita XDT16Z adds four-speed precision for $195 bare, while the Bosch GDX18V-1800CN Freak ($159) is the niche pick for mixed screw-and-bolt work. All four picks are reranked here purely for value, not raw performance.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Cheapest complete kit",
+      "name": "Ryobi PCL235B 18V ONE+ Impact Driver",
+      "reviewSlug": "ryobi-pcl235b",
+      "summary": "At $99 with two batteries and a charger, the PCL235B is the least expensive way to get a cordless impact driver and start building a tool collection on Ryobi's 300+ tool ONE+ platform. Its brushed motor delivers 1,800 in-lbs of torque—enough for deck screws, cabinet assembly, and weekend projects—and runs on any ONE+ battery you already own.",
+      "pros": [
+        "At $59 bare and $99 with two 1.5Ah batteries and a charger, the PCL235B is the most accessible entry point into 18V impact driving",
+        "1,800 in-lbs of rated torque is competitive on paper with the Bosch Freak and close to the DeWalt — sufficient for deck screws, cabinet assembly, and general home fastening",
+        "Compatible with over 300 Ryobi ONE+ 18V tools — the broadest consumer battery platform available, including outdoor power equipment",
+        "On-board LED worklight provides adequate illumination for close-quarters fastening without the complexity of multi-LED arrays"
+      ],
+      "cons": [
+        "Sustained torque output drops noticeably under heavy continuous loads compared to premium brushless drivers — the PCL235B uses a brushed motor design in its base configuration",
+        "0–2,700 RPM top speed is the lowest in this comparison, making it slower on large-diameter holes and in dense materials",
+        "3,400 IPM maximum impact rate trails the Bosch (4,200 IPM) and Makita/DeWalt (3,800 IPM) — the gap is felt in hardwood decking and structural lumber",
+        "Single-speed operation — no mode selector for precision fastening, increasing the risk of overdriving small screws in soft materials"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-1-4-in-Impact-Driver-Tool-Only-PCL235B/318621812"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best value bare tool",
+      "name": "DeWalt DCF887B 20V MAX XR Impact Driver",
+      "reviewSlug": "dewalt-dcf887b",
+      "summary": "At $149 bare, the DCF887B packs 1,825 in-lbs of torque—the highest in this group—into the lightest body at 2.0 lbs. Its three-speed Precision Drive mode replaces an extra tool for delicate fastening. Add a battery and charger for about $90, and you still spend less than a Makita bare tool.",
+      "pros": [
+        "1,825 in-lbs of maximum torque — the highest of the four tools in this group, handling 3/8-inch lag bolts and heavy structural fasteners without hesitation",
+        "Lightest tool in this comparison at 2.0 lbs bare, with a 5.3-inch compact body that fits most tight framing situations",
+        "Precision Drive mode in Speed 1 eliminates hammering entirely at low torque, protecting delicate fasteners and trim hardware from overdriving",
+        "Three-LED light array around the collet illuminates the workpiece from multiple angles, eliminating shadow in tight corners",
+        "Backed by the enormous DeWalt 20V MAX platform — hundreds of tools share the same FLEXVOLT-compatible batteries",
+        "3,800 IPM at top speed with 3-speed selection covers everything from small trim screws to heavy timber construction"
+      ],
+      "cons": [
+        "Bare-tool only — no battery or charger included, which adds $80–$120 to the cost for buyers new to the 20V MAX platform",
+        "Three-speed system, while excellent, lacks the fourth precision setting and T-mode intelligence of the Makita XDT16Z",
+        "Belt hook is plastic and positioned on the left side only, which lefties find awkward and right-handed users occasionally bump when setting the tool down"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/DEWALT-XR-20-Volt-Max-1-4-in-Variable-Speed-Brushless-Cordless-Impact-Driver/1000217089"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best value precision",
+      "name": "Makita XDT16Z 18V LXT Impact Driver",
+      "reviewSlug": "makita-xdt16z",
+      "summary": "At $195 bare, the XDT16Z costs more but delivers four-speed intelligence with Quick-Shift Mode and T-mode that prevents overdriving. Its 4.6-inch head is the shortest here, fitting tight spaces. For Makita platform loyalists or anyone doing mixed precision and structural work, it pays back its premium in fewer stripped fasteners.",
+      "pros": [
+        "1,600 in-lbs of torque — competitive with Milwaukee and DeWalt flagship models in this voltage class",
+        "Four-speed Quick-Shift Mode automatically selects the optimal speed-torque balance for each fastener, reducing cam-out on smaller screws",
+        "Bare tool weighs just 1.9 lbs, with a 4.6-inch head length that fits comfortably in tight framing bays",
+        "Tightening Mode (T-mode) downshifts before final tightening to prevent thread stripping — a real advantage on delicate materials",
+        "Slots directly into the Makita 18V LXT ecosystem, sharing batteries with over 300 cordless tools",
+        "3,800 IPM top impact rate delivers quick, confident fastening in dense hardwood and structural lumber"
+      ],
+      "cons": [
+        "Bare-tool price of $195+ is steep against the DeWalt DCF887B at $149 — LXT battery holders pay the premium for platform loyalty",
+        "Four-speed selector can feel redundant compared to DeWalt's streamlined 3-mode system on casual worksites",
+        "No battery or charger included at the bare-tool price — plan to spend more for the kit if you are starting the LXT platform"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Makita-18V-LXT-Lithium-Ion-Brushless-Cordless-Quick-Shift-Mode-4-Speed-Impact-Driver-Tool-Only-XDT16Z/309019307"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best niche value",
+      "name": "Bosch GDX18V-1800CN Freak Impact Driver",
+      "reviewSlug": "bosch-gdx18v-1800cn",
+      "summary": "At $159 bare, the Freak is the only impact driver with a combined 1/4-inch hex and 1/2-inch socket chuck—no adapter needed. Its 1,800 in-lbs and 4,200 IPM make it the fastest-cycling driver here. Ideal if you drive both screws and bolts; heavier and longer than others, so only a value if you actually use both chucks.",
+      "pros": [
+        "Dual-chuck design accepts both 1/4-inch hex bits and 1/2-inch square-drive sockets natively — no adapter required for bolt-driving applications",
+        "1,800 in-lbs of maximum torque matches premium single-chuck rivals while also serving nut-running tasks plumbers and HVAC techs encounter daily",
+        "4,200 IPM is the highest impact rate in this comparison, delivering fast cycling in dense materials",
+        "Three-speed electronic control covers precision trim fastening through structural fastening in one tool",
+        "EC Brushless motor with Electronic Cell Protection runs cooler and extends both tool and battery life under sustained loads"
+      ],
+      "cons": [
+        "Longer 5.8-inch head compared to the Makita XDT16Z (4.6 in.) and DeWalt DCF887B (5.3 in.) — the dual-chuck design adds bulk",
+        "Bosch 18V AMPShare battery ecosystem is smaller than Makita LXT or DeWalt 20V MAX, limiting combo-kit options",
+        "At 2.5 lbs bare, heavier than both the Makita and DeWalt alternatives — the dual-chuck mechanism adds measurable weight",
+        "Connected-Ready Bluetooth requires a separate connectivity module (not included) to use with the Bosch Toolbox app"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/Bosch-18-volt-1-4-in-1-2-in-Brushless-Cordless-Impact-Driver-Charger-Not-Included-GDX18V-1800B12/1003014226"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which budget impact driver is the cheapest complete kit?",
+      "a": "The Ryobi PCL235K2 kit at $99 includes the PCL235B impact driver, two 1.5Ah batteries, and a charger—the lowest entry price among the picks here. For $59 bare, it's also the cheapest way to add an impact driver to an existing Ryobi ONE+ battery collection."
+    },
+    {
+      "q": "Is a brushed impact driver like the Ryobi PCL235B good enough for a homeowner?",
+      "a": "Yes, for weekend projects, furniture assembly, cabinet hardware, and occasional deck screws, the brushed PCL235B's 1,800 in-lbs is plenty. Its limitations—lower sustained torque, slower speed, and single-speed operation—show up during continuous heavy use but rarely in typical home tasks."
+    },
+    {
+      "q": "How much should I budget for a budget impact driver plus batteries?",
+      "a": "A complete kit from Ryobi runs $99. For the DeWalt DCF887B, add $80–$120 for a battery and charger, bringing total to $229–$269. The Makita XDT16Z bare tool at $195 plus battery/charger costs about $250–$290. The Bosch Freak at $159 plus battery/charger totals around $210–$260."
+    },
+    {
+      "q": "Which of these budget impact drivers has the most torque?",
+      "a": "The DeWalt DCF887B leads at 1,825 in-lbs, followed by the Ryobi PCL235B and Bosch Freak at 1,800 in-lbs, with the Makita XDT16Z at 1,600 in-lbs. However, the Ryobi's brushed motor delivers less sustained torque than its peak rating, so the DeWalt is effectively the strongest in continuous use."
+    },
+    {
+      "q": "Can I use sockets with a budget impact driver?",
+      "a": "Only the Bosch GDX18V-1800CN Freak accepts 1/2-inch sockets directly via its built-in square drive. The others require a hex-to-square adapter (sold separately) to drive sockets, which adds length and reduces torque transmission efficiency."
+    },
+    {
+      "q": "Which battery platform is cheapest to expand for budget buyers?",
+      "a": "Ryobi ONE+ offers the lowest tool and battery prices, making it the most affordable platform to build a collection. DeWalt 20V MAX and Makita LXT have higher upfront costs but broader professional tool ranges. Bosch AMPShare sits between them but has fewer US consumer tools."
+    }
+  ],
+  "body": "## How we picked\n\nThis guide ranks four impact drivers reranked for value, specifically for budget-minded buyers who want the most capability per dollar. The picks are based on verified specifications, US kit configurations, warranty terms, and consistent owner feedback—not controlled testing. We lead with the cheapest complete kit (the Ryobi PCL235B at $99) and then order the remaining three for marginal value gains as you spend more.\n\n## What matters for budget buyers\n\nWhen every dollar counts, four factors determine the right pick:\n\n**Complete kit vs. bare tool.** For first-timers, a kit with batteries and charger is far cheaper than buying them separately. Ryobi's $99 kit is the only complete ready-to-go option here; the other three are bare tools requiring an additional battery+charger purchase, which quickly adds $80–$120.\n\n**Platform cost and breadth.** The battery system you buy into affects your future tool costs. Ryobi ONE+ is the cheapest platform overall, with frequent sales and a huge range of home/yard tools. DeWalt 20V MAX and Makita LXT have higher entry prices but deeper professional lineups. Bosch AMPShare is solid but smaller in the US.\n\n**Torque and speed.** The numbers on the spec sheet are a starting point, but real-world performance matters more. All four picks exceed 1,600 in-lbs, which handles the vast majority of home fastening. The difference shows in sustained heavy driving, where brushless motors (DeWalt, Makita, Bosch) hold their pace while the brushed Ryobi slows down.\n\n**Features that save fasteners.** Precision modes that reduce overdriving—like the DeWalt's Precision Drive or the Makita's T-mode—can prevent costly damage to trim, decking, and furniture. The Ryobi has no such mode, so a light trigger finger is essential for delicate work.\n\n## Cheapest complete kit: Ryobi PCL235B\n\nThe Ryobi PCL235B is the obvious starting point for any budget buyer. At $99 for a complete kit with two batteries and a charger, it's less than half the price of the next cheapest bare tool (the DeWalt at $149). Its 1,800 in-lbs of torque, while delivered by a brushed motor that sags under sustained load, is enough for deck screws, cabinet assembly, and furniture—the core tasks of a homeowner. The ONE+ platform's breadth (over 300 tools) means future purchases stay affordable. For anyone who doesn't drive hundreds of screws in a session, this is the easiest recommendation in the guide.\n\n## Best value bare tool: DeWalt DCF887B\n\nIf you can stretch to $149 bare, the DeWalt DCF887B offers the highest torque (1,825 in-lbs) in the lightest package (2.0 lbs). Its three-speed Precision Drive mode is a genuine value-add, eliminating the need for a separate drill/driver for delicate fastening. With a 20V MAX platform that rivals any in depth, each battery purchase works across hundreds of tools. Budget an extra $90 for a battery and charger, bringing the total to about $239—still under the Makita's bare tool price. It's the best return on investment for anyone who plans to use their impact driver more than a few times a year.\n\n## Best value precision: Makita XDT16Z\n\nFor those who prioritize craftsmanship, the Makita XDT16Z at $195 bare earns its premium with four-speed Quick-Shift Mode and T-mode that automatically prevents overdriving—a real cost saver in materials like composite decking. Its 4.6-inch head is the shortest, fitting into tight framing and cabinets where longer tools bind. At 1.9 lbs bare, it's also the lightest. The LXT platform is one of the deepest, but the cost of entry is higher; factor in about $100 for a battery and charger, bringing the total to ~$295. This pick is for the budget buyer who values precision and plans to keep the tool for years.\n\n## Best niche value: Bosch GDX18V-1800CN Freak\n\nThe Bosch Freak at $159 bare is the specialist pick. Its dual-chuck design (1/4-inch hex and 1/2-inch square drive) eliminates adapters for bolt-driving, making it invaluable for plumbers, HVAC techs, or anyone who regularly switches between screws and sockets. Its 4,200 IPM is the highest impact rate here, and 1,800 in-lbs matches the torque leaders. The trade-offs are a longer 5.8-inch head and heavier 2.5 lbs. As a value pick, it only makes sense if you genuinely use both chucks; otherwise, the DeWalt offers more torque at a similar price in a lighter, shorter body.\n\n## How to choose\n\nYour decision tree is simple: if this is your first impact driver and you want to spend under $100, buy the Ryobi kit. If you own DeWalt or Makita batteries, buy the matching bare tool. If you drive both screws and bolts, the Bosch Freak is a niche bargain. If none of those apply and you want the best all-around performance per dollar, the DeWalt DCF887B is the pick—it offers the most torque, lightest weight, and most useful precision mode at a price that undercuts the competition.\n\n## A note on testing and honesty\n\nThis guide is an analytical buying guide based on verified manufacturer specifications, published kit configurations, warranty terms, and aggregated owner experience. We do not claim controlled testing. Where figures are missing or ambiguous—such as the Ryobi's sustained torque drop—we describe the practical effect rather than inventing a number. The goal is to help you match a tool to your budget and usage, with transparent reasoning you can evaluate yourself.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "bosch-gdx18v-1800cn",
+    "dewalt-dcf887b",
+    "makita-xdt16z"
+  ]
+}

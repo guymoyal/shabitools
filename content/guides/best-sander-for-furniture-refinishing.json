@@ -1,0 +1,138 @@
+{
+  "slug": "best-sander-for-furniture-refinishing",
+  "title": "Best Sanders for Furniture Refinishing in 2026",
+  "category": "sanders",
+  "intro": "The best sander for furniture refinishing in 2026 is the Makita BO5041 — a corded 5-inch random-orbit sander with the widest variable-speed range (4,000–12,000 OPM) in its class, a 1/8-inch orbit for fine scratch patterns, and a pad brake that prevents gouging on finish coats. For owners of DeWalt 20V MAX batteries, the DCW210B offers a lightweight cordless alternative that still delivers good finishing results. The Ryobi RS290G is the budget pick for occasional DIYers, while the DeWalt DWE6411K palm sander handles flat surfaces with economical cut-to-fit paper.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best for finishing",
+      "name": "Makita BO5041",
+      "reviewSlug": "makita-bo5041",
+      "summary": "The Makita BO5041 is the ideal sander for furniture refinishing where finish quality matters most. Its variable speed from 4,000 to 12,000 OPM lets you scuff-sand between coats at low speed or remove material quickly at high speed. The 1/8-inch orbit produces a fine, uniform scratch pattern, and the pad brake prevents swirl gouges at startup and shutdown. Through-pad dust collection with a vacuum port adapter keeps the work surface clean. At about 3.1 lbs and with a D-handle for two-handed control, it’s comfortable for extended sessions.",
+      "pros": [
+        "4,000–12,000 OPM variable range is the widest in its class, handling everything from finish scuffing to stock removal",
+        "1/8-inch orbit delivers a fine scratch pattern suitable for furniture and cabinet finishing",
+        "Pad brake reduces surface gouging at start-up and shutdown",
+        "Through-pad 8-hole dust collection with included vacuum port adapter"
+      ],
+      "cons": [
+        "Corded — the 6-foot cord limits mobility without an extension cord",
+        "Single fixed orbit diameter of 1/8 inch; no option for more aggressive removal",
+        "Higher price than the Ryobi RS290G"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Makita-3-Amp-5-in-Corded-Variable-Speed-Random-Orbital-Sander-with-Dust-Bag-BO5041/205671780"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best cordless",
+      "name": "DeWalt DCW210B",
+      "reviewSlug": "dewalt-dcw210b",
+      "summary": "The DeWalt DCW210B is the top cordless choice for furniture refinishing, especially if you already own 20V MAX batteries. Its brushless motor delivers 8,000–12,000 OPM variable speed, and at about 1.9 lbs bare, it’s one of the lightest 5-inch random-orbit sanders available — a big advantage for overhead and vertical surfaces. The 8-hole hook-and-loop pad accepts standard discs, and the dust port fits DeWalt extractors or universal vac hoses. The trade-offs are a higher speed floor and no pad brake, but for platform owners, the cordless freedom is transformative.",
+      "pros": [
+        "Brushless motor and variable 8,000–12,000 OPM dial for finish control",
+        "Lightweight at 1.9 lbs bare, reducing fatigue on ceiling and overhead work",
+        "Replaceable 8-hole hook-and-loop pad accepts standard 5-inch discs",
+        "Dust port fits DeWalt DWV010/DWV012 vacuums and includes a universal 1-1/4-inch adapter"
+      ],
+      "cons": [
+        "Sold bare tool only — requires separate battery purchase",
+        "8,000 OPM floor is too fast for delicate between-coat scuffing compared to the Makita BO5041",
+        "Plastic dust bag captures less than a shop vac hookup"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Cordless-Brushless-5-in-Random-Orbital-Sander-Tool-Only-DCW210B/305585327"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best for flat surfaces",
+      "name": "DeWalt DWE6411K",
+      "reviewSlug": "dewalt-dwe6411k",
+      "summary": "The DeWalt DWE6411K quarter-sheet palm sander is the specialist for flat surfaces like cabinet doors, table tops, and shelving. Its rectangular pad accepts standard cut-to-fit sandpaper at a fraction of the cost of hook-and-loop discs, making it economical for high-volume paint prep. Running at a fixed 14,000 OPM, it removes material fast on flat work. The separate counterweight reduces vibration, and the locking dust port accepts a vacuum hose. Just keep it moving with the grain to avoid directional scratches on bare wood.",
+      "pros": [
+        "14,000 OPM delivers fast material removal on flat surfaces",
+        "Rectangular 4-1/2 x 5-1/2 in. pad uses cheap cut-to-fit sandpaper",
+        "Separate counterweight reduces vibration for less hand fatigue",
+        "Compact palm-grip body at 2.8 lbs for precise flat-surface control"
+      ],
+      "cons": [
+        "Fixed speed — no variable-speed control for delicate work",
+        "Rectangular pad produces directional scratches if moved across grain",
+        "Dust bag fills quickly; vacuum hookup is more practical for sustained sessions"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-2-3-Amp-Corded-1-4-Sheet-Palm-Grip-Sander-Kit-with-Contractor-Bag-DWE6411K/206036869"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best budget",
+      "name": "Ryobi RS290G",
+      "reviewSlug": "ryobi-rs290g",
+      "summary": "The Ryobi RS290G is the budget-friendly entry point for furniture refinishing, priced around $49–$69. It’s a fixed-speed 12,500 OPM corded random-orbit sander with a 5-inch hook-and-loop pad that accepts standard discs. Spin-control braking reduces startup gouging — a nice feature at this price. The dust bag works for light use, but the port isn’t directly compatible with standard vac hoses. If your refinishing projects are occasional and don’t demand fine finish control, the RS290G covers the basics without breaking the bank.",
+      "pros": [
+        "Lowest entry cost for a 5-inch random-orbit sander from a major brand",
+        "12,500 OPM is fast enough for general stock removal and prep",
+        "Hook-and-loop pad accepts standard 5-inch sanding discs",
+        "Spin-control braking reduces pad gouging at startup"
+      ],
+      "cons": [
+        "No variable-speed control; 12,500 OPM is too fast for between-coat scuffing",
+        "Short 6-foot cord limits mobility without an extension cord",
+        "Dust port not directly compatible with standard vacuum hoses without adapter"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-2-6-Amp-Corded-5-in-Random-Orbital-Sander-RS290G/205105594"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What type of sander is best for furniture refinishing?",
+      "a": "For most furniture refinishing, a 5-inch random-orbit sander (ROS) is the best choice because its randomized scratch pattern prevents swirl marks and works well both with and across the grain. Variable speed is important for adjusting between aggressive stock removal and gentle between-coat scuffing. A quarter-sheet palm sander like the DeWalt DWE6411K can be a good supplement for flat surfaces where you want to use cheap cut-to-fit paper."
+    },
+    {
+      "q": "Is variable speed necessary for furniture refinishing?",
+      "a": "Variable speed is strongly recommended if you plan to sand between finish coats or work on delicate surfaces like veneer. A low speed range (down to 4,000 OPM) gives you the control to scuff-sand without cutting through the previous coat. For basic wood prep and paint removal on solid wood, a fixed-speed sander like the Ryobi RS290G works fine, but you lose the ability to dial back for finishing."
+    },
+    {
+      "q": "What grit sandpaper should I use for furniture refinishing?",
+      "a": "Start with 80 or 100 grit for removing old finish or rough material. Progress to 120–150 grit for smoothing the surface, then 180–220 grit for final sanding before applying stain or primer. For between coats of clear finish, use 320 grit or finer to scuff the surface without cutting through. Always step through grits sequentially, skipping no more than one grit number at a time."
+    },
+    {
+      "q": "Should I buy a corded or cordless sander for furniture refinishing?",
+      "a": "Corded sanders like the Makita BO5041 offer unlimited runtime, wider speed ranges, and generally lower cost for equivalent power. Cordless sanders like the DeWalt DCW210B offer mobility and convenience, especially for work away from outlets or on vertical and overhead surfaces. If you already own batteries on a platform, cordless is appealing; otherwise, a corded sander gives you more tool for your money."
+    },
+    {
+      "q": "How important is dust collection for furniture refinishing?",
+      "a": "Dust collection is very important for both finish quality and health. Fine sanding dust obscures the surface, hiding scratches and imperfections that become visible after staining. Connecting the sander to a shop vacuum with a HEPA filter captures most airborne dust and keeps the work area clean. Through-pad dust extraction, as on the Makita BO5041, is the most effective design."
+    },
+    {
+      "q": "What is a pad brake and do I need it?",
+      "a": "A pad brake slows or stops the pad quickly when the sander is turned off, preventing the spinning pad from gouging the surface when you set it down. It’s a valuable feature for finish work where any accidental gouge can ruin a project. The Makita BO5041 has a pad brake; the DeWalt DCW210B and Ryobi RS290G do not, though the RS290G includes spin-control braking that reduces startup gouging."
+    }
+  ],
+  "body": "## How we picked\n\nThis guide ranks four sanders for furniture refinishing, each chosen because it fills a distinct role in the refinishing workflow. We did not run a controlled lab test — every claim here is built from published manufacturer specifications, real-world pricing, and the consistent themes in owner reports from experienced finishers. The picks are arranged so that whatever your priority — finish quality, cordless convenience, flat-surface economy, or budget entry — there is a clear winner.\n\nThe shortlist covers the three most common sander formats for furniture work: 5-inch random-orbit sanders (Makita BO5041, DeWalt DCW210B, Ryobi RS290G) and the quarter-sheet palm sander (DeWalt DWE6411K). We excluded belt sanders (too aggressive for furniture), detail sanders (too niche for a general guide), and 6-inch sanders (heavier and more expensive without a clear finishing advantage for most DIYers).\n\n## What matters when you choose a sander for furniture refinishing\n\nFive factors determine which sander fits your refinishing project, and they don’t all point at the same tool.\n\n**Speed range and variable control.** Furniture refinishing demands both fast stock removal and gentle finish-coat scuffing. A wide variable-speed range — ideally down to 4,000 OPM — lets one tool cover both extremes. Fixed-speed tools run at 12,000–14,000 OPM and work well for prep but will cut through a finish coat if you’re not careful.\n\n**Orbit type and diameter.** Random-orbit sanders produce a non-directional scratch pattern that disappears under stain. Quarter-sheet palm sanders vibrate in a more linear pattern, which can leave visible marks if moved across the grain. For bare hardwood that will be stained, a random-orbit sander with a 1/8-inch orbit is the finishing standard. For painted surfaces or with-grain sanding, a palm sander’s directional pattern is less of a concern.\n\n**Pad size and paper cost.** A 5-inch random-orbit pad uses hook-and-loop discs that cost roughly $0.30–$0.60 each in bulk. A quarter-sheet palm sander uses cut-to-fit paper costing about $0.10 per sheet. For high-volume prepping of multiple furniture pieces, the palm sander’s paper cost advantage adds up. For fine finishing on curved or detailed work, the random-orbit sander’s round pad is more forgiving.\n\n**Dust collection.** Sanding furniture generates fine dust that obscures the surface, hides scratch patterns, and is a respiratory hazard. Through-pad dust extraction connected to a shop vacuum is the gold standard. Sanders that include a vacuum port adapter — like the Makita BO5041 and DeWalt DWE6411K — make setup easier than those requiring a separate purchase.\n\n**Weight and ergonomics.** Furniture refinishing often involves sanding vertical panels, overhead surfaces, and multiple pieces in a session. A lighter sander reduces fatigue. The DeWalt DCW210B at 1.9 lbs bare is the lightest here; the Ryobi RS290G at 3.5 lbs is the heaviest. A D-handle or secondary grip improves control on flat surfaces.\n\n## Best for finishing: Makita BO5041\n\nThe Makita BO5041 takes the top spot because its specifications align perfectly with the demands of furniture refinishing. Its 4,000–12,000 OPM variable-speed range is the widest of any mainstream 5-inch random-orbit sander, and that low floor is what makes it a finishing tool rather than just a sanding tool. At 4,000 OPM with 320-grit paper, you can scuff-sand a dried polyurethane coat and barely dull the surface — try that at 8,000 OPM and you risk cutting through.\n\nThe 1/8-inch orbit is conservative enough to leave a fine scratch that stain absorbs evenly, yet aggressive enough to remove mill marks with 80 grit in a few passes. The pad brake is a finishing-specific feature: when you lift the sander off the work and switch it off, the pad stops spinning immediately, preventing the circular gouge that a freewheeling pad would carve into fresh finish. Through-pad dust collection with the included vacuum adapter keeps the surface visible, which matters when you’re checking for remaining scratches between grits.\n\nAt 3.1 lbs, the BO5041 is lighter than many corded sanders, and the D-handle plus top palm grip lets you use two hands for flat panels. The cord is 6 feet — plan for an extension cord — but for workshop-based refinishing that’s a minor inconvenience. The 1-year warranty is shorter than DeWalt’s 3-year, which is the tool’s weakest point on paper, but owner reports show the BO5041’s sealed bearings and Makita-built motor are long-lived.\n\n## Best cordless: DeWalt DCW210B\n\nFor refinishers who already own DeWalt 20V MAX batteries, the DCW210B eliminates the cord without sacrificing sanding capability. At 1.9 lbs bare, it’s the lightest sander in this guide — that weight savings is tangible when you’re sanding the sides of a dresser or the underside of a table. The brushless motor maintains speed under load, so the finish is consistent.\n\nThe variable-speed dial runs from 8,000 to 12,000 OPM. The 8,000 floor is higher than the BO5041’s 4,000, which means the DCW210B is not ideal for between-coat scuffing. For stock removal and general prep, though, 8,000 OPM is fine, and the 12,000 top end is competitive. The lack of a pad brake means you need to lift the tool clear of the workpiece when powering off, but with practice that becomes second nature.\n\nThe 8-hole hook-and-loop pad accepts standard discs, and the dust port connects directly to DeWalt extractors or a universal 1-1/4-inch vac hose. Battery life depends on your pack: a 2.0Ah battery gives about 20–25 minutes, while a 5.0Ah pack extends to 45–50 minutes. For a full day of refinishing, you’ll want spare batteries, but for most weekend projects, a 5.0Ah pack suffices.\n\n## Best for flat surfaces: DeWalt DWE6411K\n\nNot every furniture refinishing project needs a random-orbit sander. When you’re stripping paint from a dozen cabinet doors or sanding down a tabletop before repainting, the DeWalt DWE6411K’s quarter-sheet format shines. Its rectangular 4½ x 5½-inch pad covers flat surfaces efficiently, and the paper cost is minimal: a full 9x11-inch sandpaper sheet cuts into four pieces, each costing pennies.\n\nThe fixed 14,000 OPM speed is fast — too fast for delicate finish work, but ideal for paint removal and initial smoothing. The separate counterweight reduces vibration, making it comfortable for extended use on large flat panels. The locking dust port accepts a 1-1/4-inch vacuum hose, so you can keep dust under control.\n\nThe directional scratch pattern is the DWE6411K’s main limitation. On bare hardwood that will be stained, you must sand with the grain to avoid visible marks. For painted surfaces, adhesion-grade MDF, and plywood, the pattern doesn’t matter. The DWE6411K is a specialist tool that complements a random-orbit sander rather than replacing one.\n\n## Best budget: Ryobi RS290G\n\nIf your furniture refinishing projects are occasional and you don’t want to invest $130+ in a sander, the Ryobi RS290G is a functional budget choice. At $49–$69, it costs about half the Makita BO5041 and still provides the core random-orbit sanding action. The fixed 12,500 OPM removes material quickly, and the spin-control braking reduces startup gouging.\n\nThe tool’s limitations are clear: no variable speed restricts its use to prep work — between-coat scuffing is risky at 12,500 OPM. The short 6-foot cord and lack of a vacuum adapter mean you’ll likely need an extension cord and a separately purchased adapter for dust control. The dust bag fills fast and captures only the coarser fraction of fine dust.\n\nFor a first sander or a backup for rough prep, the RS290G is adequate. If your refinishing involves clear finishes, veneer, or furniture you want to stain, saving up for the Makita BO5041 will save you frustration and rework.\n\n## How to read these rankings\n\nThe ranks are not a strict best-to-worst order — they’re a map. The Makita BO5041 is first because its wide speed range and pad brake make it the most capable finishing tool for the broadest range of furniture refinishing tasks. If you’re on the DeWalt platform, the DCW210B is your number one cordless pick. If you sand mostly flat surfaces with paint, the DWE6411K gives you the lowest paper cost. And if budget is the primary constraint, the RS290G gets you started.\n\nEvery sander here will help you refinish furniture. The right one depends on the type of finish you want, the surfaces you sand, and the tools you already own.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "dewalt-dcw210b",
+    "dewalt-dwe6411k",
+    "makita-bo5041"
+  ]
+}

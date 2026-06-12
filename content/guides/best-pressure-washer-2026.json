@@ -1,0 +1,134 @@
+{
+  "slug": "best-pressure-washer-2026",
+  "category": "pressure-washers",
+  "title": "The Best Pressure Washers of 2026",
+  "intro": "Choosing a pressure washer comes down to two questions: how much cleaning power do you actually need, and do you want a cord, a battery, or a gas engine? This guide covers four machines that span the full range — from the lightweight Craftsman CMEPW1700 for light-duty electric work to the DeWalt DXPW3425E gas unit for heavy-duty stripping and surface prep. The EGO HPW3200 is the standout pick for anyone who wants cordless convenience without sacrificing real PSI, and the Ryobi RY142300 is the best value in the corded electric tier.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best overall",
+      "name": "Ryobi RY142300",
+      "reviewSlug": "ryobi-ry142300",
+      "summary": "The RY142300 hits the most useful PSI range for residential cleaning — 2,300 PSI is strong enough to strip grime off a driveway or composite deck without the surface damage risk that comes with higher-pressure machines. Its 13A brushless motor is more efficient than the brushed designs in cheaper units, a five-nozzle set covers every residential task from car washing to concrete cleaning, and a 3-year warranty backs the investment. At roughly 49 lbs it stays put on the ground rather than following you around, but the long hose and cord manage that well enough.",
+      "pros": [
+        "2,300 PSI handles driveways, decks, siding, and vehicles without a tip change",
+        "Brushless 13A motor is more efficient and longer-lasting than comparably priced brushed units",
+        "Five-nozzle set covers every residential task out of the box",
+        "3-year warranty and Ryobi's broad service network"
+      ],
+      "cons": [
+        "49.3 lbs is heavier than the Craftsman — moving it between jobs takes effort",
+        "Corded operation limits range; a long extension cord is often needed"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-2300-PSI-1-2-GPM-High-Performance-Cold-Water-Corded-Electric-Pressure-Washer-RY142300/300405751"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best cordless",
+      "name": "EGO HPW3200",
+      "reviewSlug": "ego-hpw3200",
+      "summary": "The HPW3200 is the most capable cordless pressure washer at this price point — 3,200 PSI peak and up to 2.0 GPM from a 56V battery, with no gas engine or power cord. The 25-foot hose extends reach significantly, and at 35 lbs bare it is lighter than the corded Ryobi. A 5-year warranty is among the longest in this category. The trade-off is battery cost and runtime: EGO's 56V packs are not cheap, and the run time on a single battery is finite. For buyers already in the EGO ecosystem, it is an easy upsell.",
+      "pros": [
+        "3,200 PSI peak output without a gas engine or power cord",
+        "35 lbs bare — lighter than the corded Ryobi despite the higher PSI rating",
+        "25-foot hose adds meaningful reach on driveways and multi-level surfaces",
+        "5-year warranty is one of the longest in this class"
+      ],
+      "cons": [
+        "56V battery adds to total cost if you are not already in the EGO platform",
+        "Peak PSI of 3,200 may exceed safe limits for painted wood or softer surfaces",
+        "Runtime per charge is finite — larger jobs may need a spare battery"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/EGO-3200PSI-Cold-Water-High-Pressure-Washer-Bare-Tool/5014700281"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best for heavy jobs",
+      "name": "DeWalt DXPW3425E",
+      "reviewSlug": "dewalt-dxpw3425e",
+      "summary": "When the job involves stripping paint, cleaning large expanses of concrete, or washing heavy equipment, gas still has the advantage. The DXPW3425E produces 3,400 PSI at 2.5 GPM — the highest output in this comparison — with an electric start that removes the pull-cord frustration from older gas machines. At 81 lbs it is not easily portable, and gas storage and annual maintenance add ongoing cost, but the 5-year warranty and the ability to run indefinitely without a battery swap or power cord make it the right call for heavy-duty work.",
+      "pros": [
+        "3,400 PSI at 2.5 GPM — the strongest output here for heavy-duty surface prep",
+        "Electric start replaces the pull cord for easier ignition",
+        "5-year warranty covers the full machine",
+        "Unlimited runtime — no battery swaps, no extension cord limits"
+      ],
+      "cons": [
+        "81 lbs makes it the heaviest and least portable option by a wide margin",
+        "Gas storage, annual carburetor maintenance, and winterization add ongoing burden",
+        "Overkill and overpowered for routine light residential cleaning"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-3400-PSI-at-2-5-GPM-Cold-Water-Gas-Pressure-Washer-with-Electric-Start-DXPW3425E/317132634"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best light-duty pick",
+      "name": "Craftsman CMEPW1700",
+      "reviewSlug": "craftsman-cmepw1700",
+      "summary": "At 1,700 PSI and 1.2 GPM, the CMEPW1700 is built for tasks that do not need aggressive pressure — patio furniture, cars, bikes, smaller decks, and outdoor cushions. It weighs just 17.6 lbs, making it the most maneuverable machine here. A 3-year warranty is solid for an entry price point, and the 13A motor provides consistent output for light residential jobs. The PSI ceiling is the constraint: it will not strip deep stains from concrete or clean a heavily soiled driveway as effectively as the higher-output machines.",
+      "pros": [
+        "17.6 lbs is the lightest machine here — easy to carry and store",
+        "1,700 PSI is safe for cars, patio furniture, and delicate surfaces",
+        "3-year warranty at an entry-level price point",
+        "Simple setup and operation — well suited for occasional users"
+      ],
+      "cons": [
+        "1,700 PSI and 1.2 GPM limit effectiveness on tough concrete stains and large surfaces",
+        "Not the right choice for heavy-duty driveway cleaning or paint stripping"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/CRAFTSMAN-1700-PSI-Electric-Pressure-Washer/5000296523"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What PSI do I need for home use?",
+      "a": "For most residential cleaning tasks — driveways, decks, siding, fences, and vehicles — a machine in the 1,700 to 2,300 PSI range covers the majority of jobs safely. The Craftsman at 1,700 PSI is ideal for delicate surfaces and cars. The Ryobi at 2,300 PSI handles nearly everything short of heavy surface prep. The EGO at up to 3,200 PSI peak gives more headroom for concrete and masonry. Going above 3,000 PSI on painted wood, composite decking, or vehicle paint increases the risk of surface damage."
+    },
+    {
+      "q": "Is a cordless pressure washer as powerful as a corded one?",
+      "a": "Cordless pressure washers have improved significantly and the EGO HPW3200 reaches 3,200 PSI peak — higher than the corded Ryobi at 2,300 PSI. The practical difference is runtime: a corded machine runs as long as you have power, while a cordless unit is limited by battery capacity. For jobs under an hour the cordless EGO performs comparably; for longer sessions or larger surfaces, either a spare battery or a corded machine is the more practical choice."
+    },
+    {
+      "q": "When does it make sense to choose gas over electric?",
+      "a": "Gas pressure washers like the DeWalt DXPW3425E make sense when you need sustained high output over a long session — stripping old paint, cleaning large concrete areas, washing farm equipment, or working away from any power source. The trade-offs are weight (81 lbs), regular maintenance (oil changes, carburetor upkeep, winterization), and the need to store gasoline. For routine residential cleaning, the corded or cordless electric picks here match or exceed most homeowners' needs without the maintenance burden."
+    },
+    {
+      "q": "Do pressure washer GPM ratings matter?",
+      "a": "GPM (gallons per minute) measures water volume flow, which determines how quickly you can rinse off loosened debris. Higher GPM means faster rinsing and less time per surface area. The DeWalt at 2.5 GPM rinses fastest; the Craftsman, EGO, and Ryobi all share a 1.2 GPM flow rate. For residential use the difference is real but not critical — a 1.2 GPM machine is slower to rinse large driveways compared with a 2.5 GPM machine, but it completes every job a homeowner throws at it."
+    },
+    {
+      "q": "How do I match nozzle tips to the right cleaning task?",
+      "a": "Nozzle tip selection determines the effective PSI delivered to the surface. A 0-degree (red) tip concentrates all pressure in a pencil stream — for stubborn stains on concrete only. A 15-degree (yellow) tip is for stripping and concrete. A 25-degree (green) tip suits general cleaning including siding and decks. A 40-degree (white) tip is gentle enough for cars and painted surfaces. A soap/low-pressure (black) tip applies detergent. Using too narrow a tip on delicate surfaces — like a car hood — can strip paint or leave streaks. When in doubt, start wider and work down."
+    }
+  ],
+  "body": "## Matching machine to task\n\nPressure washers occupy a wider performance range than almost any other residential power tool. A 1,700 PSI corded electric unit and a 3,400 PSI gas machine share the same category name but are built for fundamentally different jobs. The wrong choice in either direction — too little power for the task, or too much power for the surface — costs time or causes damage.\n\nThe framework that simplifies the decision is to match PSI to your hardest regular task and check that the machine's weight and power source fit how and where you will use it.\n\n## Power source: cord, battery, or gas\n\nCorded electric machines like the Craftsman CMEPW1700 and Ryobi RY142300 offer consistent, unlimited runtime as long as they are near an outlet. They require no fuel storage, no annual maintenance beyond basic care, and typically cost less to purchase than comparable battery or gas machines. The trade-off is range: you are tethered to an outlet, and on large properties that can mean a significant extension cord run.\n\nThe EGO HPW3200 is the cordless option — 3,200 PSI peak from a 56V battery, running untethered anywhere on your property. For buyers already in the EGO ecosystem, this is the natural choice. For buyers entering the ecosystem, the battery adds cost; a spare 56V 5.0Ah pack is worth budgeting if your cleaning sessions routinely exceed an hour.\n\nGas, represented here by the DeWalt DXPW3425E, still holds advantages that neither corded nor battery units match: unlimited runtime anywhere, the highest sustained output, and no dependence on electrical infrastructure. It is a specialist tool — the right call for contractors, large property owners, or anyone doing heavy surface prep — but it adds maintenance obligations that most homeowners would rather avoid.\n\n## PSI and GPM together\n\nPSI alone does not capture cleaning performance. The formula that matters is cleaning units (CU) = PSI multiplied by GPM. The DeWalt's 3,400 PSI × 2.5 GPM = 8,500 CU is the strongest output in this comparison. The EGO's 3,200 PSI × 2.0 GPM = 6,400 CU. The Ryobi's 2,300 PSI × 1.2 GPM = 2,760 CU. The Craftsman's 1,700 PSI × 1.2 GPM = 2,040 CU. For residential cleaning, the Ryobi's output is sufficient for every common task. The EGO and DeWalt cover demanding concrete and prep work.\n\n## What each pick does best\n\nThe Ryobi RY142300 earns the top ranking for general residential use because 2,300 PSI covers the most common tasks — driveways, decks, siding, fences, vehicles — without the risks that come with higher pressure on wood or paint. Its brushless 13A motor runs more efficiently than brushed designs, and the five-nozzle set handles every situation without additional accessories.\n\nThe EGO HPW3200 is the right choice when convenience, platform synergy, and competitive PSI matter more than lowest purchase price. Running cordless on a large property or one with limited outdoor outlets is a legitimate quality-of-life upgrade, and 3,200 PSI peak gives real concrete-cleaning capability.\n\nThe DeWalt DXPW3425E belongs in this guide because nothing else here can match it for stripping, heavy concrete, or extended commercial-adjacent use. It is not for everyone — the weight, the maintenance, and the gas storage are real downsides — but for the buyer who genuinely needs sustained high output, it is the only option that delivers.\n\nThe Craftsman CMEPW1700 serves a specific, valuable niche: owners who primarily need to wash cars, clean furniture, rinse patio cushions, and tackle occasional light siding work. Its 17.6 lb weight is the easiest to carry up a deck staircase or move between the garage and the driveway, and 1,700 PSI is the safest ceiling for painted surfaces.\n\n## Warranty and long-term value\n\nWarranty terms differ meaningfully across this group. The EGO and DeWalt both offer 5-year coverage — the longest here. The Craftsman and Ryobi carry 3-year warranties. For a machine used a handful of times per year, a 3-year warranty is usually sufficient. For anyone who plans to use their pressure washer heavily, the longer EGO or DeWalt coverage is a real value consideration.\n\n## A note on surface safety\n\nEvery review here mentions nozzle selection because it is the most common source of accidental damage. No matter which machine you choose, test pressure on an inconspicuous area of any new surface before committing to a full pass. Car paint, composite decking, old wood, and window screen framing all respond differently to different pressures and tip angles. Start wider — a 40-degree tip on a car, a 25-degree tip on a deck — and narrow only if the cleaning result requires it.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "ryobi-ry142300",
+    "craftsman-cmepw1700",
+    "ego-hpw3200",
+    "dewalt-dxpw3425e",
+    "best-electric-pressure-washers"
+  ]
+}

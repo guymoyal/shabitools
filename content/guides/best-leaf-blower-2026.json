@@ -1,0 +1,138 @@
+{
+  "slug": "best-leaf-blower-2026",
+  "title": "The Best Cordless Leaf Blowers of 2026",
+  "category": "leaf-blowers",
+  "intro": "Battery-powered leaf blowers have reached the point where the best of them clear faster than a comparable gas model and weigh a fraction as much. The EGO LB6504 is the standout recommendation for most homeowners: 650 CFM of turbo airflow, IPX4 weather resistance, and a complete kit with a 5.0Ah battery make it the most capable packaged deal in this guide. For users already invested in Milwaukee M18 or Makita LXT, the Milwaukee 2724-20 and Makita XBU02Z are the tools to add to existing battery collections.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best overall",
+      "name": "EGO LB6504 56V 650 CFM Leaf Blower Kit",
+      "reviewSlug": "ego-lb6504",
+      "summary": "The LB6504 is the most complete package in this guide: 650 CFM of turbo output, 180 MPH air speed, IPX4 weather resistance for use in light rain, and a 5.0Ah battery with charger in the box. At 4.77 lbs bare it is the lightest of the high-output blowers here, which keeps arm fatigue low even during long clearing sessions. EGO's 56V platform backs it with a growing selection of outdoor power equipment tools, making it a sensible anchor for a battery-based yard tool collection. The turbo mode pushes wet leaves and compacted debris that lower-output blowers struggle to move.",
+      "pros": [
+        "650 CFM turbo output is the highest in this guide, matched only by the Ryobi",
+        "Lightest high-output blower at 4.77 lbs bare — comfortable for long sessions",
+        "IPX4 weather resistance allows use in light rain",
+        "Kit includes a 5.0Ah battery and charger — ready to use out of the box"
+      ],
+      "cons": [
+        "EGO 56V batteries are not shared with other major tool platforms",
+        "Kit price reflects the large battery included — bare tool price is more competitive"
+      ],
+      "affiliate": {
+        "merchant": "Lowe's",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.lowes.com/pd/EGO-Power-56-Volt-Lithium-Ion-Brushless-Cordless-Electric-Leaf-Blower-Battery-Included/1003130708"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best for quiet operation",
+      "name": "Ryobi RY404014BTL 40V HP 650 CFM Whisper Series",
+      "reviewSlug": "ryobi-ry404014btl",
+      "summary": "The RY404014BTL matches the EGO's 650 CFM output figure but does so at a lower noise level — the Whisper Series designation reflects a motor design tuned to reduce operating volume without sacrificing airflow. At 160 MPH air speed and 10.4 lbs bare it is heavier than the EGO, but for users in noise-sensitive neighborhoods or early-morning clearing jobs the quieter operation is a practical advantage. It is sold as a bare tool, so it suits Ryobi 40V owners adding to an existing battery collection rather than buyers starting fresh.",
+      "pros": [
+        "Whisper Series motor design reduces operating noise compared to standard blowers",
+        "650 CFM output matches the EGO for raw clearing power",
+        "160 MPH air speed moves dense leaf piles and wet debris effectively",
+        "Fits the Ryobi 40V platform for users with existing batteries"
+      ],
+      "cons": [
+        "Sold as a bare tool — battery and charger must be purchased separately",
+        "Heaviest pick in this guide at 10.4 lbs bare"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-40V-HP-Brushless-Whisper-Series-160-MPH-650-CFM-Cordless-Battery-Leaf-Blower-Tool-Only-RY404014BTL/319045694"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best for LXT platform users",
+      "name": "Makita XBU02Z 36V (2x18V LXT) Blower",
+      "reviewSlug": "makita-xbu02z",
+      "summary": "The XBU02Z runs on two standard 18V LXT batteries in series to produce 36V output — a configuration that lets it draw on the massive LXT ecosystem rather than requiring a dedicated 36V pack. At 473 CFM and 120 MPH it delivers moderate output, but its 61 dB(A) noise rating is the lowest in this guide, making it the quietest blower here by specification. For Makita LXT owners who already run a full suite of 18V tools and want to avoid buying into another voltage tier, this is the logical extension of their existing battery investment.",
+      "pros": [
+        "Uses two standard 18V LXT batteries — no new platform investment for LXT owners",
+        "61 dB(A) is the lowest noise rating of any blower in this guide",
+        "Makita LXT is one of the broadest 18V platforms available",
+        "Solid 473 CFM output for medium-duty residential clearing"
+      ],
+      "cons": [
+        "Requires two 18V batteries to operate — doubles the battery weight",
+        "473 CFM and 120 MPH trail the EGO and Ryobi on raw output",
+        "Sold as a bare tool only — no batteries or charger included"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Makita-120-MPH-473-CFM-18-Volt-X2-36-Volt-LXT-Lithium-Ion-Cordless-Brushless-Leaf-Blower-Tool-Only-XBU02Z/206058495"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best for M18 platform users",
+      "name": "Milwaukee 2724-20 M18 FUEL 450 CFM Blower",
+      "reviewSlug": "milwaukee-2724-20",
+      "summary": "Milwaukee's 2724-20 is the narrowest-purpose pick in this guide — it is the right answer specifically for M18 platform users who want a blower without adding a new battery format to their collection. At 450 CFM and 120 MPH its output is below the EGO and Ryobi leaders, and at 62 dBA it is only marginally quieter than a standard blower. What it offers instead is deep M18 integration: any M18 battery powers it, the FUEL brushless motor is designed for long-cycle commercial use, and it carries Milwaukee's standard tool warranty. For tradespeople running M18 all day, it is a natural fit.",
+      "pros": [
+        "M18 compatibility integrates with one of the strongest commercial battery platforms",
+        "FUEL brushless motor is rated for extended daily use",
+        "At 5.2 lbs bare it is lighter than the Ryobi and Makita picks",
+        "Sold at Home Depot with M18 battery bundles available"
+      ],
+      "cons": [
+        "450 CFM and 120 MPH are the lowest output figures of the four blowers",
+        "Sold as a bare tool — M18 battery required separately",
+        "62 dBA is not a significant noise reduction over competitors"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-120-MPH-450-CFM-18-Volt-Lithium-Ion-Brushless-Cordless-Handheld-Blower-Tool-Only-2724-20/302752040"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What CFM is enough for a residential yard?",
+      "a": "For a standard suburban lot with dry leaves and grass clippings, 400 to 500 CFM moves debris reliably. The Makita's 473 CFM and Milwaukee's 450 CFM are both adequate for that use case. If your yard has wet, heavy leaves in autumn or large wooded sections, the EGO's and Ryobi's 650 CFM makes a noticeable difference in clearing speed and the ability to move compacted debris that lower-output blowers have to redistribute rather than move."
+    },
+    {
+      "q": "Is CFM or MPH more important in a leaf blower?",
+      "a": "CFM (cubic feet per minute) is the more meaningful number for most jobs — it measures the volume of air moved, which determines whether you can actually shift a pile of leaves. MPH measures the velocity at the nozzle, which affects whether the blower can penetrate a mat of wet leaves but matters less than volume once the speed is reasonable. A blower with 650 CFM at 160 MPH moves more material in a given time than one with 120 MPH at 450 CFM on open ground."
+    },
+    {
+      "q": "Why are the Makita and Milwaukee sold without batteries?",
+      "a": "Both the XBU02Z and the 2724-20 are sold as bare tools because they are designed for users who already own compatible batteries on those platforms. If you run a large LXT or M18 collection, buying a bare tool and pairing it with batteries you already own is more cost-effective than buying a new kit. If you do not own those batteries, the EGO LB6504 kit — which includes a 5.0Ah battery and charger — is a more economical starting point."
+    },
+    {
+      "q": "How long does a battery last per charge on a leaf blower?",
+      "a": "Runtime varies by battery capacity and motor load. The EGO LB6504 kit's 5.0Ah battery provides roughly 45 to 75 minutes of mixed-speed use, which covers most residential lots in a single charge. Heavier turbo use shortens that window. For Makita users, two 5.0Ah batteries in the XBU02Z provide comparable runtime. Always check the Ah rating on your battery — smaller packs (2.0Ah to 2.5Ah) deliver noticeably shorter sessions."
+    },
+    {
+      "q": "Are leaf blowers worth it for small properties?",
+      "a": "On a small property, a handheld blower genuinely saves time over raking for clearing sidewalks, patios, and driveways. The Milwaukee 2724-20 or Makita XBU02Z are both well-sized for compact lots and add no gas or cord management overhead. If you already own batteries on either platform, a bare tool blower is one of the easier value justifications in a cordless tool collection."
+    },
+    {
+      "q": "What does IPX4 weather resistance mean on a leaf blower?",
+      "a": "IPX4 is an ingress protection rating indicating the tool can withstand splashing water from any direction — a moderate rain or wet grass and leaves will not cause electrical failure. The EGO LB6504 carries this rating, which makes it safer to use in light rain or damp autumn conditions. It does not mean the tool is submersible or suitable for heavy downpours; it is a practical real-world use rating, not a heavy-duty waterproofing claim."
+    }
+  ],
+  "body": "## Why cordless blowers now make sense\n\nGas leaf blowers have two persistent problems: they require seasonal carburetor maintenance and mixed fuel storage, and they are loud enough that many municipalities and homeowner associations have moved to restrict their use hours. Battery blowers have closed the performance gap to where the strongest cordless models — the EGO and Ryobi at 650 CFM — match or exceed the output of many consumer-grade gas blowers, and they do it more quietly, with lower emissions, and without a pull cord. For homeowners with a quarter acre or less, there is no longer a practical performance argument for gas.\n\n## Understanding CFM, MPH, and what each does\n\nTwo numbers appear on every blower: CFM measures how much air volume the blower moves per minute, while MPH measures how fast air exits the nozzle. Real-world clearing performance is driven primarily by CFM — volume is what shifts a deep pile of wet leaves. MPH becomes relevant for penetrating a compacted leaf mat or dislodging debris stuck against a curb or wall. For most fall leaf-clearing jobs, you want both numbers to be reasonable, but if you have to prioritize one, choose CFM.\n\nA practical reference: 400 to 500 CFM handles dry grass clippings and light leaf cover on a standard suburban lot. 600+ CFM is noticeably more capable on wet or heavy autumn leaves and clears faster on large open areas. The EGO LB6504 and Ryobi RY404014BTL both hit 650 CFM in this guide, making them the clear leaders on raw clearing power.\n\n## EGO LB6504: the case for a complete kit\n\nThe LB6504 is the most straightforward recommendation here because it comes with everything needed to start working: a 5.0Ah battery and charger are included in the kit price, and at 4.77 lbs bare it is light enough to use comfortably for an extended session. The IPX4 weather resistance is a practical advantage during wet leaf season. EGO's 56V platform is not shared with Makita, Milwaukee, or Ryobi, so this is a stronger recommendation for buyers without a strong existing brand allegiance than it is for buyers already deep in another ecosystem.\n\n## Ryobi RY404014BTL: the quiet high-output option\n\nThe Whisper Series designation on the Ryobi reflects a motor tuned to run at lower decibels than a standard blower producing equivalent output. On paper the difference is modest; in practice, lower-pitched motor noise is perceived as quieter than higher-frequency noise at the same decibel level, and the Ryobi runs lower in pitch than most of the competition. Combined with 650 CFM output, it is the strongest choice for noise-sensitive situations. Selling as a bare tool limits its audience to existing Ryobi 40V owners, which is its main constraint as a general recommendation.\n\n## Makita XBU02Z: the dual-battery architecture explained\n\nMakita's approach of combining two 18V LXT packs to produce 36V output has a specific appeal: it sidesteps the need to buy into a dedicated high-voltage battery format. If you already own four or more 18V LXT batteries for other tools — drill, circular saw, jigsaw — you can run the XBU02Z on packs you already have and charge them in your existing charger. The 61 dB(A) noise specification is the lowest in this guide by measurement, which is a real differentiator for users who prioritize quiet operation above raw power. The moderate 473 CFM means it is better suited to light-to-medium clearing than heavy autumn leaf season work.\n\n## Milwaukee 2724-20: for the M18 professional\n\nThe M18 FUEL blower exists primarily to serve trades professionals who already carry M18 packs to job sites and want a blower that uses the same batteries as their drills and saws. At 450 CFM and 120 MPH its output is the lowest in this guide, but it is entirely adequate for clearing a patio, a truck bed, or a job-site walkway — the typical professional use case. At 5.2 lbs bare it is lighter than the Ryobi and competitive with the Makita. For a homeowner starting fresh without M18 batteries, it is not the most compelling recommendation at the bare-tool price; for an M18 user, it is the most obvious blower to own.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "ego-lb6504",
+    "ryobi-ry404014btl",
+    "makita-xbu02z",
+    "milwaukee-2724-20",
+    "best-leaf-blower-for-large-yards"
+  ]
+}

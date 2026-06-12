@@ -1,0 +1,139 @@
+{
+  "slug": "best-jigsaw-for-woodworking",
+  "title": "The Best Jigsaws for Woodworking in 2026",
+  "category": "jigsaws",
+  "intro": "Woodworking asks more from a jigsaw than rough framing does — tighter curves, cleaner exit surfaces, slower controlled passes through figured stock, and the ability to switch from a fine-tooth blade to a scroll blade without hunting for a hex key. The Bosch JS365 is the pick for most woodworkers: its 4-position orbital control and die-cast aluminum base give you the kind of predictable cut behavior that lets you trust a layout line. The Milwaukee 2737-20 is the choice if you need cordless freedom and maximum stroke speed for thick hardwood slabs. The DeWalt DCS334B is what to buy when weight is the constraint, and the Ryobi PCL525B covers the woodworker on a tight budget who already owns ONE+ batteries.",
+  "picks": [
+    {
+      "rank": 1,
+      "awardLabel": "Best overall for woodworking",
+      "name": "Bosch JS365 6.5A Top-Handle Jig Saw Kit",
+      "reviewSlug": "bosch-js365",
+      "summary": "For woodworking, a predictable, vibration-controlled platform matters as much as raw speed, and the JS365 delivers on both counts. Its 6.5A motor spans 500–3,100 SPM with genuinely fine variable control at the trigger — slow enough for intricate scroll work, fast enough for thick softwood rips. The 4-position orbital setting lets you dial back to zero for clean, tearout-minimized cuts through veneer plywood or dial up to position 3 for fast material removal. The die-cast aluminum shoe with its steel insert stays flat and doesn't flex under side pressure the way stamped-steel bases do, which translates directly to square bevel cuts. At 5.35 lbs it is the heaviest tool in this guide, but the weight mostly reads as planted stability on a workbench — a trade woodworkers typically accept.",
+      "pros": [
+        "500–3,100 SPM variable range covers delicate scroll cuts and fast rip passes",
+        "4-position orbital dial with a true zero setting for tearout-sensitive veneers and laminates",
+        "Die-cast aluminum shoe with steel insert stays flat and resists flex under side-cutting pressure",
+        "Corded power means no battery fade mid-cut on long shop sessions",
+        "Kit includes carrying case and a starter blade selection"
+      ],
+      "cons": [
+        "At 5.35 lbs it is the heaviest tool here — noticeable during prolonged overhead or vertical cuts",
+        "Corded format limits reach on large sheet goods without an extension cord"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Bosch-6-5-Amp-Corded-Variable-Speed-Top-Handle-Jig-Saw-Kit-with-Carrying-Case-JS365/202502524"
+      }
+    },
+    {
+      "rank": 2,
+      "awardLabel": "Best cordless for woodworking",
+      "name": "Milwaukee 2737-20 M18 FUEL Jig Saw",
+      "reviewSlug": "milwaukee-2737-20",
+      "summary": "The 2737-20 is the cordless option woodworkers reach for when the work is away from an outlet — furniture builds, site stairs, or kitchen installations where dragging a cord across finish flooring is a liability. Its brushless motor hits 3,500 SPM, the highest ceiling in this guide, which pays dividends cutting through thick hardwood slabs where a slower saw would chatter. Four orbital positions with tool-free bevel stops at 0°, 15°, 30°, and 45° make repeatable angle cuts fast, and the tool-free blade change is genuinely one-handed. The trade-off relative to the Bosch is that you are committing to an M18 battery spend if you do not already own packs — and at 5.8 lbs with a 5Ah battery it is not light.",
+      "pros": [
+        "0–3,500 SPM is the fastest top speed in this guide — cuts through dense hardwood without bogging",
+        "Brushless motor sustains consistent speed under load, reducing chatter in thick stock",
+        "Tool-free bevel stops at 0/15/30/45° allow quick, repeatable angle setting",
+        "Cordless format removes trip-hazard cords from finished-floor work areas"
+      ],
+      "cons": [
+        "Sold bare — battery and charger add significant cost for new M18 owners",
+        "5.8 lbs with a 5Ah pack is the heaviest working weight in this guide"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Jig-Saw-Tool-Only-2737-20/305658170"
+      }
+    },
+    {
+      "rank": 3,
+      "awardLabel": "Best lightweight cordless",
+      "name": "DeWalt DCS334B 20V MAX XR Jig Saw",
+      "reviewSlug": "dewalt-dcs334b",
+      "summary": "At 4.62 lbs bare, the DCS334B is the most manageable cordless jigsaw in this guide — a meaningful advantage when you are making a long curved cut on a vertical panel or holding the saw overhead to scribe a cabinet to a wall. Its brushless motor reaches 3,200 SPM across four orbital settings, and the positive bevel stops at 0°, 15°, 30°, and 45° click firmly enough to trust without rechecking with a square. For 20V MAX owners, the DCS334B drops straight into an existing kit without any additional battery investment, which shifts its value calculation significantly. It trails the Milwaukee on outright speed and the Bosch on base rigidity, but for the woodworker who prioritizes maneuverability it slots in cleanly at rank three.",
+      "pros": [
+        "Lightest cordless option here at 4.62 lbs bare — noticeably easier on vertical and overhead cuts",
+        "Brushless motor provides consistent speed under load at all four orbital settings",
+        "Positive bevel stops at 0/15/30/45° are firm and reliable without a separate square check",
+        "Plug-and-play for existing 20V MAX battery owners"
+      ],
+      "cons": [
+        "3,200 SPM top speed trails the Milwaukee's 3,500 SPM in thick hardwood",
+        "Bare-tool pricing requires adding 20V MAX battery cost for new DeWalt owners"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/DEWALT-20V-MAX-XR-Brushless-Cordless-Top-Handle-Jig-Saw-Tool-Only-DCS334B/309601596"
+      }
+    },
+    {
+      "rank": 4,
+      "awardLabel": "Best budget woodworking pick",
+      "name": "Ryobi PCL525B 18V ONE+ Jig Saw",
+      "reviewSlug": "ryobi-pcl525b",
+      "summary": "The PCL525B makes a genuine case for itself among budget-conscious woodworkers, especially those already on the Ryobi ONE+ platform. At roughly 2 lbs bare it is the lightest tool in the guide by a wide margin — not because of a premium brushless motor but because it is simply a compact design — and its 4-position orbital setting gives the same range of cut aggressiveness as the more expensive tools. The brushed motor caps at 3,000 SPM, which covers plywood, MDF, and softwood without complaint; thicker hardwood will slow it down and drain batteries faster. The real limitation for serious woodworkers is blade clamping: the tool accepts standard T-shank blades fine, but the blade-change mechanism is less refined than Milwaukee's or DeWalt's. For the hobbyist woodworker who cuts the occasional shelf or cabinet panel, the price-to-capability ratio is hard to argue with.",
+      "pros": [
+        "Lightest tool in this guide at roughly 2 lbs bare — genuinely effortless to maneuver",
+        "4-position orbital control matches the range offered by significantly more expensive saws",
+        "Left/right bevel to 45° expands angled cut options for casing and trim profiles",
+        "ONE+ compatibility gives access to a wide, affordable battery ecosystem"
+      ],
+      "cons": [
+        "Brushed motor drains batteries faster than the brushless rivals, especially in denser wood",
+        "Blade clamping mechanism is less polished than the Milwaukee or DeWalt",
+        "Not the right tool for production work in thick hardwood"
+      ],
+      "affiliate": {
+        "merchant": "Home Depot",
+        "url": null,
+        "campaignId": 0,
+        "productUrl": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Jig-Saw-Tool-Only-PCL525B/318898528"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "What jigsaw features matter most for woodworking?",
+      "a": "For woodworking, four features separate a useful jigsaw from a frustrating one: orbital action control (a true zero setting preserves clean exit surfaces on plywood and veneer), variable speed at the trigger (not just a dial), base rigidity (a cast aluminum or reinforced base deflects less under side pressure, keeping bevels accurate), and blade-change speed (you switch blades often when going between rip passes and scroll cuts). Stroke length — 1 inch is standard on all four picks here — matters for cut speed in thick stock, and it is consistent across this guide."
+    },
+    {
+      "q": "Should I buy a corded or cordless jigsaw for a workshop?",
+      "a": "For a dedicated workshop where you work near outlets, a corded jigsaw like the Bosch JS365 removes battery management entirely and delivers consistent power across long sessions. For a garage shop where work moves between a bench and a floor layout, or for site work, cordless is worth the battery cost. The Milwaukee 2737-20 and DeWalt DCS334B both sustain competitive cut speeds through a full 5Ah charge, making them practical for a half-day shop session before a swap."
+    },
+    {
+      "q": "How do I cut curves in plywood without tearout?",
+      "a": "Three adjustments together minimize tearout on plywood face veneers: set the orbital selector to zero or position 1 (aggressive orbital action increases exit-surface splintering), use a fine-tooth upcut blade rated for plywood or laminate, and apply a strip of masking tape over the cut line before marking — the tape reinforces the veneer fibers at the exit face. Cutting with the good face down works with some blade types but requires confirming the blade's tooth geometry."
+    },
+    {
+      "q": "Can a jigsaw replace a bandsaw for curved cuts in thick wood?",
+      "a": "A jigsaw handles most curves a home woodworker encounters — chair legs, cabinet arches, template routing stock — but a bandsaw has real advantages in thick hardwood above about 2 inches: it produces less heat, holds a straighter kerf, and does not fatigue the blade as quickly. For occasional curved work in stock up to 2 inches thick, a quality jigsaw like the Bosch JS365 or Milwaukee 2737-20 performs well. For production-volume curves in 3-inch hardwood, a bandsaw is the cleaner tool."
+    },
+    {
+      "q": "What blade should I use for cutting hardwood with a jigsaw?",
+      "a": "For hardwood up to about 1-1/2 inches thick, a bi-metal T-shank blade with 10–14 TPI (teeth per inch) gives a good balance of cut speed and surface quality. For cleaner edges on show surfaces, a 20 TPI blade cuts slower but leaves less sanding work. Avoid coarse 6 TPI demo blades — they are fast in softwood and nail-embedded lumber but leave a rough surface and flex in dense grain. All four saws in this guide accept standard T-shank blades, which is the most widely available format."
+    },
+    {
+      "q": "Is the Bosch JS365 still worth buying in 2026 when cordless tools have improved so much?",
+      "a": "Yes, for shop use. The JS365's advantage is not the motor format — it is the die-cast aluminum base with steel insert and the 500–3,100 SPM range with genuine low-end trigger control. Cordless jigsaws have closed the performance gap at mid and high speeds, but the corded Bosch still offers finer slow-speed control for tight scroll work and eliminates the voltage sag a battery experiences under sustained load in dense material. If a cord is an acceptable trade-off in your workspace, the JS365 remains the cleaner woodworking tool."
+    }
+  ],
+  "body": "## Choosing a jigsaw for woodworking is different from choosing one for construction\n\nA framing carpenter or demo crew uses a jigsaw to cut recesses, notch around obstacles, and follow rough layout lines — tasks where speed matters more than surface quality. Woodworking reverses that priority. The entry face of a rip through figured maple, the exit surface on a plywood cabinet side, the arc on a bookcase headboard — these are surfaces that end up visible, sometimes finished, often joining other parts with a precision the saw itself influences. That difference shapes this entire guide.\n\nThe four tools ranked here are the same four reviewed in the broader jigsaw guide, but the ranking reflects woodworking-specific criteria: orbital action granularity, base rigidity, variable speed range at the trigger, bevel accuracy, and blade-change ergonomics. A saw that ranks highly for general use may drop a position here if its base flexes under lateral load or if its trigger speed control is too coarse for fine scroll work.\n\n## What separates a woodworking jigsaw from a general-purpose one\n\n**Orbital action control is the single most important adjustment for woodworking.** Orbital action pushes the blade slightly forward on the upstroke, which increases cut speed dramatically — but it also increases splintering on the exit surface, particularly on hardwood and face-veneer plywood. Every saw in this guide offers four orbital positions including zero. Zero orbital is where clean cabinet cuts live: the blade travels strictly up and down, leaving the cleanest possible exit surface. Positions 1 through 3 trade surface quality for speed; position 3 is what you use to rough-cut 2x lumber quickly. The ability to dial between them at will, without tools, is non-negotiable.\n\n**Base rigidity determines bevel accuracy.** A jigsaw's shoe tilts for bevel cuts and also bears lateral side forces during curve cutting. A stamped steel base that flexes under this load produces bevels that are close to the marked angle but not repeatable from cut to cut. A die-cast aluminum base with a machined steel insert — the Bosch JS365's arrangement — stays flat and rigid, which means a bevel set to 22.5° actually measures 22.5° consistently. This distinction matters most when you are cutting compound angles on crown molding profiles or making mirror-image parts.\n\n**Variable speed range at the trigger, not just a dial, enables scroll work.** All four saws here have a variable speed dial that sets the maximum SPM. But the trigger travel also varies speed — and the resolution of that trigger travel is what lets you slow a cut around a tight radius without stopping. A trigger that snaps from 0 to 80% of maximum in the first 10% of travel is workable for rough cuts; it is frustrating for a 2-inch radius scroll that requires sustained low speed. The Bosch and Milwaukee both have long, progressive trigger travel that woodworkers find more controllable.\n\n**Stroke length and blade length set the cutting depth ceiling.** All four picks here use a 1-inch stroke, which is standard for tools in this class. For woodworking, the practical limit is the blade length: a standard 4-inch blade cuts cleanly to about 3 inches in softwood and somewhat less in hardwood. For furniture components, that ceiling is rarely an issue. For thick slabs or stair treads, choose a longer specialty blade and verify the saw's maximum cutting depth spec.\n\n## Corded vs. cordless for a dedicated woodworking shop\n\nThe cordless vs. corded argument resolves differently for woodworking than it does for most trades. In a shop, you are usually within cord reach of an outlet, you are not climbing a ladder, and you may run the saw for extended continuous passes on a large sheet — the kind of sustained load that depletes a battery noticeably over a long session.\n\nFor that scenario, the Bosch JS365's 6.5A corded motor is genuinely the simpler tool: no battery management, no voltage sag under sustained load, no second battery needed for a long shop day. The limitation is the cord itself — pulling a cord across a finished slab on sawhorses, or maneuvering around a large template, introduces a friction the cordless tools avoid.\n\nThe Milwaukee 2737-20 and DeWalt DCS334B close the gap with brushless motors that maintain speed under load better than previous cordless generations. With a 5Ah pack, the Milwaukee is practical for a half-day shop session before swapping. For a site woodworker — a finish carpenter making cuts in an installed kitchen or on a job-site floor — cordless is simply the right format regardless of battery duration.\n\n## Best overall for woodworking: Bosch JS365\n\nThe JS365 earns the top position in this guide not on raw power or price, but on the combination of attributes that matter most for clean woodworking cuts: a die-cast aluminum shoe with steel insert that resists flex, a true 500–3,100 SPM variable range with usable slow-speed trigger control, and four orbital settings that include a genuine zero. These are the properties that allow you to cut a compound curve in 3/4-inch Baltic birch with minimal tearout, follow a tight radius in MDF without the base rocking, and bevel-cut casing profiles with consistent results.\n\nThe kit configuration is also practical: it includes a carrying case and a blade selection, which means it is ready to work without an accessory purchase. At $100–130 it is the most affordable tool in this guide on an absolute basis, which makes the value proposition particularly strong. The only genuine argument against it is the cord — if your shop layout makes cord management difficult, rank two or three are the answers.\n\n## Best cordless for woodworking: Milwaukee 2737-20 M18 FUEL\n\nThe Milwaukee's primary advantage in a woodworking context is top-end speed: 3,500 SPM is 400 SPM faster than the DeWalt and 400 SPM faster than the Bosch at maximum. That margin shows up most clearly when you are ripping through a thick hardwood slab or cutting a stair stringer — tasks where blade speed determines whether the cut runs clean or starts to drag and overheat the blade. The brushless motor sustains that speed under load without the soft pull-back that a brushed motor shows when it gets warm.\n\nThe tool-free blade change is a genuine quality-of-life improvement for woodworking, where blade changes are frequent — you might use a fine-tooth blade for a show-surface plywood cut, swap to a scrolling blade for a curved template, and switch back for a rip pass, all in the same project. One-handed clamp release and reload without a hex key saves time that adds up across a build.\n\nThe cost caveat is real: bare-tool pricing between $170 and $220 plus an M18 battery and charger makes this the most expensive entry point in the guide for anyone without existing M18 packs. For current M18 owners, it is simply the best cordless woodworking jigsaw available.\n\n## Best lightweight cordless: DeWalt DCS334B\n\nWeight is an underrated variable in jigsaw ergonomics. A jigsaw is rarely rested on a flat surface during use — the operator supports it, guides it, and maintains pressure for the entire cut. At 4.62 lbs bare, the DCS334B is about 1.2 lbs lighter than the Milwaukee with a 5Ah battery and runs noticeably less fatiguing on long curves or extended scribing work on vertical surfaces.\n\nThe bevel system is worth calling out specifically: the positive stops at 0°, 15°, 30°, and 45° are firmer and more consistent than a friction-detent system. For trim carpentry, where the same bevel angle gets set and reset repeatedly across many pieces, that firmness translates to fewer measurement errors and less time re-checking with a protractor.\n\nFor 20V MAX owners, the value calculation is straightforward — the DCS334B is a direct add to an existing kit at bare-tool pricing with no new battery investment. For new buyers, the cost analysis is similar to the Milwaukee.\n\n## Best budget woodworking pick: Ryobi PCL525B\n\nA budget jigsaw deserves honest framing: the PCL525B is the right tool for a woodworker cutting plywood shelves, MDF cabinet panels, and occasional softwood, but it will frustrate anyone trying to do production work in dense hardwood. Within that scope, it performs well above its price.\n\nThe 4-position orbital control and 0–3,000 SPM range give the hobbyist woodworker the same fundamental adjustment range as the premium tools. The left/right bevel to 45° — a feature not all budget saws include symmetrically — opens up angled profiles in casing and window surrounds. At roughly 2 lbs bare, it is the most maneuverable tool in this guide, which is not a trivial advantage on a curved layout line.\n\nThe limitations are real: a brushed motor runs less efficiently, shortens battery life between charges, and produces more heat in sustained cuts. The blade change mechanism is functional but less polished. For a hobbyist making occasional cuts, neither limitation affects the finished work materially. For someone sawing hardwood chair legs for hours, the Milwaukee or Bosch is the better answer.\n\n## A note on splinter protection\n\nSplinter guards — thin transparent inserts that mount to the shoe directly beside the blade — are available for all four saws in this guide and are worth using on finished plywood. They support the veneer fibers at the cut line and reduce exit-surface tearout, particularly on materials like oak veneer plywood or melamine-faced MDF where the face is brittle. Bosch, Milwaukee, and DeWalt all offer brand-specific inserts; third-party options fit most T-shank saws and cost a few dollars. Set orbital action to zero and pair with a splinter guard for the cleanest possible cut.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "bosch-js365",
+    "milwaukee-2737-20",
+    "dewalt-dcs334b",
+    "ryobi-pcl525b",
+    "best-jigsaw-2026",
+    "best-cordless-drill-2026"
+  ]
+}

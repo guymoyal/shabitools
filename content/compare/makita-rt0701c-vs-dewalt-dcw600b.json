@@ -1,0 +1,113 @@
+{
+  "slug": "makita-rt0701c-vs-dewalt-dcw600b",
+  "title": "Makita RT0701C vs DeWalt DCW600B: Corded vs Cordless Compact Trim Router (2026)",
+  "category": "routers",
+  "productA": {
+    "reviewSlug": "makita-rt0701c",
+    "name": "Makita RT0701C"
+  },
+  "productB": {
+    "reviewSlug": "dewalt-dcw600b",
+    "name": "DeWalt DCW600B"
+  },
+  "winner": "a",
+  "verdict": "The Makita RT0701C is the better choice for most buyers, especially those working in a shop with accessible outlets, because its wider 10,000–30,000 RPM speed range, rack-and-pinion micro-adjust depth control, and lower all-in cost (under $170 with accessories) outperform the DCW600B for precision edge profiling and laminate trimming. The DeWalt DCW600B excels when cordless freedom is genuinely needed on job sites, and its brushless motor offers longer service life, but the narrower speed range and tool-only pricing tip the value toward Makita for the majority of users.",
+  "rows": [
+    {
+      "label": "Motor type",
+      "a": "Brushed",
+      "b": "Brushless with electronic feedback",
+      "advantage": "b"
+    },
+    {
+      "label": "Speed range",
+      "a": "10,000–30,000 RPM",
+      "b": "16,000–25,500 RPM",
+      "advantage": "a"
+    },
+    {
+      "label": "Max speed",
+      "a": "30,000 RPM",
+      "b": "25,500 RPM",
+      "advantage": "a"
+    },
+    {
+      "label": "Weight",
+      "a": "3.9 lbs (tool only)",
+      "b": "2.6 lbs (bare tool, no battery)",
+      "advantage": "b"
+    },
+    {
+      "label": "Depth adjustment",
+      "a": "Rack-and-pinion micro-adjust",
+      "b": "Adjustment ring, 1/64 in. increments",
+      "advantage": "a"
+    },
+    {
+      "label": "Collet size",
+      "a": "1/4 in. (3/8 in. optional)",
+      "b": "1/4 in.",
+      "advantage": "tie"
+    },
+    {
+      "label": "Work light",
+      "a": "None",
+      "b": "Dual LED lights",
+      "advantage": "b"
+    },
+    {
+      "label": "Power source",
+      "a": "Corded (8 ft cord)",
+      "b": "Cordless (20V MAX battery, sold separately)",
+      "advantage": "b"
+    },
+    {
+      "label": "Warranty",
+      "a": "1-year limited",
+      "b": "3-year limited (tool)",
+      "advantage": "b"
+    },
+    {
+      "label": "Price range (tool only)",
+      "a": "$149–$169",
+      "b": "$159–$219",
+      "advantage": "a"
+    },
+    {
+      "label": "Battery included",
+      "a": "No (corded)",
+      "b": "No (tool only)",
+      "advantage": "tie"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which trim router has better speed control, the Makita RT0701C or DeWalt DCW600B?",
+      "a": "The Makita RT0701C offers a wider speed range of 10,000–30,000 RPM compared to the DeWalt's 16,000–25,500 RPM. The lower end is especially useful for running larger-diameter 1/4-inch shank bits, such as a 3/4-inch cove bit, where slower speeds prevent burning. Both have electronic feedback to maintain speed under load, but the Makita provides broader flexibility."
+    },
+    {
+      "q": "Is the DeWalt DCW600B lighter than the Makita RT0701C?",
+      "a": "Yes, the DeWalt DCW600B is lighter at 2.6 lbs (bare tool) compared to the Makita's 3.9 lbs (tool only). However, adding a battery to the DeWalt adds 0.6–1.1 lbs depending on pack size, closing the gap. For one-handed trimming, the DeWalt feels noticeably lighter during extended use."
+    },
+    {
+      "q": "Can I use 1/2-inch shank bits with either router?",
+      "a": "No. Both the Makita RT0701C and the DeWalt DCW600B accept only 1/4-inch shank bits (the Makita also accepts an optional 3/8-inch collet). For 1/2-inch shank bits, you need a mid-size router like the Bosch 1617EVSPK."
+    },
+    {
+      "q": "Which router is better for job site work, Makita RT0701C or DeWalt DCW600B?",
+      "a": "The DeWalt DCW600B is better suited for job site work due to its cordless operation. You can route cabinet edges, trim laminate, or profile countertops without needing an extension cord or an outlet nearby. The Makita RT0701C is a better choice for stationary shop use where outlets are always available."
+    },
+    {
+      "q": "Which router has a longer warranty?",
+      "a": "The DeWalt DCW600B comes with a 3-year limited tool warranty, while the Makita RT0701C has a 1-year limited warranty. The DeWalt's longer warranty, combined with its brushless motor, makes it a potentially better long-term investment for heavy use."
+    }
+  ],
+  "body": "## Introduction\n\nChoosing between the Makita RT0701C and the DeWalt DCW600B is essentially deciding between the established champion of corded compact routers and a capable cordless rival that prioritizes portability. Both are excellent tools, but they serve slightly different users. The RT0701C has set the benchmark for precision variable-speed routing in the 1-1/4 HP class with its 10,000–30,000 RPM range and rack-and-pinion depth adjustment. The DCW600B brings the convenience of cordless freedom with a brushless motor and a lighter weight, but its speed range is narrower and its cost is higher when factoring in batteries. This comparison breaks down the key differences to help you decide which one fits your workshop or job site.\n\n## Speed Range and Motor Performance\n\nThe most significant spec difference is the speed range. The Makita RT0701C spans 10,000–30,000 RPM, while the DeWalt DCW600B runs from 16,000–25,500 RPM. The Makita's lower end is critical when running larger-diameter bits — for example, a 3/4-inch roundover or a cove bit — where the required speed can dip below 16,000 RPM to avoid burning the wood. The DeWalt simply cannot go that slow, so on these bits you may get scorch marks or a rougher cut. On the top end, the Makita's 30,000 RPM is excellent for small-diameter bits (e.g., 1/4-inch roundovers) where high speed yields a cleaner finish; the DeWalt's 25,500 RPM is adequate for most trim routing but not as versatile for very fine detail work.\n\nBoth routers use electronic feedback to maintain speed under load. The Makita's brushed motor is time-tested and reliable, but it will eventually need brush replacement after hundreds of hours. The DeWalt's brushless motor is more efficient (longer runtime per battery charge) and more durable, with no brushes to wear out. The trade-off is that the brushed Makita has a broader speed range.\n\n## Ergonomics and Weight\n\nThe DeWalt DCW600B is lighter at 2.6 lbs (bare tool) vs the Makita's 3.9 lbs. In practice, a 2.0Ah battery adds about 0.6 lbs to the DeWalt, making it around 3.2 lbs — still lighter than the Makita. This makes the DeWalt noticeably easier for one-handed overhead work or extended trimming sessions. The Makita, however, is balanced and comfortable, and its rack-and-pinion depth adjustment is smoother and more precise than the DeWalt's ring adjustment. The Makita also has a quick-release cam lock for swapping bases, a system that is faster than the DeWalt's ring lock.\n\n## Lighting and Visibility\n\nThe DeWalt DCW600B includes dual LED work lights that cast light on both sides of the bit, eliminating shadows from your hand and improving cut-line visibility on job sites. The Makita RT0701C has no light, which can be a drawback in dim conditions. If you often work in low-light environments, the DeWalt's LEDs are a real advantage.\n\n## Depth Adjustment\n\nThe Makita's rack-and-pinion depth adjustment is industry-leading for compact routers. It is smooth, precise, and locks firmly without drifting. The DeWalt uses a depth adjustment ring with 1/64-inch increments, which is functional but not as easy to dial in absolute depth. For repetitive precise depth changes, the Makita is superior.\n\n## Value and Total Cost\n\nThe Makita RT0701C retails for $149–$169 and includes a straight guide and edge guide. The DeWalt DCW600B is a tool-only at $159–$219; you need to add a 20V MAX battery (starting around $50 for a 2.0Ah) before you can use it. For those already on the DeWalt 20V MAX platform, the DCW600B is a logical addition. For everyone else, the Makita offers better out-of-the-box value with a lower price and no extra battery investment.\n\n## Who Should Buy Which\n\nBuy the **Makita RT0701C** if you work primarily in a shop with outlets, need the widest speed range for large bits, want the best depth adjustment in its class, and prefer a lower upfront cost. It is the professional choice for precision edge work and laminate trimming.\n\nBuy the **DeWalt DCW600B** if you already own DeWalt 20V MAX batteries, need cordless freedom on job sites, value the brushless motor's longevity, and can work within a 16,000–25,500 RPM speed range. Its lighter weight and LEDs are bonuses for mobile work.\n\n## Verdict\n\nThe Makita RT0701C wins this comparison for most users. Its wider speed range, superior depth adjustment, and lower cost make it the more versatile and precise tool for the majority of compact routing tasks. The DeWalt DCW600B is a strong choice for DeWalt platform loyalists and those who truly need cordless operation, but it trades speed range and precision for portability. If you are buying your first compact router and mainly work in a shop, get the Makita.",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "related": [
+    "makita-rt0701c",
+    "dewalt-dcw600b",
+    "bosch-1617evspk"
+  ]
+}
