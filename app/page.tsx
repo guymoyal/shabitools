@@ -11,6 +11,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     'Independent reviews, head-to-head comparisons, and buying guides for Makita, DeWalt, Bosch, and Milwaukee power tools. Clear verdicts: buy it or skip it.',
   path: '',
+  ogType: 'website',
 });
 
 export default function HomePage() {

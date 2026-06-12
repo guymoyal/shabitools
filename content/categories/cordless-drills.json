@@ -44,6 +44,10 @@
     {
       "q": "Does the drill brand matter, or just the tool?",
       "a": "The brand matters because batteries are locked to one platform. Your first cordless drill purchase effectively commits you to that brand's battery system — Makita LXT, Bosch 18V, Milwaukee M18, or DeWalt 20V MAX — since future tools must share the pack and charger. Choose a platform that carries the other tools you will eventually want, not just the single best drill in isolation."
+    },
+    {
+      "q": "Do cordless drill batteries work across brands?",
+      "a": "No — battery packs are platform-specific and are not interchangeable between brands. A Milwaukee M18 pack fits only Milwaukee M18 tools, a DeWalt 20V MAX pack fits only DeWalt 20V MAX tools, and so on. Some third-party adapters exist, but they are generally unreliable and void warranties. This lock-in is the main reason to think carefully about which platform you start with, since every battery and charger you buy deepens your investment in that ecosystem."
     }
   ],
   "datePublished": "2026-06-12",
