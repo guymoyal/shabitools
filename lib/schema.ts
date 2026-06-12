@@ -1,4 +1,5 @@
 import type { FaqItem } from '@/types/content';
+import type { Project } from '@/types/project';
 import type { Review } from '@/types/review';
 
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
@@ -55,6 +56,30 @@ export function itemListJsonLd(name: string, items: { name: string; url: string 
       position: i + 1,
       name: item.name,
       url: item.url,
+    })),
+  };
+}
+
+export function howToJsonLd(project: Project, siteUrl: string) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo' as const,
+    name: project.title,
+    description: project.description,
+    totalTime: project.timeRequiredIso,
+    estimatedCost: {
+      '@type': 'MonetaryAmount',
+      currency: 'USD',
+      value: project.estCost,
+    },
+    tool: project.toolsNeeded.map((t) => ({ '@type': 'HowToTool', name: t.name })),
+    supply: project.materials.map((m) => ({ '@type': 'HowToSupply', name: m })),
+    step: project.steps.map((s, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: s.name,
+      text: s.text,
+      url: `${siteUrl}/projects/${project.slug}#step-${i + 1}`,
     })),
   };
 }

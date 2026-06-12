@@ -5,6 +5,7 @@ import type { Category } from '@/types/category';
 import type { Compare } from '@/types/compare';
 import type { Guide } from '@/types/guide';
 import type { StoreLanding } from '@/types/landing';
+import type { Project } from '@/types/project';
 import type { Review } from '@/types/review';
 
 const DEFAULT_BASE = path.join(process.cwd(), 'content');
@@ -45,6 +46,8 @@ export const getBrands = () => loadCollection<Brand>('brands');
 export const getBrand = (slug: string) => loadOne<Brand>('brands', slug);
 export const getCategories = () => loadCollection<Category>('categories');
 export const getCategory = (slug: string) => loadOne<Category>('categories', slug);
+export const getProjects = () => loadCollection<Project>('projects');
+export const getProject = (slug: string) => loadOne<Project>('projects', slug);
 
 const landingsCache = new Map<string, StoreLanding[]>();
 

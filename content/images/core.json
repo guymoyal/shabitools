@@ -1,1 +1,34 @@
-{}
+{
+  "reviews/makita-xfd131": {
+    "source": "pexels:Makita cordless drill driver 18V LXT on workbench",
+    "alt": "Makita XFD131 18V LXT cordless drill driver on a workshop workbench"
+  },
+  "reviews/dewalt-dcd800": {
+    "source": "pexels:DeWalt cordless drill 20V compact driver on wood",
+    "alt": "DeWalt DCD800 20V MAX compact brushless drill driver with battery on lumber"
+  },
+  "reviews/bosch-gsr18v-400": {
+    "source": "pexels:Bosch cordless drill 18V screwdriving wood framing",
+    "alt": "Bosch GSR18V-400 18V brushless cordless drill driving screws into wood framing"
+  },
+  "reviews/milwaukee-2904": {
+    "source": "pexels:Milwaukee cordless hammer drill 18V M18 on concrete block",
+    "alt": "Milwaukee 2904-20 M18 FUEL cordless hammer drill on a concrete block surface"
+  },
+  "guides/best-cordless-drill-2026": {
+    "source": "pexels:cordless drills comparison lineup workshop bench tools",
+    "alt": "Selection of cordless drills lined up on a workshop bench for a best-of buying guide comparison"
+  },
+  "guides/best-budget-cordless-drills": {
+    "source": "pexels:budget cordless drill DIY home improvement tools shelf",
+    "alt": "Affordable cordless drill kit on a garage shelf next to home improvement supplies"
+  },
+  "guides/best-drill-for-beginners": {
+    "source": "pexels:beginner DIY cordless drill assembling furniture",
+    "alt": "First-time DIYer using a cordless drill to assemble furniture at home"
+  },
+  "categories/cordless-drills": {
+    "source": "pexels:cordless drill driver power tools workshop overhead view",
+    "alt": "Overhead view of a cordless drill driver surrounded by drill bits and accessories on a workshop table"
+  }
+}
