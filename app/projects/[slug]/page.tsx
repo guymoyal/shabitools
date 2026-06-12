@@ -6,39 +6,20 @@ import Prose from '@/components/layout/Prose';
 import AdSlot from '@/components/monetization/AdSlot';
 import StepList from '@/components/projects/StepList';
 import ToolsNeededBox from '@/components/projects/ToolsNeededBox';
+import { DIFFICULTY_STYLES } from '@/components/projects/difficulty';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
 import SiteImage from '@/components/ui/SiteImage';
-import { getCompare, getGuide, getProject, getProjects, getReview } from '@/lib/content';
+import { getProject, getProjects, resolveRelated } from '@/lib/content';
 import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd, howToJsonLd } from '@/lib/schema';
 import { pageMetadata, SITE_URL } from '@/lib/seo';
-import type { Project } from '@/types/project';
 
 export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getProjects().map((p) => ({ slug: p.slug }));
 }
-
-/** Resolve a related slug to its canonical path + display label, across collections. */
-function resolveRelated(slug: string): { href: string; label: string } | null {
-  const review = getReview(slug);
-  if (review) return { href: `/reviews/${slug}`, label: review.title };
-  const guide = getGuide(slug);
-  if (guide) return { href: `/guides/${slug}`, label: guide.title };
-  const compare = getCompare(slug);
-  if (compare) return { href: `/compare/${slug}`, label: compare.title };
-  const project = getProject(slug);
-  if (project) return { href: `/projects/${slug}`, label: project.title };
-  return null;
-}
-
-const DIFFICULTY_STYLES: Record<Project['difficulty'], string> = {
-  beginner: 'bg-green-100 text-green-800',
-  intermediate: 'bg-amber-100 text-amber-800',
-  advanced: 'bg-red-100 text-red-800',
-};
 
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
   const project = getProject(params.slug);
@@ -54,6 +35,7 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
   const project = getProject(params.slug);
   if (!project) notFound();
   const hero = getImage(`projects/${project.slug}`);
+  const related = resolveRelated(project.related);
   const crumbs = [
     { name: 'Home', href: '/' },
     { name: 'Projects', href: '/projects' },
@@ -133,26 +115,20 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
       <AdSlot slot="0000000000" />
       <FAQSection faq={project.faq} />
 
-      {(() => {
-        const related = project.related
-          .map(resolveRelated)
-          .filter((r): r is { href: string; label: string } => r !== null);
-        if (related.length === 0) return null;
-        return (
-          <section className="mt-12 border-t border-stone-200 pt-8">
-            <h2 className="text-xl font-bold text-stone-900">Related reading</h2>
-            <ul className="mt-4 space-y-2">
-              {related.map((r) => (
-                <li key={r.href}>
-                  <Link href={r.href} className="font-medium text-amber-700 underline">
-                    {r.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-        );
-      })()}
+      {related.length > 0 && (
+        <section className="mt-12 border-t border-stone-200 pt-8">
+          <h2 className="text-xl font-bold text-stone-900">Related reading</h2>
+          <ul className="mt-4 space-y-2">
+            {related.map((r) => (
+              <li key={r.href}>
+                <Link href={r.href} className="font-medium text-amber-700 underline">
+                  {r.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </article>
   );
 }

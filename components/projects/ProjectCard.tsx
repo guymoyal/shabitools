@@ -1,13 +1,8 @@
 import Link from 'next/link';
 import SiteImage from '@/components/ui/SiteImage';
+import { DIFFICULTY_STYLES } from '@/components/projects/difficulty';
 import { getImage } from '@/lib/images';
 import type { Project } from '@/types/project';
-
-const DIFFICULTY_STYLES: Record<Project['difficulty'], string> = {
-  beginner: 'bg-green-100 text-green-800',
-  intermediate: 'bg-amber-100 text-amber-800',
-  advanced: 'bg-red-100 text-red-800',
-};
 
 export default function ProjectCard({ project }: { project: Project }) {
   const image = getImage(`projects/${project.slug}`);

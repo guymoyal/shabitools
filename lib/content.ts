@@ -49,6 +49,25 @@ export const getCategory = (slug: string) => loadOne<Category>('categories', slu
 export const getProjects = () => loadCollection<Project>('projects');
 export const getProject = (slug: string) => loadOne<Project>('projects', slug);
 
+/**
+ * Resolve a list of related slugs to their canonical paths + display labels.
+ * Searches reviews → guides → compare → projects in that order.
+ * Slugs that do not match any collection are silently filtered out.
+ */
+export function resolveRelated(slugs: string[]): { href: string; label: string }[] {
+  return slugs.flatMap((slug) => {
+    const review = getReview(slug);
+    if (review) return [{ href: `/reviews/${slug}`, label: review.title }];
+    const guide = getGuide(slug);
+    if (guide) return [{ href: `/guides/${slug}`, label: guide.title }];
+    const compare = getCompare(slug);
+    if (compare) return [{ href: `/compare/${slug}`, label: compare.title }];
+    const project = getProject(slug);
+    if (project) return [{ href: `/projects/${slug}`, label: project.title }];
+    return [];
+  });
+}
+
 const landingsCache = new Map<string, StoreLanding[]>();
 
 /** CPC store landings from content/admitad-landings.json (aibuzz format:

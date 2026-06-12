@@ -15,7 +15,7 @@ export interface Project extends ContentDates {
   slug: string;
   title: string;
   description: string; // 120–170 chars, used for meta description
-  category: string; // category slug
+  category: string; // thematic grouping (woodworking, home-repair, installs, outdoor) — not a category-hub slug
   difficulty: 'beginner' | 'intermediate' | 'advanced';
   timeRequired: string; // human, "4–6 hours"
   timeRequiredIso: string; // ISO 8601 for HowTo schema, "PT5H"

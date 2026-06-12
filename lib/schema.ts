@@ -70,7 +70,7 @@ export function howToJsonLd(project: Project, siteUrl: string) {
     estimatedCost: {
       '@type': 'MonetaryAmount',
       currency: 'USD',
-      value: (project.estCost.match(/\d+/) || ['0'])[0],
+      value: (project.estCost.match(/\d+/) || ['0'])[0], // intentionally reports the LOW end of the estCost range
     },
     tool: project.toolsNeeded.map((t) => ({ '@type': 'HowToTool', name: t.name })),
     supply: project.materials.map((m) => ({ '@type': 'HowToSupply', name: m })),
