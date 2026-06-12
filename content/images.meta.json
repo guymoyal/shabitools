@@ -1,1 +1,938 @@
-{}
+{
+  "categories/angle-grinders": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Mercedes Matzm on Pexels"
+  },
+  "categories/circular-saws": {
+    "width": 1200,
+    "height": 857,
+    "smWidth": 640,
+    "credit": "Photo by Mario Spencer on Pexels"
+  },
+  "categories/cordless-drills": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Christina & Peter on Pexels"
+  },
+  "categories/impact-drivers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Christina & Peter on Pexels"
+  },
+  "categories/jigsaws": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ivan S on Pexels"
+  },
+  "categories/leaf-blowers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ansel Lee on Pexels"
+  },
+  "categories/miter-saws": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Los Muertos Crew on Pexels"
+  },
+  "categories/oscillating-multi-tools": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Mazin Omron on Pexels"
+  },
+  "categories/pressure-washers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "categories/reciprocating-saws": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Karl  Shields on Pexels"
+  },
+  "categories/routers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Tima Miroshnichenko on Pexels"
+  },
+  "categories/sanders": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by AI25.Studio  Studio on Pexels"
+  },
+  "categories/shop-vacuums": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by La Miko on Pexels"
+  },
+  "categories/string-trimmers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pascal Küffer on Pexels"
+  },
+  "categories/table-saws": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ismael Campos Carrillo on Pexels"
+  },
+  "guides/best-angle-grinder-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Anamul Rezwan on Pexels"
+  },
+  "guides/best-budget-angle-grinders": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Anamul Rezwan on Pexels"
+  },
+  "guides/best-budget-circular-saws": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-budget-cordless-drills": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Christina & Peter on Pexels"
+  },
+  "guides/best-budget-impact-drivers": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": "Photo by Marcelo Verfe on Pexels"
+  },
+  "guides/best-budget-string-trimmers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Sergei Starostin on Pexels"
+  },
+  "guides/best-circular-saw-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-circular-saw-for-beginners": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-cordless-drill-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Christina & Peter on Pexels"
+  },
+  "guides/best-cordless-reciprocating-saws": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Karl  Shields on Pexels"
+  },
+  "guides/best-drill-for-beginners": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by www.kaboompics.com on Pexels"
+  },
+  "guides/best-electric-pressure-washers": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "guides/best-impact-driver-2026": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": "Photo by Marcelo Verfe on Pexels"
+  },
+  "guides/best-impact-driver-for-automotive-work": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": "Photo by Marcelo Verfe on Pexels"
+  },
+  "guides/best-jigsaw-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ivan S on Pexels"
+  },
+  "guides/best-jigsaw-for-woodworking": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ivan S on Pexels"
+  },
+  "guides/best-leaf-blower-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Paris Lopez on Pexels"
+  },
+  "guides/best-leaf-blower-for-large-yards": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Paris Lopez on Pexels"
+  },
+  "guides/best-miter-saw-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-miter-saw-for-homeowners": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-miter-saw-for-trim-carpentry": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "guides/best-oscillating-multi-tool-2026": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Mazin Omron on Pexels"
+  },
+  "guides/best-oscillating-tool-for-diy": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Mazin Omron on Pexels"
+  },
+  "guides/best-pressure-washer-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "guides/best-pressure-washer-for-cars-and-driveways": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "guides/best-reciprocating-saw-2026": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Karl  Shields on Pexels"
+  },
+  "guides/best-router-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Harold Granados on Pexels"
+  },
+  "guides/best-router-for-beginners": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Harold Granados on Pexels"
+  },
+  "guides/best-sander-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by AI25.Studio  Studio on Pexels"
+  },
+  "guides/best-sander-for-furniture-refinishing": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by AI25.Studio  Studio on Pexels"
+  },
+  "guides/best-shop-vacuum-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pew Nguyen on Pexels"
+  },
+  "guides/best-shop-vacuum-for-woodworking": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pew Nguyen on Pexels"
+  },
+  "guides/best-string-trimmer-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Sergei Starostin on Pexels"
+  },
+  "guides/best-table-saw-2026": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pew Nguyen on Pexels"
+  },
+  "guides/best-table-saw-for-small-shops": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pew Nguyen on Pexels"
+  },
+  "home/hero": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Chengxin Zhao on Pexels"
+  },
+  "projects/build-a-bird-house": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by İrem Çevik on Pexels"
+  },
+  "projects/build-a-bookshelf": {
+    "width": 1200,
+    "height": 713,
+    "smWidth": 640,
+    "credit": "Photo by Chris F on Pexels"
+  },
+  "projects/build-a-coat-rack": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Zulfugar Karimov on Pexels"
+  },
+  "projects/build-a-compost-bin": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Towfiqu barbhuiya on Pexels"
+  },
+  "projects/build-a-dog-house": {
+    "width": 1200,
+    "height": 675,
+    "smWidth": 640,
+    "credit": "Photo by Dmytro Glazunov on Pexels"
+  },
+  "projects/build-a-fire-pit": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "projects/build-a-garden-bench": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Eyüpcan Timur on Pexels"
+  },
+  "projects/build-a-planter-box": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Andreea Ch on Pexels"
+  },
+  "projects/build-a-raised-garden-bed": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by LUIS GALLARDO on Pexels"
+  },
+  "projects/build-a-sandbox": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Markus Spiske on Pexels"
+  },
+  "projects/build-a-shoe-rack": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ngeow Shen Sin on Pexels"
+  },
+  "projects/build-a-simple-workbench": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pew Nguyen on Pexels"
+  },
+  "projects/build-a-storage-chest": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pixabay on Pexels"
+  },
+  "projects/build-floating-shelves": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Avery Arwood on Pexels"
+  },
+  "projects/clean-and-repair-gutters": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Francesco Ungaro on Pexels"
+  },
+  "projects/fix-a-running-toilet": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Arina Krasnikova on Pexels"
+  },
+  "projects/fix-a-squeaky-door": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Ksenia Chernaya on Pexels"
+  },
+  "projects/fix-squeaky-floorboards": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Polina Tankilevitch on Pexels"
+  },
+  "projects/fix-sticking-windows": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Ksenia Chernaya on Pexels"
+  },
+  "projects/install-a-ceiling-fan": {
+    "width": 1200,
+    "height": 904,
+    "smWidth": 640,
+    "credit": "Photo by Afsyah - on Pexels"
+  },
+  "projects/install-a-ceiling-light-fixture": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Anete Lusina on Pexels"
+  },
+  "projects/install-a-dimmer-switch": {
+    "width": 1200,
+    "height": 798,
+    "smWidth": 640,
+    "credit": "Photo by Srattha Nualsate on Pexels"
+  },
+  "projects/install-a-smart-thermostat": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "projects/install-a-storm-door": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Henry De Leon on Pexels"
+  },
+  "projects/install-closet-organizer": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Curtis Adams on Pexels"
+  },
+  "projects/install-curtain-rods": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Designecologist on Pexels"
+  },
+  "projects/install-landscape-edging": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Alyssa Rose on Pexels"
+  },
+  "projects/install-peel-and-stick-backsplash": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Derwin  Edwards on Pexels"
+  },
+  "projects/install-wall-anchors-and-shelving": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by gorden murahmalang on Pexels"
+  },
+  "projects/lay-a-paver-walkway": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Timothy Huliselan on Pexels"
+  },
+  "projects/make-picture-frames": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Los Muertos Crew on Pexels"
+  },
+  "projects/mount-a-tv-on-the-wall": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Max Vakhtbovych on Pexels"
+  },
+  "projects/patch-cracked-concrete": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Joshua Mueller on Pexels"
+  },
+  "projects/patch-drywall-holes": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Jimmy Nilsson Masth on Pexels"
+  },
+  "projects/pressure-wash-a-driveway": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Erik Mclean on Pexels"
+  },
+  "projects/re-caulk-a-bathtub": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by Max Vakhtbovych on Pexels"
+  },
+  "projects/repair-a-leaky-pipe-under-sink": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Anıl Karakaya on Pexels"
+  },
+  "projects/repair-a-wooden-fence": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Los Muertos Crew on Pexels"
+  },
+  "projects/repair-wood-rot-trim": {
+    "width": 1200,
+    "height": 905,
+    "smWidth": 640,
+    "credit": "Photo by Robert So on Pexels"
+  },
+  "projects/replace-a-door-lock": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Pixabay on Pexels"
+  },
+  "projects/replace-a-kitchen-faucet": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Zulfugar Karimov on Pexels"
+  },
+  "projects/replace-cabinet-hinges": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Curtis Adams on Pexels"
+  },
+  "projects/replace-deck-boards": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by cottonbro studio on Pexels"
+  },
+  "projects/seal-a-driveway": {
+    "width": 1200,
+    "height": 797,
+    "smWidth": 640,
+    "credit": "Photo by wal_ 172619 on Pexels"
+  },
+  "projects/stain-a-deck": {
+    "width": 1200,
+    "height": 801,
+    "smWidth": 640,
+    "credit": "Photo by ROMAN ODINTSOV on Pexels"
+  },
+  "reviews/bosch-1617evspk": {
+    "width": 1176,
+    "height": 1176,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/bosch-gcm12sd": {
+    "width": 740,
+    "height": 633,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/bosch-gdx18v-1800cn": {
+    "width": 740,
+    "height": 740,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/bosch-gsr18v-400": {
+    "width": 740,
+    "height": 740,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/bosch-gts18v-08n": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Marc Pell on Pexels"
+  },
+  "reviews/bosch-js365": {
+    "width": 740,
+    "height": 637,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/bosch-rs428": {
+    "width": 166,
+    "height": 95,
+    "smWidth": 166,
+    "credit": null
+  },
+  "reviews/craftsman-cmcst930p1": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/craftsman-cmepw1700": {
+    "width": 1200,
+    "height": 720,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/craftsman-cmxevbe17595": {
+    "width": 600,
+    "height": 600,
+    "smWidth": 600,
+    "credit": null
+  },
+  "reviews/dewalt-dcd800": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcf887b": {
+    "width": 1024,
+    "height": 1024,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcs334b": {
+    "width": 1200,
+    "height": 1029,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcs356b": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcs386b": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Baixi Liu on Pexels"
+  },
+  "reviews/dewalt-dcs573b": {
+    "width": 284,
+    "height": 280,
+    "smWidth": 284,
+    "credit": null
+  },
+  "reviews/dewalt-dcst972x1": {
+    "width": 1200,
+    "height": 932,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcw210b": {
+    "width": 1200,
+    "height": 858,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dcw600b": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dwe402": {
+    "width": 1200,
+    "height": 728,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dwe6411k": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dwe7485": {
+    "width": 1200,
+    "height": 857,
+    "smWidth": 640,
+    "credit": "Photo by Mario Spencer on Pexels"
+  },
+  "reviews/dewalt-dws780": {
+    "width": 1200,
+    "height": 951,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dxpw3425e": {
+    "width": 1200,
+    "height": 864,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/dewalt-dxv10p": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ego-hpw3200": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ego-lb6504": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ego-st1521s": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/makita-bo5041": {
+    "width": 1024,
+    "height": 1024,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/makita-ga4534": {
+    "width": 600,
+    "height": 600,
+    "smWidth": 600,
+    "credit": null
+  },
+  "reviews/makita-rt0701c": {
+    "width": 500,
+    "height": 500,
+    "smWidth": 500,
+    "credit": null
+  },
+  "reviews/makita-xbu02z": {
+    "width": 1200,
+    "height": 621,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/makita-xdt16z": {
+    "width": 1200,
+    "height": 1527,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/makita-xfd131": {
+    "width": 500,
+    "height": 500,
+    "smWidth": 500,
+    "credit": null
+  },
+  "reviews/makita-xmt03z": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/metabo-hpt-c10fcgs": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/metabo-hpt-c10rjs": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Adrian Sulyok on Pexels"
+  },
+  "reviews/milwaukee-2722-20": {
+    "width": 1200,
+    "height": 900,
+    "smWidth": 640,
+    "credit": "Photo by Karl  Shields on Pexels"
+  },
+  "reviews/milwaukee-2724-20": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/milwaukee-2731-20": {
+    "width": 520,
+    "height": 520,
+    "smWidth": 520,
+    "credit": null
+  },
+  "reviews/milwaukee-2737-20": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/milwaukee-2836-20": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/milwaukee-2880-20": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/milwaukee-2904": {
+    "width": 1200,
+    "height": 1200,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ridgid-hd1600": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pblcs300b": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl235b": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl424b": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl430b": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl445b": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl525b": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-pcl735b": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-psbrs01b": {
+    "width": 1200,
+    "height": 800,
+    "smWidth": 640,
+    "credit": "Photo by Ron Lach on Pexels"
+  },
+  "reviews/ryobi-rs290g": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-ry142300": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-ry40250": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-ry404014btl": {
+    "width": 874,
+    "height": 874,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/ryobi-tss103": {
+    "width": 1000,
+    "height": 1000,
+    "smWidth": 640,
+    "credit": null
+  },
+  "reviews/skil-5280-01": {
+    "width": 550,
+    "height": 550,
+    "smWidth": 550,
+    "credit": null
+  },
+  "reviews/skil-ts6307-00": {
+    "width": 1200,
+    "height": 857,
+    "smWidth": 640,
+    "credit": "Photo by Mario Spencer on Pexels"
+  }
+}
