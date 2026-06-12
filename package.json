@@ -26,7 +26,8 @@
     "partners:harvest": "node scripts/harvestPartnerPrograms.js",
     "partners:manual": "node scripts/mergePartnerPrograms.js",
     "partners:copy": "node scripts/generateLandingCopy.js",
-    "partners:sync": "pnpm partners:manual && pnpm partners:copy"
+    "partners:sync": "pnpm partners:manual && pnpm partners:copy",
+    "admitad:sync": "node scripts/admitadSync.js"
   },
   "packageManager": "pnpm@8.15.0",
   "dependencies": {
