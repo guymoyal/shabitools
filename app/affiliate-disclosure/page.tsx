@@ -19,12 +19,20 @@ export default function AffiliateDisclosurePage() {
       <div className="mx-auto max-w-3xl px-4 py-12">
         <h2 className="text-2xl font-bold text-stone-900">We use affiliate links</h2>
         <p className="mt-4 text-stone-700 leading-relaxed">
-          Many pages on shabitools contain affiliate links. This includes links served through the
-          Admitad affiliate network and links routed through our own{' '}
+          Many pages on shabitools contain affiliate links. This includes links to Amazon, links
+          served through the Admitad affiliate network, and links routed through our own{' '}
           <code className="rounded bg-stone-100 px-1 py-0.5 text-sm">/go/</code> redirects. If you
           click one of these links and then buy something, we may earn a commission. That commission
           comes out of the retailer&rsquo;s margin — it costs you nothing extra, and you pay exactly
           the same price you would have paid going to the store directly.
+        </p>
+
+        <h2 className="text-2xl font-bold text-stone-900 mt-10">Amazon Associates</h2>
+        <p className="mt-4 text-stone-700 leading-relaxed">
+          shabitools is a participant in the Amazon Services LLC Associates Program, an affiliate
+          advertising program designed to provide a means for sites to earn advertising fees by
+          advertising and linking to Amazon.com.{' '}
+          <strong>As an Amazon Associate I earn from qualifying purchases.</strong>
         </p>
 
         <h2 className="text-2xl font-bold text-stone-900 mt-10">Money never buys a verdict</h2>

@@ -42,8 +42,8 @@ export default function Footer() {
             Independent reviews and buying guides for home &amp; power tools.
           </p>
           <p className="mt-3 text-xs text-stone-400">
-            As an affiliate, we may earn a commission from qualifying purchases made through
-            links on this site — at no extra cost to you.
+            As an Amazon Associate I earn from qualifying purchases. We may also earn from other
+            affiliate links on this site — at no extra cost to you.
           </p>
         </div>
         {SECTIONS.map((s) => (
