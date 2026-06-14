@@ -5,9 +5,11 @@ import type { AffiliateLink } from '@/types/content';
 export default function AffiliateCTA({
   links,
   productName,
+  title,
 }: {
   links: AffiliateLink[];
   productName: string;
+  title?: string;
 }) {
   const live = links
     .map((l) => ({ ...l, href: resolveAffiliateUrl(l) }))
@@ -15,7 +17,7 @@ export default function AffiliateCTA({
   if (!live.length) return null;
   return (
     <div className="mt-8 rounded-2xl border border-stone-200 bg-stone-50 p-6 text-center">
-      <p className="font-semibold text-stone-900">Where to buy the {productName}</p>
+      <p className="font-semibold text-stone-900">{title ?? `Where to buy the ${productName}`}</p>
       <div className="mt-4 flex flex-wrap justify-center gap-3">
         {live.map((l) => (
           <SmartCtaButton

@@ -86,6 +86,11 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
       <Prose markdown={review.body} />
       <AdSlot />
       <FAQSection faq={review.faq} />
+      <AffiliateCTA
+        links={review.affiliate}
+        productName={review.model}
+        title={`Ready to buy the ${review.model}?`}
+      />
       <WhereToBuyStrip />
     </article>
   );
