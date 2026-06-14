@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import SiteImage from '@/components/ui/SiteImage';
 import { DIFFICULTY_STYLES } from '@/components/projects/difficulty';
+import { ClockIcon, TagIcon } from '@/components/ui/icons';
 import { getImage } from '@/lib/images';
 import type { Project } from '@/types/project';
 
@@ -29,8 +30,15 @@ export default function ProjectCard({ project }: { project: Project }) {
           {project.title}
         </h3>
         <p className="mt-2 line-clamp-3 text-sm text-stone-600">{project.description}</p>
-        <p className="mt-auto pt-4 text-sm text-stone-500">
-          {project.timeRequired} · {project.estCost}
+        <p className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 pt-4 text-sm text-stone-500">
+          <span className="flex items-center gap-1">
+            <ClockIcon className="h-3.5 w-3.5" />
+            {project.timeRequired}
+          </span>
+          <span className="flex items-center gap-1">
+            <TagIcon className="h-3.5 w-3.5" />
+            {project.estCost}
+          </span>
         </p>
       </div>
     </Link>

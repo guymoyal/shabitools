@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import SiteImage from '@/components/ui/SiteImage';
+import { TagIcon, WrenchIcon } from '@/components/ui/icons';
 import { getImage } from '@/lib/images';
 import type { Review } from '@/types/review';
 import RatingStars from './RatingStars';
@@ -20,14 +21,18 @@ export default function ReviewCard({ review }: { review: Review }) {
         </div>
       )}
       <div className="flex flex-1 flex-col p-5">
-        <p className="text-xs font-semibold uppercase tracking-wide text-amber-700">
+        <p className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-amber-700">
+          <WrenchIcon className="h-3.5 w-3.5" />
           {review.category.replace(/-/g, ' ')}
         </p>
         <h3 className="mt-2 font-bold text-stone-900 group-hover:text-amber-700">{review.title}</h3>
         <p className="mt-2 line-clamp-2 text-sm text-stone-600">{review.bestFor}</p>
         <div className="mt-auto flex items-center justify-between pt-4">
           <RatingStars rating={review.rating} />
-          <span className="text-sm text-stone-500">{review.priceRange}</span>
+          <span className="flex items-center gap-1 text-sm text-stone-500">
+            <TagIcon className="h-3.5 w-3.5" />
+            {review.priceRange}
+          </span>
         </div>
       </div>
     </Link>

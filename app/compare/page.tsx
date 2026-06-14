@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
+import CompareCard from '@/components/compare/CompareCard';
 import PageHero from '@/components/layout/PageHero';
 import JsonLd from '@/components/seo/JsonLd';
 import { getCompares } from '@/lib/content';
@@ -29,14 +29,7 @@ export default function ComparePage() {
       />
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-12 sm:grid-cols-2 lg:grid-cols-3">
         {compares.map((c) => (
-          <Link
-            key={c.slug}
-            href={`/compare/${c.slug}`}
-            className="block rounded-2xl border border-stone-200 bg-white p-6 shadow-sm transition hover:border-amber-300 hover:shadow-md"
-          >
-            <h2 className="text-lg font-bold text-stone-900">{c.title}</h2>
-            <p className="mt-2 line-clamp-2 text-sm text-stone-600">{c.verdict}</p>
-          </Link>
+          <CompareCard key={c.slug} compare={c} />
         ))}
       </div>
     </>
