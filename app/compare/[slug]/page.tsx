@@ -96,7 +96,7 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
         <AffiliateCTA links={winnerReview.affiliate} productName={winnerReview.model} />
       )}
       <Prose markdown={compare.body} />
-      <AdSlot slot="0000000000" />
+      <AdSlot />
       <FAQSection faq={compare.faq} />
       <WhereToBuyStrip />
     </article>

@@ -113,7 +113,7 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
 
       <StepList steps={project.steps} />
       <Prose markdown={project.body} />
-      <AdSlot slot="0000000000" />
+      <AdSlot />
       <FAQSection faq={project.faq} />
 
       {related.length > 0 && (

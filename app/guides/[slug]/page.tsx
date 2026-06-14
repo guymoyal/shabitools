@@ -82,7 +82,7 @@ export default function GuidePage({ params }: { params: { slug: string } }) {
         <RankedPickCard key={p.rank} pick={p} />
       ))}
       <Prose markdown={guide.body} />
-      <AdSlot slot="0000000000" />
+      <AdSlot />
       <FAQSection faq={guide.faq} />
       <WhereToBuyStrip />
     </article>

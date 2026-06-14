@@ -84,7 +84,7 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
       <SpecTable specs={review.specs} />
       <ProsCons pros={review.pros} cons={review.cons} />
       <Prose markdown={review.body} />
-      <AdSlot slot="0000000000" />
+      <AdSlot />
       <FAQSection faq={review.faq} />
       <WhereToBuyStrip />
     </article>
