@@ -10,30 +10,35 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
+      - uses: actions/checkout@v4
+
       - name: Setup pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v4
         with:
           version: 8.15.0
-      
+
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'pnpm'
-      
+
       - name: Install dependencies
-        run: pnpm install
-      
+        run: pnpm install --frozen-lockfile
+
       - name: Build
         run: pnpm build
-      
+        # NEXT_PUBLIC_* values are public (shipped in the client HTML), so they
+        # live here to keep CI builds identical to local deploys. Without them
+        # the build would ship with no ads and no Amazon affiliate links.
+        env:
+          NEXT_PUBLIC_SITE_URL: https://shabitools.com
+          NEXT_PUBLIC_ADSENSE_SLOT: '1057129042'
+          NEXT_PUBLIC_AMAZON_ASSOCIATES_TAG: shabitools20-20
+
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: shabitools
-          directory: out
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          accountId: 51a8b65a0d3d7a6db0093b6d524dd49f
+          command: pages deploy out --project-name=shabitools --branch=main
