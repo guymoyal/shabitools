@@ -22,7 +22,7 @@ export default function ToolsNeededBox({ tools }: { tools: ProjectTool[] }) {
                 </Link>
               </>
             )}
-            {tool.affiliate?.url && (
+            {tool.affiliate && (
               <AffiliateCTA links={[tool.affiliate]} productName={tool.name} />
             )}
           </li>

@@ -2,10 +2,12 @@ import Link from 'next/link';
 import SiteImage from '@/components/ui/SiteImage';
 import { getImage } from '@/lib/images';
 import { SmartCtaButton } from '@/components/monetization/SmartCtaButton';
+import { resolveAffiliateUrl } from '@/lib/affiliate';
 import type { GuidePick } from '@/types/guide';
 
 export default function RankedPickCard({ pick }: { pick: GuidePick }) {
   const thumb = pick.reviewSlug ? getImage(`reviews/${pick.reviewSlug}`) : null;
+  const affiliateHref = pick.affiliate ? resolveAffiliateUrl(pick.affiliate) : null;
   return (
     <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
       <div className="flex flex-wrap items-start gap-4 sm:flex-nowrap">
@@ -44,12 +46,12 @@ export default function RankedPickCard({ pick }: { pick: GuidePick }) {
         </ul>
       </div>
       <div className="mt-5 flex flex-wrap items-center gap-4">
-        {pick.affiliate?.url && (
+        {affiliateHref && (
           <SmartCtaButton
-            href={pick.affiliate.url}
+            href={affiliateHref}
             className="inline-block rounded-xl bg-amber-600 px-5 py-2.5 font-semibold text-white hover:bg-amber-700"
           >
-            Check price at {pick.affiliate.merchant}
+            Check price at {pick.affiliate!.merchant}
           </SmartCtaButton>
         )}
         {pick.reviewSlug && (
@@ -58,7 +60,7 @@ export default function RankedPickCard({ pick }: { pick: GuidePick }) {
           </Link>
         )}
       </div>
-      {pick.affiliate?.url && (
+      {affiliateHref && (
         <p className="mt-2 text-xs text-stone-500">We may earn a commission from this link.</p>
       )}
     </section>

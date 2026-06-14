@@ -1,4 +1,5 @@
 import { SmartCtaButton } from './SmartCtaButton';
+import { resolveAffiliateUrl } from '@/lib/affiliate';
 import type { AffiliateLink } from '@/types/content';
 
 export default function AffiliateCTA({
@@ -8,7 +9,9 @@ export default function AffiliateCTA({
   links: AffiliateLink[];
   productName: string;
 }) {
-  const live = links.filter((l) => l.url);
+  const live = links
+    .map((l) => ({ ...l, href: resolveAffiliateUrl(l) }))
+    .filter((l): l is AffiliateLink & { href: string } => Boolean(l.href));
   if (!live.length) return null;
   return (
     <div className="mt-8 rounded-2xl border border-stone-200 bg-stone-50 p-6 text-center">
@@ -17,7 +20,7 @@ export default function AffiliateCTA({
         {live.map((l) => (
           <SmartCtaButton
             key={l.merchant}
-            href={l.url!}
+            href={l.href}
             className="inline-block rounded-xl bg-amber-600 px-6 py-3 font-semibold text-white shadow transition hover:bg-amber-700"
           >
             Check price at {l.merchant}
