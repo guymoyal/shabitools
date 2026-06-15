@@ -1,10 +1,13 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+import Script from 'next/script';
 import './globals.css';
 import Header from '@/components/Header/Header';
 import Footer from '@/components/Footer/Footer';
 
 const inter = Inter({ subsets: ['latin'] });
+
+const GA_MEASUREMENT_ID = 'G-6LSJNET09C';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://shabitools.com'),
@@ -53,8 +56,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           href="https://googleads.g.doubleclick.net"
           crossOrigin="anonymous"
         />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
       </head>
       <body className={`${inter.className} min-h-screen flex flex-col bg-white text-gray-900`}>
+        {/* Google Analytics — deferred load (after the page is interactive) */}
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
