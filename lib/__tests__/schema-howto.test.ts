@@ -57,6 +57,11 @@ describe('howToJsonLd', () => {
     expect(ld.totalTime).toBe(project.timeRequiredIso);
   });
 
+  it('carries datePublished and dateModified', () => {
+    expect(ld.datePublished).toBe('2026-06-12');
+    expect(ld.dateModified).toBe('2026-06-12');
+  });
+
   it('sets estimatedCost as MonetaryAmount with numeric value', () => {
     expect(ld.estimatedCost).toEqual({
       '@type': 'MonetaryAmount',
