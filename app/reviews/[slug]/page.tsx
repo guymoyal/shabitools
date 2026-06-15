@@ -9,6 +9,7 @@ import ProsCons from '@/components/reviews/ProsCons';
 import RatingStars from '@/components/reviews/RatingStars';
 import SpecTable from '@/components/reviews/SpecTable';
 import VerdictBox from '@/components/reviews/VerdictBox';
+import EditorialByline from '@/components/seo/EditorialByline';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
 import SiteImage from '@/components/ui/SiteImage';
@@ -58,9 +59,7 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
       </h1>
       <div className="mt-3 flex flex-wrap items-center gap-4 text-sm text-stone-500">
         <RatingStars rating={review.rating} />
-        <span>
-          Updated <time dateTime={review.dateModified}>{review.dateModified}</time>
-        </span>
+        <EditorialByline dateModified={review.dateModified} />
       </div>
       <div className="mt-6 grid gap-6 sm:grid-cols-[1fr_auto]">
         <VerdictBox

@@ -6,8 +6,9 @@ import ReviewCard from '@/components/reviews/ReviewCard';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
 import { getBrand, getBrands, getReviews } from '@/lib/content';
+import { getImage } from '@/lib/images';
 import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, ogImage, SITE_URL } from '@/lib/seo';
 
 export const dynamicParams = false;
 
@@ -21,10 +22,13 @@ export function generateMetadata({ params }: { params: { brand: string } }): Met
   const description = `${brand.name} power tools brand guide — ${brand.knownFor
     .slice(0, 3)
     .join(', ')}, and who should choose ${brand.name}.`;
+  // No dedicated brand imagery exists; fall back to a real product image from this brand.
+  const featured = getReviews().find((r) => r.brand === brand.slug);
   return pageMetadata({
     title: `${brand.name} Power Tools — Brand Guide`,
     description,
     path: `/brands/${brand.slug}`,
+    image: featured ? ogImage(getImage(`reviews/${featured.slug}`)) : undefined,
   });
 }
 
