@@ -17,7 +17,7 @@ async function chatJson(messages: { role: string; content: string }[], opts: Dee
     }),
   });
   if (!res.ok) throw new Error(`deepseek ${ (res as any).status ?? '' }`);
-  const data = await res.json();
+  const data = await res.json() as any;
   const content = data?.choices?.[0]?.message?.content;
   if (!content) throw new Error('deepseek: empty content');
   return JSON.parse(content); // throws on malformed JSON
