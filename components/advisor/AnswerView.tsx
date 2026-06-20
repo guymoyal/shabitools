@@ -6,6 +6,9 @@ export default function AnswerView({ answer }: { answer: Answer }) {
   return (
     <div className="mt-6">
       <p className="text-base text-stone-700 dark:text-stone-200">{answer.intro}</p>
+      <a href={`/advisor/a/${answer.answerHash}`} className="mt-2 inline-block text-xs text-orange-600 underline">
+        Share this answer
+      </a>
       {answer.groups.map((group) => (
         <section key={group.label} className="mt-6">
           {answer.groups.length > 1 && (
