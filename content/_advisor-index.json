@@ -1,0 +1,702 @@
+[
+  {
+    "slug": "bosch-1617evspk",
+    "kind": "review",
+    "href": "/reviews/bosch-1617evspk",
+    "label": "Bosch 1617EVSPK Review: 2.25HP Fixed/Plunge Combo",
+    "brand": "bosch",
+    "category": "routers",
+    "model": "1617EVSPK",
+    "asin": "B00005RHPD"
+  },
+  {
+    "slug": "bosch-gcm12sd",
+    "kind": "review",
+    "href": "/reviews/bosch-gcm12sd",
+    "label": "Bosch GCM12SD Review: The 12\" Axial-Glide Miter Saw Explained",
+    "brand": "bosch",
+    "category": "miter-saws",
+    "model": "GCM12SD",
+    "asin": "B004323NNC"
+  },
+  {
+    "slug": "bosch-gdx18v-1800cn",
+    "kind": "review",
+    "href": "/reviews/bosch-gdx18v-1800cn",
+    "label": "Bosch GDX18V-1800CN Freak Review: One Tool, Two Chuck Sizes",
+    "brand": "bosch",
+    "category": "impact-drivers",
+    "model": "GDX18V-1800CN",
+    "asin": "B07N3CJSLP"
+  },
+  {
+    "slug": "bosch-gsr18v-400",
+    "kind": "review",
+    "href": "/reviews/bosch-gsr18v-400",
+    "label": "Bosch GSR18V-400 18V Compact Drill Review (2026)",
+    "brand": "bosch",
+    "category": "cordless-drills",
+    "model": "GSR18V-400",
+    "asin": "B0BCX9DXSS"
+  },
+  {
+    "slug": "bosch-gts18v-08n",
+    "kind": "review",
+    "href": "/reviews/bosch-gts18v-08n",
+    "label": "Bosch GTS18V-08N Review: Cordless Table Saw Worth the Cost?",
+    "brand": "bosch",
+    "category": "table-saws",
+    "model": "GTS18V-08N",
+    "asin": "B0BF2Z4SDY"
+  },
+  {
+    "slug": "bosch-js365",
+    "kind": "review",
+    "href": "/reviews/bosch-js365",
+    "label": "Bosch JS365 Review: The Corded Jigsaw Benchmark",
+    "brand": "bosch",
+    "category": "jigsaws",
+    "model": "JS365"
+  },
+  {
+    "slug": "bosch-rs428",
+    "kind": "review",
+    "href": "/reviews/bosch-rs428",
+    "label": "Bosch RS428 14-Amp Reciprocating Saw Review: Corded Precision Meets Demo Muscle",
+    "brand": "bosch",
+    "category": "reciprocating-saws",
+    "model": "RS428",
+    "asin": "B004XPD6M2"
+  },
+  {
+    "slug": "craftsman-cmcst930p1",
+    "kind": "review",
+    "href": "/reviews/craftsman-cmcst930p1",
+    "label": "Craftsman CMCST930P1 V20 Review: Brushless Trimmer Under $140",
+    "brand": "craftsman",
+    "category": "string-trimmers",
+    "model": "CMCST930P1",
+    "asin": "B0C7DX5813"
+  },
+  {
+    "slug": "craftsman-cmepw1700",
+    "kind": "review",
+    "href": "/reviews/craftsman-cmepw1700",
+    "label": "Craftsman CMEPW1700 Review: Best Entry-Level Electric Washer",
+    "brand": "craftsman",
+    "category": "pressure-washers",
+    "model": "CMEPW1700",
+    "asin": "B085285X4J"
+  },
+  {
+    "slug": "craftsman-cmxevbe17595",
+    "kind": "review",
+    "href": "/reviews/craftsman-cmxevbe17595",
+    "label": "Craftsman CMXEVBE17595 Review: 16-Gal Lowe's Shop Vac",
+    "brand": "craftsman",
+    "category": "shop-vacuums",
+    "model": "CMXEVBE17595",
+    "asin": "B07H84CNG9"
+  },
+  {
+    "slug": "dewalt-dcd800",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcd800",
+    "label": "DeWalt DCD800 20V MAX XR Cordless Drill Review (2026)",
+    "brand": "dewalt",
+    "category": "cordless-drills",
+    "model": "DCD800",
+    "asin": "B09YY8RZJ9"
+  },
+  {
+    "slug": "dewalt-dcf887b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcf887b",
+    "label": "DeWalt DCF887B 20V MAX XR Impact Driver Review: Fast and Compact",
+    "brand": "dewalt",
+    "category": "impact-drivers",
+    "model": "DCF887B"
+  },
+  {
+    "slug": "dewalt-dcs334b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcs334b",
+    "label": "DeWalt DCS334B 20V MAX XR Jigsaw Review: Light and Fast",
+    "brand": "dewalt",
+    "category": "jigsaws",
+    "model": "DCS334B",
+    "asin": "B07JPFHQKG"
+  },
+  {
+    "slug": "dewalt-dcs356b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcs356b",
+    "label": "DeWalt DCS356B Review: 3-Speed 20V Oscillating Tool",
+    "brand": "dewalt",
+    "category": "oscillating-multi-tools",
+    "model": "DCS356B",
+    "asin": "B07VBB55X5"
+  },
+  {
+    "slug": "dewalt-dcs386b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcs386b",
+    "label": "DeWalt DCS386B FLEXVOLT Advantage Reciprocating Saw Review",
+    "brand": "dewalt",
+    "category": "reciprocating-saws",
+    "model": "DCS386B",
+    "asin": "B08J8FKV2K"
+  },
+  {
+    "slug": "dewalt-dcs573b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcs573b",
+    "label": "DeWalt DCS573B Review: 20V FLEXVOLT Advantage Circular Saw",
+    "brand": "dewalt",
+    "category": "circular-saws",
+    "model": "DCS573B",
+    "asin": "B08J8DZYT1"
+  },
+  {
+    "slug": "dewalt-dcst972x1",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcst972x1",
+    "label": "DeWalt DCST972X1 60V MAX Review: 17-Inch Pro Attachment Trimmer",
+    "brand": "dewalt",
+    "category": "string-trimmers",
+    "model": "DCST972X1",
+    "asin": "B08QVGYCDD"
+  },
+  {
+    "slug": "dewalt-dcw210b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcw210b",
+    "label": "DeWalt DCW210B Review: 20V Cordless 5-In ROS Unpacked",
+    "brand": "dewalt",
+    "category": "sanders",
+    "model": "DCW210B",
+    "asin": "B07JQM7C28"
+  },
+  {
+    "slug": "dewalt-dcw600b",
+    "kind": "review",
+    "href": "/reviews/dewalt-dcw600b",
+    "label": "DeWalt DCW600B Review: Cordless Compact Router",
+    "brand": "dewalt",
+    "category": "routers",
+    "model": "DCW600B",
+    "asin": "B07KSRTDML"
+  },
+  {
+    "slug": "dewalt-dwe402",
+    "kind": "review",
+    "href": "/reviews/dewalt-dwe402",
+    "label": "DeWalt DWE402 Review: 11-Amp Corded Angle Grinder",
+    "brand": "dewalt",
+    "category": "angle-grinders",
+    "model": "DWE402",
+    "asin": "B00RVZ7DNO"
+  },
+  {
+    "slug": "dewalt-dwe6411k",
+    "kind": "review",
+    "href": "/reviews/dewalt-dwe6411k",
+    "label": "DeWalt DWE6411K Review: 1/4-Sheet Palm Sander for Detail Work",
+    "brand": "dewalt",
+    "category": "sanders",
+    "model": "DWE6411K",
+    "asin": "B00ZWJDN5S"
+  },
+  {
+    "slug": "dewalt-dwe7485",
+    "kind": "review",
+    "href": "/reviews/dewalt-dwe7485",
+    "label": "DeWalt DWE7485 Review: Best Compact Jobsite Table Saw?",
+    "brand": "dewalt",
+    "category": "table-saws",
+    "model": "DWE7485",
+    "asin": "B0842QDW95"
+  },
+  {
+    "slug": "dewalt-dws780",
+    "kind": "review",
+    "href": "/reviews/dewalt-dws780",
+    "label": "DeWalt DWS780 Review: 12\" Sliding Compound Miter Saw",
+    "brand": "dewalt",
+    "category": "miter-saws",
+    "model": "DWS780",
+    "asin": "B00540JS7C"
+  },
+  {
+    "slug": "dewalt-dxpw3425e",
+    "kind": "review",
+    "href": "/reviews/dewalt-dxpw3425e",
+    "label": "DeWalt DXPW3425E Review: 3400 PSI Gas Washer with Dual Start",
+    "brand": "dewalt",
+    "category": "pressure-washers",
+    "model": "DXPW3425E",
+    "asin": "B0CG4LZR46"
+  },
+  {
+    "slug": "dewalt-dxv10p",
+    "kind": "review",
+    "href": "/reviews/dewalt-dxv10p",
+    "label": "DeWalt DXV10P Review: Quiet 10-Gal Jobsite Wet/Dry Vac",
+    "brand": "dewalt",
+    "category": "shop-vacuums",
+    "model": "DXV10P",
+    "asin": "B07BYH6SWX"
+  },
+  {
+    "slug": "ego-hpw3200",
+    "kind": "review",
+    "href": "/reviews/ego-hpw3200",
+    "label": "EGO HPW3200 Review: 3200 PSI Cordless Pressure Washer",
+    "brand": "ego",
+    "category": "pressure-washers",
+    "model": "HPW3200",
+    "asin": "B0CPDZK5RQ"
+  },
+  {
+    "slug": "ego-lb6504",
+    "kind": "review",
+    "href": "/reviews/ego-lb6504",
+    "label": "EGO LB6504 Review: 650 CFM Without the Gas Can",
+    "brand": "ego",
+    "category": "leaf-blowers",
+    "model": "LB6504",
+    "asin": "B087RRLLQ3"
+  },
+  {
+    "slug": "ego-st1521s",
+    "kind": "review",
+    "href": "/reviews/ego-st1521s",
+    "label": "EGO Power+ ST1521S Review: 56V PowerLoad String Trimmer",
+    "brand": "ego",
+    "category": "string-trimmers",
+    "model": "ST1521S",
+    "asin": "B07BBW8P9Y"
+  },
+  {
+    "slug": "makita-bo5041",
+    "kind": "review",
+    "href": "/reviews/makita-bo5041",
+    "label": "Makita BO5041 Review: Corded 5-In ROS with Wide Speed Range",
+    "brand": "makita",
+    "category": "sanders",
+    "model": "BO5041",
+    "asin": "B0076I69H2"
+  },
+  {
+    "slug": "makita-ga4534",
+    "kind": "review",
+    "href": "/reviews/makita-ga4534",
+    "label": "Makita GA4534 Review: 6-Amp Paddle Grinder, Lightest Class",
+    "brand": "makita",
+    "category": "angle-grinders",
+    "model": "GA4534",
+    "asin": "B003S3SOV8"
+  },
+  {
+    "slug": "makita-rt0701c",
+    "kind": "review",
+    "href": "/reviews/makita-rt0701c",
+    "label": "Makita RT0701C Review: Best Compact Trim Router",
+    "brand": "makita",
+    "category": "routers",
+    "model": "RT0701C",
+    "asin": "B00E7D3V4S"
+  },
+  {
+    "slug": "makita-xbu02z",
+    "kind": "review",
+    "href": "/reviews/makita-xbu02z",
+    "label": "Makita XBU02Z Review: Balanced LXT 36V Clearing Power",
+    "brand": "makita",
+    "category": "leaf-blowers",
+    "model": "XBU02Z",
+    "asin": "B00YCKAWAM"
+  },
+  {
+    "slug": "makita-xdt16z",
+    "kind": "review",
+    "href": "/reviews/makita-xdt16z",
+    "label": "Makita XDT16Z 18V LXT Impact Driver Review: 4-Speed Precision",
+    "brand": "makita",
+    "category": "impact-drivers",
+    "model": "XDT16Z",
+    "asin": "B07N9JBDK5"
+  },
+  {
+    "slug": "makita-xfd131",
+    "kind": "review",
+    "href": "/reviews/makita-xfd131",
+    "label": "Makita XFD131 18V Cordless Drill Review (2026)",
+    "brand": "makita",
+    "category": "cordless-drills",
+    "model": "XFD131",
+    "asin": "B07GZFN7LT"
+  },
+  {
+    "slug": "makita-xmt03z",
+    "kind": "review",
+    "href": "/reviews/makita-xmt03z",
+    "label": "Makita XMT03Z 18V LXT Oscillating Multi-Tool Review",
+    "brand": "makita",
+    "category": "oscillating-multi-tools",
+    "model": "XMT03Z",
+    "asin": "B00LIV11RG"
+  },
+  {
+    "slug": "metabo-hpt-c10fcgs",
+    "kind": "review",
+    "href": "/reviews/metabo-hpt-c10fcgs",
+    "label": "Metabo HPT C10FCGS Review: 10\" Budget Miter Saw Worth It?",
+    "brand": "metabo-hpt",
+    "category": "miter-saws",
+    "model": "C10FCGS",
+    "asin": "B07PX44JQM"
+  },
+  {
+    "slug": "metabo-hpt-c10rjs",
+    "kind": "review",
+    "href": "/reviews/metabo-hpt-c10rjs",
+    "label": "Metabo HPT C10RJS Review: Best-in-Class Rip Capacity Tested",
+    "brand": "metabo-hpt",
+    "category": "table-saws",
+    "model": "C10RJS",
+    "asin": "B086YHDYPW"
+  },
+  {
+    "slug": "milwaukee-2722-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2722-20",
+    "label": "Milwaukee 2722-20 M18 FUEL Super Sawzall Review: Peak Cordless Demo Power",
+    "brand": "milwaukee",
+    "category": "reciprocating-saws",
+    "model": "2722-20",
+    "asin": "B07V9XWD52"
+  },
+  {
+    "slug": "milwaukee-2724-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2724-20",
+    "label": "Milwaukee 2724-20 M18 FUEL Blower Review: Platform Loyalty Rewarded",
+    "brand": "milwaukee",
+    "category": "leaf-blowers",
+    "model": "2724-20",
+    "asin": "B079LC6RHW"
+  },
+  {
+    "slug": "milwaukee-2731-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2731-20",
+    "label": "Milwaukee 2731-20 M18 FUEL 7-1/4\" Circular Saw Review",
+    "brand": "milwaukee",
+    "category": "circular-saws",
+    "model": "2731-20",
+    "asin": "B00PGQ6D2W"
+  },
+  {
+    "slug": "milwaukee-2737-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2737-20",
+    "label": "Milwaukee 2737-20 M18 FUEL Jigsaw Review: 3,500 SPM Cordless",
+    "brand": "milwaukee",
+    "category": "jigsaws",
+    "model": "2737-20",
+    "asin": "B07H7DQ3DK"
+  },
+  {
+    "slug": "milwaukee-2836-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2836-20",
+    "label": "Milwaukee M18 FUEL 2836-20 Review: Top Cordless Multi-Tool",
+    "brand": "milwaukee",
+    "category": "oscillating-multi-tools",
+    "model": "2836-20",
+    "asin": "B09RXZXR4R"
+  },
+  {
+    "slug": "milwaukee-2880-20",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2880-20",
+    "label": "Milwaukee 2880-20 M18 FUEL Review: Cordless Pro Grinder",
+    "brand": "milwaukee",
+    "category": "angle-grinders",
+    "model": "2880-20",
+    "asin": "B09RX4R3TR"
+  },
+  {
+    "slug": "milwaukee-2904",
+    "kind": "review",
+    "href": "/reviews/milwaukee-2904",
+    "label": "Milwaukee 2904 M18 FUEL Drill Review (2026)",
+    "brand": "milwaukee",
+    "category": "cordless-drills",
+    "model": "2904-20"
+  },
+  {
+    "slug": "ridgid-hd1600",
+    "kind": "review",
+    "href": "/reviews/ridgid-hd1600",
+    "label": "RIDGID HD1600 Review: 16-Gal Detachable Blower Wet/Dry Vac",
+    "brand": "ridgid",
+    "category": "shop-vacuums",
+    "model": "HD1600",
+    "asin": "B07R271N9S"
+  },
+  {
+    "slug": "ryobi-pblcs300b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pblcs300b",
+    "label": "Ryobi PBLCS300B Review: 18V HP Brushless 7-1/4\" Saw",
+    "brand": "ryobi",
+    "category": "circular-saws",
+    "model": "PBLCS300B",
+    "asin": "B099CHFN88"
+  },
+  {
+    "slug": "ryobi-pcl235b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl235b",
+    "label": "Ryobi PCL235B 18V ONE+ Impact Driver Review: Budget Done Right",
+    "brand": "ryobi",
+    "category": "impact-drivers",
+    "model": "PCL235B"
+  },
+  {
+    "slug": "ryobi-pcl424b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl424b",
+    "label": "Ryobi PCL424B Review: Budget 18V Compact Router",
+    "brand": "ryobi",
+    "category": "routers",
+    "model": "PCL424B",
+    "asin": "B0BNFBL5PR"
+  },
+  {
+    "slug": "ryobi-pcl430b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl430b",
+    "label": "Ryobi PCL430B Review: Budget 18V Oscillating Multi-Tool",
+    "brand": "ryobi",
+    "category": "oscillating-multi-tools",
+    "model": "PCL430B",
+    "asin": "B0B11CJ52Y"
+  },
+  {
+    "slug": "ryobi-pcl445b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl445b",
+    "label": "Ryobi PCL445B Review: Budget Cordless Angle Grinder",
+    "brand": "ryobi",
+    "category": "angle-grinders",
+    "model": "PCL445B",
+    "asin": "B0DQVRYQMJ"
+  },
+  {
+    "slug": "ryobi-pcl525b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl525b",
+    "label": "Ryobi PCL525B 18V ONE+ Jigsaw Review: Best Budget Entry",
+    "brand": "ryobi",
+    "category": "jigsaws",
+    "model": "PCL525B",
+    "asin": "B0BQSFC76Q"
+  },
+  {
+    "slug": "ryobi-pcl735b",
+    "kind": "review",
+    "href": "/reviews/ryobi-pcl735b",
+    "label": "Ryobi PCL735B Review: 6-Gal 18V Cordless Wet/Dry Vac",
+    "brand": "ryobi",
+    "category": "shop-vacuums",
+    "model": "PCL735B",
+    "asin": "B0CRFC5DFM"
+  },
+  {
+    "slug": "ryobi-psbrs01b",
+    "kind": "review",
+    "href": "/reviews/ryobi-psbrs01b",
+    "label": "Ryobi PSBRS01B ONE+ HP Compact One-Hand Recip Saw Review",
+    "brand": "ryobi",
+    "category": "reciprocating-saws",
+    "model": "PSBRS01B",
+    "asin": "B09SGL1QRL"
+  },
+  {
+    "slug": "ryobi-rs290g",
+    "kind": "review",
+    "href": "/reviews/ryobi-rs290g",
+    "label": "Ryobi RS290G Review: Budget 5-In ROS That Covers the Basics",
+    "brand": "ryobi",
+    "category": "sanders",
+    "model": "RS290G",
+    "asin": "B00P8FI1XK"
+  },
+  {
+    "slug": "ryobi-ry142300",
+    "kind": "review",
+    "href": "/reviews/ryobi-ry142300",
+    "label": "Ryobi RY142300 Review: Best Mid-Range Electric Pressure Washer",
+    "brand": "ryobi",
+    "category": "pressure-washers",
+    "model": "RY142300"
+  },
+  {
+    "slug": "ryobi-ry40250",
+    "kind": "review",
+    "href": "/reviews/ryobi-ry40250",
+    "label": "Ryobi RY40250 40V String Trimmer Review: Expand-It Value Pick",
+    "brand": "ryobi",
+    "category": "string-trimmers",
+    "model": "RY40250",
+    "asin": "B00K34DZAA"
+  },
+  {
+    "slug": "ryobi-ry404014btl",
+    "kind": "review",
+    "href": "/reviews/ryobi-ry404014btl",
+    "label": "Ryobi RY404014BTL Review: Whisper-Quiet 650 CFM on 40V",
+    "brand": "ryobi",
+    "category": "leaf-blowers",
+    "model": "RY404014BTL",
+    "asin": "B0BKYDPGQ7"
+  },
+  {
+    "slug": "ryobi-tss103",
+    "kind": "review",
+    "href": "/reviews/ryobi-tss103",
+    "label": "Ryobi TSS103 Review: $269 Sliding Miter Saw for Homeowners",
+    "brand": "ryobi",
+    "category": "miter-saws",
+    "model": "TSS103",
+    "asin": "B0DN6WYYQ6"
+  },
+  {
+    "slug": "skil-5280-01",
+    "kind": "review",
+    "href": "/reviews/skil-5280-01",
+    "label": "Skil 5280-01 Circular Saw Review: Best $70 Corded Saw",
+    "brand": "skil",
+    "category": "circular-saws",
+    "model": "5280-01",
+    "asin": "B01BD81BLO"
+  },
+  {
+    "slug": "skil-ts6307-00",
+    "kind": "review",
+    "href": "/reviews/skil-ts6307-00",
+    "label": "Skil TS6307-00 Review: Budget Table Saw That Earns Its Keep",
+    "brand": "skil",
+    "category": "table-saws",
+    "model": "TS6307-00",
+    "asin": "B08F9RFJ2K"
+  },
+  {
+    "slug": "angle-grinders",
+    "kind": "category",
+    "href": "/categories/angle-grinders",
+    "label": "Angle Grinders",
+    "category": "angle-grinders"
+  },
+  {
+    "slug": "circular-saws",
+    "kind": "category",
+    "href": "/categories/circular-saws",
+    "label": "Circular Saws",
+    "category": "circular-saws"
+  },
+  {
+    "slug": "cordless-drills",
+    "kind": "category",
+    "href": "/categories/cordless-drills",
+    "label": "Cordless Drills",
+    "category": "cordless-drills"
+  },
+  {
+    "slug": "impact-drivers",
+    "kind": "category",
+    "href": "/categories/impact-drivers",
+    "label": "Impact Drivers",
+    "category": "impact-drivers"
+  },
+  {
+    "slug": "jigsaws",
+    "kind": "category",
+    "href": "/categories/jigsaws",
+    "label": "Jigsaws",
+    "category": "jigsaws"
+  },
+  {
+    "slug": "leaf-blowers",
+    "kind": "category",
+    "href": "/categories/leaf-blowers",
+    "label": "Leaf Blowers",
+    "category": "leaf-blowers"
+  },
+  {
+    "slug": "miter-saws",
+    "kind": "category",
+    "href": "/categories/miter-saws",
+    "label": "Miter Saws",
+    "category": "miter-saws"
+  },
+  {
+    "slug": "oscillating-multi-tools",
+    "kind": "category",
+    "href": "/categories/oscillating-multi-tools",
+    "label": "Oscillating Multi-Tools",
+    "category": "oscillating-multi-tools"
+  },
+  {
+    "slug": "pressure-washers",
+    "kind": "category",
+    "href": "/categories/pressure-washers",
+    "label": "Pressure Washers",
+    "category": "pressure-washers"
+  },
+  {
+    "slug": "reciprocating-saws",
+    "kind": "category",
+    "href": "/categories/reciprocating-saws",
+    "label": "Reciprocating Saws",
+    "category": "reciprocating-saws"
+  },
+  {
+    "slug": "routers",
+    "kind": "category",
+    "href": "/categories/routers",
+    "label": "Routers",
+    "category": "routers"
+  },
+  {
+    "slug": "sanders",
+    "kind": "category",
+    "href": "/categories/sanders",
+    "label": "Sanders",
+    "category": "sanders"
+  },
+  {
+    "slug": "shop-vacuums",
+    "kind": "category",
+    "href": "/categories/shop-vacuums",
+    "label": "Shop Vacuums",
+    "category": "shop-vacuums"
+  },
+  {
+    "slug": "string-trimmers",
+    "kind": "category",
+    "href": "/categories/string-trimmers",
+    "label": "String Trimmers",
+    "category": "string-trimmers"
+  },
+  {
+    "slug": "table-saws",
+    "kind": "category",
+    "href": "/categories/table-saws",
+    "label": "Table Saws",
+    "category": "table-saws"
+  }
+]

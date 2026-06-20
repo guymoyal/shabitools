@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/generateGoRedirects.js && next build && node scripts/checkBuild.js",
+    "build": "node scripts/generateAdvisorIndex.js && node scripts/generateGoRedirects.js && next build && node scripts/checkBuild.js",
     "start": "next start",
     "lint": "next lint",
     "test:unit": "vitest run",
