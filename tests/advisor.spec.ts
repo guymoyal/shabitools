@@ -4,6 +4,7 @@ import { test, expect } from '@playwright/test';
 const fakeAnswer = {
   question: 'a good cordless drill around $150',
   answerHash: 'abc12345',
+  intent: 'find a cordless drill under $150',
   intro: 'Here are three solid picks under $150.',
   groups: [{ label: 'Cordless drill', totalEstimate: null, cards: [{
     groupLabel: 'Cordless drill', asin: 'B0TEST1234', title: 'Test Drill 20V',

@@ -52,6 +52,7 @@ export interface CardGroup {
 export interface Answer {
   question: string;
   answerHash: string;
+  intent: string; // the planner's parsed intent summary (for demand analytics)
   intro: string;
   groups: CardGroup[];
 }

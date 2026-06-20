@@ -34,13 +34,15 @@ export const onRequestPost: any = async (ctx: any) => {
   const ipHash = hashString(ip);
   const country = request.headers.get('cf-ipcountry') ?? '';
 
-  if (!(await checkRateLimit(env.DB, ipHash, now, RATE_WINDOW, RATE_CAP)))
-    return json({ error: 'rate_limited' }, 429);
-
-  // Answer cache (serves repeat/viral questions for free).
+  // Answer cache first — serve repeat/viral questions for free, and WITHOUT
+  // spending the caller's rate budget (a cache hit costs no DeepSeek/PA-API calls).
   const hash = answerHashFor(question);
   const cached = await getCachedAnswer(env.DB, hash);
   if (cached) return json(cached);
+
+  // Only the expensive path (cache miss) counts against the per-IP limit.
+  if (!(await checkRateLimit(env.DB, ipHash, now, RATE_WINDOW, RATE_CAP)))
+    return json({ error: 'rate_limited' }, 429);
 
   const tag = env.AMAZON_ASSOCIATES_TAG;
   try {
@@ -64,7 +66,7 @@ export const onRequestPost: any = async (ctx: any) => {
     await putCachedAnswer(env.DB, answer, now);
     // Fire-and-forget logging (don't block the response).
     ctx.waitUntil(logQuestionAndCards(env.DB, {
-      rawQuestion: question, normalized: normalizeQuestion(question), intent: answer.intro,
+      rawQuestion: question, normalized: normalizeQuestion(question), intent: answer.intent,
       ipHash, country, answer,
     }));
     return json(answer);

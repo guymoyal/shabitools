@@ -20,6 +20,7 @@ it('assembles an answer from plan -> search -> write -> enrich', async () => {
   };
   const answer = await buildAnswer('good drill', deps as any);
   expect(answer.intro).toBe('Top picks');
+  expect(answer.intent).toBe('drill'); // planner intent is surfaced for analytics
   expect(answer.groups[0].cards[0].asin).toBe('A1');
   expect(answer.groups[0].cards[0].why).toBe('Best value');
   expect(answer.groups[0].cards[0].affiliateUrl).toContain('tag=shabitools-20');

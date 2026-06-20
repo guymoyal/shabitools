@@ -56,5 +56,5 @@ export async function buildAnswer(question: string, deps: OrchestrateDeps): Prom
     return { label: group.label, totalEstimate: null, cards };
   }).filter((g) => g.cards.length > 0);
 
-  return { question, answerHash: answerHashFor(question), intro: written.intro, groups };
+  return { question, answerHash: answerHashFor(question), intent: plan.intent, intro: written.intro, groups };
 }
