@@ -7,7 +7,7 @@ import { pageMetadata } from '@/lib/seo';
 export const metadata: Metadata = pageMetadata({
   title: 'Tool Advisor — Ask Anything | shabitools',
   description:
-    'Ask anything — &quot;a good cordless drill around $300&quot; or &quot;what tools do I need to build a wood balcony&quot; — and get matched to real products with honest picks.',
+    'Ask anything — "a good cordless drill around $300" or "what tools do I need to build a wood balcony" — and get matched to real products with honest picks.',
   path: '/advisor',
   ogType: 'website',
 });
