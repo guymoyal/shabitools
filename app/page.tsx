@@ -5,6 +5,7 @@ import TrustStrip from '@/components/layout/TrustStrip';
 import ProjectCard from '@/components/projects/ProjectCard';
 import ReviewCard from '@/components/reviews/ReviewCard';
 import SiteImage from '@/components/ui/SiteImage';
+import HeroAdvisorSearch from '@/components/advisor/HeroAdvisorSearch';
 import { getCategories, getGuides, getProjects, getReviews } from '@/lib/content';
 import { getImage } from '@/lib/images';
 import { pageMetadata, ogImage } from '@/lib/seo';
@@ -41,6 +42,7 @@ export default function HomePage() {
             />
           </div>
         )}
+        <HeroAdvisorSearch />
         <div className="mt-6 flex flex-wrap gap-3">
           <Link
             href="/guides/best-cordless-drill-2026"
