@@ -28,7 +28,9 @@
     "partners:copy": "node scripts/generateLandingCopy.js",
     "partners:sync": "pnpm partners:manual && pnpm partners:copy",
     "admitad:sync": "node scripts/admitadSync.js",
-    "images:fetch": "node scripts/fetchImages.js"
+    "images:fetch": "node scripts/fetchImages.js",
+    "advisor:demand": "node scripts/exportDemand.js",
+    "advisor:index": "node scripts/generateAdvisorIndex.js"
   },
   "packageManager": "pnpm@8.15.0",
   "dependencies": {
