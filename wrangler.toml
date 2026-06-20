@@ -14,3 +14,8 @@ name = "shabitools-preview"
 # Environment variables (set via Cloudflare dashboard or CLI)
 # [vars]
 # NODE_ENV = "production"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "shabitools-advisor"
+database_id = "2378b4d2-51c5-4289-be79-6d6780b0f1e5"
