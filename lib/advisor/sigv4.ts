@@ -36,15 +36,18 @@ export interface SignInput {
   dateStamp: string; // YYYYMMDD
 }
 
-/** Build a fully-signed POST request (SigV4, headers: host;x-amz-date;x-amz-target;content-encoding). */
+/** Build a fully-signed POST request (SigV4). Every header we SEND is also SIGNED —
+ *  PA-API rejects a request whose `content-type` is sent but absent from the signature. */
 export async function signRequest(i: SignInput): Promise<SignedRequest> {
   const contentEncoding = 'amz-1.0';
+  const contentType = 'application/json; charset=utf-8';
   const canonicalHeaders =
     `content-encoding:${contentEncoding}\n` +
+    `content-type:${contentType}\n` +
     `host:${i.host}\n` +
     `x-amz-date:${i.amzDate}\n` +
     `x-amz-target:${i.target}\n`;
-  const signedHeaders = 'content-encoding;host;x-amz-date;x-amz-target';
+  const signedHeaders = 'content-encoding;content-type;host;x-amz-date;x-amz-target';
   const payloadHash = await sha256Hex(i.body);
   const canonicalRequest =
     `POST\n${i.path}\n\n${canonicalHeaders}\n${signedHeaders}\n${payloadHash}`;
@@ -60,7 +63,7 @@ export async function signRequest(i: SignInput): Promise<SignedRequest> {
     url: `https://${i.host}${i.path}`,
     headers: {
       'content-encoding': contentEncoding,
-      'content-type': 'application/json; charset=utf-8',
+      'content-type': contentType,
       host: i.host,
       'x-amz-date': i.amzDate,
       'x-amz-target': i.target,

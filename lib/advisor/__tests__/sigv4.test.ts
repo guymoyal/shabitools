@@ -1,6 +1,6 @@
 // lib/advisor/__tests__/sigv4.test.ts
 import { describe, it, expect } from 'vitest';
-import { hmacSha256Hex, sha256Hex, signingKey } from '@/lib/advisor/sigv4';
+import { hmacSha256Hex, sha256Hex, signingKey, signRequest } from '@/lib/advisor/sigv4';
 
 // Reference values from AWS Signature V4 documentation examples.
 const SECRET = 'wJalrXUtnFEMI/K7MDENG+bPxRfiCYEXAMPLEKEY';
@@ -24,5 +24,33 @@ describe('signingKey', () => {
 describe('hmacSha256Hex', () => {
   it('is deterministic', async () => {
     expect(await hmacSha256Hex('key', 'msg')).toBe(await hmacSha256Hex('key', 'msg'));
+  });
+});
+
+describe('signRequest', () => {
+  const input = {
+    accessKey: 'AKID', secretKey: SECRET, region: 'us-east-1', service: 'ProductAdvertisingAPI',
+    host: 'webservices.amazon.com', path: '/paapi5/searchitems',
+    target: 'com.amazon.paapi5.v1.ProductAdvertisingAPIv1.SearchItems',
+    body: '{"Keywords":"drill"}', amzDate: '20240101T000000Z', dateStamp: '20240101',
+  };
+
+  it('signs every header it sends (content-type must not be unsigned)', async () => {
+    const signed = await signRequest(input);
+    const signedHeaders = signed.headers.authorization.match(/SignedHeaders=([^,]+)/)?.[1] ?? '';
+    const signedSet = new Set(signedHeaders.split(';'));
+    // Every header sent (except the authorization header itself) must be in SignedHeaders.
+    for (const name of Object.keys(signed.headers)) {
+      if (name === 'authorization') continue;
+      expect(signedSet.has(name.toLowerCase())).toBe(true);
+    }
+    expect(signedSet.has('content-type')).toBe(true);
+  });
+
+  it('lists signed headers in alphabetical order', async () => {
+    const signed = await signRequest(input);
+    const signedHeaders = signed.headers.authorization.match(/SignedHeaders=([^,]+)/)?.[1] ?? '';
+    const parts = signedHeaders.split(';');
+    expect(parts).toEqual([...parts].sort());
   });
 });
