@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import PageHero from '@/components/layout/PageHero';
-import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
+import TrustStrip from '@/components/layout/TrustStrip';
 import ProjectCard from '@/components/projects/ProjectCard';
 import ReviewCard from '@/components/reviews/ReviewCard';
 import SiteImage from '@/components/ui/SiteImage';
@@ -56,6 +56,7 @@ export default function HomePage() {
           </Link>
         </div>
       </PageHero>
+      <TrustStrip />
       <div className="mx-auto max-w-6xl px-4 py-12">
         <h2 className="text-2xl font-bold text-stone-900">Latest reviews</h2>
         <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -103,7 +104,23 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
-        <WhereToBuyStrip max={8} />
+        <section className="mt-14 rounded-2xl border border-stone-200 bg-stone-50 p-8">
+          <h2 className="text-xl font-bold text-stone-900">What you&apos;ll find here</h2>
+          <p className="mt-3 max-w-3xl text-stone-700 leading-relaxed">
+            Every review ends with a clear buy-or-skip verdict. Comparisons pick a winner on stated
+            criteria. Buying guides rank tools by use case — beginner, pro, budget, and best overall.
+            DIY projects walk through builds and repairs with tool lists, materials, and realistic
+            time estimates. We publish for readers, not algorithms — but we structure content so you
+            can scan specs, FAQs, and recommendations quickly.
+          </p>
+          <p className="mt-3 text-sm text-stone-600">
+            Read our{' '}
+            <Link href="/editorial-policy" className="font-medium text-amber-700 hover:text-amber-800">
+              editorial policy
+            </Link>{' '}
+            to see exactly how we research and rate tools.
+          </p>
+        </section>
       </div>
     </>
   );

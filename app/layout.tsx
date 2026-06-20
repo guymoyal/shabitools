@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: '%s | shabitools',
   },
   description:
-    'Honest reviews and buying guides for home and power tools — Bosch, Makita, DeWalt, and more. New site launching soon.',
+    'Independent reviews, comparisons, buying guides, and DIY projects for home and power tools — Bosch, Makita, DeWalt, Milwaukee, and more.',
   authors: [{ name: 'shabitools' }],
   robots: { index: true, follow: true },
   icons: {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'shabitools — Home Tools Reviews',
     description:
-      'Honest reviews and buying guides for home and power tools. New site launching soon.',
+      'Independent power tool reviews, head-to-head comparisons, ranked buying guides, and step-by-step DIY projects.',
     type: 'website',
     url: 'https://shabitools.com',
     images: [{ url: '/images/logo.png', width: 200, height: 200, alt: 'shabitools Logo' }],

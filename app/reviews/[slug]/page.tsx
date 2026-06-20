@@ -4,7 +4,6 @@ import Breadcrumbs from '@/components/layout/Breadcrumbs';
 import Prose from '@/components/layout/Prose';
 import AdSlot from '@/components/monetization/AdSlot';
 import AffiliateCTA from '@/components/monetization/AffiliateCTA';
-import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import ProsCons from '@/components/reviews/ProsCons';
 import RatingStars from '@/components/reviews/RatingStars';
 import SpecTable from '@/components/reviews/SpecTable';
@@ -79,7 +78,6 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
           </div>
         )}
       </div>
-      <AffiliateCTA links={review.affiliate} productName={review.model} />
       <SpecTable specs={review.specs} />
       <ProsCons pros={review.pros} cons={review.cons} />
       <Prose markdown={review.body} />
@@ -90,7 +88,6 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
         productName={review.model}
         title={`Ready to buy the ${review.model}?`}
       />
-      <WhereToBuyStrip />
     </article>
   );
 }

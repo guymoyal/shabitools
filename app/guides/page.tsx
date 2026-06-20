@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import PageHero from '@/components/layout/PageHero';
+import IndexEditorial from '@/components/layout/IndexEditorial';
 import JsonLd from '@/components/seo/JsonLd';
 import { getGuides } from '@/lib/content';
 import { itemListJsonLd } from '@/lib/schema';
@@ -27,6 +28,18 @@ export default function GuidesPage() {
         title="Tool buying guides"
         subtitle="Ranked picks with clear winners — and the reasoning behind every rank."
       />
+      <IndexEditorial title="Ranked buying guides">
+        <p>
+          Buying guides answer the question &ldquo;which tool should I get?&rdquo; for a specific
+          job or budget. Each guide ranks products in tiers — best overall, best value, best for
+          beginners — with a paragraph of reasoning per pick, not a bullet list of features copied
+          from the box.
+        </p>
+        <p>
+          Guides are updated when models change. Check the date on each article and follow through to
+          individual reviews when you want full specs and FAQs on a single model.
+        </p>
+      </IndexEditorial>
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-12 sm:grid-cols-2 lg:grid-cols-3">
         {guides.map((g) => (
           <Link

@@ -1,16 +1,23 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { hasStoreLandings } from '@/lib/stores';
 
-const NAV = [
+const BASE_NAV = [
   { name: 'Reviews', href: '/reviews' },
   { name: 'Compare', href: '/compare' },
   { name: 'Guides', href: '/guides' },
   { name: 'Projects', href: '/projects' },
   { name: 'Brands', href: '/brands' },
-  { name: 'Stores', href: '/stores' },
 ];
 
+function mainNav() {
+  return hasStoreLandings()
+    ? [...BASE_NAV, { name: 'Stores', href: '/stores' }]
+    : BASE_NAV;
+}
+
 export default function Header() {
+  const NAV = mainNav();
   return (
     <header className="sticky top-0 z-40 border-b border-stone-200 bg-white/95 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4">

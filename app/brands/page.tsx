@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import PageHero from '@/components/layout/PageHero';
+import IndexEditorial from '@/components/layout/IndexEditorial';
 import JsonLd from '@/components/seo/JsonLd';
 import { getBrands } from '@/lib/content';
 import { itemListJsonLd } from '@/lib/schema';
@@ -28,6 +29,17 @@ export default function BrandsPage() {
         title="Power tool brands"
         subtitle="Battery platforms, pro versus DIY positioning, and what each major brand is known for."
       />
+      <IndexEditorial title="Brand guides">
+        <p>
+          Battery platform lock-in is one of the most expensive decisions in cordless tools. Brand
+          hubs explain each manufacturer&apos;s voltage systems, pro versus homeowner positioning,
+          warranty norms, and category strengths — so you can commit to an ecosystem with eyes open.
+        </p>
+        <p>
+          Brand pages link to every review we have published for that maker. Use them as a starting
+          point, then drill into categories or comparisons for model-level decisions.
+        </p>
+      </IndexEditorial>
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-12 sm:grid-cols-2 lg:grid-cols-3">
         {brands.map((b) => (
           <Link

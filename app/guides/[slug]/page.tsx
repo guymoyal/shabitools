@@ -4,7 +4,6 @@ import RankedPickCard from '@/components/guides/RankedPickCard';
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
 import Prose from '@/components/layout/Prose';
 import AdSlot from '@/components/monetization/AdSlot';
-import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import EditorialByline from '@/components/seo/EditorialByline';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
@@ -86,7 +85,6 @@ export default function GuidePage({ params }: { params: { slug: string } }) {
       <Prose markdown={guide.body} />
       <AdSlot />
       <FAQSection faq={guide.faq} />
-      <WhereToBuyStrip />
     </article>
   );
 }

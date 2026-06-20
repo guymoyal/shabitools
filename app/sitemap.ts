@@ -8,6 +8,7 @@ import {
   getReviews,
   getStoreLandings,
 } from '@/lib/content';
+import { hasStoreLandings } from '@/lib/stores';
 import { SITE_URL } from '@/lib/seo';
 
 export const dynamic = 'force-static';
@@ -21,8 +22,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/projects',
     '/brands',
     '/categories',
-    '/stores',
+    ...(hasStoreLandings() ? ['/stores'] : []),
     '/about',
+    '/editorial-policy',
     '/contact',
     '/privacy',
     '/terms',

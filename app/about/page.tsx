@@ -35,7 +35,11 @@ export default function AboutPage() {
           battery capacity, weight, and noise, and track street prices over time so a &ldquo;deal&rdquo;
           is judged against what the tool actually sells for. We then synthesize the consistent
           patterns that emerge from large numbers of verified owner reports — the failures, quirks,
-          and strengths that show up again and again.
+          and strengths that show up again and again. Read the full{' '}
+          <a href="/editorial-policy" className="text-amber-700 underline hover:text-amber-800">
+            editorial policy
+          </a>{' '}
+          for how we rate, rank, and update content.
         </p>
         <p className="mt-4 text-stone-700 leading-relaxed">
           What we do <strong>not</strong> do is claim hands-on testing we have not performed. We do

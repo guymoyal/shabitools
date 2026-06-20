@@ -1,36 +1,39 @@
 import Link from 'next/link';
+import { hasStoreLandings } from '@/lib/stores';
 
-const SECTIONS = [
-  {
-    title: 'Content',
-    links: [
-      { name: 'Reviews', href: '/reviews' },
-      { name: 'Comparisons', href: '/compare' },
-      { name: 'Buying guides', href: '/guides' },
-      { name: 'DIY projects', href: '/projects' },
-      { name: 'Categories', href: '/categories' },
-    ],
-  },
-  {
-    title: 'Explore',
-    links: [
-      { name: 'Brands', href: '/brands' },
-      { name: 'Stores & deals', href: '/stores' },
-      { name: 'About', href: '/about' },
-      { name: 'Contact', href: '/contact' },
-    ],
-  },
-  {
-    title: 'Legal',
-    links: [
-      { name: 'Affiliate disclosure', href: '/affiliate-disclosure' },
-      { name: 'Privacy policy', href: '/privacy' },
-      { name: 'Terms of service', href: '/terms' },
-    ],
-  },
-];
+function buildSections() {
+  const explore = [
+    { name: 'Brands', href: '/brands' },
+    ...(hasStoreLandings() ? [{ name: 'Stores & deals', href: '/stores' }] : []),
+    { name: 'About', href: '/about' },
+    { name: 'Editorial policy', href: '/editorial-policy' },
+    { name: 'Contact', href: '/contact' },
+  ];
+  return [
+    {
+      title: 'Content',
+      links: [
+        { name: 'Reviews', href: '/reviews' },
+        { name: 'Comparisons', href: '/compare' },
+        { name: 'Buying guides', href: '/guides' },
+        { name: 'DIY projects', href: '/projects' },
+        { name: 'Categories', href: '/categories' },
+      ],
+    },
+    { title: 'Explore', links: explore },
+    {
+      title: 'Legal',
+      links: [
+        { name: 'Affiliate disclosure', href: '/affiliate-disclosure' },
+        { name: 'Privacy policy', href: '/privacy' },
+        { name: 'Terms of service', href: '/terms' },
+      ],
+    },
+  ];
+}
 
 export default function Footer() {
+  const SECTIONS = buildSections();
   return (
     <footer className="border-t border-stone-200 bg-stone-900 text-stone-300">
       <div className="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:grid-cols-2 md:grid-cols-4">

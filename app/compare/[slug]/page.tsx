@@ -5,7 +5,6 @@ import Breadcrumbs from '@/components/layout/Breadcrumbs';
 import Prose from '@/components/layout/Prose';
 import AdSlot from '@/components/monetization/AdSlot';
 import AffiliateCTA from '@/components/monetization/AffiliateCTA';
-import WhereToBuyStrip from '@/components/monetization/WhereToBuyStrip';
 import FAQSection from '@/components/seo/FAQSection';
 import JsonLd from '@/components/seo/JsonLd';
 import SiteImage from '@/components/ui/SiteImage';
@@ -92,9 +91,6 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
         <p className="mt-2 leading-relaxed text-stone-700">{compare.verdict}</p>
       </aside>
       <ComparisonTable compare={compare} />
-      {winnerReview && (
-        <AffiliateCTA links={winnerReview.affiliate} productName={winnerReview.model} />
-      )}
       <Prose markdown={compare.body} />
       <AdSlot />
       <FAQSection faq={compare.faq} />
@@ -105,7 +101,6 @@ export default function ComparePage({ params }: { params: { slug: string } }) {
           title={`Ready to buy the ${winnerReview.model}?`}
         />
       )}
-      <WhereToBuyStrip />
     </article>
   );
 }

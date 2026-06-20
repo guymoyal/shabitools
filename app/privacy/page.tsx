@@ -65,9 +65,29 @@ export default function PrivacyPage() {
 
         <h2 className="text-2xl font-bold text-stone-900 mt-10">Analytics</h2>
         <p className="mt-4 text-stone-700 leading-relaxed">
-          If and when we use analytics to understand which pages are popular and how the site
-          performs, that data is aggregated and used only to improve the site. We do not attempt to
-          identify individual visitors from it.
+          We use Google Analytics (measurement ID G-6LSJNET09C) to understand aggregate traffic
+          patterns — which pages are read, how visitors move through the site, and whether the site
+          performs well on different devices. Google Analytics uses cookies and may collect
+          anonymized usage data under{' '}
+          <a
+            href="https://policies.google.com/privacy"
+            className="text-amber-700 underline hover:text-amber-800"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Google&rsquo;s privacy policy
+          </a>
+          . We use this data only to improve the site; we do not attempt to identify individual
+          visitors from it. You can opt out of Google Analytics via the{' '}
+          <a
+            href="https://tools.google.com/dlpage/gaoptout"
+            className="text-amber-700 underline hover:text-amber-800"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Google Analytics Opt-out Browser Add-on
+          </a>
+          .
         </p>
 
         <h2 className="text-2xl font-bold text-stone-900 mt-10">Your data is not sold</h2>
