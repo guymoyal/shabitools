@@ -1,0 +1,24 @@
+[
+  {
+    "asin": "EXAMPLE0001",
+    "title": "EXAMPLE — replace with a real product from SiteStripe (cordless drill)",
+    "imageUrl": null,
+    "price": "$99.00",
+    "currency": "USD",
+    "features": ["Replace this entry", "ASIN must be a real 10-char Amazon ASIN", "Placeholder rows are auto-skipped"],
+    "tags": ["drill", "cordless drill", "power drill"],
+    "category": "cordless-drills",
+    "priceValue": 99
+  },
+  {
+    "asin": "EXAMPLE0002",
+    "title": "EXAMPLE — replace with a real product from SiteStripe (circular saw)",
+    "imageUrl": null,
+    "price": "$129.00",
+    "currency": "USD",
+    "features": ["Replace this entry"],
+    "tags": ["saw", "circular saw", "cutting"],
+    "category": "circular-saws",
+    "priceValue": 129
+  }
+]
