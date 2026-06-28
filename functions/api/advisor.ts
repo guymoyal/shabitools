@@ -1,6 +1,6 @@
 // functions/api/advisor.ts
 import catalog from '../../content/_advisor-index.json';
-import seedProducts from '../../content/advisor-seed.json';
+import seedProducts from '../../content/products.json';
 import type { CatalogEntry } from '../../lib/advisor/types';
 import { planQuestion, writeAnswer } from '../../lib/advisor/deepseek';
 import { searchItems } from '../../lib/advisor/paapi';

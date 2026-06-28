@@ -5,7 +5,7 @@ in two modes; you flip between them with one environment variable.
 
 | `ADVISOR_SOURCE` | Product source | When |
 | --- | --- | --- |
-| `seed` (default) | `content/advisor-seed.json` — your hand-curated list | Now, while PA-API access is pending |
+| `seed` (default) | `content/products.json` — your hand-curated list | Now, while PA-API access is pending |
 | `live` | Amazon PA-API (live search, infinite catalog) | After you unlock PA-API |
 
 Everything else (the DeepSeek AI that plans the question + writes the answer, the database,
@@ -25,54 +25,42 @@ Until then there is no API to call. There is no workaround — it's Amazon's har
 So we ship the feature on a curated seed catalog *now*, which is also how you generate the
 sales that unlock the API.
 
-> ⚠️ **Do NOT deploy the advisor to production with the example/placeholder seed entries.**
-> Real visitors clicking fake links hurts the user experience and can jeopardize the
-> Associates approval you're trying to earn. Placeholder rows (ASIN `EXAMPLE...`) are
-> auto-skipped by the code, so a half-filled seed file degrades to an honest
-> "no good matches" message rather than broken links — but you still want real products
-> in there before promoting the page.
+> **Status: the catalog is already populated** with **224 auto-curated products across 22
+> categories** (`content/products.json`) — researched top-sellers, each ASIN spot-checked.
+> They were curated automatically, not hand-verified one by one, so before you heavily
+> promote the page, spot-check prices and a sample of links. This same file powers BOTH the
+> homepage product grid AND the AI advisor.
 
 ---
 
-## Phase 1 — Fill the seed catalog (do this first)
+## Phase 1 — Maintain the catalog (already populated)
 
-Edit **`content/advisor-seed.json`**. Replace the `EXAMPLE...` rows with real products.
-
-For each product you only need **four facts** (the affiliate URL is generated for you from
-the ASIN + your tag):
+The catalog lives at **`content/products.json`** and already has ~224 products. To add, edit,
+or remove products, edit that file. Each entry needs these fields (the affiliate URL is
+generated for you from the ASIN + your tag — you do **not** store full links):
 
 ```json
 {
   "asin": "B08XXXXXXX",          // the real 10-char Amazon ASIN (from the product URL: /dp/B08XXXXXXX)
   "title": "DEWALT 20V MAX Cordless Drill (DCD777C2)",
-  "imageUrl": "https://m.media-amazon.com/images/I/xxxx.jpg",  // optional, can be null
-  "price": "$99.00",             // what it costs today (you maintain this by hand in seed mode)
+  "imageUrl": null,              // leave null — real product images need PA-API (Phase 3)
+  "price": "$99.00",             // maintained by hand until PA-API
   "currency": "USD",
-  "features": ["Brushless motor", "2 batteries", "1.5 Ah"],   // optional, shown to the AI
-  "tags": ["drill", "cordless drill", "power drill"],          // search synonyms — helps matching
-  "category": "cordless-drills", // a slug from content/categories — enables the internal review link
+  "features": ["Brushless motor", "2 batteries", "1.5 Ah"],   // shown on the card + to the AI
+  "tags": ["drill", "cordless drill", "power drill"],          // search synonyms — helps the AI match
+  "category": "cordless-drills", // a category slug (also used to group the homepage grid)
   "priceValue": 99               // numeric price, used for "under $150" style filtering
 }
 ```
 
-**How to get the four facts** (no API needed):
-- Open the product on amazon.com.
-- **ASIN**: in the URL after `/dp/` (e.g. `/dp/B08XXXXXXX`), or in the "Product information" section.
-- **Image**: right-click the main image → copy image address (the `m.media-amazon.com/images/...` URL).
-- **Title / price**: copy from the page.
-- Build your **affiliate link** with **SiteStripe** (the toolbar Amazon shows when you're logged into Associates) — but you don't paste it here; the code builds it from the ASIN + your tag.
+Notes:
+- An invalid/non-10-char ASIN is auto-skipped, so a typo never renders a broken link.
+- Categories without a `content/categories/<slug>.json` page still show on the homepage
+  (humanized name, no banner link) — add a category page later to enable the banner + link.
+- To get an ASIN with no API: open the product on amazon.com and copy the `/dp/XXXXXXXXXX`
+  part of the URL, or use **SiteStripe** (the Associates toolbar).
 
-**Tips for good matching:**
-- Aim for **~15–30 products** across your main categories (drills, saws, sanders, etc.).
-- Put synonyms and use-cases in `tags` — that's what the matcher scores against.
-- Set `category` to a real slug under `content/categories/` so each card links to your review.
-
-To verify your edits load, run the unit suite (it won't validate *content*, but it will catch
-malformed JSON when the function imports it):
-
-```bash
-npx vitest run lib/advisor/__tests__/seedSearch.test.ts
-```
+After editing, rebuild (`pnpm build`) — malformed JSON fails the build immediately.
 
 ## Phase 2 — Ship seed mode & drive sales
 
@@ -112,7 +100,7 @@ Once you have 10 qualifying sales in the trailing 30 days:
      `curl -X POST localhost:8788/api/advisor -d '{"question":"a good cordless drill under $150"}'`.
    - If you get real cards → eligible. If you get `AssociateNotEligible` / empty → wait and retry.
 5. Only once live calls succeed, set **`ADVISOR_SOURCE=live`** in Cloudflare and redeploy.
-   The advisor now uses live Amazon search. (You can delete `content/advisor-seed.json`
+   The advisor now uses live Amazon search. (You can delete `content/products.json`
    entries or leave them — they're ignored in live mode.)
 
 > Keys existing ≠ keys working. The flag is deliberately separate from key presence so the
@@ -124,7 +112,7 @@ Once you have 10 qualifying sales in the trailing 30 days:
 
 - Product source toggle: `functions/api/advisor.ts` (`ADVISOR_SOURCE`).
 - Seed matcher: `lib/advisor/seedSearch.ts` (token-overlap scoring, price bounds, invalid-ASIN filter).
-- Seed data: `content/advisor-seed.json`.
+- Seed data: `content/products.json`.
 - Live PA-API client: `lib/advisor/paapi.ts` + `lib/advisor/sigv4.ts`.
 - Deploy basics (D1, secrets, functions): `docs/advisor-deploy.md`.
 - Demand export: `scripts/exportDemand.js` (`pnpm advisor:demand`).

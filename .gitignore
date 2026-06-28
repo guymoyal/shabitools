@@ -41,3 +41,6 @@ next-env.d.ts
 # admitad scripts
 .admitad-profile/
 .admitad-network-log.json
+
+# Local wrangler/D1 dev cache
+.wrangler/

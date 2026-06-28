@@ -3,10 +3,10 @@ import type { Metadata } from 'next';
 import PageHero from '@/components/layout/PageHero';
 import TrustStrip from '@/components/layout/TrustStrip';
 import ProjectCard from '@/components/projects/ProjectCard';
-import ReviewCard from '@/components/reviews/ReviewCard';
+import CategoryProductGrid from '@/components/home/CategoryProductGrid';
 import SiteImage from '@/components/ui/SiteImage';
 import HeroAdvisorSearch from '@/components/advisor/HeroAdvisorSearch';
-import { getCategories, getGuides, getProjects, getReviews } from '@/lib/content';
+import { getCategories, getGuides, getProjects } from '@/lib/content';
 import { getImage } from '@/lib/images';
 import { pageMetadata, ogImage } from '@/lib/seo';
 
@@ -22,7 +22,6 @@ export const metadata: Metadata = pageMetadata({
 });
 
 export default function HomePage() {
-  const reviews = getReviews().slice(0, 6);
   const guides = getGuides().slice(0, 3);
   const projects = getProjects().slice(0, 3);
   const categories = getCategories();
@@ -60,11 +59,13 @@ export default function HomePage() {
       </PageHero>
       <TrustStrip />
       <div className="mx-auto max-w-6xl px-4 py-12">
-        <h2 className="text-2xl font-bold text-stone-900">Latest reviews</h2>
-        <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {reviews.map((r) => (
-            <ReviewCard key={r.slug} review={r} />
-          ))}
+        <h2 className="text-2xl font-bold text-stone-900">Shop the best tools by category</h2>
+        <p className="mt-2 max-w-2xl text-stone-600">
+          Hand-picked top sellers in every category, each linking straight to Amazon — plus our
+          in-depth reviews and buying guides where we have them.
+        </p>
+        <div className="mt-8">
+          <CategoryProductGrid />
         </div>
         {projects.length > 0 && (
           <>
