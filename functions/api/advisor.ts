@@ -32,28 +32,34 @@ export const onRequestPost: any = async (ctx: any) => {
   const json = (data: unknown, status = 200) =>
     new Response(JSON.stringify(data), { status, headers: { 'content-type': 'application/json' } });
 
-  let body: any;
-  try { body = await request.json(); } catch { return json({ error: 'bad request' }, 400); }
-  const question = String(body?.question ?? '').trim();
-  if (question.length < 3 || question.length > 300) return json({ error: 'invalid question' }, 400);
-
-  const ip = request.headers.get('cf-connecting-ip') ?? '0';
-  const ipHash = hashString(ip);
-  const country = request.headers.get('cf-ipcountry') ?? '';
-
-  // Answer cache first — serve repeat/viral questions for free, and WITHOUT
-  // spending the caller's rate budget (a cache hit costs no DeepSeek/PA-API calls).
-  const hash = answerHashFor(question);
-  const cached = await getCachedAnswer(env.DB, hash);
-  if (cached) return json(cached);
-
-  // Only the expensive path (cache miss) counts against the per-IP limit.
-  if (!(await checkRateLimit(env.DB, ipHash, now, RATE_WINDOW, RATE_CAP)))
-    return json({ error: 'rate_limited' }, 429);
-
-  const tag = env.AMAZON_ASSOCIATES_TAG;
-  const live = env.ADVISOR_SOURCE === 'live'; // default: offline seed catalog
+  // Everything is inside try/catch so the worker NEVER throws an unhandled
+  // exception (CF error 1101); failures return a JSON error with detail instead.
   try {
+    let body: any;
+    try { body = await request.json(); } catch { return json({ error: 'bad request' }, 400); }
+    const question = String(body?.question ?? '').trim();
+    if (question.length < 3 || question.length > 300) return json({ error: 'invalid question' }, 400);
+
+    const ip = request.headers.get('cf-connecting-ip') ?? '0';
+    const ipHash = hashString(ip);
+    const country = request.headers.get('cf-ipcountry') ?? '';
+    // D1 is OPTIONAL: caching, rate-limiting and demand logging are skipped if the
+    // binding is absent, so the AI still answers even without the database attached.
+    const db = env.DB;
+
+    if (db) {
+      // Answer cache first — serve repeat/viral questions for free, WITHOUT
+      // spending the caller's rate budget (a cache hit costs no DeepSeek calls).
+      const hash = answerHashFor(question);
+      const cached = await getCachedAnswer(db, hash);
+      if (cached) return json(cached);
+      // Only the expensive path (cache miss) counts against the per-IP limit.
+      if (!(await checkRateLimit(db, ipHash, now, RATE_WINDOW, RATE_CAP)))
+        return json({ error: 'rate_limited' }, 429);
+    }
+
+    const tag = env.AMAZON_ASSOCIATES_TAG;
+    const live = env.ADVISOR_SOURCE === 'live'; // default: offline seed catalog
     const answer = await buildAnswer(question, {
       catalog: catalog as CatalogEntry[],
       tag,
@@ -63,22 +69,26 @@ export const onRequestPost: any = async (ctx: any) => {
         // Seed mode: match against the curated catalog (no PA-API, no cache needed).
         if (!live) return searchSeed(group, seedProducts as SeedProduct[]);
         const key = hashString(JSON.stringify({ k: group.keywords, mn: group.priceMin, mx: group.priceMax }));
-        const hit = await getCachedSearch(env.DB, key, now);
-        if (hit) return hit;
+        if (db) {
+          const hit = await getCachedSearch(db, key, now);
+          if (hit) return hit;
+        }
         const products = await searchItems(group, {
           accessKey: env.PAAPI_ACCESS_KEY, secretKey: env.PAAPI_SECRET_KEY, partnerTag: tag,
         });
-        await putCachedSearch(env.DB, key, products, now + SEARCH_TTL);
+        if (db) await putCachedSearch(db, key, products, now + SEARCH_TTL);
         return products;
       },
     });
 
-    await putCachedAnswer(env.DB, answer, now);
-    // Fire-and-forget logging (don't block the response).
-    ctx.waitUntil(logQuestionAndCards(env.DB, {
-      rawQuestion: question, normalized: normalizeQuestion(question), intent: answer.intent,
-      ipHash, country, answer,
-    }));
+    if (db) {
+      await putCachedAnswer(db, answer, now);
+      // Fire-and-forget logging (don't block the response).
+      ctx.waitUntil(logQuestionAndCards(db, {
+        rawQuestion: question, normalized: normalizeQuestion(question), intent: answer.intent,
+        ipHash, country, answer,
+      }));
+    }
     return json(answer);
   } catch (e: any) {
     return json({ error: 'advisor_failed', detail: String(e?.message ?? e) }, 500);

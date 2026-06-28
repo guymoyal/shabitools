@@ -5,15 +5,11 @@ compatibility_date = "2024-01-01"
 # For Next.js SSG with output: 'export', the build output is in 'out' directory
 pages_build_output_dir = "out"
 
-[env.production]
-name = "shabitools-production"
-
-[env.preview]
-name = "shabitools-preview"
-
-# Environment variables (set via Cloudflare dashboard or CLI)
-# [vars]
-# NODE_ENV = "production"
+# NOTE: the Pages project's PRODUCTION branch is "master" (not "main").
+# Deploy production with: wrangler pages deploy out --branch master
+# Secrets (production env, set via `wrangler pages secret put ... --project-name shabitools`):
+#   DEEPSEEK_API_KEY, AMAZON_ASSOCIATES_TAG, ADVISOR_SOURCE
+# (No [env.production]/[env.preview] sections — they don't inherit the d1 binding below.)
 
 [[d1_databases]]
 binding = "DB"
